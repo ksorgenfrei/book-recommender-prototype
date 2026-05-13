@@ -65,7 +65,8 @@ function App() {
 
   return (
     <main>
-      <h1>Book Recommendation Prototype</h1>
+      <h1>User-Controlled Cohort-Based Book Recommendation Prototype</h1>
+      <p>Interactive prototype for exploring cohort-based book recommendations</p>
 
       <h2>Recommendation Query</h2>
       <div>

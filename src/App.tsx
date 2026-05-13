@@ -4,6 +4,7 @@ import { readerProfiles } from "./data/readerProfiles";
 import { ratings } from "./data/ratings";
 import { genres } from "./data/genres";
 import type { Genre } from "./types/types";
+import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
 
 function App() {
 
@@ -11,45 +12,14 @@ function App() {
   const [targetGenre, setTargetGenre] = useState<Genre>("Romance");
   const [cohortGenre, setCohortGenre] = useState<Genre>("Fantasy");
 
-  // filter reader profiles to keep only the ones whose dominant genre matches the selected cohort genre
-  const matchingReaders = readerProfiles.filter(
-    (reader) => reader.dominantGenre === cohortGenre
-  );
-
-  // find matching readers and extract their IDs for later matching against ratings
-  const matchingReaderIds = matchingReaders.map((reader) => reader.id);
-
-  // filter ratings to keep only the ones from the selected cohort
-  const matchingRatings = ratings.filter((rating) =>
-    matchingReaderIds.includes(rating.readerId)
-  );
-
   // Recommendation list
-  const recommendations = books
-    .filter((book) => book.genres.includes(targetGenre))            // only keep books belonging to selected target genre
-    .map((book) => {                                                // for each book, calculate recommendation statistics
-      const relevantRatings = matchingRatings.filter((rating) =>    // find all ratings for current book from selected matching cohort
-        rating.bookId === book.id
-      );
-
-      const ratingCount = relevantRatings.length;                   // count number of matching ratings for the current book
-
-
-      // calculate avg rating. 1. .reduce() to add up all rating values, 2. divide by ratingCount to get mean avg, if no ratings use 0
-      const averageRating =
-        ratingCount > 0
-          ? relevantRatings.reduce((sum, rating) => sum + rating.rating, 0) / ratingCount
-        : 0;
-
-      // return a new object with all original book properties + rating statistics
-      return {
-        ...book, // spread operator takes all properties from existing object and copies them into a new object
-        ratingCount,
-        averageRating,
-      };
-    })
-    .filter((book) => book.ratingCount > 0)               // remove books without ratings from selected cohort
-    .sort((a, b) => b.averageRating - a.averageRating);   // highest-rated book appears first in the list
+  const recommendations = getRecommendations({
+    books,
+    readerProfiles,
+    ratings,
+    targetGenre,
+    cohortGenre,
+  });
   
   // Helper function: given bookId, find matching book title
   const getBookTitle = (bookId: number) => {
@@ -108,10 +78,10 @@ function App() {
       
       <ul>
         {/* Render rec results after filtering and ranking */}
-        {recommendations.map((book) => (
-          <li key={book.id}>
-            <strong>{book.title}</strong> by {book.author} - Average rating:{" "}
-            {book.averageRating.toFixed(2)}  ({book.ratingCount} ratings)
+        {recommendations.map((recommendation) => (
+          <li key={recommendation.book.id}>
+            <strong>{recommendation.book.title}</strong> by {recommendation.book.author} - Average rating:{" "}
+            {recommendation.averageRating.toFixed(2)}  ({recommendation.ratingCount} ratings)
           </li>
         ))}
       </ul>

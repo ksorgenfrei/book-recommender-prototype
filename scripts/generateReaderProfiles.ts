@@ -1,0 +1,106 @@
+import { genres } from "../src/data/genres";
+import type { Genre, ReaderProfile } from "../src/types/types";
+import { defaultExperienceThresholds } from "../src/data/experienceThresholds";
+import type { ExperienceThresholds } from "../src/types/types";
+
+// num of readers to generate for first test (small for easy inspection)
+const READER_COUNT = 30;
+
+// fixed seed to make generated data reproducible
+const SEED = 12345;
+
+// seeded random number generator for easy debugging and reproducibility
+function createSeededRandom(seed: number) {
+    let currentSeed = seed;
+
+    // these constants stay fixed so that the same seed produces the same sequence
+    const multiplier = 9301;
+    const increment = 49297;
+    const modulus = 233280;
+    return function random() {
+        currentSeed = (currentSeed * multiplier + increment) % modulus;
+
+        // convert result into a decimal number between 0 and 1
+        return currentSeed / modulus;
+    };
+}
+
+// all helper functions use this instead of Math.random()
+const random = createSeededRandom(SEED);
+
+// helper function: get a random item from an array
+// <T> makes this function generic, so it works with arrays containing different types of values
+function getRandomItem<T>(items: readonly T[]): T {
+    if (items.length === 0) {
+        throw new Error("Empty array. Cannot pick a random item.");
+    }
+
+    const randomIndex = Math.floor(random() * items.length);
+    const selectedItem = items[randomIndex];
+
+    if (selectedItem === undefined) {
+        throw new Error("Random item selection failed.");
+    }
+    return selectedItem;
+}
+
+// helper function: generate a random whole number between min and max (both inclusive)
+function getRandomInteger(min: number, max: number): number {
+    return min + Math.floor(random() * (max - min + 1));
+}
+
+// generate a simulated booksReadCount using default exp threshold settings
+// the experience label is calculated later by the app, so if the exp thresholds are
+// changed later, the same reader may be classified differently
+function generateBooksReadCount(thresholds: ExperienceThresholds): number {
+    const chance = random();
+
+    const beginnerMin = 0;
+    const beginnerMax = thresholds.intermediateMinBooksRead - 1;
+
+    const intermediateMin = thresholds.intermediateMinBooksRead;
+    const intermediateMax = thresholds.experiencedMinBooksRead - 1;
+
+    const experiencedMin = thresholds.experiencedMinBooksRead;
+    const experiencedMax = thresholds.experiencedMinBooksRead + 499; // using a fixed upper limited for data generation to keep data controlled
+
+    // ~30% start in default beginner range
+    if (chance < 0.3) {
+        return getRandomInteger(beginnerMin, beginnerMax);
+    }
+
+    if (chance < 0.75) { // if reader was not placed in first 30%, values below 0.75 become Intermediate
+        return getRandomInteger(intermediateMin, intermediateMax);
+    }
+
+    return getRandomInteger(experiencedMin, experiencedMax);
+}
+
+// generate one simulated reader profile
+// later the ratings generator should use dominantGenre to reflect realistic user rating behavior
+function generateReaderProfile(id: number): ReaderProfile {
+    const dominantGenre = getRandomItem<Genre>(genres);
+
+    return {
+        id,
+        displayName: `${dominantGenre} Reader ${String(id).padStart(3, "0")}`, // readable reader name with id at least 3 chars long
+        dominantGenre,
+        booksReadCount: generateBooksReadCount(defaultExperienceThresholds),
+    };
+}
+
+// generate a list of reader profiles
+function generateReaderProfiles(count: number): ReaderProfile[] {
+    const generatedReaders: ReaderProfile[] = []; // create empty array to store generated profiles
+
+    for (let index = 0; index < count; index++) { // repeat until req num of readers reached
+        const reader = generateReaderProfile(index + 1);
+        generatedReaders.push(reader); // add the generated reader to the array
+    }
+
+    return generatedReaders;
+}
+
+const generatedReaders = generateReaderProfiles(READER_COUNT);
+
+console.table(generatedReaders);

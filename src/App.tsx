@@ -3,14 +3,19 @@ import { books } from "./data/books";
 import { readerProfiles } from "./data/readerProfiles";
 import { ratings } from "./data/ratings";
 import { genres } from "./data/genres";
-import type { Genre } from "./types/types";
+import { defaultExperienceThresholds } from "./data/experienceThresholds";
+
+import type { ExperienceFilter, Genre } from "./types/types";
+
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
+import { getExperienceLevel } from "./utils/getExperienceLevel";
 
 function App() {
 
   // useState stores the selected filter values
   const [targetGenre, setTargetGenre] = useState<Genre>("Romance");
   const [cohortGenre, setCohortGenre] = useState<Genre>("Fantasy");
+  const [experienceFilter, setExperienceFilter] = useState<ExperienceFilter>("Any");
 
   // Recommendation list
   const recommendations = getRecommendations({
@@ -19,6 +24,8 @@ function App() {
     ratings,
     targetGenre,
     cohortGenre,
+    experienceFilter,
+    experienceThresholds: defaultExperienceThresholds,
   });
   
   // Helper function: given bookId, find matching book title
@@ -32,6 +39,11 @@ function App() {
     const reader = readerProfiles.find((r) => r.id === readerId);
     return reader ? reader.displayName : "Unknown reader";
   };
+
+  const selectedCohortDescription =
+    experienceFilter === "Any"
+      ? `${cohortGenre} readers of any experience level`
+      : `${experienceFilter.toLowerCase()} ${cohortGenre} readers`;
 
   return (
     <main>
@@ -68,10 +80,32 @@ function App() {
             ))}
           </select>
         </label>
+        
+        <label style={{ marginLeft: "1rem" }}>
+            Reader experience:{" "}
+            <select
+              value={experienceFilter}
+              onChange={(event) =>
+                setExperienceFilter(event.target.value as ExperienceFilter)
+              }
+            >
+              <option value="Any">Any experience</option>
+              <option value="Beginner">
+                Beginner (0-{defaultExperienceThresholds.intermediateMinBooksRead - 1} books)
+              </option>
+              <option value="Intermediate">
+                Intermediate ({defaultExperienceThresholds.intermediateMinBooksRead}-{defaultExperienceThresholds.experiencedMinBooksRead -1} books)
+              </option>
+              <option value="Experienced">
+                Experienced ({defaultExperienceThresholds.experiencedMinBooksRead}+ books)
+              </option>
+            </select>
+        </label>
+
       </div>
 
       <p>
-        Current query: Show <strong>{targetGenre}</strong> books rated by readers who usually read <strong>{cohortGenre}</strong>.
+        Current query: Show <strong>{targetGenre}</strong> books rated by {" "} <strong>{selectedCohortDescription}</strong>.
       </p>
 
       <h2>Recommendations</h2>
@@ -102,7 +136,14 @@ function App() {
       <ul>
         {readerProfiles.map((reader) => (
           <li key={reader.id}>
-            <strong>{reader.displayName}</strong> usually reads <em>{reader.dominantGenre}</em>
+            <strong>{reader.displayName}</strong> usually reads {" "}
+            <em>{reader.dominantGenre}</em> - {reader.booksReadCount} books read - {" "}
+            <strong>
+              {getExperienceLevel(
+                reader.booksReadCount,
+                defaultExperienceThresholds
+              )}
+            </strong>
           </li>
         ))}
       </ul>

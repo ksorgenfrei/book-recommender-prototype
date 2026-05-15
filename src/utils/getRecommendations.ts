@@ -3,11 +3,15 @@
 // imports used by TypeScript for checking the structure of the data
 import type {
     Book,
+    ExperienceFilter,
+    ExperienceThresholds,
     Genre,
     Rating,
     ReaderProfile,
     Recommendation,
 } from "../types/types";
+
+import { getExperienceLevel } from "./getExperienceLevel";
 
 // type to define the shope of the object that must be passed to getRecommendations().
 // instead of passing five separate arguments like books, readerProfiles etc.,
@@ -27,6 +31,12 @@ type GetRecommendationsParams = {
 
     // cohort genre (controls which simulated readers are used to calculate recs)
     cohortGenre: Genre;
+
+    // the selected reader experience filter
+    experienceFilter: ExperienceFilter;
+
+    // current experience threshold settings
+    experienceThresholds: ExperienceThresholds;
 };
 
 // calculate the ranked recommendation list
@@ -39,22 +49,36 @@ export function getRecommendations({
     ratings,
     targetGenre,
     cohortGenre,
+    experienceFilter,
+    experienceThresholds,
 }: GetRecommendationsParams): Recommendation[] {
-    // 1. find readers of selected cohort (their dominant genre)
-    const matchingReaders = readerProfiles.filter(
-        (reader) => reader.dominantGenre === cohortGenre
-    );
+    const matchingReaders = readerProfiles.filter((reader) => {
+        // find readers of selected cohort (their dominant genre)
+        const matchesCohortGenre = reader.dominantGenre === cohortGenre;
 
-    // 2. extract IDs of matching readers, since ratings use readerID
+        // calculate this reader's exp lvl from booksReadCount & current threshold settings
+        const calculatedReaderExperience = getExperienceLevel(
+            reader.booksReadCount,
+            experienceThresholds
+        );
+
+        // check whether reader matches selected experience filter
+        const matchesExperienceFilter =
+            experienceFilter === "Any" || // all exp lvls allowed
+            calculatedReaderExperience === experienceFilter;
+
+        return matchesCohortGenre && matchesExperienceFilter;
+    });
+
+    // extract IDs of matching readers, since ratings use readerID
     const matchingReaderIds = matchingReaders.map((reader) => reader.id);
 
-    // 3. keep ratings by readers in selected cohort
+    // keep ratings by readers in selected cohort
     const matchingRatings = ratings.filter((rating) =>
         matchingReaderIds.includes(rating.readerId)
     );
 
-    // 4. build recs list from books array
-
+    //  build recs list from books array
     return books
         // filter books by selected target genre
         .filter((book) => book.genres.includes(targetGenre))
@@ -74,9 +98,9 @@ export function getRecommendations({
                 ratingCount > 0
                     ? relevantRatings.reduce((sum, rating) => sum + rating.rating, 0) / ratingCount
                     : 0;
-            
+
             // return a Recommendation object, the book is a nested objects (e.g. recommendation.book.title)
-            return{
+            return {
                 book,
                 ratingCount,
                 averageRating,

@@ -11,13 +11,10 @@ export type ExperienceLevel = "Beginner" | "Intermediate" | "Experienced";
 // possible values in reader experience filter
 export type ExperienceFilter = "Any" | ExperienceLevel;
 
-export type ExperienceThresholds = Record<
-    ExperienceLevel,
-    {
-    minBooksRead: number;
-    maxBooksRead?: number; // this one is optional because "Experienced" has no upper limit
-    }
->;
+export type ExperienceThresholds = {
+    intermediateMinBooksRead: number;
+    experiencedMinBooksRead: number;
+};
 
 export type Book = {
     id: number;

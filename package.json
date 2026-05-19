@@ -8,7 +8,8 @@
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "generate:readers": "tsx scripts/generateReaderProfiles.ts"
+    "generate:readers": "tsx scripts/generateReaderProfiles.ts",
+    "generate:books": "tsx scripts/generateBooks.ts"
   },
   "dependencies": {
     "react": "^19.2.4",

@@ -42,48 +42,41 @@ function convertOpenLibraryDocToBook(
     };
 }
 
-// create URL object for the Open Library Search API endpoint
-const url = new URL("https://openlibrary.org/search.json");
+// reusable asynchronous function to fetch books from a genre (async because fetching data from OL takes time)
+async function fetchBooksForGenre(genre: Genre, searchTerm: string): Promise<Book[]> { // promise: the function eventually will return an array of Book objects
+    // create URL object for the Open Library Search API endpoint
+    const url = new URL("https://openlibrary.org/search.json");
 
-// add query parameter to URL
-url.searchParams.set("subject", CURRENT_GENRE.toLowerCase());
-// add query param to limit number of results, convert number to String
-url.searchParams.set("limit", String(BOOKS_TO_FETCH));
-// limit output to relevant fields
-url.searchParams.set(
-    "fields",
-    "key, title, author_name, first_publish_year, cover_i"
-)
+    // add query parameter to URL
+    url.searchParams.set("subject", searchTerm); // use OL search term instead of hardcoding a genre -> reusable
+    // add query param to limit number of results, convert number to String
+    url.searchParams.set("limit", String(BOOKS_TO_FETCH));
+    // limit output to relevant fields
+    url.searchParams.set(
+        "fields",
+        "key, title, author_name, first_publish_year, cover_i"
+    )
 
-//contact the API and fetch a response, await until the response comes back before continuing
-const response = await fetch(url);
+    //contact the API and fetch a response, await until the response comes back before continuing
+    const response = await fetch(url);
 
-// check whether request worked
-if (!response.ok) {
-    throw new Error(`Open Library request failed: ${response.status}`);
+    // check whether request worked
+    if (!response.ok) {
+        throw new Error(`Open Library request failed for ${genre}: ${response.status}`);
+    }
+
+    // convert response body from JSON into JS object, so TypeScript can work with it
+    // treat the JSON response as an OpenLibrarySearchResponse
+    const data = (await response.json()) as OpenLibrarySearchResponse;
+    
+    return data.docs // go through each OL results array
+        .map((doc, index) => // go through each OL result
+            convertOpenLibraryDocToBook(doc, index + 1, genre) // convert raw OL result into app's Book format
+        )
+        .filter((book): book is Book => book !== null); // remove failed conversions. book is Book -> TS guard: tell TS that after filtering, the array contains only Book objects, not null
 }
 
-// convert response body from JSON into JS object, so TypeScript can work with it
-// treat the JSON response as an OpenLibrarySearchResponse
-const data = (await response.json()) as OpenLibrarySearchResponse;
-
-/* // print data as a table in the terminal
-console.table(
-    data.docs.map((book) => ({
-        key: book.key,
-        title: book.title,
-        author: book.author_name?.[0], // author_name is an array. only take first author
-        firstPublished: book.first_publish_year,
-        coverId: book.cover_i,
-    }))
-); */
-
-const generatedBooks: Book[] = data.docs // creat array to contain valid Book objects, go through each OL results array
-    .map((doc, index) => // go through each OL result
-        convertOpenLibraryDocToBook(doc, index + 1, CURRENT_GENRE) // convert raw OL result into app's Book format
-    )
-    .filter((book): book is Book => book !== null); // remove failed conversions. book is Book -> TS guard: tell TS that after filtering, the array contains only Book objects, not null
-
+const generatedBooks = await fetchBooksForGenre("Fantasy", "fantasy");
 // JSON.stringify() turns generatedBooks array into a string.
 // null = no custom filtering
 // 2 = output should use 2-space indentation

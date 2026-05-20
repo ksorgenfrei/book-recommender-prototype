@@ -39,14 +39,14 @@ export const generatedBooks: Book[] = [
   },
   {
     "id": 4,
-    "title": "The Assassin’s Blade",
-    "author": "Sarah J. Maas",
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
     "genres": [
       "Fantasy"
     ],
-    "openLibraryWorkId": "/works/OL17546674W",
-    "firstPublished": 2014,
-    "coverId": 7794980
+    "openLibraryWorkId": "/works/OL7924103W",
+    "firstPublished": 1990,
+    "coverId": 980232
   },
   {
     "id": 5,
@@ -58,5 +58,370 @@ export const generatedBooks: Book[] = [
     "openLibraryWorkId": "/works/OL2010436W",
     "firstPublished": 1994,
     "coverId": 1005963
+  },
+  {
+    "id": 6,
+    "title": "The Poppy War",
+    "author": "R. F. Kuang",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL19351054W",
+    "firstPublished": 2018,
+    "coverId": 8463552
+  },
+  {
+    "id": 7,
+    "title": "The Princess Bride",
+    "author": "William Goldman",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL486967W",
+    "firstPublished": 1973,
+    "coverId": 9284881
+  },
+  {
+    "id": 8,
+    "title": "Lord of Chaos",
+    "author": "Robert Jordan",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL7924208W",
+    "firstPublished": 1994,
+    "coverId": 182398
+  },
+  {
+    "id": 9,
+    "title": "Twisted Love",
+    "author": "Ana Huang",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL24390422W",
+    "firstPublished": 2021,
+    "coverId": 12940491
+  },
+  {
+    "id": 10,
+    "title": "Twisted Games",
+    "author": "Ana Huang",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL25515697W",
+    "firstPublished": 2021,
+    "coverId": 12821465
+  },
+  {
+    "id": 11,
+    "title": "Twisted Hate",
+    "author": "Ana Huang",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL27245843W",
+    "firstPublished": 2022,
+    "coverId": 12928487
+  },
+  {
+    "id": 12,
+    "title": "Married at first sight",
+    "author": "Gu Lingfei",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL35223328W",
+    "firstPublished": 2015,
+    "coverId": 14312142
+  },
+  {
+    "id": 13,
+    "title": "Punk 57",
+    "author": "Penelope Douglas",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL20808172W",
+    "firstPublished": 2016,
+    "coverId": 10107803
+  },
+  {
+    "id": 14,
+    "title": "It Starts with Us",
+    "author": "Colleen Hoover",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL27733867W",
+    "firstPublished": 2022,
+    "coverId": 12749873
+  },
+  {
+    "id": 15,
+    "title": "The Sweetest Oblivion",
+    "author": "Danielle Lori",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL24314065W",
+    "firstPublished": 2018,
+    "coverId": 10831263
+  },
+  {
+    "id": 16,
+    "title": "It Ends With Us",
+    "author": "Colleen Hoover",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL18020194W",
+    "firstPublished": 2012,
+    "coverId": 10473609
+  },
+  {
+    "id": 17,
+    "title": "Twisted Lies",
+    "author": "Ana Huang",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL27818823W",
+    "firstPublished": 2022,
+    "coverId": 14425197
+  },
+  {
+    "id": 18,
+    "title": "Corrupt",
+    "author": "Penelope Douglas",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL20893778W",
+    "firstPublished": 2015,
+    "coverId": 10226443
+  },
+  {
+    "id": 19,
+    "title": "The Caves of Steel",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46401W",
+    "firstPublished": 1953,
+    "coverId": 13790511
+  },
+  {
+    "id": 20,
+    "title": "The Fall of Hyperion",
+    "author": "Dan Simmons",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL1963251W",
+    "firstPublished": 1990,
+    "coverId": 484900
+  },
+  {
+    "id": 21,
+    "title": "The Naked Sun",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46398W",
+    "firstPublished": 1954,
+    "coverId": 6542967
+  },
+  {
+    "id": 22,
+    "title": "The Foundation Trilogy",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46390W",
+    "firstPublished": 1950,
+    "coverId": 6502517
+  },
+  {
+    "id": 23,
+    "title": "I Have No Mouth and I Must Scream",
+    "author": "Harlan Ellison",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL1737320W",
+    "firstPublished": 1972,
+    "coverId": 5540875
+  },
+  {
+    "id": 24,
+    "title": "Nightfall",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46374W",
+    "firstPublished": 1969,
+    "coverId": 9302081
+  },
+  {
+    "id": 25,
+    "title": "After (After Series, Book 1)",
+    "author": "Anna Todd",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL17719508W",
+    "firstPublished": 2014,
+    "coverId": 14418944
+  },
+  {
+    "id": 26,
+    "title": "Breaking Point",
+    "author": "Emma Darcy",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL2959315W",
+    "firstPublished": 1992,
+    "coverId": 10387434
+  },
+  {
+    "id": 27,
+    "title": "After We Collided (After Series, Book 2)",
+    "author": "Anna Todd",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL20004814W",
+    "firstPublished": 2014,
+    "coverId": 14426388
+  },
+  {
+    "id": 28,
+    "title": "Falcon's Prey",
+    "author": "Penny Jordan",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327987W",
+    "firstPublished": 1981,
+    "coverId": 6460263
+  },
+  {
+    "id": 29,
+    "title": "Bought with His Name",
+    "author": "Penny Jordan",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3759285W",
+    "firstPublished": 1982,
+    "coverId": 7248501
+  },
+  {
+    "id": 30,
+    "title": "Not Once But Twice",
+    "author": "Betty Neels",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3457830W",
+    "firstPublished": 1981,
+    "coverId": 2410565
+  },
+  {
+    "id": 31,
+    "title": "Temporary Bride",
+    "author": "P. Wilson",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL6794523W",
+    "firstPublished": 1988,
+    "coverId": 6888427
+  },
+  {
+    "id": 32,
+    "title": "Season of Mists",
+    "author": "Anne Mather",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3771321W",
+    "firstPublished": 1982,
+    "coverId": 7321349
+  },
+  {
+    "id": 33,
+    "title": "The Prophet",
+    "author": "Kahlil Gibran",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL318900W",
+    "firstPublished": 1900,
+    "coverId": 418324
+  },
+  {
+    "id": 34,
+    "title": "On The Road",
+    "author": "Jack Kerouac",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL65906W",
+    "firstPublished": 1957,
+    "coverId": 34655
+  },
+  {
+    "id": 35,
+    "title": "Tanglewood Tales",
+    "author": "Nathaniel Hawthorne",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL455476W",
+    "firstPublished": 1853,
+    "coverId": 8243662
+  },
+  {
+    "id": 36,
+    "title": "Tender is the Night",
+    "author": "F. Scott Fitzgerald",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL468485W",
+    "firstPublished": 1933,
+    "coverId": 6984433
+  },
+  {
+    "id": 37,
+    "title": "Where the Red Fern Grows",
+    "author": "Wilson Rawls",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL465360W",
+    "firstPublished": 1961,
+    "coverId": 7996608
+  },
+  {
+    "id": 38,
+    "title": "La Peste",
+    "author": "Albert Camus",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL1230715W",
+    "firstPublished": 1942,
+    "coverId": 13151272
   }
 ];

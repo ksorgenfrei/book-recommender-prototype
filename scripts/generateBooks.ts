@@ -3,9 +3,37 @@
 import type { Book, Genre } from "../src/types/types";
 import { writeFileSync } from "fs";
 
-const BOOKS_TO_FETCH = 5;
-const CURRENT_GENRE: Genre = "Fantasy"; //testing only one genre for now
+const BOOKS_PER_GENRE = 10;
 const BOOKS_FILE = "src/data/generatedBooks.ts";
+
+// define the shape of one search configuration
+type GenreSearchConfig = {
+    genre: Genre;
+    searchTerm: string;
+};
+
+const GENRE_SEARCH_CONFIGS: GenreSearchConfig[] = [
+    {
+        genre: "Fantasy",
+        searchTerm: "fantasy",
+    },
+    {
+        genre: "Romance",
+        searchTerm: "romance",
+    },
+    {
+        genre: "Sci-Fi",
+        searchTerm: "science fiction",
+    },
+    {
+        genre: "Contemporary",
+        searchTerm: "contemporary fiction",
+    },
+    {
+        genre: "Classic",
+        searchTerm: "classic literature",
+    },
+];
 
 //define the shape of one book result from Open Library
 // use ? to make fields optional, as OL data may not be complete
@@ -22,22 +50,42 @@ type OpenLibrarySearchResponse = {
     docs: OpenLibrarySearchDoc[];
 };
 
+// hekper function: check whether a text value is suitable for the prototype in English
+// allow English letters, digits, whitespace, and some common punctuation characters and hyphens
+function usesEnglishCharacters(text: string): boolean {
+    return /^[A-Za-z0-9\s.,:;'"!?&()\-–—]+$/.test(text); // test() runs the regex against the text value
+}
+
 function convertOpenLibraryDocToBook(
     doc: OpenLibrarySearchDoc,
     id: number,
     genre: Genre
 ): Book | null { // the function returns either a valid Book or null (null if important data missing in OL)
-    if (!doc.key || !doc.title || !doc.author_name?.[0]) {
+    // store publication year in readable variable. OL may return missing or invalid values (such as 0)
+    const firstPublished = doc.first_publish_year;
+    const title = doc.title;
+    const author = doc.author_name?.[0];
+
+    // skip OL records that are missing data needed by the prototype (workId, title, author, valid positive publication year)
+    if (
+        !doc.key ||
+        !title ||
+        !author ||
+        firstPublished === undefined ||
+        firstPublished <= 0 ||
+        !usesEnglishCharacters(title) ||
+        !usesEnglishCharacters(author)
+    ) {
         return null;
     }
 
     return {
         id,
-        title: doc.title,
-        author: doc.author_name[0],
+        title,
+        author,
         genres: [genre], // Book type expects array, so []
         openLibraryWorkId: doc.key, // keep for source traceability
-        firstPublished: doc.first_publish_year,
+        firstPublished,
         coverId: doc.cover_i,
     };
 }
@@ -48,9 +96,9 @@ async function fetchBooksForGenre(genre: Genre, searchTerm: string): Promise<Boo
     const url = new URL("https://openlibrary.org/search.json");
 
     // add query parameter to URL
-    url.searchParams.set("subject", searchTerm); // use OL search term instead of hardcoding a genre -> reusable
+    url.searchParams.set("q", `subject:${searchTerm} language:eng`); // use OL search term instead of hardcoding a genre -> reusable, add language filter
     // add query param to limit number of results, convert number to String
-    url.searchParams.set("limit", String(BOOKS_TO_FETCH));
+    url.searchParams.set("limit", String(BOOKS_PER_GENRE));
     // limit output to relevant fields
     url.searchParams.set(
         "fields",
@@ -68,7 +116,7 @@ async function fetchBooksForGenre(genre: Genre, searchTerm: string): Promise<Boo
     // convert response body from JSON into JS object, so TypeScript can work with it
     // treat the JSON response as an OpenLibrarySearchResponse
     const data = (await response.json()) as OpenLibrarySearchResponse;
-    
+
     return data.docs // go through each OL results array
         .map((doc, index) => // go through each OL result
             convertOpenLibraryDocToBook(doc, index + 1, genre) // convert raw OL result into app's Book format
@@ -76,7 +124,56 @@ async function fetchBooksForGenre(genre: Genre, searchTerm: string): Promise<Boo
         .filter((book): book is Book => book !== null); // remove failed conversions. book is Book -> TS guard: tell TS that after filtering, the array contains only Book objects, not null
 }
 
-const generatedBooks = await fetchBooksForGenre("Fantasy", "fantasy");
+// function to handle book generation process
+async function generateBooks(): Promise<Book[]> {
+    const booksByWorkId = new Map<string, Book>(); // map to hold books by OL work id
+
+    for (const config of GENRE_SEARCH_CONFIGS) { // loop through all search configs to fetch books for each genre
+        const booksForGenre = await fetchBooksForGenre(
+            config.genre,
+            config.searchTerm
+        );
+
+        for (const book of booksForGenre) {
+            const workId = book.openLibraryWorkId;
+
+            if (!workId) {
+                continue; // if the book has no workId, skip it
+            }
+
+            const existingBook = booksByWorkId.get(workId); // get existing book from booksByWorkId
+
+            if (existingBook) {
+                if (!existingBook.genres.includes(config.genre)) { // if the book exists but doesn't have the current genre
+                    // add the new genre to existing genres
+                    const updatedGenres = [...existingBook.genres, config.genre];
+
+                    // create an updated book and add the updated genre list to it
+                    const updatedBook: Book = {
+                        ...existingBook,
+                        genres: updatedGenres,
+                    };
+
+                    // add the updated book into the map
+                    booksByWorkId.set(workId, updatedBook);
+                }
+
+                continue; // if existing book has the current genre, skip adding it again
+            }
+
+            booksByWorkId.set(workId, book); // otherwise, add the new book to the array
+        }
+    }
+
+    // return the array of books and reassign local IDs starting from 1
+    return Array.from(booksByWorkId.values()).map((book, index) => ({
+        ...book,
+        id: index + 1,
+    }));
+}
+
+const generatedBooks = await generateBooks();
+
 // JSON.stringify() turns generatedBooks array into a string.
 // null = no custom filtering
 // 2 = output should use 2-space indentation

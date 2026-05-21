@@ -52,7 +52,7 @@ type OpenLibrarySearchResponse = {
 
 // hekper function: check whether a text value is suitable for the prototype in English
 // allow English letters, digits, whitespace, and some common punctuation characters and hyphens
-function usesEnglishCharacters(text: string): boolean {
+function usesBasicLatinCharacters(text: string): boolean {
     return /^[A-Za-z0-9\s.,:;'"!?&()\-–—]+$/.test(text); // test() runs the regex against the text value
 }
 
@@ -72,8 +72,8 @@ function convertOpenLibraryDocToBook(
         !author ||
         firstPublished === undefined ||
         firstPublished <= 0 ||
-        !usesEnglishCharacters(title) ||
-        !usesEnglishCharacters(author)
+        !usesBasicLatinCharacters(title) ||
+        !usesBasicLatinCharacters(author)
     ) {
         return null;
     }

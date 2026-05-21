@@ -5,7 +5,7 @@ import { generatedReaderProfiles } from "../src/data/generatedReaderProfiles";
 import { defaultExperienceThresholds } from "../src/data/experienceThresholds"; // give the script default exp boundaries
 import { getExperienceLevel } from "../src/utils/getExperienceLevel"; // let the script calculate exp level
 
-import type { Book, ReaderProfile } from "../src/types/types"; // type function params properly
+import type { Book, Rating, ReaderProfile } from "../src/types/types"; // type function params properly
 
 // fixed seed produces the same rating-count pattern each time
 const SEED = 67890;
@@ -155,6 +155,82 @@ function selectBooksForReader(
     return selectedBooks;
 }
 
+function generateRatingValue(reader: ReaderProfile, book: Book): number {
+    //check whther the selected book belongs to the reader's dominant genre
+    const matchesDominantGenre = book.genres.includes(reader.dominantGenre);
+
+    // generate random decimal betw. 0 and 1. used to choose a rating according to probability ranges below
+    const chance = random();
+
+    // if book matches dominant genre, use rating distribution biased slightly higher
+    if (matchesDominantGenre) {
+        // 3% chance of 1 star rating
+        if (chance < 0.05) {
+            return 1;
+        }
+        // 7% chance of 2 star rating
+        if (chance < 0.1) {
+            return 2;
+        }
+        if (chance < 0.3) {
+            return 3;
+        }
+        if (chance < 0.75) {
+            return 4;
+        }
+        return 5;
+    }
+    // if book does not match dominant genre, use a more mixed rating distribution
+    if (chance < 0.1) {
+        return 1;
+    }
+    if (chance < 0.35) {
+        return 2;
+    }
+    if (chance < 0.7) {
+        return 3;
+    }
+    if (chance < 0.9) {
+        return 4;
+    }
+    return 5;
+}
+
+function generateRatings(): Rating[] {
+    const generatedRatings: Rating[] = [];
+
+    // first rating ID (increases with every generated rating)
+    let nextRatingId = 1;
+
+    // loop through every generated reader profile
+    for (const reader of generatedReaderProfiles) {
+        // how many ratings the current reader should contribute
+        const ratingCountPlan = getRatingCountForReader(reader);
+
+        // select the books for this reader to rate
+        const selectedBooks = selectBooksForReader(reader, ratingCountPlan.targetRatingCount);
+
+        // loop through each selected book and turn it into a Rating record
+        for (const book of selectedBooks) {
+            // create one Rating object
+            const rating: Rating = {
+                id: nextRatingId,
+                bookId: book.id,
+                readerId: reader.id,
+                rating: generateRatingValue(reader, book),
+            };
+
+            // add Rating obj to ratings array
+            generatedRatings.push(rating);
+
+            nextRatingId++;
+        }
+    }
+    return generatedRatings;
+}
+
+const generatedRatings = generateRatings();
+
 console.log("Generated dataset overview:\n");
 
 console.log(`Books available: ${generatedBooks.length}`);
@@ -195,3 +271,25 @@ console.table(
     })
 );
 
+console.log(`Ratings generated: ${generatedRatings.length}`);
+
+console.table(
+    generatedRatings.slice(0, 20).map((rating) => {
+        const reader = generatedReaderProfiles.find(
+            (readerProfile) => readerProfile.id === rating.readerId
+        );
+
+        const book = generatedBooks.find(
+            (generatedBook) => generatedBook.id === rating.bookId
+        );
+
+        return {
+            id: rating.id,
+            reader: reader?.displayName,
+            readerGenre: reader?.dominantGenre,
+            book: book?.title,
+            bookGenres: book?.genres.join(", "),
+            rating: rating.rating,
+        };
+    })
+);

@@ -1,7 +1,9 @@
 import { useState } from "react";
-import { books } from "./data/books";
-import { readerProfiles } from "./data/readerProfiles";
-import { ratings } from "./data/ratings";
+
+import { generatedBooks as books } from "./data/generatedBooks";
+import { generatedReaderProfiles as readerProfiles } from "./data/generatedReaderProfiles";
+import { generatedRatings as ratings } from "./data/generatedRatings";
+
 import { genres } from "./data/genres";
 import { defaultExperienceThresholds } from "./data/experienceThresholds";
 

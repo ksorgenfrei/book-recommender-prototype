@@ -12,6 +12,8 @@ const SEED = 67890;
 // 70% of the the time, try to select a book matching reader's dominant genre
 const DOMINANT_GENRE_SELECTION_CHANCE = 0.7;
 
+const MAX_CATALOGUE_COVERAGE = 0.5;
+
 function createSeededRandom(seed: number) {
     let currentSeed = seed;
 
@@ -43,8 +45,14 @@ function getRandomItem<T>(items: readonly T[]): T {
     return selectedItem;
 }
 
+// an object that allows the below function to return both plannedRatingCount and targetRatingCount for inspection purposes
+type RatingCountPlan = {
+    plannedRatingCount: number;
+    targetRatingCount: number;
+};
+
 // rating count function: return the number of ratings a reader should contribute
-function getRatingCountForReader(reader: ReaderProfile): number {
+function getRatingCountForReader(reader: ReaderProfile): RatingCountPlan {
     const experienceLevel = getExperienceLevel(
         reader.booksReadCount,
         defaultExperienceThresholds
@@ -67,25 +75,30 @@ function getRatingCountForReader(reader: ReaderProfile): number {
     // choose a random percentage inside the range
     const ratingPercentage = minRatingPercentage + random() * (maxRatingPercentage - minRatingPercentage);
 
-    // multiply reader's booksReadCount by the selected percentage
-    const plannedRatingCount = Math.round(reader.booksReadCount * ratingPercentage);
+    // multiply reader's booksReadCount by the selected percentage -> intended num of ratings with minimum of 1
+    const plannedRatingCount = Math.max(1, Math.round(reader.booksReadCount * ratingPercentage));
+    // max number of books this reader should rate from the generated books catalogue
+    const maxCatalogueRatings = Math.ceil(generatedBooks.length * MAX_CATALOGUE_COVERAGE);
 
-    // every generated reader has at least one rating (later capped by available generated books)
-    return Math.max(1, plannedRatingCount);
+    const targetRatingCount = Math.min(
+        Math.max(1, plannedRatingCount),
+        reader.booksReadCount,
+        maxCatalogueRatings
+    );
+
+    // final target rating count (reader cannot rate fewer than 1 book, more books than read, more than the allowed proportion of the generated catalogue)
+    return { plannedRatingCount, targetRatingCount };
 }
 
 //
 function selectBooksForReader(
     reader: ReaderProfile,
-    plannedRatingCount: number
+    targetRatingCount: number
 ): Book[] {
-    // how many books in the available catalogue of generated books a reader can rate (to avoid having more planned ratings than available books)
-    const MAX_CATALOGUE_COVERAGE = 0.5;
 
-    const maxCatalogueRatings = Math.ceil(generatedBooks.length * MAX_CATALOGUE_COVERAGE);
-
-    // a reader can't rate more books than they read, more books than exist in the books dataset, or the entire books dataset
-    const maxRatingCount = Math.min(plannedRatingCount, reader.booksReadCount, maxCatalogueRatings);
+    // getRatingCountForReader() already applies the main constraints but this prevents
+    // the selector from trying to choose more unique books than exist in the generated books catalogue
+    const maxRatingCount = Math.min(targetRatingCount, generatedBooks.length);
 
     const selectedBooks: Book[] = [];
 
@@ -154,8 +167,12 @@ console.table(
             defaultExperienceThresholds
         );
 
-        const plannedRatingCount = getRatingCountForReader(reader);
-        const selectedBooks = selectBooksForReader(reader, plannedRatingCount);
+        const ratingCountPlan = getRatingCountForReader(reader);
+
+        const selectedBooks = selectBooksForReader(
+            reader,
+            ratingCountPlan.targetRatingCount
+        );
 
         const dominantGenreSelections = selectedBooks.filter((book) =>
             book.genres.includes(reader.dominantGenre)
@@ -169,7 +186,8 @@ console.table(
             dominantGenre: reader.dominantGenre,
             booksReadCount: reader.booksReadCount,
             experienceLevel,
-            plannedRatingCount,
+            plannedRatingCount: ratingCountPlan.plannedRatingCount,
+            targetRatingCount: ratingCountPlan.targetRatingCount,
             selectedBookCount: selectedBooks.length,
             dominantGenreSelections,
             crossGenreSelections,

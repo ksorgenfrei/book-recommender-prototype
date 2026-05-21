@@ -94,6 +94,426 @@ export const generatedBooks: Book[] = [
   },
   {
     "id": 9,
+    "title": "The Silmarillion",
+    "author": "J.R.R. Tolkien",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL27495W",
+    "firstPublished": 1977,
+    "coverId": 14627042
+  },
+  {
+    "id": 10,
+    "title": "The Alloy of Law",
+    "author": "Brandon Sanderson",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL16597059W",
+    "firstPublished": 2001,
+    "coverId": 14658081
+  },
+  {
+    "id": 11,
+    "title": "Small Gods",
+    "author": "Terry Pratchett",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL453697W",
+    "firstPublished": 1992,
+    "coverId": 14648232
+  },
+  {
+    "id": 12,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL15358691W",
+    "firstPublished": 2010,
+    "coverId": 14658316
+  },
+  {
+    "id": 13,
+    "title": "Elantris",
+    "author": "Brandon Sanderson",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL5738147W",
+    "firstPublished": 2005,
+    "coverId": 14658083
+  },
+  {
+    "id": 14,
+    "title": "Phantastes",
+    "author": "George MacDonald",
+    "genres": [
+      "Fantasy",
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL15450W",
+    "firstPublished": 1850,
+    "coverId": 14358814
+  },
+  {
+    "id": 15,
+    "title": "Sojourn",
+    "author": "R. A. Salvatore",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL516683W",
+    "firstPublished": 1991,
+    "coverId": 1005943
+  },
+  {
+    "id": 16,
+    "title": "Pawn of Prophecy",
+    "author": "David Eddings",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL1922990W",
+    "firstPublished": 1982,
+    "coverId": 1000455
+  },
+  {
+    "id": 17,
+    "title": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL5734756W",
+    "firstPublished": 1999,
+    "coverId": 374277
+  },
+  {
+    "id": 18,
+    "title": "The Shadow Rising",
+    "author": "Robert Jordan",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL7924199W",
+    "firstPublished": 1992,
+    "coverId": 603240
+  },
+  {
+    "id": 19,
+    "title": "Powerless",
+    "author": "Lauren Roberts",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL34774028W",
+    "firstPublished": 2023,
+    "coverId": 14567864
+  },
+  {
+    "id": 20,
+    "title": "Miecz przeznaczenia",
+    "author": "Andrzej Sapkowski",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL2577472W",
+    "firstPublished": 1992,
+    "coverId": 6757701
+  },
+  {
+    "id": 21,
+    "title": "The Shadow of the Torturer",
+    "author": "Gene Wolfe",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL14871979W",
+    "firstPublished": 1980,
+    "coverId": 7029509
+  },
+  {
+    "id": 22,
+    "title": "The Fires of Heaven",
+    "author": "Robert Jordan",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL7924172W",
+    "firstPublished": 1993,
+    "coverId": 603821
+  },
+  {
+    "id": 23,
+    "title": "Ship of Magic",
+    "author": "Robin Hobb",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL2707209W",
+    "firstPublished": 1998,
+    "coverId": 372583
+  },
+  {
+    "id": 24,
+    "title": "Wolves of the Calla",
+    "author": "Stephen King",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL81594W",
+    "firstPublished": 2003,
+    "coverId": 14652470
+  },
+  {
+    "id": 25,
+    "title": "The Emperor's Soul",
+    "author": "Brandon Sanderson",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL19960448W",
+    "firstPublished": 2012,
+    "coverId": 14658408
+  },
+  {
+    "id": 26,
+    "title": "House of Earth and Blood",
+    "author": "Sarah J. Maas",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL20650912W",
+    "firstPublished": 2019,
+    "coverId": 9289603
+  },
+  {
+    "id": 27,
+    "title": "Exile",
+    "author": "R. A. Salvatore",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL261586W",
+    "firstPublished": 1990,
+    "coverId": 547296
+  },
+  {
+    "id": 28,
+    "title": "Best served cold",
+    "author": "Joe Abercrombie",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL8400949W",
+    "firstPublished": 2009,
+    "coverId": 14543410
+  },
+  {
+    "id": 29,
+    "title": "The Great Hunt (The Wheel of Time Book 2)",
+    "author": "Robert Jordan",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL7924135W",
+    "firstPublished": 1990,
+    "coverId": 182352
+  },
+  {
+    "id": 30,
+    "title": "Assassin's Apprentice",
+    "author": "Robin Hobb",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL2707183W",
+    "firstPublished": 1995,
+    "coverId": 4915230
+  },
+  {
+    "id": 31,
+    "title": "Enchanters' End Game (The Belgariad)",
+    "author": "David Eddings",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL1923013W",
+    "firstPublished": 1984,
+    "coverId": 209046
+  },
+  {
+    "id": 32,
+    "title": "The ones who walk away from Omelas",
+    "author": "Ursula K. Le Guin",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL15056584W",
+    "firstPublished": 1973,
+    "coverId": 3993167
+  },
+  {
+    "id": 33,
+    "title": "The Way of Shadows",
+    "author": "Brent Weeks",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL15015332W",
+    "firstPublished": 2008,
+    "coverId": 6306862
+  },
+  {
+    "id": 34,
+    "title": "Mort",
+    "author": "Terry Pratchett",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL453658W",
+    "firstPublished": 1987,
+    "coverId": 14648805
+  },
+  {
+    "id": 35,
+    "title": "Iron Flame",
+    "author": "Rebecca Yarros",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL34028551W",
+    "firstPublished": 2023,
+    "coverId": 14405746
+  },
+  {
+    "id": 36,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL27482W",
+    "firstPublished": 1937,
+    "coverId": 14627509
+  },
+  {
+    "id": 37,
+    "title": "The Cruel Prince",
+    "author": "Holly Black",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL17850410W",
+    "firstPublished": 2018,
+    "coverId": 8361789
+  },
+  {
+    "id": 38,
+    "title": "The City of Ember (The First Book of Ember)",
+    "author": "Jeanne DuPrau",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL4132752W",
+    "firstPublished": 1998,
+    "coverId": 14421081
+  },
+  {
+    "id": 39,
+    "title": "Neverwhere",
+    "author": "Neil Gaiman",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL679333W",
+    "firstPublished": 1996,
+    "coverId": 1008998
+  },
+  {
+    "id": 40,
+    "title": "A Clash of Kings",
+    "author": "George R. R. Martin",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL257939W",
+    "firstPublished": 1998,
+    "coverId": 8231751
+  },
+  {
+    "id": 41,
+    "title": "A Spell for Chameleon",
+    "author": "Piers Anthony",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL80870W",
+    "firstPublished": 1977,
+    "coverId": 6453925
+  },
+  {
+    "id": 42,
+    "title": "Midnight",
+    "author": "Erin Hunter",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL5714297W",
+    "firstPublished": 2005,
+    "coverId": 9392106
+  },
+  {
+    "id": 43,
+    "title": "Stellarlune",
+    "author": "Shannon Messenger",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL26348345W",
+    "firstPublished": 2022,
+    "coverId": 13316210
+  },
+  {
+    "id": 44,
+    "title": "Haunting Adeline",
+    "author": "H. D. Carlton",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL27310398W",
+    "firstPublished": 2021,
+    "coverId": 12992962
+  },
+  {
+    "id": 45,
+    "title": "Arcanum Unbounded",
+    "author": "Brandon Sanderson",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL17770504W",
+    "firstPublished": 2016,
+    "coverId": 14658368
+  },
+  {
+    "id": 46,
+    "title": "Equal Rites",
+    "author": "Terry Pratchett",
+    "genres": [
+      "Fantasy"
+    ],
+    "openLibraryWorkId": "/works/OL453670W",
+    "firstPublished": 1987,
+    "coverId": 6925774
+  },
+  {
+    "id": 47,
     "title": "Twisted Love",
     "author": "Ana Huang",
     "genres": [
@@ -104,7 +524,7 @@ export const generatedBooks: Book[] = [
     "coverId": 12940491
   },
   {
-    "id": 10,
+    "id": 48,
     "title": "Twisted Games",
     "author": "Ana Huang",
     "genres": [
@@ -115,7 +535,7 @@ export const generatedBooks: Book[] = [
     "coverId": 12821465
   },
   {
-    "id": 11,
+    "id": 49,
     "title": "Twisted Hate",
     "author": "Ana Huang",
     "genres": [
@@ -126,7 +546,7 @@ export const generatedBooks: Book[] = [
     "coverId": 12928487
   },
   {
-    "id": 12,
+    "id": 50,
     "title": "Married at first sight",
     "author": "Gu Lingfei",
     "genres": [
@@ -137,7 +557,7 @@ export const generatedBooks: Book[] = [
     "coverId": 14312142
   },
   {
-    "id": 13,
+    "id": 51,
     "title": "Punk 57",
     "author": "Penelope Douglas",
     "genres": [
@@ -149,18 +569,19 @@ export const generatedBooks: Book[] = [
     "coverId": 10107803
   },
   {
-    "id": 14,
+    "id": 52,
     "title": "It Starts with Us",
     "author": "Colleen Hoover",
     "genres": [
-      "Romance"
+      "Romance",
+      "Contemporary"
     ],
     "openLibraryWorkId": "/works/OL27733867W",
     "firstPublished": 2022,
     "coverId": 12749873
   },
   {
-    "id": 15,
+    "id": 53,
     "title": "The Sweetest Oblivion",
     "author": "Danielle Lori",
     "genres": [
@@ -171,7 +592,7 @@ export const generatedBooks: Book[] = [
     "coverId": 10831263
   },
   {
-    "id": 16,
+    "id": 54,
     "title": "It Ends With Us",
     "author": "Colleen Hoover",
     "genres": [
@@ -183,7 +604,7 @@ export const generatedBooks: Book[] = [
     "coverId": 10473609
   },
   {
-    "id": 17,
+    "id": 55,
     "title": "Twisted Lies",
     "author": "Ana Huang",
     "genres": [
@@ -194,7 +615,7 @@ export const generatedBooks: Book[] = [
     "coverId": 14425197
   },
   {
-    "id": 18,
+    "id": 56,
     "title": "Corrupt",
     "author": "Penelope Douglas",
     "genres": [
@@ -205,7 +626,454 @@ export const generatedBooks: Book[] = [
     "coverId": 10226443
   },
   {
-    "id": 19,
+    "id": 57,
+    "title": "Hopeless",
+    "author": "Colleen Hoover",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL20564687W",
+    "firstPublished": 2013,
+    "coverId": 10549926
+  },
+  {
+    "id": 58,
+    "title": "Devil and the Deep Sea",
+    "author": "Sara Craven",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL11327658W",
+    "firstPublished": 1988,
+    "coverId": 9620545
+  },
+  {
+    "id": 59,
+    "title": "Breaking Point",
+    "author": "Emma Darcy",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL2959315W",
+    "firstPublished": 1992,
+    "coverId": 10387434
+  },
+  {
+    "id": 60,
+    "title": "A Man Possessed",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL11327957W",
+    "firstPublished": 1986,
+    "coverId": 8577643
+  },
+  {
+    "id": 61,
+    "title": "Destroy Me",
+    "author": "Tahereh Mafi",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL21775531W",
+    "firstPublished": 2012,
+    "coverId": 14427908
+  },
+  {
+    "id": 62,
+    "title": "Heated Rivalry",
+    "author": "Rachel Reid",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL25434351W",
+    "firstPublished": 2019,
+    "coverId": 15214186
+  },
+  {
+    "id": 63,
+    "title": "Falcon's Prey",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327987W",
+    "firstPublished": 1981,
+    "coverId": 6460263
+  },
+  {
+    "id": 64,
+    "title": "Icebreaker",
+    "author": "Hannah Grace",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL28952677W",
+    "firstPublished": 2020,
+    "coverId": 13180728
+  },
+  {
+    "id": 65,
+    "title": "Bought with His Name",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3759285W",
+    "firstPublished": 1982,
+    "coverId": 7248501
+  },
+  {
+    "id": 66,
+    "title": "Uncertain Destiny",
+    "author": "Carole Mortimer",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL3775397W",
+    "firstPublished": 1988,
+    "coverId": 15084828
+  },
+  {
+    "id": 67,
+    "title": "The Marriage Deal",
+    "author": "Sara Craven",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL11327660W",
+    "firstPublished": 1986,
+    "coverId": 10322881
+  },
+  {
+    "id": 68,
+    "title": "Confirmed bachelor",
+    "author": "Roberta Leigh",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL4342701W",
+    "firstPublished": 1981,
+    "coverId": 7393889
+  },
+  {
+    "id": 69,
+    "title": "To Catch A Butterfly",
+    "author": "Marjorie Lewty",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL1708087W",
+    "firstPublished": 1977,
+    "coverId": 10599967
+  },
+  {
+    "id": 70,
+    "title": "Priest",
+    "author": "Sierra Simone",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL21833211W",
+    "firstPublished": 2015,
+    "coverId": 10409469
+  },
+  {
+    "id": 71,
+    "title": "To Speak of Love",
+    "author": "Claudia Jameson",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL4215998W",
+    "firstPublished": 1986,
+    "coverId": 8577635
+  },
+  {
+    "id": 72,
+    "title": "Not Once But Twice",
+    "author": "Betty Neels",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3457830W",
+    "firstPublished": 1981,
+    "coverId": 2410565
+  },
+  {
+    "id": 73,
+    "title": "Temporary Bride",
+    "author": "P. Wilson",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL6794523W",
+    "firstPublished": 1988,
+    "coverId": 6888427
+  },
+  {
+    "id": 74,
+    "title": "Season of Mists",
+    "author": "Anne Mather",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3771321W",
+    "firstPublished": 1982,
+    "coverId": 7321349
+  },
+  {
+    "id": 75,
+    "title": "Out of Control",
+    "author": "Charlotte Lamb",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11277304W",
+    "firstPublished": 1987,
+    "coverId": 9242841
+  },
+  {
+    "id": 76,
+    "title": "Past Passion",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3759349W",
+    "firstPublished": 1992,
+    "coverId": 7248486
+  },
+  {
+    "id": 77,
+    "title": "Taggart's Woman",
+    "author": "Carole Mortimer",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL3775449W",
+    "firstPublished": 1987,
+    "coverId": 9530489
+  },
+  {
+    "id": 78,
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL20090688W",
+    "firstPublished": 2019,
+    "coverId": 9171544
+  },
+  {
+    "id": 79,
+    "title": "King of Pride",
+    "author": "Ana Huang",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL29330646W",
+    "firstPublished": 2023,
+    "coverId": 13244526
+  },
+  {
+    "id": 80,
+    "title": "Without Trust",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327979W",
+    "firstPublished": 1988,
+    "coverId": 6695537
+  },
+  {
+    "id": 81,
+    "title": "When Two Paths Meet",
+    "author": "Betty Neels",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3457933W",
+    "firstPublished": 1988,
+    "coverId": 218961
+  },
+  {
+    "id": 82,
+    "title": "Lover's Touch",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3759116W",
+    "firstPublished": 1989,
+    "coverId": 12394501
+  },
+  {
+    "id": 83,
+    "title": "Contra Su Voluntad",
+    "author": "Sara Craven",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL3467487W",
+    "firstPublished": 2006,
+    "coverId": 1186726
+  },
+  {
+    "id": 84,
+    "title": "The Fine Print",
+    "author": "Lauren Asher",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL26201864W",
+    "firstPublished": 2021,
+    "coverId": 14319054
+  },
+  {
+    "id": 85,
+    "title": "No Alternative",
+    "author": "Margaret Way",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL5236259W",
+    "firstPublished": 1983,
+    "coverId": 6907771
+  },
+  {
+    "id": 86,
+    "title": "Dark Lover",
+    "author": "J. R. Ward",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL5091273W",
+    "firstPublished": 2005,
+    "coverId": 293803
+  },
+  {
+    "id": 87,
+    "title": "A High Price to Pay",
+    "author": "Sara Craven",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327666W",
+    "firstPublished": 1986,
+    "coverId": 9145110
+  },
+  {
+    "id": 88,
+    "title": "Never Count Tomorrow",
+    "author": "Daphne Clair",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL9367818W",
+    "firstPublished": 1980,
+    "coverId": 9242833
+  },
+  {
+    "id": 89,
+    "title": "Impossible Bargain",
+    "author": "Patricia Wilson",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL8315359W",
+    "firstPublished": 1987,
+    "coverId": 6628857
+  },
+  {
+    "id": 90,
+    "title": "Beyond Compare",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3759318W",
+    "firstPublished": 1989,
+    "coverId": 10504888
+  },
+  {
+    "id": 91,
+    "title": "From Blood and Ash",
+    "author": "Jennifer L. Armentrout",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL27838518W",
+    "firstPublished": 2020,
+    "coverId": 14105538
+  },
+  {
+    "id": 92,
+    "title": "Levelling the Score",
+    "author": "Penny Jordan",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327953W",
+    "firstPublished": 1987,
+    "coverId": 7248515
+  },
+  {
+    "id": 93,
+    "title": "Twist of Fate",
+    "author": "Charlotte Lamb",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11277315W",
+    "firstPublished": 1979,
+    "coverId": 7265400
+  },
+  {
+    "id": 94,
+    "title": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "genres": [
+      "Romance"
+    ],
+    "openLibraryWorkId": "/works/OL26345722W",
+    "firstPublished": 2021,
+    "coverId": 14425253
+  },
+  {
+    "id": 95,
+    "title": "Perilous Refuge",
+    "author": "Patricia Wilson",
+    "genres": [
+      "Romance",
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL8315362W",
+    "firstPublished": 1991,
+    "coverId": 7259787
+  },
+  {
+    "id": 96,
     "title": "The Caves of Steel",
     "author": "Isaac Asimov",
     "genres": [
@@ -216,7 +1084,7 @@ export const generatedBooks: Book[] = [
     "coverId": 13790511
   },
   {
-    "id": 20,
+    "id": 97,
     "title": "The Fall of Hyperion",
     "author": "Dan Simmons",
     "genres": [
@@ -227,7 +1095,7 @@ export const generatedBooks: Book[] = [
     "coverId": 484900
   },
   {
-    "id": 21,
+    "id": 98,
     "title": "The Naked Sun",
     "author": "Isaac Asimov",
     "genres": [
@@ -238,7 +1106,7 @@ export const generatedBooks: Book[] = [
     "coverId": 6542967
   },
   {
-    "id": 22,
+    "id": 99,
     "title": "The Foundation Trilogy",
     "author": "Isaac Asimov",
     "genres": [
@@ -249,7 +1117,7 @@ export const generatedBooks: Book[] = [
     "coverId": 6502517
   },
   {
-    "id": 23,
+    "id": 100,
     "title": "I Have No Mouth and I Must Scream",
     "author": "Harlan Ellison",
     "genres": [
@@ -260,7 +1128,7 @@ export const generatedBooks: Book[] = [
     "coverId": 5540875
   },
   {
-    "id": 24,
+    "id": 101,
     "title": "Nightfall",
     "author": "Isaac Asimov",
     "genres": [
@@ -271,7 +1139,426 @@ export const generatedBooks: Book[] = [
     "coverId": 9302081
   },
   {
-    "id": 25,
+    "id": 102,
+    "title": "The End of Eternity",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46108W",
+    "firstPublished": 1955,
+    "coverId": 6622699
+  },
+  {
+    "id": 103,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL21745884W",
+    "firstPublished": 2021,
+    "coverId": 11200092
+  },
+  {
+    "id": 104,
+    "title": "The Mote in God's Eye",
+    "author": "Larry Niven",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL15331302W",
+    "firstPublished": 1974,
+    "coverId": 408133
+  },
+  {
+    "id": 105,
+    "title": "God Emperor of Dune",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL893515W",
+    "firstPublished": 1981,
+    "coverId": 6711531
+  },
+  {
+    "id": 106,
+    "title": "2001",
+    "author": "Arthur C. Clarke",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL17365W",
+    "firstPublished": 1968,
+    "coverId": 11344400
+  },
+  {
+    "id": 107,
+    "title": "Dune Messiah",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL893526W",
+    "firstPublished": 1969,
+    "coverId": 2421405
+  },
+  {
+    "id": 108,
+    "title": "The Stars, Like Dust",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46399W",
+    "firstPublished": 1951,
+    "coverId": 6565338
+  },
+  {
+    "id": 109,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL893415W",
+    "firstPublished": 1965,
+    "coverId": 11481354
+  },
+  {
+    "id": 110,
+    "title": "Chapterhouse Dune",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL893508W",
+    "firstPublished": 1985,
+    "coverId": 5536140
+  },
+  {
+    "id": 111,
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL17837968W",
+    "firstPublished": 2017,
+    "coverId": 8235551
+  },
+  {
+    "id": 112,
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL38501W",
+    "firstPublished": 1992,
+    "coverId": 392508
+  },
+  {
+    "id": 113,
+    "title": "Altered Carbon. Vol. 1",
+    "author": "Richard K. Morgan",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL29914687W",
+    "firstPublished": 2002,
+    "coverId": 13223488
+  },
+  {
+    "id": 114,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46125W",
+    "firstPublished": 1951,
+    "coverId": 14612610
+  },
+  {
+    "id": 115,
+    "title": "The Martian Chronicles",
+    "author": "Ray Bradbury",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL103134W",
+    "firstPublished": 1950,
+    "coverId": 9346537
+  },
+  {
+    "id": 116,
+    "title": "The Robots of Dawn",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46377W",
+    "firstPublished": 1983,
+    "coverId": 14372309
+  },
+  {
+    "id": 117,
+    "title": "Ubik",
+    "author": "Philip K. Dick",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL2172454W",
+    "firstPublished": 1969,
+    "coverId": 5018327
+  },
+  {
+    "id": 118,
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL2950903W",
+    "firstPublished": 1985,
+    "coverId": 4143957
+  },
+  {
+    "id": 119,
+    "title": "Endymion",
+    "author": "Dan Simmons",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL1963279W",
+    "firstPublished": 1995,
+    "coverId": 975059
+  },
+  {
+    "id": 120,
+    "title": "The Long Way to a Small, Angry Planet",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL17716925W",
+    "firstPublished": 2014,
+    "coverId": 8902659
+  },
+  {
+    "id": 121,
+    "title": "Pandora's Star",
+    "author": "Peter F. Hamilton",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL474061W",
+    "firstPublished": 2004,
+    "coverId": 7912438
+  },
+  {
+    "id": 122,
+    "title": "Lucifer's Hammer",
+    "author": "Larry Niven",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL510435W",
+    "firstPublished": 1977,
+    "coverId": 4414184
+  },
+  {
+    "id": 123,
+    "title": "Shatter Me",
+    "author": "Tahereh Mafi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL16014245W",
+    "firstPublished": 2011,
+    "coverId": 6974992
+  },
+  {
+    "id": 124,
+    "title": "Heretics of Dune",
+    "author": "Frank Herbert",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL893502W",
+    "firstPublished": 1984,
+    "coverId": 284530
+  },
+  {
+    "id": 125,
+    "title": "A Princess of Mars",
+    "author": "Edgar Rice Burroughs",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL1418187W",
+    "firstPublished": 1912,
+    "coverId": 207226
+  },
+  {
+    "id": 126,
+    "title": "The Time Machine",
+    "author": "H. G. Wells",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL52267W",
+    "firstPublished": 1895,
+    "coverId": 9009316
+  },
+  {
+    "id": 127,
+    "title": "Burning Chrome",
+    "author": "William Gibson",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL27254W",
+    "firstPublished": 1986,
+    "coverId": 28351
+  },
+  {
+    "id": 128,
+    "title": "A Closed and Common Orbit",
+    "author": "Becky Chambers",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL17897265W",
+    "firstPublished": 2016,
+    "coverId": 8211950
+  },
+  {
+    "id": 129,
+    "title": "Les Robots",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46241W",
+    "firstPublished": 1950,
+    "coverId": 12385229
+  },
+  {
+    "id": 130,
+    "title": "Foundation and Earth",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46347W",
+    "firstPublished": 1986,
+    "coverId": 9304027
+  },
+  {
+    "id": 131,
+    "title": "Shatter Me Complete Collection",
+    "author": "Tahereh Mafi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL21802553W",
+    "firstPublished": 2011,
+    "coverId": 14428312
+  },
+  {
+    "id": 132,
+    "title": "Robots and Empire",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46178W",
+    "firstPublished": 1985,
+    "coverId": 9302088
+  },
+  {
+    "id": 133,
+    "title": "Friday",
+    "author": "Robert A. Heinlein",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL59706W",
+    "firstPublished": 1982,
+    "coverId": 14630717
+  },
+  {
+    "id": 134,
+    "title": "Atlas Shrugged (Centennial Ed. HC)",
+    "author": "Ayn Rand",
+    "genres": [
+      "Sci-Fi",
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL731644W",
+    "firstPublished": 1936,
+    "coverId": 362277
+  },
+  {
+    "id": 135,
+    "title": "Unravel me",
+    "author": "Tahereh Mafi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL19963111W",
+    "firstPublished": 2013,
+    "coverId": 12727567
+  },
+  {
+    "id": 136,
+    "title": "Defy Me (Shatter Me)",
+    "author": "Tahereh Mafi",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL20145719W",
+    "firstPublished": 2019,
+    "coverId": 8791330
+  },
+  {
+    "id": 137,
+    "title": "The Currents of Space",
+    "author": "Isaac Asimov",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL46385W",
+    "firstPublished": 1952,
+    "coverId": 14616014
+  },
+  {
+    "id": 138,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL17091839W",
+    "firstPublished": 2011,
+    "coverId": 11447888
+  },
+  {
+    "id": 139,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genres": [
+      "Sci-Fi"
+    ],
+    "openLibraryWorkId": "/works/OL64365W",
+    "firstPublished": 1932,
+    "coverId": 8231823
+  },
+  {
+    "id": 140,
     "title": "After (After Series, Book 1)",
     "author": "Anna Todd",
     "genres": [
@@ -282,18 +1569,7 @@ export const generatedBooks: Book[] = [
     "coverId": 14418944
   },
   {
-    "id": 26,
-    "title": "Breaking Point",
-    "author": "Emma Darcy",
-    "genres": [
-      "Contemporary"
-    ],
-    "openLibraryWorkId": "/works/OL2959315W",
-    "firstPublished": 1992,
-    "coverId": 10387434
-  },
-  {
-    "id": 27,
+    "id": 141,
     "title": "After We Collided (After Series, Book 2)",
     "author": "Anna Todd",
     "genres": [
@@ -304,62 +1580,304 @@ export const generatedBooks: Book[] = [
     "coverId": 14426388
   },
   {
-    "id": 28,
-    "title": "Falcon's Prey",
-    "author": "Penny Jordan",
+    "id": 142,
+    "title": "Bittersweet Passion",
+    "author": "Lynne Graham",
     "genres": [
       "Contemporary"
     ],
-    "openLibraryWorkId": "/works/OL11327987W",
-    "firstPublished": 1981,
-    "coverId": 6460263
+    "openLibraryWorkId": "/works/OL11328452W",
+    "firstPublished": 1987,
+    "coverId": 7322367
   },
   {
-    "id": 29,
-    "title": "Bought with His Name",
-    "author": "Penny Jordan",
+    "id": 143,
+    "title": "Love in the Dark",
+    "author": "Charlotte Lamb",
     "genres": [
       "Contemporary"
     ],
-    "openLibraryWorkId": "/works/OL3759285W",
-    "firstPublished": 1982,
-    "coverId": 7248501
+    "openLibraryWorkId": "/works/OL11277298W",
+    "firstPublished": 1987,
+    "coverId": 9311897
   },
   {
-    "id": 30,
-    "title": "Not Once But Twice",
-    "author": "Betty Neels",
+    "id": 144,
+    "title": "Comparative Strangers",
+    "author": "Sara Craven",
     "genres": [
       "Contemporary"
     ],
-    "openLibraryWorkId": "/works/OL3457830W",
-    "firstPublished": 1981,
-    "coverId": 2410565
-  },
-  {
-    "id": 31,
-    "title": "Temporary Bride",
-    "author": "P. Wilson",
-    "genres": [
-      "Contemporary"
-    ],
-    "openLibraryWorkId": "/works/OL6794523W",
+    "openLibraryWorkId": "/works/OL3467485W",
     "firstPublished": 1988,
-    "coverId": 6888427
+    "coverId": 10570362
   },
   {
-    "id": 32,
-    "title": "Season of Mists",
+    "id": 145,
+    "title": "Retribution",
+    "author": "Charlotte Lamb",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3294436W",
+    "firstPublished": 1981,
+    "coverId": 6773421
+  },
+  {
+    "id": 146,
+    "title": "The Other Woman",
+    "author": "Jessica Steele",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3845148W",
+    "firstPublished": 1980,
+    "coverId": 10528998
+  },
+  {
+    "id": 147,
+    "title": "Passionate Scandal",
+    "author": "Michelle Reid",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL4233148W",
+    "firstPublished": 1994,
+    "coverId": 10199624
+  },
+  {
+    "id": 148,
+    "title": "Pattern of Deceit",
+    "author": "Emma Darcy",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL2959270W",
+    "firstPublished": 1989,
+    "coverId": 10346679
+  },
+  {
+    "id": 149,
+    "title": "Spellbinding",
+    "author": "Charlotte Lamb",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11277334W",
+    "firstPublished": 1990,
+    "coverId": 6663856
+  },
+  {
+    "id": 150,
+    "title": "November 9",
+    "author": "Colleen Hoover",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL20018811W",
+    "firstPublished": 2015,
+    "coverId": 9219001
+  },
+  {
+    "id": 151,
+    "title": "Fire with Fire",
+    "author": "Penny Jordan",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327897W",
+    "firstPublished": 1985,
+    "coverId": 9487225
+  },
+  {
+    "id": 152,
+    "title": "Intangible Dream",
+    "author": "Patricia Wilson",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL8030401W",
+    "firstPublished": 1992,
+    "coverId": 5073789
+  },
+  {
+    "id": 153,
+    "title": "Stormy Surrender",
+    "author": "Patricia Wilson",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL8315354W",
+    "firstPublished": 1990,
+    "coverId": 7282546
+  },
+  {
+    "id": 154,
+    "title": "Dearest Traitor",
+    "author": "Patricia Wilson",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL8315310W",
+    "firstPublished": 1992,
+    "coverId": 7259790
+  },
+  {
+    "id": 155,
+    "title": "Echoes of the Past",
+    "author": "Sally Wentworth",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3770492W",
+    "firstPublished": 1989,
+    "coverId": 9802595
+  },
+  {
+    "id": 156,
+    "title": "The Dark Side of Desire",
+    "author": "Michelle Reid",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL4233175W",
+    "firstPublished": 1991,
+    "coverId": 10213865
+  },
+  {
+    "id": 157,
+    "title": "Substitute Lover",
+    "author": "Penny Jordan",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327973W",
+    "firstPublished": 1987,
+    "coverId": 9242812
+  },
+  {
+    "id": 158,
+    "title": "A Reason for Being",
+    "author": "Penny Jordan",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL11327962W",
+    "firstPublished": 1989,
+    "coverId": 6642567
+  },
+  {
+    "id": 159,
+    "title": "Temporary Wife",
+    "author": "Roberta Leigh",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL4342716W",
+    "firstPublished": 1975,
+    "coverId": 8065142
+  },
+  {
+    "id": 160,
+    "title": "The Velvet Tiger",
+    "author": "Emma Darcy",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL2959374W",
+    "firstPublished": 1992,
+    "coverId": 6693353
+  },
+  {
+    "id": 161,
+    "title": "Mansion for My Love",
+    "author": "Robyn Donald",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3476079W",
+    "firstPublished": 1982,
+    "coverId": 6700545
+  },
+  {
+    "id": 162,
+    "title": "When the Loving Stopped",
+    "author": "Jessica Steele",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3845101W",
+    "firstPublished": 1988,
+    "coverId": 6797934
+  },
+  {
+    "id": 163,
+    "title": "Sweet Revenge",
     "author": "Anne Mather",
     "genres": [
       "Contemporary"
     ],
-    "openLibraryWorkId": "/works/OL3771321W",
-    "firstPublished": 1982,
-    "coverId": 7321349
+    "openLibraryWorkId": "/works/OL3771180W",
+    "firstPublished": 1970,
+    "coverId": 7321461
   },
   {
-    "id": 33,
+    "id": 164,
+    "title": "Counterfeit Bride",
+    "author": "Sara Craven",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3467489W",
+    "firstPublished": 1982,
+    "coverId": 7319268
+  },
+  {
+    "id": 165,
+    "title": "Gold Ring of Betrayal",
+    "author": "Michelle Reid",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL4233121W",
+    "firstPublished": 1996,
+    "coverId": 5009038
+  },
+  {
+    "id": 166,
+    "title": "The Love Hypothesis",
+    "author": "Ali Hazelwood",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL24178205W",
+    "firstPublished": 2021,
+    "coverId": 10601402
+  },
+  {
+    "id": 167,
+    "title": "Hidden Heart",
+    "author": "Jessica Steele",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3845160W",
+    "firstPublished": 1990,
+    "coverId": 6791153
+  },
+  {
+    "id": 168,
+    "title": "Betrayal in Bali",
+    "author": "Sally Wentworth",
+    "genres": [
+      "Contemporary"
+    ],
+    "openLibraryWorkId": "/works/OL3770466W",
+    "firstPublished": 1980,
+    "coverId": 7304574
+  },
+  {
+    "id": 169,
     "title": "The Prophet",
     "author": "Kahlil Gibran",
     "genres": [
@@ -370,7 +1888,7 @@ export const generatedBooks: Book[] = [
     "coverId": 418324
   },
   {
-    "id": 34,
+    "id": 170,
     "title": "On The Road",
     "author": "Jack Kerouac",
     "genres": [
@@ -381,7 +1899,7 @@ export const generatedBooks: Book[] = [
     "coverId": 34655
   },
   {
-    "id": 35,
+    "id": 171,
     "title": "Tanglewood Tales",
     "author": "Nathaniel Hawthorne",
     "genres": [
@@ -392,7 +1910,7 @@ export const generatedBooks: Book[] = [
     "coverId": 8243662
   },
   {
-    "id": 36,
+    "id": 172,
     "title": "Tender is the Night",
     "author": "F. Scott Fitzgerald",
     "genres": [
@@ -403,7 +1921,7 @@ export const generatedBooks: Book[] = [
     "coverId": 6984433
   },
   {
-    "id": 37,
+    "id": 173,
     "title": "Where the Red Fern Grows",
     "author": "Wilson Rawls",
     "genres": [
@@ -414,7 +1932,7 @@ export const generatedBooks: Book[] = [
     "coverId": 7996608
   },
   {
-    "id": 38,
+    "id": 174,
     "title": "La Peste",
     "author": "Albert Camus",
     "genres": [
@@ -423,5 +1941,368 @@ export const generatedBooks: Book[] = [
     "openLibraryWorkId": "/works/OL1230715W",
     "firstPublished": 1942,
     "coverId": 13151272
+  },
+  {
+    "id": 175,
+    "title": "Pagan Papers",
+    "author": "Kenneth Grahame",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL69600W",
+    "firstPublished": 1894,
+    "coverId": 5813881
+  },
+  {
+    "id": 176,
+    "title": "Die Aufzeichnungen des Malte Laurids Brigge",
+    "author": "Rainer Maria Rilke",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL3801007W",
+    "firstPublished": 1910,
+    "coverId": 420111
+  },
+  {
+    "id": 177,
+    "title": "The Cask of Amontillado",
+    "author": "Edgar Allan Poe",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL41016W",
+    "firstPublished": 1846,
+    "coverId": 11887418
+  },
+  {
+    "id": 178,
+    "title": "Mythology",
+    "author": "Edith Hamilton",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL5262120W",
+    "firstPublished": 1940,
+    "coverId": 8765912
+  },
+  {
+    "id": 179,
+    "title": "The Wild Knight and Other Poems",
+    "author": "Gilbert Keith Chesterton",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL76404W",
+    "firstPublished": 1900,
+    "coverId": 1930793
+  },
+  {
+    "id": 180,
+    "title": "Post office",
+    "author": "Charles Bukowski",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL50457W",
+    "firstPublished": 1974,
+    "coverId": 670128
+  },
+  {
+    "id": 181,
+    "title": "Love and Freindship",
+    "author": "Jane Austen",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL15079937W",
+    "firstPublished": 1995,
+    "coverId": 12641527
+  },
+  {
+    "id": 182,
+    "title": "The Stepford Wives",
+    "author": "Ira Levin",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL28319W",
+    "firstPublished": 1972,
+    "coverId": 8409254
+  },
+  {
+    "id": 183,
+    "title": "The Road to Oz",
+    "author": "L. Frank Baum",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL262390W",
+    "firstPublished": 1909,
+    "coverId": 8243922
+  },
+  {
+    "id": 184,
+    "title": "Siddhartha",
+    "author": "Hermann Hesse",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL872932W",
+    "firstPublished": 1922,
+    "coverId": 6562535
+  },
+  {
+    "id": 185,
+    "title": "Sult",
+    "author": "Knut Hamsun",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL573193W",
+    "firstPublished": 1890,
+    "coverId": 10472647
+  },
+  {
+    "id": 186,
+    "title": "A Modern Utopia",
+    "author": "H. G. Wells",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL52256W",
+    "firstPublished": 1900,
+    "coverId": 8232021
+  },
+  {
+    "id": 187,
+    "title": "The inside of the cup",
+    "author": "Winston Churchill",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL18521604W",
+    "firstPublished": 1913,
+    "coverId": 2758375
+  },
+  {
+    "id": 188,
+    "title": "Player Piano",
+    "author": "Kurt Vonnegut",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL98484W",
+    "firstPublished": 1952,
+    "coverId": 280246
+  },
+  {
+    "id": 189,
+    "title": "A Wonder Book for Girls and Boys",
+    "author": "Nathaniel Hawthorne",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL455667W",
+    "firstPublished": 1800,
+    "coverId": 10223576
+  },
+  {
+    "id": 190,
+    "title": "Heidi",
+    "author": "Spyri, Johanna",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL1455042W",
+    "firstPublished": 1885,
+    "coverId": 2668686
+  },
+  {
+    "id": 191,
+    "title": "Women in Love",
+    "author": "D. H. Lawrence",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL81294W",
+    "firstPublished": 1877,
+    "coverId": 13140934
+  },
+  {
+    "id": 192,
+    "title": "The Sea Fairies",
+    "author": "L. Frank Baum",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL262384W",
+    "firstPublished": 1911,
+    "coverId": 1814237
+  },
+  {
+    "id": 193,
+    "title": "The Fountainhead",
+    "author": "Ayn Rand",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL731663W",
+    "firstPublished": 1943,
+    "coverId": 6767765
+  },
+  {
+    "id": 194,
+    "title": "Where the Sidewalk Ends",
+    "author": "Shel Silverstein",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL3368289W",
+    "firstPublished": 1974,
+    "coverId": 31070
+  },
+  {
+    "id": 195,
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL1168007W",
+    "firstPublished": 1945,
+    "coverId": 11261770
+  },
+  {
+    "id": 196,
+    "title": "Il Paradiso",
+    "author": "Dante Alighieri",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL93230W",
+    "firstPublished": 1595,
+    "coverId": 6549496
+  },
+  {
+    "id": 197,
+    "title": "Sense and Sensibility",
+    "author": "Jane Austen",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL66562W",
+    "firstPublished": 1811,
+    "coverId": 9278292
+  },
+  {
+    "id": 198,
+    "title": "Black Ships Before Troy",
+    "author": "Rosemary Sutcliff",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL1417812W",
+    "firstPublished": 1967,
+    "coverId": 239008
+  },
+  {
+    "id": 199,
+    "title": "Of Mice and Men",
+    "author": "John Steinbeck",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL23204W",
+    "firstPublished": 1937,
+    "coverId": 14319003
+  },
+  {
+    "id": 200,
+    "title": "The Princess and the Goblin",
+    "author": "George MacDonald",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL15449W",
+    "firstPublished": 1872,
+    "coverId": 14363454
+  },
+  {
+    "id": 201,
+    "title": "The Awakening",
+    "author": "Kate Chopin",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL65430W",
+    "firstPublished": 1899,
+    "coverId": 8750241
+  },
+  {
+    "id": 202,
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL1168083W",
+    "firstPublished": 1949,
+    "coverId": 9267242
+  },
+  {
+    "id": 203,
+    "title": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes Saavedra",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL503666W",
+    "firstPublished": 1600,
+    "coverId": 14428305
+  },
+  {
+    "id": 204,
+    "title": "Dawn",
+    "author": "Eleanor Hodgman Porter",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL2775803W",
+    "firstPublished": 1919,
+    "coverId": 2839008
+  },
+  {
+    "id": 205,
+    "title": "Heroes, Gods and Monsters of the Greek Myths",
+    "author": "Bernard Evslin",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL4629690W",
+    "firstPublished": 1967,
+    "coverId": 368719
+  },
+  {
+    "id": 206,
+    "title": "The Princess and Curdie",
+    "author": "George MacDonald",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL15448W",
+    "firstPublished": 1832,
+    "coverId": 14357835
+  },
+  {
+    "id": 207,
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genres": [
+      "Classic"
+    ],
+    "openLibraryWorkId": "/works/OL1846076W",
+    "firstPublished": 1993,
+    "coverId": 8352502
   }
 ];

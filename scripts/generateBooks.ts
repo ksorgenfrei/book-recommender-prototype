@@ -3,7 +3,7 @@
 import type { Book, Genre } from "../src/types/types";
 import { writeFileSync } from "fs";
 
-const BOOKS_PER_GENRE = 10;
+const BOOKS_PER_GENRE = 50;
 const BOOKS_FILE = "src/data/generatedBooks.ts";
 
 // define the shape of one search configuration
@@ -60,8 +60,7 @@ function convertOpenLibraryDocToBook(
     doc: OpenLibrarySearchDoc,
     id: number,
     genre: Genre
-): Book | null { // the function returns either a valid Book or null (null if important data missing in OL)
-    // store publication year in readable variable. OL may return missing or invalid values (such as 0)
+): Book | null { 
     const firstPublished = doc.first_publish_year;
     const title = doc.title;
     const author = doc.author_name?.[0];
@@ -83,8 +82,8 @@ function convertOpenLibraryDocToBook(
         id,
         title,
         author,
-        genres: [genre], // Book type expects array, so []
-        openLibraryWorkId: doc.key, // keep for source traceability
+        genres: [genre],
+        openLibraryWorkId: doc.key,
         firstPublished,
         coverId: doc.cover_i,
     };

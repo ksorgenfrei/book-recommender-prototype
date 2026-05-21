@@ -7113,5 +7113,64577 @@ export const generatedRatings: Rating[] = [
     "bookId": 14,
     "readerId": 30,
     "rating": 3
+  },
+  {
+    "id": 1186,
+    "bookId": 77,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1187,
+    "bookId": 60,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1188,
+    "bookId": 129,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1189,
+    "bookId": 73,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1190,
+    "bookId": 94,
+    "readerId": 31,
+    "rating": 2
+  },
+  {
+    "id": 1191,
+    "bookId": 69,
+    "readerId": 31,
+    "rating": 2
+  },
+  {
+    "id": 1192,
+    "bookId": 47,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1193,
+    "bookId": 199,
+    "readerId": 31,
+    "rating": 2
+  },
+  {
+    "id": 1194,
+    "bookId": 58,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1195,
+    "bookId": 65,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1196,
+    "bookId": 143,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1197,
+    "bookId": 51,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1198,
+    "bookId": 92,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1199,
+    "bookId": 56,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1200,
+    "bookId": 68,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1201,
+    "bookId": 48,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1202,
+    "bookId": 55,
+    "readerId": 31,
+    "rating": 1
+  },
+  {
+    "id": 1203,
+    "bookId": 125,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1204,
+    "bookId": 49,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1205,
+    "bookId": 86,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1206,
+    "bookId": 81,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1207,
+    "bookId": 62,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1208,
+    "bookId": 70,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1209,
+    "bookId": 40,
+    "readerId": 31,
+    "rating": 1
+  },
+  {
+    "id": 1210,
+    "bookId": 95,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1211,
+    "bookId": 66,
+    "readerId": 31,
+    "rating": 1
+  },
+  {
+    "id": 1212,
+    "bookId": 150,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1213,
+    "bookId": 80,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1214,
+    "bookId": 90,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1215,
+    "bookId": 52,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1216,
+    "bookId": 74,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1217,
+    "bookId": 75,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1218,
+    "bookId": 19,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1219,
+    "bookId": 88,
+    "readerId": 31,
+    "rating": 2
+  },
+  {
+    "id": 1220,
+    "bookId": 67,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1221,
+    "bookId": 83,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1222,
+    "bookId": 18,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1223,
+    "bookId": 93,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1224,
+    "bookId": 71,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1225,
+    "bookId": 78,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1226,
+    "bookId": 72,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1227,
+    "bookId": 82,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1228,
+    "bookId": 149,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1229,
+    "bookId": 111,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1230,
+    "bookId": 79,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1231,
+    "bookId": 64,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1232,
+    "bookId": 195,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1233,
+    "bookId": 85,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1234,
+    "bookId": 154,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1235,
+    "bookId": 119,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1236,
+    "bookId": 57,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1237,
+    "bookId": 59,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1238,
+    "bookId": 46,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1239,
+    "bookId": 76,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1240,
+    "bookId": 89,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1241,
+    "bookId": 87,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1242,
+    "bookId": 91,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1243,
+    "bookId": 61,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1244,
+    "bookId": 53,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1245,
+    "bookId": 84,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1246,
+    "bookId": 63,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1247,
+    "bookId": 50,
+    "readerId": 31,
+    "rating": 3
+  },
+  {
+    "id": 1248,
+    "bookId": 107,
+    "readerId": 31,
+    "rating": 2
+  },
+  {
+    "id": 1249,
+    "bookId": 15,
+    "readerId": 31,
+    "rating": 2
+  },
+  {
+    "id": 1250,
+    "bookId": 54,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1251,
+    "bookId": 10,
+    "readerId": 31,
+    "rating": 1
+  },
+  {
+    "id": 1252,
+    "bookId": 131,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1253,
+    "bookId": 9,
+    "readerId": 31,
+    "rating": 4
+  },
+  {
+    "id": 1254,
+    "bookId": 33,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1255,
+    "bookId": 122,
+    "readerId": 31,
+    "rating": 5
+  },
+  {
+    "id": 1256,
+    "bookId": 185,
+    "readerId": 31,
+    "rating": 1
+  },
+  {
+    "id": 1257,
+    "bookId": 17,
+    "readerId": 31,
+    "rating": 2
+  },
+  {
+    "id": 1258,
+    "bookId": 55,
+    "readerId": 32,
+    "rating": 5
+  },
+  {
+    "id": 1259,
+    "bookId": 53,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1260,
+    "bookId": 60,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1261,
+    "bookId": 58,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1262,
+    "bookId": 50,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1263,
+    "bookId": 88,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1264,
+    "bookId": 104,
+    "readerId": 32,
+    "rating": 3
+  },
+  {
+    "id": 1265,
+    "bookId": 62,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1266,
+    "bookId": 69,
+    "readerId": 32,
+    "rating": 5
+  },
+  {
+    "id": 1267,
+    "bookId": 192,
+    "readerId": 32,
+    "rating": 3
+  },
+  {
+    "id": 1268,
+    "bookId": 94,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1269,
+    "bookId": 63,
+    "readerId": 32,
+    "rating": 3
+  },
+  {
+    "id": 1270,
+    "bookId": 59,
+    "readerId": 32,
+    "rating": 4
+  },
+  {
+    "id": 1271,
+    "bookId": 136,
+    "readerId": 32,
+    "rating": 2
+  },
+  {
+    "id": 1272,
+    "bookId": 181,
+    "readerId": 32,
+    "rating": 1
+  },
+  {
+    "id": 1273,
+    "bookId": 169,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1274,
+    "bookId": 193,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1275,
+    "bookId": 63,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1276,
+    "bookId": 42,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1277,
+    "bookId": 49,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1278,
+    "bookId": 104,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1279,
+    "bookId": 15,
+    "readerId": 33,
+    "rating": 2
+  },
+  {
+    "id": 1280,
+    "bookId": 47,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1281,
+    "bookId": 57,
+    "readerId": 33,
+    "rating": 1
+  },
+  {
+    "id": 1282,
+    "bookId": 76,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1283,
+    "bookId": 50,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1284,
+    "bookId": 46,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1285,
+    "bookId": 11,
+    "readerId": 33,
+    "rating": 1
+  },
+  {
+    "id": 1286,
+    "bookId": 74,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1287,
+    "bookId": 192,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1288,
+    "bookId": 90,
+    "readerId": 33,
+    "rating": 2
+  },
+  {
+    "id": 1289,
+    "bookId": 174,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1290,
+    "bookId": 68,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1291,
+    "bookId": 64,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1292,
+    "bookId": 54,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1293,
+    "bookId": 22,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1294,
+    "bookId": 175,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1295,
+    "bookId": 196,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1296,
+    "bookId": 113,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1297,
+    "bookId": 78,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1298,
+    "bookId": 126,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1299,
+    "bookId": 75,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1300,
+    "bookId": 1,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1301,
+    "bookId": 53,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1302,
+    "bookId": 91,
+    "readerId": 33,
+    "rating": 2
+  },
+  {
+    "id": 1303,
+    "bookId": 120,
+    "readerId": 33,
+    "rating": 2
+  },
+  {
+    "id": 1304,
+    "bookId": 59,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1305,
+    "bookId": 172,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1306,
+    "bookId": 31,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1307,
+    "bookId": 13,
+    "readerId": 33,
+    "rating": 1
+  },
+  {
+    "id": 1308,
+    "bookId": 141,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1309,
+    "bookId": 79,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1310,
+    "bookId": 7,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1311,
+    "bookId": 77,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1312,
+    "bookId": 95,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1313,
+    "bookId": 69,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1314,
+    "bookId": 52,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1315,
+    "bookId": 161,
+    "readerId": 33,
+    "rating": 2
+  },
+  {
+    "id": 1316,
+    "bookId": 81,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1317,
+    "bookId": 134,
+    "readerId": 33,
+    "rating": 5
+  },
+  {
+    "id": 1318,
+    "bookId": 17,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1319,
+    "bookId": 89,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1320,
+    "bookId": 56,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1321,
+    "bookId": 70,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1322,
+    "bookId": 140,
+    "readerId": 33,
+    "rating": 2
+  },
+  {
+    "id": 1323,
+    "bookId": 65,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1324,
+    "bookId": 29,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1325,
+    "bookId": 19,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1326,
+    "bookId": 71,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1327,
+    "bookId": 80,
+    "readerId": 33,
+    "rating": 4
+  },
+  {
+    "id": 1328,
+    "bookId": 83,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1329,
+    "bookId": 156,
+    "readerId": 33,
+    "rating": 2
+  },
+  {
+    "id": 1330,
+    "bookId": 185,
+    "readerId": 33,
+    "rating": 3
+  },
+  {
+    "id": 1331,
+    "bookId": 199,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1332,
+    "bookId": 52,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1333,
+    "bookId": 191,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1334,
+    "bookId": 190,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1335,
+    "bookId": 106,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1336,
+    "bookId": 120,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1337,
+    "bookId": 177,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1338,
+    "bookId": 101,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1339,
+    "bookId": 204,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1340,
+    "bookId": 173,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1341,
+    "bookId": 95,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1342,
+    "bookId": 187,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1343,
+    "bookId": 193,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1344,
+    "bookId": 202,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1345,
+    "bookId": 159,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1346,
+    "bookId": 206,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1347,
+    "bookId": 198,
+    "readerId": 34,
+    "rating": 1
+  },
+  {
+    "id": 1348,
+    "bookId": 73,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1349,
+    "bookId": 183,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1350,
+    "bookId": 127,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1351,
+    "bookId": 62,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1352,
+    "bookId": 186,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1353,
+    "bookId": 14,
+    "readerId": 34,
+    "rating": 1
+  },
+  {
+    "id": 1354,
+    "bookId": 15,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1355,
+    "bookId": 185,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1356,
+    "bookId": 205,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1357,
+    "bookId": 201,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1358,
+    "bookId": 117,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1359,
+    "bookId": 144,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1360,
+    "bookId": 171,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1361,
+    "bookId": 180,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1362,
+    "bookId": 169,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1363,
+    "bookId": 25,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1364,
+    "bookId": 134,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1365,
+    "bookId": 207,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1366,
+    "bookId": 176,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1367,
+    "bookId": 141,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1368,
+    "bookId": 197,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1369,
+    "bookId": 195,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1370,
+    "bookId": 33,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1371,
+    "bookId": 172,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1372,
+    "bookId": 21,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1373,
+    "bookId": 72,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1374,
+    "bookId": 158,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1375,
+    "bookId": 188,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1376,
+    "bookId": 200,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1377,
+    "bookId": 194,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1378,
+    "bookId": 179,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1379,
+    "bookId": 196,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1380,
+    "bookId": 203,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1381,
+    "bookId": 170,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1382,
+    "bookId": 189,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1383,
+    "bookId": 184,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1384,
+    "bookId": 182,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1385,
+    "bookId": 192,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1386,
+    "bookId": 107,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1387,
+    "bookId": 181,
+    "readerId": 34,
+    "rating": 2
+  },
+  {
+    "id": 1388,
+    "bookId": 175,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1389,
+    "bookId": 178,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1390,
+    "bookId": 174,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1391,
+    "bookId": 1,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1392,
+    "bookId": 100,
+    "readerId": 34,
+    "rating": 5
+  },
+  {
+    "id": 1393,
+    "bookId": 146,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1394,
+    "bookId": 124,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1395,
+    "bookId": 67,
+    "readerId": 34,
+    "rating": 4
+  },
+  {
+    "id": 1396,
+    "bookId": 53,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1397,
+    "bookId": 3,
+    "readerId": 34,
+    "rating": 3
+  },
+  {
+    "id": 1398,
+    "bookId": 103,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1399,
+    "bookId": 45,
+    "readerId": 35,
+    "rating": 3
+  },
+  {
+    "id": 1400,
+    "bookId": 150,
+    "readerId": 35,
+    "rating": 3
+  },
+  {
+    "id": 1401,
+    "bookId": 124,
+    "readerId": 35,
+    "rating": 5
+  },
+  {
+    "id": 1402,
+    "bookId": 139,
+    "readerId": 35,
+    "rating": 3
+  },
+  {
+    "id": 1403,
+    "bookId": 109,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1404,
+    "bookId": 31,
+    "readerId": 35,
+    "rating": 5
+  },
+  {
+    "id": 1405,
+    "bookId": 193,
+    "readerId": 35,
+    "rating": 3
+  },
+  {
+    "id": 1406,
+    "bookId": 138,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1407,
+    "bookId": 29,
+    "readerId": 35,
+    "rating": 3
+  },
+  {
+    "id": 1408,
+    "bookId": 64,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1409,
+    "bookId": 136,
+    "readerId": 35,
+    "rating": 5
+  },
+  {
+    "id": 1410,
+    "bookId": 134,
+    "readerId": 35,
+    "rating": 5
+  },
+  {
+    "id": 1411,
+    "bookId": 164,
+    "readerId": 35,
+    "rating": 2
+  },
+  {
+    "id": 1412,
+    "bookId": 120,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1413,
+    "bookId": 128,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1414,
+    "bookId": 50,
+    "readerId": 35,
+    "rating": 3
+  },
+  {
+    "id": 1415,
+    "bookId": 105,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1416,
+    "bookId": 99,
+    "readerId": 35,
+    "rating": 4
+  },
+  {
+    "id": 1417,
+    "bookId": 68,
+    "readerId": 35,
+    "rating": 5
+  },
+  {
+    "id": 1418,
+    "bookId": 104,
+    "readerId": 35,
+    "rating": 3
+  },
+  {
+    "id": 1419,
+    "bookId": 102,
+    "readerId": 35,
+    "rating": 5
+  },
+  {
+    "id": 1420,
+    "bookId": 171,
+    "readerId": 36,
+    "rating": 3
+  },
+  {
+    "id": 1421,
+    "bookId": 78,
+    "readerId": 36,
+    "rating": 2
+  },
+  {
+    "id": 1422,
+    "bookId": 100,
+    "readerId": 36,
+    "rating": 5
+  },
+  {
+    "id": 1423,
+    "bookId": 122,
+    "readerId": 36,
+    "rating": 5
+  },
+  {
+    "id": 1424,
+    "bookId": 133,
+    "readerId": 36,
+    "rating": 4
+  },
+  {
+    "id": 1425,
+    "bookId": 118,
+    "readerId": 36,
+    "rating": 4
+  },
+  {
+    "id": 1426,
+    "bookId": 113,
+    "readerId": 36,
+    "rating": 4
+  },
+  {
+    "id": 1427,
+    "bookId": 126,
+    "readerId": 36,
+    "rating": 3
+  },
+  {
+    "id": 1428,
+    "bookId": 77,
+    "readerId": 36,
+    "rating": 4
+  },
+  {
+    "id": 1429,
+    "bookId": 120,
+    "readerId": 36,
+    "rating": 1
+  },
+  {
+    "id": 1430,
+    "bookId": 40,
+    "readerId": 36,
+    "rating": 5
+  },
+  {
+    "id": 1431,
+    "bookId": 108,
+    "readerId": 36,
+    "rating": 5
+  },
+  {
+    "id": 1432,
+    "bookId": 96,
+    "readerId": 37,
+    "rating": 3
+  },
+  {
+    "id": 1433,
+    "bookId": 77,
+    "readerId": 37,
+    "rating": 4
+  },
+  {
+    "id": 1434,
+    "bookId": 138,
+    "readerId": 37,
+    "rating": 4
+  },
+  {
+    "id": 1435,
+    "bookId": 124,
+    "readerId": 37,
+    "rating": 5
+  },
+  {
+    "id": 1436,
+    "bookId": 51,
+    "readerId": 37,
+    "rating": 3
+  },
+  {
+    "id": 1437,
+    "bookId": 107,
+    "readerId": 37,
+    "rating": 5
+  },
+  {
+    "id": 1438,
+    "bookId": 35,
+    "readerId": 37,
+    "rating": 4
+  },
+  {
+    "id": 1439,
+    "bookId": 131,
+    "readerId": 37,
+    "rating": 4
+  },
+  {
+    "id": 1440,
+    "bookId": 122,
+    "readerId": 37,
+    "rating": 4
+  },
+  {
+    "id": 1441,
+    "bookId": 203,
+    "readerId": 37,
+    "rating": 2
+  },
+  {
+    "id": 1442,
+    "bookId": 109,
+    "readerId": 37,
+    "rating": 5
+  },
+  {
+    "id": 1443,
+    "bookId": 116,
+    "readerId": 37,
+    "rating": 5
+  },
+  {
+    "id": 1444,
+    "bookId": 106,
+    "readerId": 37,
+    "rating": 5
+  },
+  {
+    "id": 1445,
+    "bookId": 22,
+    "readerId": 37,
+    "rating": 3
+  },
+  {
+    "id": 1446,
+    "bookId": 9,
+    "readerId": 37,
+    "rating": 3
+  },
+  {
+    "id": 1447,
+    "bookId": 117,
+    "readerId": 37,
+    "rating": 5
+  },
+  {
+    "id": 1448,
+    "bookId": 123,
+    "readerId": 37,
+    "rating": 3
+  },
+  {
+    "id": 1449,
+    "bookId": 129,
+    "readerId": 37,
+    "rating": 3
+  },
+  {
+    "id": 1450,
+    "bookId": 134,
+    "readerId": 37,
+    "rating": 4
+  },
+  {
+    "id": 1451,
+    "bookId": 99,
+    "readerId": 37,
+    "rating": 3
+  },
+  {
+    "id": 1452,
+    "bookId": 135,
+    "readerId": 37,
+    "rating": 4
+  },
+  {
+    "id": 1453,
+    "bookId": 79,
+    "readerId": 38,
+    "rating": 2
+  },
+  {
+    "id": 1454,
+    "bookId": 153,
+    "readerId": 38,
+    "rating": 5
+  },
+  {
+    "id": 1455,
+    "bookId": 199,
+    "readerId": 38,
+    "rating": 3
+  },
+  {
+    "id": 1456,
+    "bookId": 155,
+    "readerId": 38,
+    "rating": 4
+  },
+  {
+    "id": 1457,
+    "bookId": 90,
+    "readerId": 38,
+    "rating": 4
+  },
+  {
+    "id": 1458,
+    "bookId": 60,
+    "readerId": 38,
+    "rating": 3
+  },
+  {
+    "id": 1459,
+    "bookId": 142,
+    "readerId": 38,
+    "rating": 3
+  },
+  {
+    "id": 1460,
+    "bookId": 115,
+    "readerId": 38,
+    "rating": 3
+  },
+  {
+    "id": 1461,
+    "bookId": 63,
+    "readerId": 38,
+    "rating": 4
+  },
+  {
+    "id": 1462,
+    "bookId": 162,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1463,
+    "bookId": 123,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1464,
+    "bookId": 161,
+    "readerId": 39,
+    "rating": 5
+  },
+  {
+    "id": 1465,
+    "bookId": 146,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1466,
+    "bookId": 140,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1467,
+    "bookId": 116,
+    "readerId": 39,
+    "rating": 1
+  },
+  {
+    "id": 1468,
+    "bookId": 166,
+    "readerId": 39,
+    "rating": 5
+  },
+  {
+    "id": 1469,
+    "bookId": 90,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1470,
+    "bookId": 145,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1471,
+    "bookId": 82,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1472,
+    "bookId": 154,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1473,
+    "bookId": 54,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1474,
+    "bookId": 168,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1475,
+    "bookId": 186,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1476,
+    "bookId": 79,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1477,
+    "bookId": 85,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1478,
+    "bookId": 13,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1479,
+    "bookId": 5,
+    "readerId": 39,
+    "rating": 5
+  },
+  {
+    "id": 1480,
+    "bookId": 150,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1481,
+    "bookId": 139,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1482,
+    "bookId": 73,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1483,
+    "bookId": 81,
+    "readerId": 39,
+    "rating": 5
+  },
+  {
+    "id": 1484,
+    "bookId": 72,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1485,
+    "bookId": 30,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1486,
+    "bookId": 149,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1487,
+    "bookId": 132,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1488,
+    "bookId": 71,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1489,
+    "bookId": 164,
+    "readerId": 39,
+    "rating": 5
+  },
+  {
+    "id": 1490,
+    "bookId": 152,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1491,
+    "bookId": 74,
+    "readerId": 39,
+    "rating": 5
+  },
+  {
+    "id": 1492,
+    "bookId": 106,
+    "readerId": 39,
+    "rating": 2
+  },
+  {
+    "id": 1493,
+    "bookId": 93,
+    "readerId": 39,
+    "rating": 4
+  },
+  {
+    "id": 1494,
+    "bookId": 184,
+    "readerId": 39,
+    "rating": 3
+  },
+  {
+    "id": 1495,
+    "bookId": 180,
+    "readerId": 39,
+    "rating": 5
+  },
+  {
+    "id": 1496,
+    "bookId": 170,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1497,
+    "bookId": 93,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1498,
+    "bookId": 167,
+    "readerId": 40,
+    "rating": 5
+  },
+  {
+    "id": 1499,
+    "bookId": 81,
+    "readerId": 40,
+    "rating": 1
+  },
+  {
+    "id": 1500,
+    "bookId": 185,
+    "readerId": 40,
+    "rating": 1
+  },
+  {
+    "id": 1501,
+    "bookId": 53,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1502,
+    "bookId": 204,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1503,
+    "bookId": 87,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1504,
+    "bookId": 65,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1505,
+    "bookId": 37,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1506,
+    "bookId": 59,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1507,
+    "bookId": 153,
+    "readerId": 40,
+    "rating": 5
+  },
+  {
+    "id": 1508,
+    "bookId": 140,
+    "readerId": 40,
+    "rating": 5
+  },
+  {
+    "id": 1509,
+    "bookId": 146,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1510,
+    "bookId": 89,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1511,
+    "bookId": 157,
+    "readerId": 40,
+    "rating": 1
+  },
+  {
+    "id": 1512,
+    "bookId": 166,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1513,
+    "bookId": 141,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1514,
+    "bookId": 121,
+    "readerId": 40,
+    "rating": 1
+  },
+  {
+    "id": 1515,
+    "bookId": 154,
+    "readerId": 40,
+    "rating": 1
+  },
+  {
+    "id": 1516,
+    "bookId": 80,
+    "readerId": 40,
+    "rating": 1
+  },
+  {
+    "id": 1517,
+    "bookId": 77,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1518,
+    "bookId": 63,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1519,
+    "bookId": 76,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1520,
+    "bookId": 143,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1521,
+    "bookId": 148,
+    "readerId": 40,
+    "rating": 5
+  },
+  {
+    "id": 1522,
+    "bookId": 117,
+    "readerId": 40,
+    "rating": 2
+  },
+  {
+    "id": 1523,
+    "bookId": 165,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1524,
+    "bookId": 75,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1525,
+    "bookId": 173,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1526,
+    "bookId": 62,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1527,
+    "bookId": 151,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1528,
+    "bookId": 52,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1529,
+    "bookId": 51,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1530,
+    "bookId": 168,
+    "readerId": 40,
+    "rating": 3
+  },
+  {
+    "id": 1531,
+    "bookId": 158,
+    "readerId": 40,
+    "rating": 5
+  },
+  {
+    "id": 1532,
+    "bookId": 82,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1533,
+    "bookId": 155,
+    "readerId": 40,
+    "rating": 4
+  },
+  {
+    "id": 1534,
+    "bookId": 33,
+    "readerId": 40,
+    "rating": 2
+  },
+  {
+    "id": 1535,
+    "bookId": 47,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1536,
+    "bookId": 96,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1537,
+    "bookId": 90,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1538,
+    "bookId": 77,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1539,
+    "bookId": 111,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1540,
+    "bookId": 70,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1541,
+    "bookId": 48,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1542,
+    "bookId": 107,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1543,
+    "bookId": 84,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1544,
+    "bookId": 133,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1545,
+    "bookId": 73,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1546,
+    "bookId": 49,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1547,
+    "bookId": 120,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1548,
+    "bookId": 60,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1549,
+    "bookId": 150,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1550,
+    "bookId": 54,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1551,
+    "bookId": 91,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1552,
+    "bookId": 88,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1553,
+    "bookId": 196,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1554,
+    "bookId": 81,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1555,
+    "bookId": 52,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1556,
+    "bookId": 56,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1557,
+    "bookId": 53,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1558,
+    "bookId": 79,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1559,
+    "bookId": 57,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1560,
+    "bookId": 66,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1561,
+    "bookId": 89,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1562,
+    "bookId": 39,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1563,
+    "bookId": 179,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1564,
+    "bookId": 50,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1565,
+    "bookId": 85,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1566,
+    "bookId": 181,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1567,
+    "bookId": 75,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1568,
+    "bookId": 13,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1569,
+    "bookId": 164,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1570,
+    "bookId": 86,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1571,
+    "bookId": 127,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1572,
+    "bookId": 87,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1573,
+    "bookId": 201,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1574,
+    "bookId": 100,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1575,
+    "bookId": 125,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1576,
+    "bookId": 68,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1577,
+    "bookId": 94,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1578,
+    "bookId": 2,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1579,
+    "bookId": 147,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1580,
+    "bookId": 153,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1581,
+    "bookId": 80,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1582,
+    "bookId": 170,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1583,
+    "bookId": 82,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1584,
+    "bookId": 7,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1585,
+    "bookId": 36,
+    "readerId": 41,
+    "rating": 1
+  },
+  {
+    "id": 1586,
+    "bookId": 74,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1587,
+    "bookId": 33,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1588,
+    "bookId": 63,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1589,
+    "bookId": 76,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1590,
+    "bookId": 69,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1591,
+    "bookId": 128,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1592,
+    "bookId": 27,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1593,
+    "bookId": 136,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1594,
+    "bookId": 93,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1595,
+    "bookId": 62,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1596,
+    "bookId": 103,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1597,
+    "bookId": 19,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1598,
+    "bookId": 72,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1599,
+    "bookId": 108,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1600,
+    "bookId": 20,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1601,
+    "bookId": 65,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1602,
+    "bookId": 197,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1603,
+    "bookId": 67,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1604,
+    "bookId": 95,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1605,
+    "bookId": 59,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1606,
+    "bookId": 71,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1607,
+    "bookId": 151,
+    "readerId": 41,
+    "rating": 1
+  },
+  {
+    "id": 1608,
+    "bookId": 6,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1609,
+    "bookId": 78,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1610,
+    "bookId": 64,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1611,
+    "bookId": 55,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1612,
+    "bookId": 51,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1613,
+    "bookId": 83,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1614,
+    "bookId": 58,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1615,
+    "bookId": 61,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1616,
+    "bookId": 92,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1617,
+    "bookId": 154,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1618,
+    "bookId": 25,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1619,
+    "bookId": 180,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1620,
+    "bookId": 126,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1621,
+    "bookId": 135,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1622,
+    "bookId": 200,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1623,
+    "bookId": 32,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1624,
+    "bookId": 138,
+    "readerId": 41,
+    "rating": 4
+  },
+  {
+    "id": 1625,
+    "bookId": 30,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1626,
+    "bookId": 22,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1627,
+    "bookId": 141,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1628,
+    "bookId": 187,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1629,
+    "bookId": 155,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1630,
+    "bookId": 189,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1631,
+    "bookId": 98,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1632,
+    "bookId": 206,
+    "readerId": 41,
+    "rating": 2
+  },
+  {
+    "id": 1633,
+    "bookId": 186,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1634,
+    "bookId": 183,
+    "readerId": 41,
+    "rating": 1
+  },
+  {
+    "id": 1635,
+    "bookId": 140,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1636,
+    "bookId": 182,
+    "readerId": 41,
+    "rating": 3
+  },
+  {
+    "id": 1637,
+    "bookId": 176,
+    "readerId": 41,
+    "rating": 1
+  },
+  {
+    "id": 1638,
+    "bookId": 159,
+    "readerId": 41,
+    "rating": 5
+  },
+  {
+    "id": 1639,
+    "bookId": 1,
+    "readerId": 42,
+    "rating": 2
+  },
+  {
+    "id": 1640,
+    "bookId": 160,
+    "readerId": 42,
+    "rating": 5
+  },
+  {
+    "id": 1641,
+    "bookId": 85,
+    "readerId": 42,
+    "rating": 5
+  },
+  {
+    "id": 1642,
+    "bookId": 146,
+    "readerId": 42,
+    "rating": 3
+  },
+  {
+    "id": 1643,
+    "bookId": 54,
+    "readerId": 42,
+    "rating": 5
+  },
+  {
+    "id": 1644,
+    "bookId": 56,
+    "readerId": 42,
+    "rating": 3
+  },
+  {
+    "id": 1645,
+    "bookId": 140,
+    "readerId": 42,
+    "rating": 3
+  },
+  {
+    "id": 1646,
+    "bookId": 52,
+    "readerId": 42,
+    "rating": 4
+  },
+  {
+    "id": 1647,
+    "bookId": 81,
+    "readerId": 42,
+    "rating": 3
+  },
+  {
+    "id": 1648,
+    "bookId": 96,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1649,
+    "bookId": 111,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1650,
+    "bookId": 196,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1651,
+    "bookId": 121,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1652,
+    "bookId": 133,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1653,
+    "bookId": 109,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1654,
+    "bookId": 110,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1655,
+    "bookId": 55,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1656,
+    "bookId": 102,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1657,
+    "bookId": 125,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1658,
+    "bookId": 103,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1659,
+    "bookId": 129,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1660,
+    "bookId": 176,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1661,
+    "bookId": 146,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1662,
+    "bookId": 116,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1663,
+    "bookId": 33,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1664,
+    "bookId": 100,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1665,
+    "bookId": 123,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1666,
+    "bookId": 104,
+    "readerId": 43,
+    "rating": 1
+  },
+  {
+    "id": 1667,
+    "bookId": 189,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1668,
+    "bookId": 119,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1669,
+    "bookId": 139,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1670,
+    "bookId": 56,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1671,
+    "bookId": 77,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1672,
+    "bookId": 97,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1673,
+    "bookId": 132,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1674,
+    "bookId": 136,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1675,
+    "bookId": 122,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1676,
+    "bookId": 120,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1677,
+    "bookId": 18,
+    "readerId": 43,
+    "rating": 1
+  },
+  {
+    "id": 1678,
+    "bookId": 9,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1679,
+    "bookId": 202,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1680,
+    "bookId": 69,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1681,
+    "bookId": 162,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1682,
+    "bookId": 113,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1683,
+    "bookId": 27,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1684,
+    "bookId": 137,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1685,
+    "bookId": 101,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1686,
+    "bookId": 127,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1687,
+    "bookId": 98,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1688,
+    "bookId": 84,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1689,
+    "bookId": 47,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1690,
+    "bookId": 61,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1691,
+    "bookId": 135,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1692,
+    "bookId": 112,
+    "readerId": 43,
+    "rating": 1
+  },
+  {
+    "id": 1693,
+    "bookId": 107,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1694,
+    "bookId": 143,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1695,
+    "bookId": 106,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1696,
+    "bookId": 138,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1697,
+    "bookId": 203,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1698,
+    "bookId": 12,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1699,
+    "bookId": 131,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1700,
+    "bookId": 114,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1701,
+    "bookId": 117,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1702,
+    "bookId": 68,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1703,
+    "bookId": 99,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1704,
+    "bookId": 91,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1705,
+    "bookId": 130,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1706,
+    "bookId": 115,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1707,
+    "bookId": 170,
+    "readerId": 43,
+    "rating": 2
+  },
+  {
+    "id": 1708,
+    "bookId": 118,
+    "readerId": 43,
+    "rating": 5
+  },
+  {
+    "id": 1709,
+    "bookId": 128,
+    "readerId": 43,
+    "rating": 1
+  },
+  {
+    "id": 1710,
+    "bookId": 71,
+    "readerId": 43,
+    "rating": 3
+  },
+  {
+    "id": 1711,
+    "bookId": 87,
+    "readerId": 43,
+    "rating": 4
+  },
+  {
+    "id": 1712,
+    "bookId": 54,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1713,
+    "bookId": 51,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1714,
+    "bookId": 66,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1715,
+    "bookId": 73,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1716,
+    "bookId": 181,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1717,
+    "bookId": 88,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1718,
+    "bookId": 61,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1719,
+    "bookId": 15,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1720,
+    "bookId": 77,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1721,
+    "bookId": 89,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1722,
+    "bookId": 57,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1723,
+    "bookId": 47,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1724,
+    "bookId": 129,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1725,
+    "bookId": 76,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1726,
+    "bookId": 70,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1727,
+    "bookId": 78,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1728,
+    "bookId": 127,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1729,
+    "bookId": 58,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1730,
+    "bookId": 69,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1731,
+    "bookId": 60,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1732,
+    "bookId": 149,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1733,
+    "bookId": 67,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1734,
+    "bookId": 59,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1735,
+    "bookId": 4,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1736,
+    "bookId": 87,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1737,
+    "bookId": 90,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1738,
+    "bookId": 84,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1739,
+    "bookId": 95,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1740,
+    "bookId": 38,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1741,
+    "bookId": 50,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1742,
+    "bookId": 40,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1743,
+    "bookId": 91,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1744,
+    "bookId": 71,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1745,
+    "bookId": 93,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1746,
+    "bookId": 19,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1747,
+    "bookId": 55,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1748,
+    "bookId": 65,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1749,
+    "bookId": 52,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1750,
+    "bookId": 75,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1751,
+    "bookId": 94,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1752,
+    "bookId": 110,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1753,
+    "bookId": 85,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1754,
+    "bookId": 92,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1755,
+    "bookId": 31,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1756,
+    "bookId": 72,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1757,
+    "bookId": 171,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1758,
+    "bookId": 83,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1759,
+    "bookId": 190,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1760,
+    "bookId": 151,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1761,
+    "bookId": 81,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1762,
+    "bookId": 32,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1763,
+    "bookId": 86,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1764,
+    "bookId": 56,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1765,
+    "bookId": 80,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1766,
+    "bookId": 48,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1767,
+    "bookId": 68,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1768,
+    "bookId": 22,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1769,
+    "bookId": 53,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1770,
+    "bookId": 24,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1771,
+    "bookId": 63,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1772,
+    "bookId": 79,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1773,
+    "bookId": 43,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1774,
+    "bookId": 5,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1775,
+    "bookId": 62,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1776,
+    "bookId": 39,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1777,
+    "bookId": 102,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1778,
+    "bookId": 74,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1779,
+    "bookId": 64,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1780,
+    "bookId": 142,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1781,
+    "bookId": 82,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1782,
+    "bookId": 49,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1783,
+    "bookId": 25,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1784,
+    "bookId": 106,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1785,
+    "bookId": 172,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1786,
+    "bookId": 116,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1787,
+    "bookId": 18,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1788,
+    "bookId": 146,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1789,
+    "bookId": 153,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1790,
+    "bookId": 109,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1791,
+    "bookId": 201,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1792,
+    "bookId": 30,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1793,
+    "bookId": 111,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1794,
+    "bookId": 37,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1795,
+    "bookId": 119,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1796,
+    "bookId": 126,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1797,
+    "bookId": 162,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1798,
+    "bookId": 148,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1799,
+    "bookId": 204,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1800,
+    "bookId": 164,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1801,
+    "bookId": 17,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1802,
+    "bookId": 98,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1803,
+    "bookId": 145,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1804,
+    "bookId": 103,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1805,
+    "bookId": 163,
+    "readerId": 44,
+    "rating": 1
+  },
+  {
+    "id": 1806,
+    "bookId": 165,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1807,
+    "bookId": 132,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1808,
+    "bookId": 137,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1809,
+    "bookId": 107,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1810,
+    "bookId": 205,
+    "readerId": 44,
+    "rating": 5
+  },
+  {
+    "id": 1811,
+    "bookId": 20,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1812,
+    "bookId": 189,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1813,
+    "bookId": 21,
+    "readerId": 44,
+    "rating": 4
+  },
+  {
+    "id": 1814,
+    "bookId": 185,
+    "readerId": 44,
+    "rating": 2
+  },
+  {
+    "id": 1815,
+    "bookId": 154,
+    "readerId": 44,
+    "rating": 3
+  },
+  {
+    "id": 1816,
+    "bookId": 37,
+    "readerId": 45,
+    "rating": 2
+  },
+  {
+    "id": 1817,
+    "bookId": 6,
+    "readerId": 45,
+    "rating": 4
+  },
+  {
+    "id": 1818,
+    "bookId": 44,
+    "readerId": 45,
+    "rating": 1
+  },
+  {
+    "id": 1819,
+    "bookId": 24,
+    "readerId": 45,
+    "rating": 1
+  },
+  {
+    "id": 1820,
+    "bookId": 4,
+    "readerId": 45,
+    "rating": 4
+  },
+  {
+    "id": 1821,
+    "bookId": 28,
+    "readerId": 45,
+    "rating": 4
+  },
+  {
+    "id": 1822,
+    "bookId": 85,
+    "readerId": 45,
+    "rating": 3
+  },
+  {
+    "id": 1823,
+    "bookId": 21,
+    "readerId": 45,
+    "rating": 4
+  },
+  {
+    "id": 1824,
+    "bookId": 36,
+    "readerId": 45,
+    "rating": 4
+  },
+  {
+    "id": 1825,
+    "bookId": 13,
+    "readerId": 45,
+    "rating": 4
+  },
+  {
+    "id": 1826,
+    "bookId": 145,
+    "readerId": 45,
+    "rating": 5
+  },
+  {
+    "id": 1827,
+    "bookId": 40,
+    "readerId": 45,
+    "rating": 4
+  },
+  {
+    "id": 1828,
+    "bookId": 204,
+    "readerId": 45,
+    "rating": 1
+  },
+  {
+    "id": 1829,
+    "bookId": 39,
+    "readerId": 45,
+    "rating": 1
+  },
+  {
+    "id": 1830,
+    "bookId": 70,
+    "readerId": 45,
+    "rating": 3
+  },
+  {
+    "id": 1831,
+    "bookId": 155,
+    "readerId": 45,
+    "rating": 3
+  },
+  {
+    "id": 1832,
+    "bookId": 25,
+    "readerId": 45,
+    "rating": 5
+  },
+  {
+    "id": 1833,
+    "bookId": 203,
+    "readerId": 45,
+    "rating": 1
+  },
+  {
+    "id": 1834,
+    "bookId": 104,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1835,
+    "bookId": 130,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1836,
+    "bookId": 113,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1837,
+    "bookId": 106,
+    "readerId": 46,
+    "rating": 2
+  },
+  {
+    "id": 1838,
+    "bookId": 96,
+    "readerId": 46,
+    "rating": 1
+  },
+  {
+    "id": 1839,
+    "bookId": 99,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1840,
+    "bookId": 103,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1841,
+    "bookId": 135,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1842,
+    "bookId": 132,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1843,
+    "bookId": 111,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1844,
+    "bookId": 128,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1845,
+    "bookId": 97,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1846,
+    "bookId": 202,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1847,
+    "bookId": 199,
+    "readerId": 46,
+    "rating": 2
+  },
+  {
+    "id": 1848,
+    "bookId": 139,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1849,
+    "bookId": 120,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1850,
+    "bookId": 131,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1851,
+    "bookId": 101,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1852,
+    "bookId": 112,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1853,
+    "bookId": 124,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1854,
+    "bookId": 121,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1855,
+    "bookId": 144,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1856,
+    "bookId": 133,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1857,
+    "bookId": 134,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1858,
+    "bookId": 127,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1859,
+    "bookId": 122,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1860,
+    "bookId": 37,
+    "readerId": 46,
+    "rating": 2
+  },
+  {
+    "id": 1861,
+    "bookId": 107,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1862,
+    "bookId": 74,
+    "readerId": 46,
+    "rating": 2
+  },
+  {
+    "id": 1863,
+    "bookId": 98,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1864,
+    "bookId": 108,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1865,
+    "bookId": 119,
+    "readerId": 46,
+    "rating": 1
+  },
+  {
+    "id": 1866,
+    "bookId": 123,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1867,
+    "bookId": 100,
+    "readerId": 46,
+    "rating": 2
+  },
+  {
+    "id": 1868,
+    "bookId": 63,
+    "readerId": 46,
+    "rating": 2
+  },
+  {
+    "id": 1869,
+    "bookId": 114,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1870,
+    "bookId": 102,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1871,
+    "bookId": 28,
+    "readerId": 46,
+    "rating": 1
+  },
+  {
+    "id": 1872,
+    "bookId": 117,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1873,
+    "bookId": 153,
+    "readerId": 46,
+    "rating": 3
+  },
+  {
+    "id": 1874,
+    "bookId": 47,
+    "readerId": 46,
+    "rating": 2
+  },
+  {
+    "id": 1875,
+    "bookId": 51,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1876,
+    "bookId": 109,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1877,
+    "bookId": 105,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1878,
+    "bookId": 116,
+    "readerId": 46,
+    "rating": 5
+  },
+  {
+    "id": 1879,
+    "bookId": 137,
+    "readerId": 46,
+    "rating": 1
+  },
+  {
+    "id": 1880,
+    "bookId": 136,
+    "readerId": 46,
+    "rating": 4
+  },
+  {
+    "id": 1881,
+    "bookId": 129,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1882,
+    "bookId": 191,
+    "readerId": 47,
+    "rating": 2
+  },
+  {
+    "id": 1883,
+    "bookId": 40,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1884,
+    "bookId": 171,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1885,
+    "bookId": 127,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1886,
+    "bookId": 177,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1887,
+    "bookId": 176,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1888,
+    "bookId": 200,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1889,
+    "bookId": 151,
+    "readerId": 47,
+    "rating": 2
+  },
+  {
+    "id": 1890,
+    "bookId": 185,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1891,
+    "bookId": 134,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1892,
+    "bookId": 190,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1893,
+    "bookId": 170,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1894,
+    "bookId": 202,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1895,
+    "bookId": 85,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1896,
+    "bookId": 80,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1897,
+    "bookId": 82,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1898,
+    "bookId": 174,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1899,
+    "bookId": 207,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1900,
+    "bookId": 183,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1901,
+    "bookId": 128,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1902,
+    "bookId": 205,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1903,
+    "bookId": 137,
+    "readerId": 47,
+    "rating": 1
+  },
+  {
+    "id": 1904,
+    "bookId": 116,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1905,
+    "bookId": 195,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1906,
+    "bookId": 172,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1907,
+    "bookId": 181,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1908,
+    "bookId": 79,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1909,
+    "bookId": 194,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1910,
+    "bookId": 203,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1911,
+    "bookId": 197,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1912,
+    "bookId": 193,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1913,
+    "bookId": 199,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1914,
+    "bookId": 130,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1915,
+    "bookId": 189,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1916,
+    "bookId": 182,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1917,
+    "bookId": 153,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1918,
+    "bookId": 198,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1919,
+    "bookId": 206,
+    "readerId": 47,
+    "rating": 1
+  },
+  {
+    "id": 1920,
+    "bookId": 73,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1921,
+    "bookId": 184,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1922,
+    "bookId": 196,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1923,
+    "bookId": 192,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1924,
+    "bookId": 17,
+    "readerId": 47,
+    "rating": 2
+  },
+  {
+    "id": 1925,
+    "bookId": 178,
+    "readerId": 47,
+    "rating": 3
+  },
+  {
+    "id": 1926,
+    "bookId": 36,
+    "readerId": 47,
+    "rating": 5
+  },
+  {
+    "id": 1927,
+    "bookId": 201,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1928,
+    "bookId": 158,
+    "readerId": 47,
+    "rating": 4
+  },
+  {
+    "id": 1929,
+    "bookId": 199,
+    "readerId": 48,
+    "rating": 4
+  },
+  {
+    "id": 1930,
+    "bookId": 206,
+    "readerId": 48,
+    "rating": 5
+  },
+  {
+    "id": 1931,
+    "bookId": 134,
+    "readerId": 48,
+    "rating": 5
+  },
+  {
+    "id": 1932,
+    "bookId": 132,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1933,
+    "bookId": 103,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1934,
+    "bookId": 135,
+    "readerId": 49,
+    "rating": 5
+  },
+  {
+    "id": 1935,
+    "bookId": 102,
+    "readerId": 49,
+    "rating": 3
+  },
+  {
+    "id": 1936,
+    "bookId": 125,
+    "readerId": 49,
+    "rating": 2
+  },
+  {
+    "id": 1937,
+    "bookId": 131,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1938,
+    "bookId": 60,
+    "readerId": 49,
+    "rating": 2
+  },
+  {
+    "id": 1939,
+    "bookId": 186,
+    "readerId": 49,
+    "rating": 5
+  },
+  {
+    "id": 1940,
+    "bookId": 136,
+    "readerId": 49,
+    "rating": 3
+  },
+  {
+    "id": 1941,
+    "bookId": 173,
+    "readerId": 49,
+    "rating": 1
+  },
+  {
+    "id": 1942,
+    "bookId": 96,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1943,
+    "bookId": 113,
+    "readerId": 49,
+    "rating": 5
+  },
+  {
+    "id": 1944,
+    "bookId": 127,
+    "readerId": 49,
+    "rating": 3
+  },
+  {
+    "id": 1945,
+    "bookId": 117,
+    "readerId": 49,
+    "rating": 5
+  },
+  {
+    "id": 1946,
+    "bookId": 122,
+    "readerId": 49,
+    "rating": 1
+  },
+  {
+    "id": 1947,
+    "bookId": 120,
+    "readerId": 49,
+    "rating": 1
+  },
+  {
+    "id": 1948,
+    "bookId": 151,
+    "readerId": 49,
+    "rating": 1
+  },
+  {
+    "id": 1949,
+    "bookId": 97,
+    "readerId": 49,
+    "rating": 3
+  },
+  {
+    "id": 1950,
+    "bookId": 124,
+    "readerId": 49,
+    "rating": 5
+  },
+  {
+    "id": 1951,
+    "bookId": 129,
+    "readerId": 49,
+    "rating": 2
+  },
+  {
+    "id": 1952,
+    "bookId": 130,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1953,
+    "bookId": 107,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1954,
+    "bookId": 106,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1955,
+    "bookId": 63,
+    "readerId": 49,
+    "rating": 1
+  },
+  {
+    "id": 1956,
+    "bookId": 128,
+    "readerId": 49,
+    "rating": 5
+  },
+  {
+    "id": 1957,
+    "bookId": 110,
+    "readerId": 49,
+    "rating": 4
+  },
+  {
+    "id": 1958,
+    "bookId": 9,
+    "readerId": 49,
+    "rating": 3
+  },
+  {
+    "id": 1959,
+    "bookId": 79,
+    "readerId": 49,
+    "rating": 3
+  },
+  {
+    "id": 1960,
+    "bookId": 22,
+    "readerId": 50,
+    "rating": 3
+  },
+  {
+    "id": 1961,
+    "bookId": 100,
+    "readerId": 50,
+    "rating": 4
+  },
+  {
+    "id": 1962,
+    "bookId": 58,
+    "readerId": 50,
+    "rating": 3
+  },
+  {
+    "id": 1963,
+    "bookId": 36,
+    "readerId": 50,
+    "rating": 3
+  },
+  {
+    "id": 1964,
+    "bookId": 116,
+    "readerId": 50,
+    "rating": 1
+  },
+  {
+    "id": 1965,
+    "bookId": 125,
+    "readerId": 50,
+    "rating": 2
+  },
+  {
+    "id": 1966,
+    "bookId": 113,
+    "readerId": 50,
+    "rating": 4
+  },
+  {
+    "id": 1967,
+    "bookId": 206,
+    "readerId": 50,
+    "rating": 4
+  },
+  {
+    "id": 1968,
+    "bookId": 137,
+    "readerId": 50,
+    "rating": 4
+  },
+  {
+    "id": 1969,
+    "bookId": 2,
+    "readerId": 50,
+    "rating": 4
+  },
+  {
+    "id": 1970,
+    "bookId": 16,
+    "readerId": 50,
+    "rating": 3
+  },
+  {
+    "id": 1971,
+    "bookId": 49,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1972,
+    "bookId": 86,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 1973,
+    "bookId": 95,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 1974,
+    "bookId": 77,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1975,
+    "bookId": 129,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 1976,
+    "bookId": 74,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 1977,
+    "bookId": 90,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1978,
+    "bookId": 59,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 1979,
+    "bookId": 66,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1980,
+    "bookId": 22,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 1981,
+    "bookId": 70,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 1982,
+    "bookId": 84,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 1983,
+    "bookId": 159,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 1984,
+    "bookId": 69,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 1985,
+    "bookId": 48,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 1986,
+    "bookId": 91,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1987,
+    "bookId": 75,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 1988,
+    "bookId": 133,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 1989,
+    "bookId": 16,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 1990,
+    "bookId": 53,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1991,
+    "bookId": 136,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 1992,
+    "bookId": 78,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1993,
+    "bookId": 65,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1994,
+    "bookId": 117,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 1995,
+    "bookId": 85,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 1996,
+    "bookId": 88,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 1997,
+    "bookId": 68,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 1998,
+    "bookId": 94,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 1999,
+    "bookId": 79,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2000,
+    "bookId": 31,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2001,
+    "bookId": 128,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2002,
+    "bookId": 99,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2003,
+    "bookId": 166,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2004,
+    "bookId": 73,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2005,
+    "bookId": 19,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2006,
+    "bookId": 62,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2007,
+    "bookId": 82,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2008,
+    "bookId": 52,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2009,
+    "bookId": 81,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2010,
+    "bookId": 56,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2011,
+    "bookId": 12,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2012,
+    "bookId": 196,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2013,
+    "bookId": 113,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2014,
+    "bookId": 50,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2015,
+    "bookId": 60,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2016,
+    "bookId": 67,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2017,
+    "bookId": 71,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2018,
+    "bookId": 39,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2019,
+    "bookId": 93,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2020,
+    "bookId": 173,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2021,
+    "bookId": 6,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2022,
+    "bookId": 51,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2023,
+    "bookId": 14,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2024,
+    "bookId": 47,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2025,
+    "bookId": 57,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2026,
+    "bookId": 184,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2027,
+    "bookId": 151,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2028,
+    "bookId": 144,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2029,
+    "bookId": 108,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2030,
+    "bookId": 55,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2031,
+    "bookId": 156,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2032,
+    "bookId": 92,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2033,
+    "bookId": 169,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2034,
+    "bookId": 165,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2035,
+    "bookId": 54,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2036,
+    "bookId": 89,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2037,
+    "bookId": 20,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2038,
+    "bookId": 191,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2039,
+    "bookId": 58,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2040,
+    "bookId": 63,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2041,
+    "bookId": 83,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2042,
+    "bookId": 64,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2043,
+    "bookId": 61,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2044,
+    "bookId": 72,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2045,
+    "bookId": 76,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2046,
+    "bookId": 138,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2047,
+    "bookId": 80,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2048,
+    "bookId": 87,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2049,
+    "bookId": 141,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2050,
+    "bookId": 139,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2051,
+    "bookId": 185,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2052,
+    "bookId": 143,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2053,
+    "bookId": 37,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2054,
+    "bookId": 101,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2055,
+    "bookId": 197,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2056,
+    "bookId": 158,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2057,
+    "bookId": 161,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2058,
+    "bookId": 194,
+    "readerId": 51,
+    "rating": 2
+  },
+  {
+    "id": 2059,
+    "bookId": 34,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2060,
+    "bookId": 43,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2061,
+    "bookId": 190,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2062,
+    "bookId": 30,
+    "readerId": 51,
+    "rating": 4
+  },
+  {
+    "id": 2063,
+    "bookId": 110,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2064,
+    "bookId": 29,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2065,
+    "bookId": 201,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2066,
+    "bookId": 112,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2067,
+    "bookId": 25,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2068,
+    "bookId": 176,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2069,
+    "bookId": 147,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2070,
+    "bookId": 15,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2071,
+    "bookId": 9,
+    "readerId": 51,
+    "rating": 5
+  },
+  {
+    "id": 2072,
+    "bookId": 109,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2073,
+    "bookId": 114,
+    "readerId": 51,
+    "rating": 1
+  },
+  {
+    "id": 2074,
+    "bookId": 23,
+    "readerId": 51,
+    "rating": 3
+  },
+  {
+    "id": 2075,
+    "bookId": 56,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2076,
+    "bookId": 25,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2077,
+    "bookId": 49,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2078,
+    "bookId": 34,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2079,
+    "bookId": 17,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2080,
+    "bookId": 14,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2081,
+    "bookId": 12,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2082,
+    "bookId": 188,
+    "readerId": 52,
+    "rating": 1
+  },
+  {
+    "id": 2083,
+    "bookId": 158,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2084,
+    "bookId": 2,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2085,
+    "bookId": 19,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2086,
+    "bookId": 27,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2087,
+    "bookId": 16,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2088,
+    "bookId": 9,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2089,
+    "bookId": 6,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2090,
+    "bookId": 129,
+    "readerId": 52,
+    "rating": 2
+  },
+  {
+    "id": 2091,
+    "bookId": 35,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2092,
+    "bookId": 40,
+    "readerId": 52,
+    "rating": 2
+  },
+  {
+    "id": 2093,
+    "bookId": 194,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2094,
+    "bookId": 7,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2095,
+    "bookId": 198,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2096,
+    "bookId": 42,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2097,
+    "bookId": 44,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2098,
+    "bookId": 180,
+    "readerId": 52,
+    "rating": 2
+  },
+  {
+    "id": 2099,
+    "bookId": 32,
+    "readerId": 52,
+    "rating": 2
+  },
+  {
+    "id": 2100,
+    "bookId": 20,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2101,
+    "bookId": 39,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2102,
+    "bookId": 33,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2103,
+    "bookId": 38,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2104,
+    "bookId": 91,
+    "readerId": 52,
+    "rating": 2
+  },
+  {
+    "id": 2105,
+    "bookId": 13,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2106,
+    "bookId": 139,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2107,
+    "bookId": 23,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2108,
+    "bookId": 167,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2109,
+    "bookId": 1,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2110,
+    "bookId": 37,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2111,
+    "bookId": 114,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2112,
+    "bookId": 21,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2113,
+    "bookId": 26,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2114,
+    "bookId": 30,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2115,
+    "bookId": 5,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2116,
+    "bookId": 54,
+    "readerId": 52,
+    "rating": 2
+  },
+  {
+    "id": 2117,
+    "bookId": 36,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2118,
+    "bookId": 24,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2119,
+    "bookId": 29,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2120,
+    "bookId": 3,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2121,
+    "bookId": 46,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2122,
+    "bookId": 31,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2123,
+    "bookId": 45,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2124,
+    "bookId": 22,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2125,
+    "bookId": 15,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2126,
+    "bookId": 28,
+    "readerId": 52,
+    "rating": 3
+  },
+  {
+    "id": 2127,
+    "bookId": 4,
+    "readerId": 52,
+    "rating": 4
+  },
+  {
+    "id": 2128,
+    "bookId": 11,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2129,
+    "bookId": 41,
+    "readerId": 52,
+    "rating": 5
+  },
+  {
+    "id": 2130,
+    "bookId": 120,
+    "readerId": 53,
+    "rating": 4
+  },
+  {
+    "id": 2131,
+    "bookId": 31,
+    "readerId": 53,
+    "rating": 2
+  },
+  {
+    "id": 2132,
+    "bookId": 129,
+    "readerId": 53,
+    "rating": 5
+  },
+  {
+    "id": 2133,
+    "bookId": 143,
+    "readerId": 53,
+    "rating": 5
+  },
+  {
+    "id": 2134,
+    "bookId": 116,
+    "readerId": 53,
+    "rating": 4
+  },
+  {
+    "id": 2135,
+    "bookId": 2,
+    "readerId": 53,
+    "rating": 4
+  },
+  {
+    "id": 2136,
+    "bookId": 166,
+    "readerId": 53,
+    "rating": 4
+  },
+  {
+    "id": 2137,
+    "bookId": 139,
+    "readerId": 53,
+    "rating": 5
+  },
+  {
+    "id": 2138,
+    "bookId": 43,
+    "readerId": 53,
+    "rating": 3
+  },
+  {
+    "id": 2139,
+    "bookId": 108,
+    "readerId": 53,
+    "rating": 4
+  },
+  {
+    "id": 2140,
+    "bookId": 97,
+    "readerId": 53,
+    "rating": 5
+  },
+  {
+    "id": 2141,
+    "bookId": 179,
+    "readerId": 53,
+    "rating": 3
+  },
+  {
+    "id": 2142,
+    "bookId": 125,
+    "readerId": 53,
+    "rating": 4
+  },
+  {
+    "id": 2143,
+    "bookId": 138,
+    "readerId": 53,
+    "rating": 1
+  },
+  {
+    "id": 2144,
+    "bookId": 98,
+    "readerId": 53,
+    "rating": 5
+  },
+  {
+    "id": 2145,
+    "bookId": 101,
+    "readerId": 53,
+    "rating": 4
+  },
+  {
+    "id": 2146,
+    "bookId": 21,
+    "readerId": 53,
+    "rating": 3
+  },
+  {
+    "id": 2147,
+    "bookId": 175,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2148,
+    "bookId": 97,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2149,
+    "bookId": 188,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2150,
+    "bookId": 120,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2151,
+    "bookId": 189,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2152,
+    "bookId": 197,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2153,
+    "bookId": 149,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2154,
+    "bookId": 191,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2155,
+    "bookId": 172,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2156,
+    "bookId": 8,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2157,
+    "bookId": 16,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2158,
+    "bookId": 171,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2159,
+    "bookId": 89,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2160,
+    "bookId": 58,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2161,
+    "bookId": 206,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2162,
+    "bookId": 195,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2163,
+    "bookId": 196,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2164,
+    "bookId": 5,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2165,
+    "bookId": 201,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2166,
+    "bookId": 85,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2167,
+    "bookId": 192,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2168,
+    "bookId": 177,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2169,
+    "bookId": 134,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2170,
+    "bookId": 173,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2171,
+    "bookId": 183,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2172,
+    "bookId": 125,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2173,
+    "bookId": 202,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2174,
+    "bookId": 82,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2175,
+    "bookId": 143,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2176,
+    "bookId": 169,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2177,
+    "bookId": 205,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2178,
+    "bookId": 194,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2179,
+    "bookId": 37,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2180,
+    "bookId": 14,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2181,
+    "bookId": 116,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2182,
+    "bookId": 186,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2183,
+    "bookId": 174,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2184,
+    "bookId": 176,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2185,
+    "bookId": 73,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2186,
+    "bookId": 187,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2187,
+    "bookId": 181,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2188,
+    "bookId": 180,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2189,
+    "bookId": 193,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2190,
+    "bookId": 94,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2191,
+    "bookId": 32,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2192,
+    "bookId": 198,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2193,
+    "bookId": 182,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2194,
+    "bookId": 200,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2195,
+    "bookId": 207,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2196,
+    "bookId": 129,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2197,
+    "bookId": 178,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2198,
+    "bookId": 170,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2199,
+    "bookId": 56,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2200,
+    "bookId": 203,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2201,
+    "bookId": 179,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2202,
+    "bookId": 61,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2203,
+    "bookId": 204,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2204,
+    "bookId": 185,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2205,
+    "bookId": 184,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2206,
+    "bookId": 199,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2207,
+    "bookId": 66,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2208,
+    "bookId": 7,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2209,
+    "bookId": 190,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2210,
+    "bookId": 67,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2211,
+    "bookId": 62,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2212,
+    "bookId": 2,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2213,
+    "bookId": 122,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2214,
+    "bookId": 79,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2215,
+    "bookId": 119,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2216,
+    "bookId": 115,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2217,
+    "bookId": 111,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2218,
+    "bookId": 102,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2219,
+    "bookId": 110,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2220,
+    "bookId": 47,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2221,
+    "bookId": 9,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2222,
+    "bookId": 160,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2223,
+    "bookId": 118,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2224,
+    "bookId": 59,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2225,
+    "bookId": 153,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2226,
+    "bookId": 31,
+    "readerId": 54,
+    "rating": 5
+  },
+  {
+    "id": 2227,
+    "bookId": 154,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2228,
+    "bookId": 142,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2229,
+    "bookId": 23,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2230,
+    "bookId": 165,
+    "readerId": 54,
+    "rating": 1
+  },
+  {
+    "id": 2231,
+    "bookId": 19,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2232,
+    "bookId": 141,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2233,
+    "bookId": 159,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2234,
+    "bookId": 3,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2235,
+    "bookId": 105,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2236,
+    "bookId": 22,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2237,
+    "bookId": 157,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2238,
+    "bookId": 147,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2239,
+    "bookId": 138,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2240,
+    "bookId": 30,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2241,
+    "bookId": 150,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2242,
+    "bookId": 72,
+    "readerId": 54,
+    "rating": 4
+  },
+  {
+    "id": 2243,
+    "bookId": 13,
+    "readerId": 54,
+    "rating": 2
+  },
+  {
+    "id": 2244,
+    "bookId": 1,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2245,
+    "bookId": 44,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2246,
+    "bookId": 161,
+    "readerId": 54,
+    "rating": 3
+  },
+  {
+    "id": 2247,
+    "bookId": 106,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2248,
+    "bookId": 127,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2249,
+    "bookId": 101,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2250,
+    "bookId": 108,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2251,
+    "bookId": 154,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2252,
+    "bookId": 139,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2253,
+    "bookId": 117,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2254,
+    "bookId": 146,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2255,
+    "bookId": 107,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2256,
+    "bookId": 105,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2257,
+    "bookId": 135,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2258,
+    "bookId": 51,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2259,
+    "bookId": 186,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2260,
+    "bookId": 181,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2261,
+    "bookId": 118,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2262,
+    "bookId": 162,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2263,
+    "bookId": 130,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2264,
+    "bookId": 97,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2265,
+    "bookId": 100,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2266,
+    "bookId": 3,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2267,
+    "bookId": 115,
+    "readerId": 55,
+    "rating": 1
+  },
+  {
+    "id": 2268,
+    "bookId": 116,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2269,
+    "bookId": 196,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2270,
+    "bookId": 187,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2271,
+    "bookId": 136,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2272,
+    "bookId": 132,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2273,
+    "bookId": 128,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2274,
+    "bookId": 137,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2275,
+    "bookId": 98,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2276,
+    "bookId": 69,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2277,
+    "bookId": 131,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2278,
+    "bookId": 195,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2279,
+    "bookId": 32,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2280,
+    "bookId": 138,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2281,
+    "bookId": 172,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2282,
+    "bookId": 64,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2283,
+    "bookId": 151,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2284,
+    "bookId": 134,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2285,
+    "bookId": 111,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2286,
+    "bookId": 104,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2287,
+    "bookId": 126,
+    "readerId": 55,
+    "rating": 1
+  },
+  {
+    "id": 2288,
+    "bookId": 71,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2289,
+    "bookId": 96,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2290,
+    "bookId": 122,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2291,
+    "bookId": 133,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2292,
+    "bookId": 110,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2293,
+    "bookId": 124,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2294,
+    "bookId": 103,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2295,
+    "bookId": 119,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2296,
+    "bookId": 121,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2297,
+    "bookId": 114,
+    "readerId": 55,
+    "rating": 1
+  },
+  {
+    "id": 2298,
+    "bookId": 129,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2299,
+    "bookId": 112,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2300,
+    "bookId": 65,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2301,
+    "bookId": 125,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2302,
+    "bookId": 144,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2303,
+    "bookId": 123,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2304,
+    "bookId": 113,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2305,
+    "bookId": 102,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2306,
+    "bookId": 120,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2307,
+    "bookId": 109,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2308,
+    "bookId": 99,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2309,
+    "bookId": 171,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2310,
+    "bookId": 56,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2311,
+    "bookId": 49,
+    "readerId": 55,
+    "rating": 5
+  },
+  {
+    "id": 2312,
+    "bookId": 153,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2313,
+    "bookId": 180,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2314,
+    "bookId": 15,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2315,
+    "bookId": 149,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2316,
+    "bookId": 84,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2317,
+    "bookId": 183,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2318,
+    "bookId": 14,
+    "readerId": 55,
+    "rating": 1
+  },
+  {
+    "id": 2319,
+    "bookId": 167,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2320,
+    "bookId": 199,
+    "readerId": 55,
+    "rating": 4
+  },
+  {
+    "id": 2321,
+    "bookId": 42,
+    "readerId": 55,
+    "rating": 1
+  },
+  {
+    "id": 2322,
+    "bookId": 189,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2323,
+    "bookId": 148,
+    "readerId": 55,
+    "rating": 1
+  },
+  {
+    "id": 2324,
+    "bookId": 88,
+    "readerId": 55,
+    "rating": 3
+  },
+  {
+    "id": 2325,
+    "bookId": 30,
+    "readerId": 55,
+    "rating": 2
+  },
+  {
+    "id": 2326,
+    "bookId": 7,
+    "readerId": 56,
+    "rating": 2
+  },
+  {
+    "id": 2327,
+    "bookId": 200,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2328,
+    "bookId": 180,
+    "readerId": 56,
+    "rating": 3
+  },
+  {
+    "id": 2329,
+    "bookId": 202,
+    "readerId": 56,
+    "rating": 4
+  },
+  {
+    "id": 2330,
+    "bookId": 179,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2331,
+    "bookId": 205,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2332,
+    "bookId": 22,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2333,
+    "bookId": 183,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2334,
+    "bookId": 145,
+    "readerId": 56,
+    "rating": 2
+  },
+  {
+    "id": 2335,
+    "bookId": 172,
+    "readerId": 56,
+    "rating": 2
+  },
+  {
+    "id": 2336,
+    "bookId": 62,
+    "readerId": 56,
+    "rating": 2
+  },
+  {
+    "id": 2337,
+    "bookId": 185,
+    "readerId": 56,
+    "rating": 3
+  },
+  {
+    "id": 2338,
+    "bookId": 176,
+    "readerId": 56,
+    "rating": 3
+  },
+  {
+    "id": 2339,
+    "bookId": 189,
+    "readerId": 56,
+    "rating": 4
+  },
+  {
+    "id": 2340,
+    "bookId": 168,
+    "readerId": 56,
+    "rating": 3
+  },
+  {
+    "id": 2341,
+    "bookId": 199,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2342,
+    "bookId": 174,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2343,
+    "bookId": 203,
+    "readerId": 56,
+    "rating": 4
+  },
+  {
+    "id": 2344,
+    "bookId": 30,
+    "readerId": 56,
+    "rating": 2
+  },
+  {
+    "id": 2345,
+    "bookId": 136,
+    "readerId": 56,
+    "rating": 4
+  },
+  {
+    "id": 2346,
+    "bookId": 186,
+    "readerId": 56,
+    "rating": 5
+  },
+  {
+    "id": 2347,
+    "bookId": 192,
+    "readerId": 56,
+    "rating": 1
+  },
+  {
+    "id": 2348,
+    "bookId": 191,
+    "readerId": 56,
+    "rating": 1
+  },
+  {
+    "id": 2349,
+    "bookId": 126,
+    "readerId": 57,
+    "rating": 1
+  },
+  {
+    "id": 2350,
+    "bookId": 137,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2351,
+    "bookId": 115,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2352,
+    "bookId": 103,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2353,
+    "bookId": 139,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2354,
+    "bookId": 90,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2355,
+    "bookId": 123,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2356,
+    "bookId": 114,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2357,
+    "bookId": 102,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2358,
+    "bookId": 77,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2359,
+    "bookId": 127,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2360,
+    "bookId": 124,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2361,
+    "bookId": 135,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2362,
+    "bookId": 98,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2363,
+    "bookId": 63,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2364,
+    "bookId": 111,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2365,
+    "bookId": 184,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2366,
+    "bookId": 122,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2367,
+    "bookId": 101,
+    "readerId": 57,
+    "rating": 1
+  },
+  {
+    "id": 2368,
+    "bookId": 112,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2369,
+    "bookId": 131,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2370,
+    "bookId": 120,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2371,
+    "bookId": 10,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2372,
+    "bookId": 25,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2373,
+    "bookId": 96,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2374,
+    "bookId": 104,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2375,
+    "bookId": 8,
+    "readerId": 57,
+    "rating": 1
+  },
+  {
+    "id": 2376,
+    "bookId": 130,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2377,
+    "bookId": 97,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2378,
+    "bookId": 133,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2379,
+    "bookId": 32,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2380,
+    "bookId": 138,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2381,
+    "bookId": 129,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2382,
+    "bookId": 118,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2383,
+    "bookId": 109,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2384,
+    "bookId": 110,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2385,
+    "bookId": 107,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2386,
+    "bookId": 117,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2387,
+    "bookId": 173,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2388,
+    "bookId": 125,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2389,
+    "bookId": 175,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2390,
+    "bookId": 113,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2391,
+    "bookId": 11,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2392,
+    "bookId": 116,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2393,
+    "bookId": 121,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2394,
+    "bookId": 132,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2395,
+    "bookId": 136,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2396,
+    "bookId": 119,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2397,
+    "bookId": 99,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2398,
+    "bookId": 108,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2399,
+    "bookId": 197,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2400,
+    "bookId": 106,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2401,
+    "bookId": 128,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2402,
+    "bookId": 134,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2403,
+    "bookId": 100,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2404,
+    "bookId": 53,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2405,
+    "bookId": 105,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2406,
+    "bookId": 73,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2407,
+    "bookId": 34,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2408,
+    "bookId": 60,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2409,
+    "bookId": 167,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2410,
+    "bookId": 85,
+    "readerId": 57,
+    "rating": 1
+  },
+  {
+    "id": 2411,
+    "bookId": 178,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2412,
+    "bookId": 66,
+    "readerId": 57,
+    "rating": 1
+  },
+  {
+    "id": 2413,
+    "bookId": 142,
+    "readerId": 57,
+    "rating": 1
+  },
+  {
+    "id": 2414,
+    "bookId": 26,
+    "readerId": 57,
+    "rating": 4
+  },
+  {
+    "id": 2415,
+    "bookId": 157,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2416,
+    "bookId": 170,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2417,
+    "bookId": 159,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2418,
+    "bookId": 204,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2419,
+    "bookId": 62,
+    "readerId": 57,
+    "rating": 5
+  },
+  {
+    "id": 2420,
+    "bookId": 176,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2421,
+    "bookId": 140,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2422,
+    "bookId": 169,
+    "readerId": 57,
+    "rating": 3
+  },
+  {
+    "id": 2423,
+    "bookId": 168,
+    "readerId": 57,
+    "rating": 2
+  },
+  {
+    "id": 2424,
+    "bookId": 74,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2425,
+    "bookId": 161,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2426,
+    "bookId": 106,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2427,
+    "bookId": 141,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2428,
+    "bookId": 87,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2429,
+    "bookId": 142,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2430,
+    "bookId": 120,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2431,
+    "bookId": 140,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2432,
+    "bookId": 91,
+    "readerId": 58,
+    "rating": 1
+  },
+  {
+    "id": 2433,
+    "bookId": 51,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2434,
+    "bookId": 149,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2435,
+    "bookId": 165,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2436,
+    "bookId": 166,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2437,
+    "bookId": 1,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2438,
+    "bookId": 72,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2439,
+    "bookId": 169,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2440,
+    "bookId": 18,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2441,
+    "bookId": 143,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2442,
+    "bookId": 157,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2443,
+    "bookId": 76,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2444,
+    "bookId": 80,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2445,
+    "bookId": 56,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2446,
+    "bookId": 151,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2447,
+    "bookId": 156,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2448,
+    "bookId": 175,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2449,
+    "bookId": 153,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2450,
+    "bookId": 90,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2451,
+    "bookId": 84,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2452,
+    "bookId": 158,
+    "readerId": 58,
+    "rating": 1
+  },
+  {
+    "id": 2453,
+    "bookId": 78,
+    "readerId": 58,
+    "rating": 1
+  },
+  {
+    "id": 2454,
+    "bookId": 125,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2455,
+    "bookId": 65,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2456,
+    "bookId": 82,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2457,
+    "bookId": 155,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2458,
+    "bookId": 31,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2459,
+    "bookId": 30,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2460,
+    "bookId": 52,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2461,
+    "bookId": 37,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2462,
+    "bookId": 111,
+    "readerId": 58,
+    "rating": 1
+  },
+  {
+    "id": 2463,
+    "bookId": 163,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2464,
+    "bookId": 147,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2465,
+    "bookId": 152,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2466,
+    "bookId": 146,
+    "readerId": 58,
+    "rating": 2
+  },
+  {
+    "id": 2467,
+    "bookId": 148,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2468,
+    "bookId": 167,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2469,
+    "bookId": 95,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2470,
+    "bookId": 145,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2471,
+    "bookId": 144,
+    "readerId": 58,
+    "rating": 5
+  },
+  {
+    "id": 2472,
+    "bookId": 54,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2473,
+    "bookId": 168,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2474,
+    "bookId": 59,
+    "readerId": 58,
+    "rating": 4
+  },
+  {
+    "id": 2475,
+    "bookId": 69,
+    "readerId": 58,
+    "rating": 3
+  },
+  {
+    "id": 2476,
+    "bookId": 29,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2477,
+    "bookId": 7,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2478,
+    "bookId": 3,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2479,
+    "bookId": 106,
+    "readerId": 59,
+    "rating": 1
+  },
+  {
+    "id": 2480,
+    "bookId": 24,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2481,
+    "bookId": 160,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2482,
+    "bookId": 84,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2483,
+    "bookId": 4,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2484,
+    "bookId": 17,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2485,
+    "bookId": 133,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2486,
+    "bookId": 10,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2487,
+    "bookId": 16,
+    "readerId": 59,
+    "rating": 1
+  },
+  {
+    "id": 2488,
+    "bookId": 144,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2489,
+    "bookId": 11,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2490,
+    "bookId": 43,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2491,
+    "bookId": 37,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2492,
+    "bookId": 20,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2493,
+    "bookId": 27,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2494,
+    "bookId": 21,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2495,
+    "bookId": 6,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2496,
+    "bookId": 25,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2497,
+    "bookId": 167,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2498,
+    "bookId": 38,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2499,
+    "bookId": 2,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2500,
+    "bookId": 14,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2501,
+    "bookId": 32,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2502,
+    "bookId": 34,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2503,
+    "bookId": 9,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2504,
+    "bookId": 46,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2505,
+    "bookId": 129,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2506,
+    "bookId": 177,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2507,
+    "bookId": 15,
+    "readerId": 59,
+    "rating": 1
+  },
+  {
+    "id": 2508,
+    "bookId": 5,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2509,
+    "bookId": 140,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2510,
+    "bookId": 36,
+    "readerId": 59,
+    "rating": 1
+  },
+  {
+    "id": 2511,
+    "bookId": 33,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2512,
+    "bookId": 41,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2513,
+    "bookId": 166,
+    "readerId": 59,
+    "rating": 1
+  },
+  {
+    "id": 2514,
+    "bookId": 125,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2515,
+    "bookId": 40,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2516,
+    "bookId": 150,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2517,
+    "bookId": 53,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2518,
+    "bookId": 42,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2519,
+    "bookId": 172,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2520,
+    "bookId": 135,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2521,
+    "bookId": 22,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2522,
+    "bookId": 23,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2523,
+    "bookId": 110,
+    "readerId": 59,
+    "rating": 1
+  },
+  {
+    "id": 2524,
+    "bookId": 31,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2525,
+    "bookId": 45,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2526,
+    "bookId": 39,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2527,
+    "bookId": 1,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2528,
+    "bookId": 30,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2529,
+    "bookId": 18,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2530,
+    "bookId": 192,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2531,
+    "bookId": 8,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2532,
+    "bookId": 81,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2533,
+    "bookId": 26,
+    "readerId": 59,
+    "rating": 5
+  },
+  {
+    "id": 2534,
+    "bookId": 79,
+    "readerId": 59,
+    "rating": 1
+  },
+  {
+    "id": 2535,
+    "bookId": 35,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2536,
+    "bookId": 73,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2537,
+    "bookId": 147,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2538,
+    "bookId": 72,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2539,
+    "bookId": 13,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2540,
+    "bookId": 28,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2541,
+    "bookId": 44,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2542,
+    "bookId": 12,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2543,
+    "bookId": 19,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2544,
+    "bookId": 113,
+    "readerId": 59,
+    "rating": 3
+  },
+  {
+    "id": 2545,
+    "bookId": 80,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2546,
+    "bookId": 114,
+    "readerId": 59,
+    "rating": 2
+  },
+  {
+    "id": 2547,
+    "bookId": 187,
+    "readerId": 59,
+    "rating": 4
+  },
+  {
+    "id": 2548,
+    "bookId": 166,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2549,
+    "bookId": 88,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2550,
+    "bookId": 92,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2551,
+    "bookId": 144,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2552,
+    "bookId": 3,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2553,
+    "bookId": 13,
+    "readerId": 60,
+    "rating": 2
+  },
+  {
+    "id": 2554,
+    "bookId": 95,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2555,
+    "bookId": 89,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2556,
+    "bookId": 152,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2557,
+    "bookId": 165,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2558,
+    "bookId": 174,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2559,
+    "bookId": 141,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2560,
+    "bookId": 99,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2561,
+    "bookId": 151,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2562,
+    "bookId": 178,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2563,
+    "bookId": 85,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2564,
+    "bookId": 80,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2565,
+    "bookId": 52,
+    "readerId": 60,
+    "rating": 1
+  },
+  {
+    "id": 2566,
+    "bookId": 188,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2567,
+    "bookId": 5,
+    "readerId": 60,
+    "rating": 2
+  },
+  {
+    "id": 2568,
+    "bookId": 96,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2569,
+    "bookId": 64,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2570,
+    "bookId": 74,
+    "readerId": 60,
+    "rating": 1
+  },
+  {
+    "id": 2571,
+    "bookId": 143,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2572,
+    "bookId": 75,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2573,
+    "bookId": 65,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2574,
+    "bookId": 90,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2575,
+    "bookId": 157,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2576,
+    "bookId": 30,
+    "readerId": 60,
+    "rating": 1
+  },
+  {
+    "id": 2577,
+    "bookId": 70,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2578,
+    "bookId": 73,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2579,
+    "bookId": 155,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2580,
+    "bookId": 51,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2581,
+    "bookId": 168,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2582,
+    "bookId": 194,
+    "readerId": 60,
+    "rating": 1
+  },
+  {
+    "id": 2583,
+    "bookId": 148,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2584,
+    "bookId": 146,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2585,
+    "bookId": 82,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2586,
+    "bookId": 39,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2587,
+    "bookId": 163,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2588,
+    "bookId": 54,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2589,
+    "bookId": 149,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2590,
+    "bookId": 129,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2591,
+    "bookId": 116,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2592,
+    "bookId": 156,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2593,
+    "bookId": 20,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2594,
+    "bookId": 87,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2595,
+    "bookId": 1,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2596,
+    "bookId": 109,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2597,
+    "bookId": 140,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2598,
+    "bookId": 193,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2599,
+    "bookId": 48,
+    "readerId": 60,
+    "rating": 1
+  },
+  {
+    "id": 2600,
+    "bookId": 33,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2601,
+    "bookId": 159,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2602,
+    "bookId": 158,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2603,
+    "bookId": 26,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2604,
+    "bookId": 154,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2605,
+    "bookId": 18,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2606,
+    "bookId": 147,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2607,
+    "bookId": 40,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2608,
+    "bookId": 162,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2609,
+    "bookId": 136,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2610,
+    "bookId": 124,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2611,
+    "bookId": 36,
+    "readerId": 60,
+    "rating": 1
+  },
+  {
+    "id": 2612,
+    "bookId": 167,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2613,
+    "bookId": 76,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2614,
+    "bookId": 145,
+    "readerId": 60,
+    "rating": 1
+  },
+  {
+    "id": 2615,
+    "bookId": 131,
+    "readerId": 60,
+    "rating": 2
+  },
+  {
+    "id": 2616,
+    "bookId": 93,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2617,
+    "bookId": 72,
+    "readerId": 60,
+    "rating": 2
+  },
+  {
+    "id": 2618,
+    "bookId": 63,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2619,
+    "bookId": 153,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2620,
+    "bookId": 160,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2621,
+    "bookId": 138,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2622,
+    "bookId": 176,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2623,
+    "bookId": 164,
+    "readerId": 60,
+    "rating": 3
+  },
+  {
+    "id": 2624,
+    "bookId": 137,
+    "readerId": 60,
+    "rating": 5
+  },
+  {
+    "id": 2625,
+    "bookId": 142,
+    "readerId": 60,
+    "rating": 2
+  },
+  {
+    "id": 2626,
+    "bookId": 150,
+    "readerId": 60,
+    "rating": 2
+  },
+  {
+    "id": 2627,
+    "bookId": 81,
+    "readerId": 60,
+    "rating": 4
+  },
+  {
+    "id": 2628,
+    "bookId": 59,
+    "readerId": 60,
+    "rating": 2
+  },
+  {
+    "id": 2629,
+    "bookId": 15,
+    "readerId": 61,
+    "rating": 1
+  },
+  {
+    "id": 2630,
+    "bookId": 55,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2631,
+    "bookId": 19,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2632,
+    "bookId": 205,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2633,
+    "bookId": 66,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2634,
+    "bookId": 68,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2635,
+    "bookId": 51,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2636,
+    "bookId": 75,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2637,
+    "bookId": 60,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2638,
+    "bookId": 84,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2639,
+    "bookId": 49,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2640,
+    "bookId": 186,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2641,
+    "bookId": 45,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2642,
+    "bookId": 58,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2643,
+    "bookId": 78,
+    "readerId": 61,
+    "rating": 1
+  },
+  {
+    "id": 2644,
+    "bookId": 47,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2645,
+    "bookId": 67,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2646,
+    "bookId": 85,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2647,
+    "bookId": 64,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2648,
+    "bookId": 90,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2649,
+    "bookId": 150,
+    "readerId": 61,
+    "rating": 2
+  },
+  {
+    "id": 2650,
+    "bookId": 125,
+    "readerId": 61,
+    "rating": 2
+  },
+  {
+    "id": 2651,
+    "bookId": 200,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2652,
+    "bookId": 81,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2653,
+    "bookId": 91,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2654,
+    "bookId": 52,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2655,
+    "bookId": 54,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2656,
+    "bookId": 87,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2657,
+    "bookId": 74,
+    "readerId": 61,
+    "rating": 2
+  },
+  {
+    "id": 2658,
+    "bookId": 63,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2659,
+    "bookId": 143,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2660,
+    "bookId": 79,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2661,
+    "bookId": 151,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2662,
+    "bookId": 80,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2663,
+    "bookId": 83,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2664,
+    "bookId": 112,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2665,
+    "bookId": 30,
+    "readerId": 61,
+    "rating": 2
+  },
+  {
+    "id": 2666,
+    "bookId": 22,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2667,
+    "bookId": 194,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2668,
+    "bookId": 149,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2669,
+    "bookId": 59,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2670,
+    "bookId": 73,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2671,
+    "bookId": 97,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2672,
+    "bookId": 44,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2673,
+    "bookId": 77,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2674,
+    "bookId": 129,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2675,
+    "bookId": 157,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2676,
+    "bookId": 119,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2677,
+    "bookId": 76,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2678,
+    "bookId": 88,
+    "readerId": 61,
+    "rating": 2
+  },
+  {
+    "id": 2679,
+    "bookId": 65,
+    "readerId": 61,
+    "rating": 1
+  },
+  {
+    "id": 2680,
+    "bookId": 94,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2681,
+    "bookId": 86,
+    "readerId": 61,
+    "rating": 2
+  },
+  {
+    "id": 2682,
+    "bookId": 82,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2683,
+    "bookId": 89,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2684,
+    "bookId": 50,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2685,
+    "bookId": 93,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2686,
+    "bookId": 62,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2687,
+    "bookId": 20,
+    "readerId": 61,
+    "rating": 1
+  },
+  {
+    "id": 2688,
+    "bookId": 53,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2689,
+    "bookId": 61,
+    "readerId": 61,
+    "rating": 2
+  },
+  {
+    "id": 2690,
+    "bookId": 56,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2691,
+    "bookId": 92,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2692,
+    "bookId": 95,
+    "readerId": 61,
+    "rating": 3
+  },
+  {
+    "id": 2693,
+    "bookId": 124,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2694,
+    "bookId": 57,
+    "readerId": 61,
+    "rating": 4
+  },
+  {
+    "id": 2695,
+    "bookId": 39,
+    "readerId": 61,
+    "rating": 5
+  },
+  {
+    "id": 2696,
+    "bookId": 38,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2697,
+    "bookId": 26,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2698,
+    "bookId": 45,
+    "readerId": 62,
+    "rating": 2
+  },
+  {
+    "id": 2699,
+    "bookId": 25,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2700,
+    "bookId": 32,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2701,
+    "bookId": 39,
+    "readerId": 62,
+    "rating": 1
+  },
+  {
+    "id": 2702,
+    "bookId": 34,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2703,
+    "bookId": 107,
+    "readerId": 62,
+    "rating": 2
+  },
+  {
+    "id": 2704,
+    "bookId": 2,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2705,
+    "bookId": 166,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2706,
+    "bookId": 43,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2707,
+    "bookId": 40,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2708,
+    "bookId": 35,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2709,
+    "bookId": 28,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2710,
+    "bookId": 29,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2711,
+    "bookId": 12,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2712,
+    "bookId": 1,
+    "readerId": 62,
+    "rating": 2
+  },
+  {
+    "id": 2713,
+    "bookId": 190,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2714,
+    "bookId": 142,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2715,
+    "bookId": 9,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2716,
+    "bookId": 161,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2717,
+    "bookId": 46,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2718,
+    "bookId": 23,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2719,
+    "bookId": 19,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2720,
+    "bookId": 33,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2721,
+    "bookId": 21,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2722,
+    "bookId": 24,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2723,
+    "bookId": 13,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2724,
+    "bookId": 15,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2725,
+    "bookId": 17,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2726,
+    "bookId": 3,
+    "readerId": 62,
+    "rating": 4
+  },
+  {
+    "id": 2727,
+    "bookId": 18,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2728,
+    "bookId": 8,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2729,
+    "bookId": 72,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2730,
+    "bookId": 5,
+    "readerId": 62,
+    "rating": 5
+  },
+  {
+    "id": 2731,
+    "bookId": 16,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2732,
+    "bookId": 4,
+    "readerId": 62,
+    "rating": 3
+  },
+  {
+    "id": 2733,
+    "bookId": 35,
+    "readerId": 63,
+    "rating": 3
+  },
+  {
+    "id": 2734,
+    "bookId": 172,
+    "readerId": 63,
+    "rating": 5
+  },
+  {
+    "id": 2735,
+    "bookId": 101,
+    "readerId": 63,
+    "rating": 3
+  },
+  {
+    "id": 2736,
+    "bookId": 195,
+    "readerId": 63,
+    "rating": 2
+  },
+  {
+    "id": 2737,
+    "bookId": 177,
+    "readerId": 63,
+    "rating": 3
+  },
+  {
+    "id": 2738,
+    "bookId": 51,
+    "readerId": 63,
+    "rating": 5
+  },
+  {
+    "id": 2739,
+    "bookId": 200,
+    "readerId": 63,
+    "rating": 4
+  },
+  {
+    "id": 2740,
+    "bookId": 115,
+    "readerId": 63,
+    "rating": 2
+  },
+  {
+    "id": 2741,
+    "bookId": 69,
+    "readerId": 63,
+    "rating": 2
+  },
+  {
+    "id": 2742,
+    "bookId": 151,
+    "readerId": 63,
+    "rating": 4
+  },
+  {
+    "id": 2743,
+    "bookId": 144,
+    "readerId": 63,
+    "rating": 3
+  },
+  {
+    "id": 2744,
+    "bookId": 52,
+    "readerId": 63,
+    "rating": 4
+  },
+  {
+    "id": 2745,
+    "bookId": 89,
+    "readerId": 63,
+    "rating": 5
+  },
+  {
+    "id": 2746,
+    "bookId": 183,
+    "readerId": 63,
+    "rating": 4
+  },
+  {
+    "id": 2747,
+    "bookId": 75,
+    "readerId": 63,
+    "rating": 4
+  },
+  {
+    "id": 2748,
+    "bookId": 48,
+    "readerId": 63,
+    "rating": 2
+  },
+  {
+    "id": 2749,
+    "bookId": 52,
+    "readerId": 64,
+    "rating": 5
+  },
+  {
+    "id": 2750,
+    "bookId": 95,
+    "readerId": 64,
+    "rating": 4
+  },
+  {
+    "id": 2751,
+    "bookId": 171,
+    "readerId": 64,
+    "rating": 3
+  },
+  {
+    "id": 2752,
+    "bookId": 94,
+    "readerId": 64,
+    "rating": 4
+  },
+  {
+    "id": 2753,
+    "bookId": 159,
+    "readerId": 64,
+    "rating": 2
+  },
+  {
+    "id": 2754,
+    "bookId": 141,
+    "readerId": 64,
+    "rating": 2
+  },
+  {
+    "id": 2755,
+    "bookId": 164,
+    "readerId": 64,
+    "rating": 4
+  },
+  {
+    "id": 2756,
+    "bookId": 48,
+    "readerId": 64,
+    "rating": 3
+  },
+  {
+    "id": 2757,
+    "bookId": 71,
+    "readerId": 64,
+    "rating": 4
+  },
+  {
+    "id": 2758,
+    "bookId": 155,
+    "readerId": 64,
+    "rating": 4
+  },
+  {
+    "id": 2759,
+    "bookId": 66,
+    "readerId": 64,
+    "rating": 2
+  },
+  {
+    "id": 2760,
+    "bookId": 87,
+    "readerId": 64,
+    "rating": 5
+  },
+  {
+    "id": 2761,
+    "bookId": 55,
+    "readerId": 64,
+    "rating": 4
+  },
+  {
+    "id": 2762,
+    "bookId": 51,
+    "readerId": 64,
+    "rating": 3
+  },
+  {
+    "id": 2763,
+    "bookId": 93,
+    "readerId": 64,
+    "rating": 4
+  },
+  {
+    "id": 2764,
+    "bookId": 108,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2765,
+    "bookId": 109,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2766,
+    "bookId": 128,
+    "readerId": 65,
+    "rating": 2
+  },
+  {
+    "id": 2767,
+    "bookId": 178,
+    "readerId": 65,
+    "rating": 2
+  },
+  {
+    "id": 2768,
+    "bookId": 86,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2769,
+    "bookId": 97,
+    "readerId": 65,
+    "rating": 1
+  },
+  {
+    "id": 2770,
+    "bookId": 131,
+    "readerId": 65,
+    "rating": 5
+  },
+  {
+    "id": 2771,
+    "bookId": 110,
+    "readerId": 65,
+    "rating": 5
+  },
+  {
+    "id": 2772,
+    "bookId": 151,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2773,
+    "bookId": 119,
+    "readerId": 65,
+    "rating": 5
+  },
+  {
+    "id": 2774,
+    "bookId": 138,
+    "readerId": 65,
+    "rating": 2
+  },
+  {
+    "id": 2775,
+    "bookId": 198,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2776,
+    "bookId": 112,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2777,
+    "bookId": 180,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2778,
+    "bookId": 104,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2779,
+    "bookId": 143,
+    "readerId": 65,
+    "rating": 1
+  },
+  {
+    "id": 2780,
+    "bookId": 106,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2781,
+    "bookId": 132,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2782,
+    "bookId": 125,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2783,
+    "bookId": 85,
+    "readerId": 65,
+    "rating": 2
+  },
+  {
+    "id": 2784,
+    "bookId": 99,
+    "readerId": 65,
+    "rating": 5
+  },
+  {
+    "id": 2785,
+    "bookId": 130,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2786,
+    "bookId": 8,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2787,
+    "bookId": 113,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2788,
+    "bookId": 115,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2789,
+    "bookId": 100,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2790,
+    "bookId": 135,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2791,
+    "bookId": 126,
+    "readerId": 65,
+    "rating": 5
+  },
+  {
+    "id": 2792,
+    "bookId": 6,
+    "readerId": 65,
+    "rating": 4
+  },
+  {
+    "id": 2793,
+    "bookId": 19,
+    "readerId": 65,
+    "rating": 3
+  },
+  {
+    "id": 2794,
+    "bookId": 29,
+    "readerId": 65,
+    "rating": 1
+  },
+  {
+    "id": 2795,
+    "bookId": 137,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2796,
+    "bookId": 150,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2797,
+    "bookId": 33,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2798,
+    "bookId": 100,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2799,
+    "bookId": 102,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2800,
+    "bookId": 105,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2801,
+    "bookId": 122,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2802,
+    "bookId": 114,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2803,
+    "bookId": 96,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2804,
+    "bookId": 165,
+    "readerId": 66,
+    "rating": 2
+  },
+  {
+    "id": 2805,
+    "bookId": 130,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2806,
+    "bookId": 101,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2807,
+    "bookId": 187,
+    "readerId": 66,
+    "rating": 2
+  },
+  {
+    "id": 2808,
+    "bookId": 121,
+    "readerId": 66,
+    "rating": 1
+  },
+  {
+    "id": 2809,
+    "bookId": 158,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2810,
+    "bookId": 112,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2811,
+    "bookId": 104,
+    "readerId": 66,
+    "rating": 1
+  },
+  {
+    "id": 2812,
+    "bookId": 108,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2813,
+    "bookId": 72,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2814,
+    "bookId": 132,
+    "readerId": 66,
+    "rating": 2
+  },
+  {
+    "id": 2815,
+    "bookId": 190,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2816,
+    "bookId": 123,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2817,
+    "bookId": 136,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2818,
+    "bookId": 103,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2819,
+    "bookId": 204,
+    "readerId": 66,
+    "rating": 2
+  },
+  {
+    "id": 2820,
+    "bookId": 129,
+    "readerId": 66,
+    "rating": 2
+  },
+  {
+    "id": 2821,
+    "bookId": 110,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2822,
+    "bookId": 11,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2823,
+    "bookId": 128,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2824,
+    "bookId": 124,
+    "readerId": 66,
+    "rating": 5
+  },
+  {
+    "id": 2825,
+    "bookId": 106,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2826,
+    "bookId": 107,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2827,
+    "bookId": 119,
+    "readerId": 66,
+    "rating": 4
+  },
+  {
+    "id": 2828,
+    "bookId": 125,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2829,
+    "bookId": 115,
+    "readerId": 66,
+    "rating": 3
+  },
+  {
+    "id": 2830,
+    "bookId": 43,
+    "readerId": 66,
+    "rating": 1
+  },
+  {
+    "id": 2831,
+    "bookId": 183,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2832,
+    "bookId": 197,
+    "readerId": 67,
+    "rating": 1
+  },
+  {
+    "id": 2833,
+    "bookId": 176,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2834,
+    "bookId": 14,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2835,
+    "bookId": 207,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2836,
+    "bookId": 169,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2837,
+    "bookId": 142,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2838,
+    "bookId": 177,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2839,
+    "bookId": 46,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2840,
+    "bookId": 37,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2841,
+    "bookId": 128,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2842,
+    "bookId": 179,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2843,
+    "bookId": 79,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2844,
+    "bookId": 206,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2845,
+    "bookId": 184,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2846,
+    "bookId": 158,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2847,
+    "bookId": 31,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2848,
+    "bookId": 202,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2849,
+    "bookId": 160,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2850,
+    "bookId": 195,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2851,
+    "bookId": 34,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2852,
+    "bookId": 140,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2853,
+    "bookId": 201,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2854,
+    "bookId": 190,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2855,
+    "bookId": 204,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2856,
+    "bookId": 12,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2857,
+    "bookId": 75,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2858,
+    "bookId": 189,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2859,
+    "bookId": 188,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2860,
+    "bookId": 170,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2861,
+    "bookId": 22,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2862,
+    "bookId": 121,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2863,
+    "bookId": 126,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2864,
+    "bookId": 200,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2865,
+    "bookId": 148,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2866,
+    "bookId": 199,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2867,
+    "bookId": 173,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2868,
+    "bookId": 180,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2869,
+    "bookId": 196,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2870,
+    "bookId": 57,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2871,
+    "bookId": 185,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2872,
+    "bookId": 198,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2873,
+    "bookId": 192,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2874,
+    "bookId": 100,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2875,
+    "bookId": 50,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2876,
+    "bookId": 187,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2877,
+    "bookId": 134,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2878,
+    "bookId": 182,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2879,
+    "bookId": 77,
+    "readerId": 67,
+    "rating": 1
+  },
+  {
+    "id": 2880,
+    "bookId": 172,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2881,
+    "bookId": 203,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2882,
+    "bookId": 181,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2883,
+    "bookId": 41,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2884,
+    "bookId": 191,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2885,
+    "bookId": 6,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2886,
+    "bookId": 193,
+    "readerId": 67,
+    "rating": 1
+  },
+  {
+    "id": 2887,
+    "bookId": 171,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2888,
+    "bookId": 85,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2889,
+    "bookId": 122,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2890,
+    "bookId": 123,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2891,
+    "bookId": 26,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2892,
+    "bookId": 194,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2893,
+    "bookId": 186,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2894,
+    "bookId": 62,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2895,
+    "bookId": 174,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2896,
+    "bookId": 178,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2897,
+    "bookId": 175,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2898,
+    "bookId": 205,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2899,
+    "bookId": 95,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2900,
+    "bookId": 125,
+    "readerId": 67,
+    "rating": 1
+  },
+  {
+    "id": 2901,
+    "bookId": 47,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2902,
+    "bookId": 157,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2903,
+    "bookId": 99,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2904,
+    "bookId": 106,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2905,
+    "bookId": 10,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2906,
+    "bookId": 55,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2907,
+    "bookId": 109,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2908,
+    "bookId": 53,
+    "readerId": 67,
+    "rating": 1
+  },
+  {
+    "id": 2909,
+    "bookId": 43,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2910,
+    "bookId": 112,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2911,
+    "bookId": 165,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2912,
+    "bookId": 124,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2913,
+    "bookId": 167,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2914,
+    "bookId": 70,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2915,
+    "bookId": 17,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2916,
+    "bookId": 164,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2917,
+    "bookId": 161,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2918,
+    "bookId": 111,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2919,
+    "bookId": 159,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2920,
+    "bookId": 153,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2921,
+    "bookId": 132,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2922,
+    "bookId": 44,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2923,
+    "bookId": 108,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2924,
+    "bookId": 133,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2925,
+    "bookId": 36,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2926,
+    "bookId": 86,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2927,
+    "bookId": 3,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2928,
+    "bookId": 29,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2929,
+    "bookId": 137,
+    "readerId": 67,
+    "rating": 1
+  },
+  {
+    "id": 2930,
+    "bookId": 129,
+    "readerId": 67,
+    "rating": 5
+  },
+  {
+    "id": 2931,
+    "bookId": 74,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2932,
+    "bookId": 145,
+    "readerId": 67,
+    "rating": 4
+  },
+  {
+    "id": 2933,
+    "bookId": 68,
+    "readerId": 67,
+    "rating": 3
+  },
+  {
+    "id": 2934,
+    "bookId": 65,
+    "readerId": 67,
+    "rating": 2
+  },
+  {
+    "id": 2935,
+    "bookId": 83,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2936,
+    "bookId": 52,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2937,
+    "bookId": 68,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2938,
+    "bookId": 48,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2939,
+    "bookId": 80,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2940,
+    "bookId": 93,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2941,
+    "bookId": 67,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2942,
+    "bookId": 66,
+    "readerId": 68,
+    "rating": 3
+  },
+  {
+    "id": 2943,
+    "bookId": 121,
+    "readerId": 68,
+    "rating": 3
+  },
+  {
+    "id": 2944,
+    "bookId": 59,
+    "readerId": 68,
+    "rating": 2
+  },
+  {
+    "id": 2945,
+    "bookId": 84,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2946,
+    "bookId": 58,
+    "readerId": 68,
+    "rating": 2
+  },
+  {
+    "id": 2947,
+    "bookId": 185,
+    "readerId": 68,
+    "rating": 1
+  },
+  {
+    "id": 2948,
+    "bookId": 196,
+    "readerId": 68,
+    "rating": 2
+  },
+  {
+    "id": 2949,
+    "bookId": 167,
+    "readerId": 68,
+    "rating": 2
+  },
+  {
+    "id": 2950,
+    "bookId": 74,
+    "readerId": 68,
+    "rating": 1
+  },
+  {
+    "id": 2951,
+    "bookId": 62,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2952,
+    "bookId": 55,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2953,
+    "bookId": 81,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2954,
+    "bookId": 42,
+    "readerId": 68,
+    "rating": 3
+  },
+  {
+    "id": 2955,
+    "bookId": 2,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2956,
+    "bookId": 76,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2957,
+    "bookId": 50,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2958,
+    "bookId": 122,
+    "readerId": 68,
+    "rating": 2
+  },
+  {
+    "id": 2959,
+    "bookId": 143,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2960,
+    "bookId": 53,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2961,
+    "bookId": 191,
+    "readerId": 68,
+    "rating": 3
+  },
+  {
+    "id": 2962,
+    "bookId": 19,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2963,
+    "bookId": 85,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2964,
+    "bookId": 79,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2965,
+    "bookId": 37,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2966,
+    "bookId": 27,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2967,
+    "bookId": 51,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2968,
+    "bookId": 75,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2969,
+    "bookId": 182,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2970,
+    "bookId": 72,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2971,
+    "bookId": 63,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2972,
+    "bookId": 49,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2973,
+    "bookId": 61,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2974,
+    "bookId": 90,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2975,
+    "bookId": 57,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2976,
+    "bookId": 86,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2977,
+    "bookId": 71,
+    "readerId": 68,
+    "rating": 2
+  },
+  {
+    "id": 2978,
+    "bookId": 77,
+    "readerId": 68,
+    "rating": 5
+  },
+  {
+    "id": 2979,
+    "bookId": 47,
+    "readerId": 68,
+    "rating": 4
+  },
+  {
+    "id": 2980,
+    "bookId": 156,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 2981,
+    "bookId": 100,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 2982,
+    "bookId": 163,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 2983,
+    "bookId": 9,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 2984,
+    "bookId": 141,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 2985,
+    "bookId": 126,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 2986,
+    "bookId": 151,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 2987,
+    "bookId": 75,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 2988,
+    "bookId": 87,
+    "readerId": 69,
+    "rating": 2
+  },
+  {
+    "id": 2989,
+    "bookId": 167,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 2990,
+    "bookId": 52,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 2991,
+    "bookId": 74,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 2992,
+    "bookId": 81,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 2993,
+    "bookId": 49,
+    "readerId": 69,
+    "rating": 1
+  },
+  {
+    "id": 2994,
+    "bookId": 116,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 2995,
+    "bookId": 160,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 2996,
+    "bookId": 92,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 2997,
+    "bookId": 162,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 2998,
+    "bookId": 63,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 2999,
+    "bookId": 144,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3000,
+    "bookId": 140,
+    "readerId": 69,
+    "rating": 2
+  },
+  {
+    "id": 3001,
+    "bookId": 90,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3002,
+    "bookId": 54,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 3003,
+    "bookId": 88,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 3004,
+    "bookId": 164,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3005,
+    "bookId": 142,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 3006,
+    "bookId": 95,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3007,
+    "bookId": 72,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3008,
+    "bookId": 185,
+    "readerId": 69,
+    "rating": 2
+  },
+  {
+    "id": 3009,
+    "bookId": 149,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3010,
+    "bookId": 93,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3011,
+    "bookId": 157,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3012,
+    "bookId": 80,
+    "readerId": 69,
+    "rating": 2
+  },
+  {
+    "id": 3013,
+    "bookId": 165,
+    "readerId": 69,
+    "rating": 1
+  },
+  {
+    "id": 3014,
+    "bookId": 66,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 3015,
+    "bookId": 177,
+    "readerId": 69,
+    "rating": 3
+  },
+  {
+    "id": 3016,
+    "bookId": 59,
+    "readerId": 69,
+    "rating": 1
+  },
+  {
+    "id": 3017,
+    "bookId": 73,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3018,
+    "bookId": 114,
+    "readerId": 69,
+    "rating": 1
+  },
+  {
+    "id": 3019,
+    "bookId": 42,
+    "readerId": 69,
+    "rating": 1
+  },
+  {
+    "id": 3020,
+    "bookId": 143,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3021,
+    "bookId": 166,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3022,
+    "bookId": 158,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3023,
+    "bookId": 43,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 3024,
+    "bookId": 76,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 3025,
+    "bookId": 202,
+    "readerId": 69,
+    "rating": 2
+  },
+  {
+    "id": 3026,
+    "bookId": 145,
+    "readerId": 69,
+    "rating": 1
+  },
+  {
+    "id": 3027,
+    "bookId": 150,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 3028,
+    "bookId": 65,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 3029,
+    "bookId": 159,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 3030,
+    "bookId": 104,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3031,
+    "bookId": 152,
+    "readerId": 69,
+    "rating": 4
+  },
+  {
+    "id": 3032,
+    "bookId": 82,
+    "readerId": 69,
+    "rating": 5
+  },
+  {
+    "id": 3033,
+    "bookId": 149,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3034,
+    "bookId": 150,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3035,
+    "bookId": 85,
+    "readerId": 70,
+    "rating": 2
+  },
+  {
+    "id": 3036,
+    "bookId": 115,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3037,
+    "bookId": 154,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3038,
+    "bookId": 3,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3039,
+    "bookId": 65,
+    "readerId": 70,
+    "rating": 5
+  },
+  {
+    "id": 3040,
+    "bookId": 54,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3041,
+    "bookId": 143,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3042,
+    "bookId": 145,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3043,
+    "bookId": 15,
+    "readerId": 70,
+    "rating": 5
+  },
+  {
+    "id": 3044,
+    "bookId": 63,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3045,
+    "bookId": 75,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3046,
+    "bookId": 73,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3047,
+    "bookId": 72,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3048,
+    "bookId": 92,
+    "readerId": 70,
+    "rating": 5
+  },
+  {
+    "id": 3049,
+    "bookId": 91,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3050,
+    "bookId": 164,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3051,
+    "bookId": 95,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3052,
+    "bookId": 96,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3053,
+    "bookId": 160,
+    "readerId": 70,
+    "rating": 5
+  },
+  {
+    "id": 3054,
+    "bookId": 152,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3055,
+    "bookId": 144,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3056,
+    "bookId": 19,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3057,
+    "bookId": 141,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3058,
+    "bookId": 161,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3059,
+    "bookId": 81,
+    "readerId": 70,
+    "rating": 5
+  },
+  {
+    "id": 3060,
+    "bookId": 18,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3061,
+    "bookId": 158,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3062,
+    "bookId": 140,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3063,
+    "bookId": 51,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3064,
+    "bookId": 157,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3065,
+    "bookId": 52,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3066,
+    "bookId": 146,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3067,
+    "bookId": 59,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3068,
+    "bookId": 83,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3069,
+    "bookId": 173,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3070,
+    "bookId": 168,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3071,
+    "bookId": 197,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3072,
+    "bookId": 90,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3073,
+    "bookId": 166,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3074,
+    "bookId": 163,
+    "readerId": 70,
+    "rating": 5
+  },
+  {
+    "id": 3075,
+    "bookId": 93,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3076,
+    "bookId": 29,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3077,
+    "bookId": 113,
+    "readerId": 70,
+    "rating": 3
+  },
+  {
+    "id": 3078,
+    "bookId": 89,
+    "readerId": 70,
+    "rating": 4
+  },
+  {
+    "id": 3079,
+    "bookId": 76,
+    "readerId": 70,
+    "rating": 1
+  },
+  {
+    "id": 3080,
+    "bookId": 144,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3081,
+    "bookId": 113,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3082,
+    "bookId": 203,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3083,
+    "bookId": 36,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3084,
+    "bookId": 153,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3085,
+    "bookId": 159,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3086,
+    "bookId": 92,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3087,
+    "bookId": 85,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3088,
+    "bookId": 199,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3089,
+    "bookId": 87,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3090,
+    "bookId": 161,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3091,
+    "bookId": 169,
+    "readerId": 71,
+    "rating": 1
+  },
+  {
+    "id": 3092,
+    "bookId": 89,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3093,
+    "bookId": 107,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3094,
+    "bookId": 108,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3095,
+    "bookId": 160,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3096,
+    "bookId": 181,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3097,
+    "bookId": 128,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3098,
+    "bookId": 52,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3099,
+    "bookId": 206,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3100,
+    "bookId": 142,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3101,
+    "bookId": 93,
+    "readerId": 71,
+    "rating": 1
+  },
+  {
+    "id": 3102,
+    "bookId": 90,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3103,
+    "bookId": 75,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3104,
+    "bookId": 72,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3105,
+    "bookId": 81,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3106,
+    "bookId": 140,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3107,
+    "bookId": 155,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3108,
+    "bookId": 59,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3109,
+    "bookId": 63,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3110,
+    "bookId": 141,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3111,
+    "bookId": 65,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3112,
+    "bookId": 164,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3113,
+    "bookId": 67,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3114,
+    "bookId": 154,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3115,
+    "bookId": 166,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3116,
+    "bookId": 82,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3117,
+    "bookId": 54,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3118,
+    "bookId": 152,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3119,
+    "bookId": 80,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3120,
+    "bookId": 132,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3121,
+    "bookId": 56,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3122,
+    "bookId": 151,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3123,
+    "bookId": 191,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3124,
+    "bookId": 64,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3125,
+    "bookId": 133,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3126,
+    "bookId": 204,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3127,
+    "bookId": 73,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3128,
+    "bookId": 168,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3129,
+    "bookId": 39,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3130,
+    "bookId": 162,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3131,
+    "bookId": 156,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3132,
+    "bookId": 14,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3133,
+    "bookId": 158,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3134,
+    "bookId": 74,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3135,
+    "bookId": 175,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3136,
+    "bookId": 86,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3137,
+    "bookId": 150,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3138,
+    "bookId": 157,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3139,
+    "bookId": 76,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3140,
+    "bookId": 123,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3141,
+    "bookId": 143,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3142,
+    "bookId": 95,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3143,
+    "bookId": 147,
+    "readerId": 71,
+    "rating": 1
+  },
+  {
+    "id": 3144,
+    "bookId": 103,
+    "readerId": 71,
+    "rating": 4
+  },
+  {
+    "id": 3145,
+    "bookId": 165,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3146,
+    "bookId": 146,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3147,
+    "bookId": 51,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3148,
+    "bookId": 148,
+    "readerId": 71,
+    "rating": 1
+  },
+  {
+    "id": 3149,
+    "bookId": 163,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3150,
+    "bookId": 145,
+    "readerId": 71,
+    "rating": 1
+  },
+  {
+    "id": 3151,
+    "bookId": 53,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3152,
+    "bookId": 167,
+    "readerId": 71,
+    "rating": 3
+  },
+  {
+    "id": 3153,
+    "bookId": 30,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3154,
+    "bookId": 149,
+    "readerId": 71,
+    "rating": 5
+  },
+  {
+    "id": 3155,
+    "bookId": 179,
+    "readerId": 71,
+    "rating": 1
+  },
+  {
+    "id": 3156,
+    "bookId": 69,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3157,
+    "bookId": 110,
+    "readerId": 71,
+    "rating": 2
+  },
+  {
+    "id": 3158,
+    "bookId": 70,
+    "readerId": 72,
+    "rating": 5
+  },
+  {
+    "id": 3159,
+    "bookId": 48,
+    "readerId": 72,
+    "rating": 4
+  },
+  {
+    "id": 3160,
+    "bookId": 128,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3161,
+    "bookId": 74,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3162,
+    "bookId": 73,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3163,
+    "bookId": 58,
+    "readerId": 72,
+    "rating": 5
+  },
+  {
+    "id": 3164,
+    "bookId": 59,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3165,
+    "bookId": 53,
+    "readerId": 72,
+    "rating": 4
+  },
+  {
+    "id": 3166,
+    "bookId": 57,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3167,
+    "bookId": 94,
+    "readerId": 72,
+    "rating": 4
+  },
+  {
+    "id": 3168,
+    "bookId": 55,
+    "readerId": 72,
+    "rating": 4
+  },
+  {
+    "id": 3169,
+    "bookId": 84,
+    "readerId": 72,
+    "rating": 5
+  },
+  {
+    "id": 3170,
+    "bookId": 95,
+    "readerId": 72,
+    "rating": 5
+  },
+  {
+    "id": 3171,
+    "bookId": 93,
+    "readerId": 72,
+    "rating": 1
+  },
+  {
+    "id": 3172,
+    "bookId": 20,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3173,
+    "bookId": 157,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3174,
+    "bookId": 88,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3175,
+    "bookId": 81,
+    "readerId": 72,
+    "rating": 3
+  },
+  {
+    "id": 3176,
+    "bookId": 144,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3177,
+    "bookId": 151,
+    "readerId": 73,
+    "rating": 4
+  },
+  {
+    "id": 3178,
+    "bookId": 15,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3179,
+    "bookId": 160,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3180,
+    "bookId": 52,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3181,
+    "bookId": 73,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3182,
+    "bookId": 154,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3183,
+    "bookId": 156,
+    "readerId": 73,
+    "rating": 3
+  },
+  {
+    "id": 3184,
+    "bookId": 167,
+    "readerId": 73,
+    "rating": 4
+  },
+  {
+    "id": 3185,
+    "bookId": 83,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3186,
+    "bookId": 65,
+    "readerId": 73,
+    "rating": 1
+  },
+  {
+    "id": 3187,
+    "bookId": 188,
+    "readerId": 73,
+    "rating": 3
+  },
+  {
+    "id": 3188,
+    "bookId": 66,
+    "readerId": 73,
+    "rating": 5
+  },
+  {
+    "id": 3189,
+    "bookId": 94,
+    "readerId": 73,
+    "rating": 3
+  },
+  {
+    "id": 3190,
+    "bookId": 81,
+    "readerId": 73,
+    "rating": 2
+  },
+  {
+    "id": 3191,
+    "bookId": 163,
+    "readerId": 73,
+    "rating": 1
+  },
+  {
+    "id": 3192,
+    "bookId": 74,
+    "readerId": 73,
+    "rating": 4
+  },
+  {
+    "id": 3193,
+    "bookId": 57,
+    "readerId": 73,
+    "rating": 4
+  },
+  {
+    "id": 3194,
+    "bookId": 85,
+    "readerId": 73,
+    "rating": 4
+  },
+  {
+    "id": 3195,
+    "bookId": 99,
+    "readerId": 73,
+    "rating": 2
+  },
+  {
+    "id": 3196,
+    "bookId": 91,
+    "readerId": 74,
+    "rating": 3
+  },
+  {
+    "id": 3197,
+    "bookId": 56,
+    "readerId": 74,
+    "rating": 1
+  },
+  {
+    "id": 3198,
+    "bookId": 71,
+    "readerId": 74,
+    "rating": 3
+  },
+  {
+    "id": 3199,
+    "bookId": 62,
+    "readerId": 74,
+    "rating": 5
+  },
+  {
+    "id": 3200,
+    "bookId": 19,
+    "readerId": 74,
+    "rating": 5
+  },
+  {
+    "id": 3201,
+    "bookId": 8,
+    "readerId": 74,
+    "rating": 3
+  },
+  {
+    "id": 3202,
+    "bookId": 57,
+    "readerId": 74,
+    "rating": 4
+  },
+  {
+    "id": 3203,
+    "bookId": 109,
+    "readerId": 74,
+    "rating": 4
+  },
+  {
+    "id": 3204,
+    "bookId": 193,
+    "readerId": 74,
+    "rating": 4
+  },
+  {
+    "id": 3205,
+    "bookId": 88,
+    "readerId": 74,
+    "rating": 3
+  },
+  {
+    "id": 3206,
+    "bookId": 76,
+    "readerId": 74,
+    "rating": 5
+  },
+  {
+    "id": 3207,
+    "bookId": 118,
+    "readerId": 74,
+    "rating": 4
+  },
+  {
+    "id": 3208,
+    "bookId": 142,
+    "readerId": 74,
+    "rating": 5
+  },
+  {
+    "id": 3209,
+    "bookId": 5,
+    "readerId": 74,
+    "rating": 5
+  },
+  {
+    "id": 3210,
+    "bookId": 93,
+    "readerId": 74,
+    "rating": 2
+  },
+  {
+    "id": 3211,
+    "bookId": 82,
+    "readerId": 74,
+    "rating": 4
+  },
+  {
+    "id": 3212,
+    "bookId": 73,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3213,
+    "bookId": 146,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3214,
+    "bookId": 163,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3215,
+    "bookId": 92,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3216,
+    "bookId": 140,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3217,
+    "bookId": 149,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3218,
+    "bookId": 193,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3219,
+    "bookId": 11,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3220,
+    "bookId": 72,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3221,
+    "bookId": 63,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3222,
+    "bookId": 160,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3223,
+    "bookId": 166,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3224,
+    "bookId": 85,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3225,
+    "bookId": 51,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3226,
+    "bookId": 87,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3227,
+    "bookId": 177,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3228,
+    "bookId": 167,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3229,
+    "bookId": 144,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3230,
+    "bookId": 205,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3231,
+    "bookId": 52,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3232,
+    "bookId": 192,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3233,
+    "bookId": 23,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3234,
+    "bookId": 147,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3235,
+    "bookId": 162,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3236,
+    "bookId": 119,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3237,
+    "bookId": 156,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3238,
+    "bookId": 154,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3239,
+    "bookId": 157,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3240,
+    "bookId": 22,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3241,
+    "bookId": 158,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3242,
+    "bookId": 164,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3243,
+    "bookId": 165,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3244,
+    "bookId": 70,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3245,
+    "bookId": 89,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3246,
+    "bookId": 100,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3247,
+    "bookId": 159,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3248,
+    "bookId": 95,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3249,
+    "bookId": 74,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3250,
+    "bookId": 114,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3251,
+    "bookId": 112,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3252,
+    "bookId": 80,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3253,
+    "bookId": 153,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3254,
+    "bookId": 54,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3255,
+    "bookId": 75,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3256,
+    "bookId": 168,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3257,
+    "bookId": 65,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3258,
+    "bookId": 76,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3259,
+    "bookId": 93,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3260,
+    "bookId": 82,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3261,
+    "bookId": 103,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3262,
+    "bookId": 90,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3263,
+    "bookId": 113,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3264,
+    "bookId": 132,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3265,
+    "bookId": 202,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3266,
+    "bookId": 150,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3267,
+    "bookId": 161,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3268,
+    "bookId": 155,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3269,
+    "bookId": 148,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3270,
+    "bookId": 145,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3271,
+    "bookId": 86,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3272,
+    "bookId": 59,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3273,
+    "bookId": 141,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3274,
+    "bookId": 152,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3275,
+    "bookId": 81,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3276,
+    "bookId": 151,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3277,
+    "bookId": 142,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3278,
+    "bookId": 143,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3279,
+    "bookId": 173,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3280,
+    "bookId": 125,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3281,
+    "bookId": 88,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3282,
+    "bookId": 109,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3283,
+    "bookId": 133,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3284,
+    "bookId": 84,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3285,
+    "bookId": 78,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3286,
+    "bookId": 201,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3287,
+    "bookId": 83,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3288,
+    "bookId": 174,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3289,
+    "bookId": 170,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3290,
+    "bookId": 176,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3291,
+    "bookId": 188,
+    "readerId": 75,
+    "rating": 3
+  },
+  {
+    "id": 3292,
+    "bookId": 67,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3293,
+    "bookId": 139,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3294,
+    "bookId": 12,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3295,
+    "bookId": 48,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3296,
+    "bookId": 135,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3297,
+    "bookId": 129,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3298,
+    "bookId": 175,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3299,
+    "bookId": 5,
+    "readerId": 75,
+    "rating": 4
+  },
+  {
+    "id": 3300,
+    "bookId": 17,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3301,
+    "bookId": 18,
+    "readerId": 75,
+    "rating": 1
+  },
+  {
+    "id": 3302,
+    "bookId": 206,
+    "readerId": 75,
+    "rating": 2
+  },
+  {
+    "id": 3303,
+    "bookId": 111,
+    "readerId": 75,
+    "rating": 5
+  },
+  {
+    "id": 3304,
+    "bookId": 7,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3305,
+    "bookId": 14,
+    "readerId": 76,
+    "rating": 5
+  },
+  {
+    "id": 3306,
+    "bookId": 44,
+    "readerId": 76,
+    "rating": 5
+  },
+  {
+    "id": 3307,
+    "bookId": 119,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3308,
+    "bookId": 96,
+    "readerId": 76,
+    "rating": 1
+  },
+  {
+    "id": 3309,
+    "bookId": 15,
+    "readerId": 76,
+    "rating": 1
+  },
+  {
+    "id": 3310,
+    "bookId": 16,
+    "readerId": 76,
+    "rating": 5
+  },
+  {
+    "id": 3311,
+    "bookId": 32,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3312,
+    "bookId": 117,
+    "readerId": 76,
+    "rating": 5
+  },
+  {
+    "id": 3313,
+    "bookId": 1,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3314,
+    "bookId": 158,
+    "readerId": 76,
+    "rating": 5
+  },
+  {
+    "id": 3315,
+    "bookId": 33,
+    "readerId": 76,
+    "rating": 1
+  },
+  {
+    "id": 3316,
+    "bookId": 45,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3317,
+    "bookId": 31,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3318,
+    "bookId": 18,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3319,
+    "bookId": 22,
+    "readerId": 76,
+    "rating": 4
+  },
+  {
+    "id": 3320,
+    "bookId": 3,
+    "readerId": 76,
+    "rating": 5
+  },
+  {
+    "id": 3321,
+    "bookId": 3,
+    "readerId": 77,
+    "rating": 4
+  },
+  {
+    "id": 3322,
+    "bookId": 178,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3323,
+    "bookId": 204,
+    "readerId": 78,
+    "rating": 1
+  },
+  {
+    "id": 3324,
+    "bookId": 196,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3325,
+    "bookId": 175,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3326,
+    "bookId": 174,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3327,
+    "bookId": 187,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3328,
+    "bookId": 188,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3329,
+    "bookId": 177,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3330,
+    "bookId": 23,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3331,
+    "bookId": 185,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3332,
+    "bookId": 183,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3333,
+    "bookId": 166,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3334,
+    "bookId": 62,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3335,
+    "bookId": 207,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3336,
+    "bookId": 182,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3337,
+    "bookId": 193,
+    "readerId": 78,
+    "rating": 1
+  },
+  {
+    "id": 3338,
+    "bookId": 180,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3339,
+    "bookId": 197,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3340,
+    "bookId": 190,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3341,
+    "bookId": 201,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3342,
+    "bookId": 170,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3343,
+    "bookId": 184,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3344,
+    "bookId": 118,
+    "readerId": 78,
+    "rating": 1
+  },
+  {
+    "id": 3345,
+    "bookId": 36,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3346,
+    "bookId": 108,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3347,
+    "bookId": 181,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3348,
+    "bookId": 169,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3349,
+    "bookId": 192,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3350,
+    "bookId": 171,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3351,
+    "bookId": 176,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3352,
+    "bookId": 189,
+    "readerId": 78,
+    "rating": 1
+  },
+  {
+    "id": 3353,
+    "bookId": 186,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3354,
+    "bookId": 157,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3355,
+    "bookId": 198,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3356,
+    "bookId": 51,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3357,
+    "bookId": 194,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3358,
+    "bookId": 191,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3359,
+    "bookId": 179,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3360,
+    "bookId": 172,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3361,
+    "bookId": 173,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3362,
+    "bookId": 205,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3363,
+    "bookId": 200,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3364,
+    "bookId": 77,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3365,
+    "bookId": 27,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3366,
+    "bookId": 203,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3367,
+    "bookId": 47,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3368,
+    "bookId": 199,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3369,
+    "bookId": 14,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3370,
+    "bookId": 134,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3371,
+    "bookId": 202,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3372,
+    "bookId": 195,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3373,
+    "bookId": 206,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3374,
+    "bookId": 154,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3375,
+    "bookId": 165,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3376,
+    "bookId": 4,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3377,
+    "bookId": 101,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3378,
+    "bookId": 7,
+    "readerId": 78,
+    "rating": 5
+  },
+  {
+    "id": 3379,
+    "bookId": 136,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3380,
+    "bookId": 121,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3381,
+    "bookId": 105,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3382,
+    "bookId": 153,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3383,
+    "bookId": 99,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3384,
+    "bookId": 19,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3385,
+    "bookId": 115,
+    "readerId": 78,
+    "rating": 3
+  },
+  {
+    "id": 3386,
+    "bookId": 97,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3387,
+    "bookId": 132,
+    "readerId": 78,
+    "rating": 4
+  },
+  {
+    "id": 3388,
+    "bookId": 74,
+    "readerId": 78,
+    "rating": 2
+  },
+  {
+    "id": 3389,
+    "bookId": 3,
+    "readerId": 78,
+    "rating": 1
+  },
+  {
+    "id": 3390,
+    "bookId": 89,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3391,
+    "bookId": 78,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3392,
+    "bookId": 172,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3393,
+    "bookId": 54,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3394,
+    "bookId": 8,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3395,
+    "bookId": 86,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3396,
+    "bookId": 7,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3397,
+    "bookId": 82,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3398,
+    "bookId": 75,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3399,
+    "bookId": 84,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3400,
+    "bookId": 51,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3401,
+    "bookId": 139,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3402,
+    "bookId": 80,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3403,
+    "bookId": 126,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3404,
+    "bookId": 92,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3405,
+    "bookId": 39,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3406,
+    "bookId": 28,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3407,
+    "bookId": 47,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3408,
+    "bookId": 72,
+    "readerId": 79,
+    "rating": 1
+  },
+  {
+    "id": 3409,
+    "bookId": 67,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3410,
+    "bookId": 58,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3411,
+    "bookId": 56,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3412,
+    "bookId": 87,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3413,
+    "bookId": 93,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3414,
+    "bookId": 62,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3415,
+    "bookId": 68,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3416,
+    "bookId": 106,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3417,
+    "bookId": 63,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3418,
+    "bookId": 176,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3419,
+    "bookId": 90,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3420,
+    "bookId": 73,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3421,
+    "bookId": 49,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3422,
+    "bookId": 85,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3423,
+    "bookId": 61,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3424,
+    "bookId": 77,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3425,
+    "bookId": 142,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3426,
+    "bookId": 19,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3427,
+    "bookId": 95,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3428,
+    "bookId": 64,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3429,
+    "bookId": 88,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3430,
+    "bookId": 57,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3431,
+    "bookId": 74,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3432,
+    "bookId": 99,
+    "readerId": 79,
+    "rating": 1
+  },
+  {
+    "id": 3433,
+    "bookId": 188,
+    "readerId": 79,
+    "rating": 1
+  },
+  {
+    "id": 3434,
+    "bookId": 163,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3435,
+    "bookId": 70,
+    "readerId": 79,
+    "rating": 4
+  },
+  {
+    "id": 3436,
+    "bookId": 21,
+    "readerId": 79,
+    "rating": 3
+  },
+  {
+    "id": 3437,
+    "bookId": 186,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3438,
+    "bookId": 50,
+    "readerId": 79,
+    "rating": 5
+  },
+  {
+    "id": 3439,
+    "bookId": 110,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3440,
+    "bookId": 120,
+    "readerId": 79,
+    "rating": 1
+  },
+  {
+    "id": 3441,
+    "bookId": 27,
+    "readerId": 79,
+    "rating": 2
+  },
+  {
+    "id": 3442,
+    "bookId": 90,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3443,
+    "bookId": 50,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3444,
+    "bookId": 55,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3445,
+    "bookId": 61,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3446,
+    "bookId": 149,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3447,
+    "bookId": 192,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3448,
+    "bookId": 70,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3449,
+    "bookId": 8,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3450,
+    "bookId": 60,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3451,
+    "bookId": 164,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3452,
+    "bookId": 81,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3453,
+    "bookId": 79,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3454,
+    "bookId": 67,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3455,
+    "bookId": 89,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3456,
+    "bookId": 105,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3457,
+    "bookId": 190,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3458,
+    "bookId": 92,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3459,
+    "bookId": 159,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3460,
+    "bookId": 69,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3461,
+    "bookId": 54,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3462,
+    "bookId": 7,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3463,
+    "bookId": 71,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3464,
+    "bookId": 19,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3465,
+    "bookId": 161,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3466,
+    "bookId": 58,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3467,
+    "bookId": 83,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3468,
+    "bookId": 48,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3469,
+    "bookId": 52,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3470,
+    "bookId": 78,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3471,
+    "bookId": 65,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3472,
+    "bookId": 72,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3473,
+    "bookId": 51,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3474,
+    "bookId": 95,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3475,
+    "bookId": 75,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3476,
+    "bookId": 115,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3477,
+    "bookId": 63,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3478,
+    "bookId": 158,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3479,
+    "bookId": 94,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3480,
+    "bookId": 138,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3481,
+    "bookId": 64,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3482,
+    "bookId": 49,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3483,
+    "bookId": 57,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3484,
+    "bookId": 160,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3485,
+    "bookId": 47,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3486,
+    "bookId": 76,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3487,
+    "bookId": 62,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3488,
+    "bookId": 66,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3489,
+    "bookId": 86,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3490,
+    "bookId": 56,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3491,
+    "bookId": 93,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3492,
+    "bookId": 73,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3493,
+    "bookId": 87,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3494,
+    "bookId": 82,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3495,
+    "bookId": 80,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3496,
+    "bookId": 84,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3497,
+    "bookId": 111,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3498,
+    "bookId": 88,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3499,
+    "bookId": 181,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3500,
+    "bookId": 172,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3501,
+    "bookId": 98,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3502,
+    "bookId": 180,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3503,
+    "bookId": 4,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3504,
+    "bookId": 74,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3505,
+    "bookId": 91,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3506,
+    "bookId": 68,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3507,
+    "bookId": 167,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3508,
+    "bookId": 59,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3509,
+    "bookId": 77,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3510,
+    "bookId": 53,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3511,
+    "bookId": 85,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3512,
+    "bookId": 110,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3513,
+    "bookId": 120,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3514,
+    "bookId": 27,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3515,
+    "bookId": 128,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3516,
+    "bookId": 146,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3517,
+    "bookId": 1,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3518,
+    "bookId": 26,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3519,
+    "bookId": 22,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3520,
+    "bookId": 144,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3521,
+    "bookId": 156,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3522,
+    "bookId": 45,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3523,
+    "bookId": 100,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3524,
+    "bookId": 118,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3525,
+    "bookId": 119,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3526,
+    "bookId": 125,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3527,
+    "bookId": 168,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3528,
+    "bookId": 196,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3529,
+    "bookId": 107,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3530,
+    "bookId": 193,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3531,
+    "bookId": 9,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3532,
+    "bookId": 112,
+    "readerId": 80,
+    "rating": 2
+  },
+  {
+    "id": 3533,
+    "bookId": 41,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3534,
+    "bookId": 28,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3535,
+    "bookId": 186,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3536,
+    "bookId": 33,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3537,
+    "bookId": 145,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3538,
+    "bookId": 13,
+    "readerId": 80,
+    "rating": 1
+  },
+  {
+    "id": 3539,
+    "bookId": 3,
+    "readerId": 80,
+    "rating": 5
+  },
+  {
+    "id": 3540,
+    "bookId": 165,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3541,
+    "bookId": 113,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3542,
+    "bookId": 10,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3543,
+    "bookId": 179,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3544,
+    "bookId": 29,
+    "readerId": 80,
+    "rating": 3
+  },
+  {
+    "id": 3545,
+    "bookId": 147,
+    "readerId": 80,
+    "rating": 4
+  },
+  {
+    "id": 3546,
+    "bookId": 118,
+    "readerId": 81,
+    "rating": 5
+  },
+  {
+    "id": 3547,
+    "bookId": 98,
+    "readerId": 81,
+    "rating": 3
+  },
+  {
+    "id": 3548,
+    "bookId": 115,
+    "readerId": 81,
+    "rating": 3
+  },
+  {
+    "id": 3549,
+    "bookId": 104,
+    "readerId": 81,
+    "rating": 3
+  },
+  {
+    "id": 3550,
+    "bookId": 97,
+    "readerId": 81,
+    "rating": 4
+  },
+  {
+    "id": 3551,
+    "bookId": 136,
+    "readerId": 81,
+    "rating": 4
+  },
+  {
+    "id": 3552,
+    "bookId": 26,
+    "readerId": 81,
+    "rating": 2
+  },
+  {
+    "id": 3553,
+    "bookId": 131,
+    "readerId": 81,
+    "rating": 5
+  },
+  {
+    "id": 3554,
+    "bookId": 44,
+    "readerId": 81,
+    "rating": 5
+  },
+  {
+    "id": 3555,
+    "bookId": 176,
+    "readerId": 81,
+    "rating": 4
+  },
+  {
+    "id": 3556,
+    "bookId": 125,
+    "readerId": 81,
+    "rating": 4
+  },
+  {
+    "id": 3557,
+    "bookId": 132,
+    "readerId": 81,
+    "rating": 4
+  },
+  {
+    "id": 3558,
+    "bookId": 114,
+    "readerId": 81,
+    "rating": 3
+  },
+  {
+    "id": 3559,
+    "bookId": 202,
+    "readerId": 81,
+    "rating": 2
+  },
+  {
+    "id": 3560,
+    "bookId": 137,
+    "readerId": 81,
+    "rating": 5
+  },
+  {
+    "id": 3561,
+    "bookId": 112,
+    "readerId": 81,
+    "rating": 4
+  },
+  {
+    "id": 3562,
+    "bookId": 96,
+    "readerId": 81,
+    "rating": 2
+  },
+  {
+    "id": 3563,
+    "bookId": 194,
+    "readerId": 81,
+    "rating": 2
+  },
+  {
+    "id": 3564,
+    "bookId": 99,
+    "readerId": 81,
+    "rating": 4
+  },
+  {
+    "id": 3565,
+    "bookId": 104,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3566,
+    "bookId": 81,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3567,
+    "bookId": 73,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3568,
+    "bookId": 165,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3569,
+    "bookId": 147,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3570,
+    "bookId": 57,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3571,
+    "bookId": 95,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3572,
+    "bookId": 54,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3573,
+    "bookId": 19,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3574,
+    "bookId": 125,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3575,
+    "bookId": 83,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3576,
+    "bookId": 36,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3577,
+    "bookId": 70,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3578,
+    "bookId": 146,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3579,
+    "bookId": 34,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3580,
+    "bookId": 66,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3581,
+    "bookId": 22,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3582,
+    "bookId": 61,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3583,
+    "bookId": 74,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3584,
+    "bookId": 156,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3585,
+    "bookId": 180,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3586,
+    "bookId": 55,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3587,
+    "bookId": 130,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3588,
+    "bookId": 51,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3589,
+    "bookId": 168,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3590,
+    "bookId": 47,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3591,
+    "bookId": 128,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3592,
+    "bookId": 72,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3593,
+    "bookId": 75,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3594,
+    "bookId": 100,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3595,
+    "bookId": 178,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3596,
+    "bookId": 64,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3597,
+    "bookId": 92,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3598,
+    "bookId": 94,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3599,
+    "bookId": 86,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3600,
+    "bookId": 78,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3601,
+    "bookId": 65,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3602,
+    "bookId": 43,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3603,
+    "bookId": 169,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3604,
+    "bookId": 62,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3605,
+    "bookId": 49,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3606,
+    "bookId": 152,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3607,
+    "bookId": 23,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3608,
+    "bookId": 76,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3609,
+    "bookId": 82,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3610,
+    "bookId": 56,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3611,
+    "bookId": 91,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3612,
+    "bookId": 12,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3613,
+    "bookId": 173,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3614,
+    "bookId": 84,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3615,
+    "bookId": 60,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3616,
+    "bookId": 58,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3617,
+    "bookId": 52,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3618,
+    "bookId": 79,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3619,
+    "bookId": 90,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3620,
+    "bookId": 137,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3621,
+    "bookId": 67,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3622,
+    "bookId": 50,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3623,
+    "bookId": 46,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3624,
+    "bookId": 187,
+    "readerId": 82,
+    "rating": 1
+  },
+  {
+    "id": 3625,
+    "bookId": 63,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3626,
+    "bookId": 85,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3627,
+    "bookId": 71,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3628,
+    "bookId": 77,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3629,
+    "bookId": 9,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3630,
+    "bookId": 80,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3631,
+    "bookId": 68,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3632,
+    "bookId": 89,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3633,
+    "bookId": 59,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3634,
+    "bookId": 21,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3635,
+    "bookId": 48,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3636,
+    "bookId": 69,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3637,
+    "bookId": 14,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3638,
+    "bookId": 87,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3639,
+    "bookId": 144,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3640,
+    "bookId": 88,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3641,
+    "bookId": 31,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3642,
+    "bookId": 93,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3643,
+    "bookId": 53,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3644,
+    "bookId": 133,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3645,
+    "bookId": 200,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3646,
+    "bookId": 139,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3647,
+    "bookId": 186,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3648,
+    "bookId": 145,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3649,
+    "bookId": 161,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3650,
+    "bookId": 124,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3651,
+    "bookId": 4,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3652,
+    "bookId": 164,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3653,
+    "bookId": 182,
+    "readerId": 82,
+    "rating": 5
+  },
+  {
+    "id": 3654,
+    "bookId": 136,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3655,
+    "bookId": 201,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3656,
+    "bookId": 17,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3657,
+    "bookId": 129,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3658,
+    "bookId": 163,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3659,
+    "bookId": 170,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3660,
+    "bookId": 41,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3661,
+    "bookId": 108,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3662,
+    "bookId": 2,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3663,
+    "bookId": 16,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3664,
+    "bookId": 42,
+    "readerId": 82,
+    "rating": 2
+  },
+  {
+    "id": 3665,
+    "bookId": 99,
+    "readerId": 82,
+    "rating": 1
+  },
+  {
+    "id": 3666,
+    "bookId": 110,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3667,
+    "bookId": 157,
+    "readerId": 82,
+    "rating": 4
+  },
+  {
+    "id": 3668,
+    "bookId": 194,
+    "readerId": 82,
+    "rating": 3
+  },
+  {
+    "id": 3669,
+    "bookId": 30,
+    "readerId": 83,
+    "rating": 4
+  },
+  {
+    "id": 3670,
+    "bookId": 3,
+    "readerId": 83,
+    "rating": 3
+  },
+  {
+    "id": 3671,
+    "bookId": 26,
+    "readerId": 83,
+    "rating": 4
+  },
+  {
+    "id": 3672,
+    "bookId": 32,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3673,
+    "bookId": 41,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3674,
+    "bookId": 11,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3675,
+    "bookId": 20,
+    "readerId": 83,
+    "rating": 4
+  },
+  {
+    "id": 3676,
+    "bookId": 25,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3677,
+    "bookId": 136,
+    "readerId": 83,
+    "rating": 3
+  },
+  {
+    "id": 3678,
+    "bookId": 96,
+    "readerId": 83,
+    "rating": 3
+  },
+  {
+    "id": 3679,
+    "bookId": 21,
+    "readerId": 83,
+    "rating": 3
+  },
+  {
+    "id": 3680,
+    "bookId": 42,
+    "readerId": 83,
+    "rating": 2
+  },
+  {
+    "id": 3681,
+    "bookId": 29,
+    "readerId": 83,
+    "rating": 4
+  },
+  {
+    "id": 3682,
+    "bookId": 44,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3683,
+    "bookId": 22,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3684,
+    "bookId": 34,
+    "readerId": 83,
+    "rating": 3
+  },
+  {
+    "id": 3685,
+    "bookId": 89,
+    "readerId": 83,
+    "rating": 2
+  },
+  {
+    "id": 3686,
+    "bookId": 37,
+    "readerId": 83,
+    "rating": 3
+  },
+  {
+    "id": 3687,
+    "bookId": 40,
+    "readerId": 83,
+    "rating": 3
+  },
+  {
+    "id": 3688,
+    "bookId": 36,
+    "readerId": 83,
+    "rating": 1
+  },
+  {
+    "id": 3689,
+    "bookId": 4,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3690,
+    "bookId": 18,
+    "readerId": 83,
+    "rating": 4
+  },
+  {
+    "id": 3691,
+    "bookId": 43,
+    "readerId": 83,
+    "rating": 4
+  },
+  {
+    "id": 3692,
+    "bookId": 28,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3693,
+    "bookId": 39,
+    "readerId": 83,
+    "rating": 2
+  },
+  {
+    "id": 3694,
+    "bookId": 38,
+    "readerId": 83,
+    "rating": 1
+  },
+  {
+    "id": 3695,
+    "bookId": 46,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3696,
+    "bookId": 12,
+    "readerId": 83,
+    "rating": 5
+  },
+  {
+    "id": 3697,
+    "bookId": 2,
+    "readerId": 83,
+    "rating": 2
+  },
+  {
+    "id": 3698,
+    "bookId": 83,
+    "readerId": 83,
+    "rating": 1
+  },
+  {
+    "id": 3699,
+    "bookId": 99,
+    "readerId": 84,
+    "rating": 3
+  },
+  {
+    "id": 3700,
+    "bookId": 117,
+    "readerId": 84,
+    "rating": 4
+  },
+  {
+    "id": 3701,
+    "bookId": 132,
+    "readerId": 84,
+    "rating": 3
+  },
+  {
+    "id": 3702,
+    "bookId": 96,
+    "readerId": 84,
+    "rating": 3
+  },
+  {
+    "id": 3703,
+    "bookId": 139,
+    "readerId": 84,
+    "rating": 1
+  },
+  {
+    "id": 3704,
+    "bookId": 59,
+    "readerId": 84,
+    "rating": 3
+  },
+  {
+    "id": 3705,
+    "bookId": 202,
+    "readerId": 84,
+    "rating": 3
+  },
+  {
+    "id": 3706,
+    "bookId": 136,
+    "readerId": 84,
+    "rating": 4
+  },
+  {
+    "id": 3707,
+    "bookId": 73,
+    "readerId": 84,
+    "rating": 4
+  },
+  {
+    "id": 3708,
+    "bookId": 106,
+    "readerId": 84,
+    "rating": 2
+  },
+  {
+    "id": 3709,
+    "bookId": 123,
+    "readerId": 84,
+    "rating": 4
+  },
+  {
+    "id": 3710,
+    "bookId": 47,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3711,
+    "bookId": 85,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3712,
+    "bookId": 153,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3713,
+    "bookId": 192,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3714,
+    "bookId": 75,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3715,
+    "bookId": 159,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3716,
+    "bookId": 154,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3717,
+    "bookId": 59,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3718,
+    "bookId": 60,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3719,
+    "bookId": 63,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3720,
+    "bookId": 89,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3721,
+    "bookId": 152,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3722,
+    "bookId": 90,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3723,
+    "bookId": 74,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3724,
+    "bookId": 65,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3725,
+    "bookId": 160,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3726,
+    "bookId": 51,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3727,
+    "bookId": 198,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3728,
+    "bookId": 158,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3729,
+    "bookId": 81,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3730,
+    "bookId": 110,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3731,
+    "bookId": 150,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3732,
+    "bookId": 52,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3733,
+    "bookId": 95,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3734,
+    "bookId": 136,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3735,
+    "bookId": 184,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3736,
+    "bookId": 83,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3737,
+    "bookId": 62,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3738,
+    "bookId": 54,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3739,
+    "bookId": 143,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3740,
+    "bookId": 189,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3741,
+    "bookId": 163,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3742,
+    "bookId": 69,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3743,
+    "bookId": 151,
+    "readerId": 85,
+    "rating": 1
+  },
+  {
+    "id": 3744,
+    "bookId": 149,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3745,
+    "bookId": 185,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3746,
+    "bookId": 166,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3747,
+    "bookId": 157,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3748,
+    "bookId": 76,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3749,
+    "bookId": 73,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3750,
+    "bookId": 146,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3751,
+    "bookId": 79,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3752,
+    "bookId": 71,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3753,
+    "bookId": 44,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3754,
+    "bookId": 30,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3755,
+    "bookId": 53,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3756,
+    "bookId": 142,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3757,
+    "bookId": 161,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3758,
+    "bookId": 19,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3759,
+    "bookId": 23,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3760,
+    "bookId": 141,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3761,
+    "bookId": 82,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3762,
+    "bookId": 167,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3763,
+    "bookId": 145,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3764,
+    "bookId": 156,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3765,
+    "bookId": 203,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3766,
+    "bookId": 93,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3767,
+    "bookId": 80,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3768,
+    "bookId": 162,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3769,
+    "bookId": 92,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3770,
+    "bookId": 164,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3771,
+    "bookId": 144,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3772,
+    "bookId": 155,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3773,
+    "bookId": 168,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3774,
+    "bookId": 140,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3775,
+    "bookId": 148,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3776,
+    "bookId": 72,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3777,
+    "bookId": 87,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3778,
+    "bookId": 147,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3779,
+    "bookId": 165,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3780,
+    "bookId": 180,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3781,
+    "bookId": 133,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3782,
+    "bookId": 22,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3783,
+    "bookId": 183,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3784,
+    "bookId": 27,
+    "readerId": 85,
+    "rating": 2
+  },
+  {
+    "id": 3785,
+    "bookId": 186,
+    "readerId": 85,
+    "rating": 4
+  },
+  {
+    "id": 3786,
+    "bookId": 105,
+    "readerId": 85,
+    "rating": 3
+  },
+  {
+    "id": 3787,
+    "bookId": 134,
+    "readerId": 85,
+    "rating": 5
+  },
+  {
+    "id": 3788,
+    "bookId": 204,
+    "readerId": 86,
+    "rating": 3
+  },
+  {
+    "id": 3789,
+    "bookId": 35,
+    "readerId": 86,
+    "rating": 4
+  },
+  {
+    "id": 3790,
+    "bookId": 183,
+    "readerId": 86,
+    "rating": 3
+  },
+  {
+    "id": 3791,
+    "bookId": 62,
+    "readerId": 86,
+    "rating": 5
+  },
+  {
+    "id": 3792,
+    "bookId": 16,
+    "readerId": 86,
+    "rating": 4
+  },
+  {
+    "id": 3793,
+    "bookId": 200,
+    "readerId": 86,
+    "rating": 3
+  },
+  {
+    "id": 3794,
+    "bookId": 203,
+    "readerId": 86,
+    "rating": 4
+  },
+  {
+    "id": 3795,
+    "bookId": 38,
+    "readerId": 86,
+    "rating": 4
+  },
+  {
+    "id": 3796,
+    "bookId": 47,
+    "readerId": 87,
+    "rating": 5
+  },
+  {
+    "id": 3797,
+    "bookId": 30,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3798,
+    "bookId": 88,
+    "readerId": 87,
+    "rating": 5
+  },
+  {
+    "id": 3799,
+    "bookId": 72,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3800,
+    "bookId": 2,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3801,
+    "bookId": 54,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3802,
+    "bookId": 106,
+    "readerId": 87,
+    "rating": 5
+  },
+  {
+    "id": 3803,
+    "bookId": 76,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3804,
+    "bookId": 63,
+    "readerId": 87,
+    "rating": 5
+  },
+  {
+    "id": 3805,
+    "bookId": 87,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3806,
+    "bookId": 60,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3807,
+    "bookId": 82,
+    "readerId": 87,
+    "rating": 1
+  },
+  {
+    "id": 3808,
+    "bookId": 61,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3809,
+    "bookId": 120,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3810,
+    "bookId": 158,
+    "readerId": 87,
+    "rating": 2
+  },
+  {
+    "id": 3811,
+    "bookId": 14,
+    "readerId": 87,
+    "rating": 2
+  },
+  {
+    "id": 3812,
+    "bookId": 103,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3813,
+    "bookId": 71,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3814,
+    "bookId": 137,
+    "readerId": 87,
+    "rating": 2
+  },
+  {
+    "id": 3815,
+    "bookId": 62,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3816,
+    "bookId": 74,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3817,
+    "bookId": 95,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3818,
+    "bookId": 84,
+    "readerId": 87,
+    "rating": 4
+  },
+  {
+    "id": 3819,
+    "bookId": 51,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3820,
+    "bookId": 83,
+    "readerId": 87,
+    "rating": 3
+  },
+  {
+    "id": 3821,
+    "bookId": 94,
+    "readerId": 87,
+    "rating": 5
+  },
+  {
+    "id": 3822,
+    "bookId": 103,
+    "readerId": 88,
+    "rating": 4
+  },
+  {
+    "id": 3823,
+    "bookId": 132,
+    "readerId": 88,
+    "rating": 5
+  },
+  {
+    "id": 3824,
+    "bookId": 154,
+    "readerId": 88,
+    "rating": 2
+  },
+  {
+    "id": 3825,
+    "bookId": 9,
+    "readerId": 88,
+    "rating": 5
+  },
+  {
+    "id": 3826,
+    "bookId": 115,
+    "readerId": 88,
+    "rating": 5
+  },
+  {
+    "id": 3827,
+    "bookId": 123,
+    "readerId": 88,
+    "rating": 3
+  },
+  {
+    "id": 3828,
+    "bookId": 117,
+    "readerId": 88,
+    "rating": 3
+  },
+  {
+    "id": 3829,
+    "bookId": 63,
+    "readerId": 88,
+    "rating": 2
+  },
+  {
+    "id": 3830,
+    "bookId": 110,
+    "readerId": 88,
+    "rating": 4
+  },
+  {
+    "id": 3831,
+    "bookId": 67,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3832,
+    "bookId": 64,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3833,
+    "bookId": 71,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3834,
+    "bookId": 121,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3835,
+    "bookId": 101,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3836,
+    "bookId": 49,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3837,
+    "bookId": 76,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3838,
+    "bookId": 70,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3839,
+    "bookId": 151,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3840,
+    "bookId": 52,
+    "readerId": 89,
+    "rating": 3
+  },
+  {
+    "id": 3841,
+    "bookId": 31,
+    "readerId": 89,
+    "rating": 3
+  },
+  {
+    "id": 3842,
+    "bookId": 74,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3843,
+    "bookId": 69,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3844,
+    "bookId": 86,
+    "readerId": 89,
+    "rating": 3
+  },
+  {
+    "id": 3845,
+    "bookId": 48,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3846,
+    "bookId": 92,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3847,
+    "bookId": 142,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3848,
+    "bookId": 147,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3849,
+    "bookId": 172,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3850,
+    "bookId": 93,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3851,
+    "bookId": 124,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3852,
+    "bookId": 63,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3853,
+    "bookId": 54,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3854,
+    "bookId": 95,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3855,
+    "bookId": 53,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3856,
+    "bookId": 143,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3857,
+    "bookId": 73,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3858,
+    "bookId": 61,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3859,
+    "bookId": 78,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3860,
+    "bookId": 60,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3861,
+    "bookId": 40,
+    "readerId": 89,
+    "rating": 3
+  },
+  {
+    "id": 3862,
+    "bookId": 68,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3863,
+    "bookId": 181,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3864,
+    "bookId": 96,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3865,
+    "bookId": 131,
+    "readerId": 89,
+    "rating": 3
+  },
+  {
+    "id": 3866,
+    "bookId": 59,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3867,
+    "bookId": 174,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3868,
+    "bookId": 51,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3869,
+    "bookId": 50,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3870,
+    "bookId": 4,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3871,
+    "bookId": 83,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3872,
+    "bookId": 80,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3873,
+    "bookId": 66,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3874,
+    "bookId": 106,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3875,
+    "bookId": 19,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3876,
+    "bookId": 57,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3877,
+    "bookId": 84,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3878,
+    "bookId": 179,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3879,
+    "bookId": 163,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3880,
+    "bookId": 88,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3881,
+    "bookId": 62,
+    "readerId": 89,
+    "rating": 1
+  },
+  {
+    "id": 3882,
+    "bookId": 75,
+    "readerId": 89,
+    "rating": 5
+  },
+  {
+    "id": 3883,
+    "bookId": 18,
+    "readerId": 89,
+    "rating": 2
+  },
+  {
+    "id": 3884,
+    "bookId": 85,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3885,
+    "bookId": 77,
+    "readerId": 89,
+    "rating": 3
+  },
+  {
+    "id": 3886,
+    "bookId": 47,
+    "readerId": 89,
+    "rating": 4
+  },
+  {
+    "id": 3887,
+    "bookId": 12,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3888,
+    "bookId": 28,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3889,
+    "bookId": 13,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3890,
+    "bookId": 31,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3891,
+    "bookId": 37,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3892,
+    "bookId": 2,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3893,
+    "bookId": 161,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3894,
+    "bookId": 53,
+    "readerId": 90,
+    "rating": 1
+  },
+  {
+    "id": 3895,
+    "bookId": 1,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3896,
+    "bookId": 169,
+    "readerId": 90,
+    "rating": 1
+  },
+  {
+    "id": 3897,
+    "bookId": 36,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3898,
+    "bookId": 25,
+    "readerId": 90,
+    "rating": 1
+  },
+  {
+    "id": 3899,
+    "bookId": 7,
+    "readerId": 90,
+    "rating": 2
+  },
+  {
+    "id": 3900,
+    "bookId": 14,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3901,
+    "bookId": 44,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3902,
+    "bookId": 9,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3903,
+    "bookId": 180,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3904,
+    "bookId": 27,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3905,
+    "bookId": 11,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3906,
+    "bookId": 183,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3907,
+    "bookId": 35,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3908,
+    "bookId": 26,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3909,
+    "bookId": 147,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3910,
+    "bookId": 170,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3911,
+    "bookId": 24,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3912,
+    "bookId": 23,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3913,
+    "bookId": 3,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3914,
+    "bookId": 29,
+    "readerId": 90,
+    "rating": 1
+  },
+  {
+    "id": 3915,
+    "bookId": 42,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3916,
+    "bookId": 40,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3917,
+    "bookId": 186,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3918,
+    "bookId": 45,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3919,
+    "bookId": 126,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3920,
+    "bookId": 39,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3921,
+    "bookId": 6,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3922,
+    "bookId": 19,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3923,
+    "bookId": 38,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3924,
+    "bookId": 168,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3925,
+    "bookId": 41,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3926,
+    "bookId": 5,
+    "readerId": 90,
+    "rating": 1
+  },
+  {
+    "id": 3927,
+    "bookId": 10,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3928,
+    "bookId": 74,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3929,
+    "bookId": 54,
+    "readerId": 90,
+    "rating": 2
+  },
+  {
+    "id": 3930,
+    "bookId": 32,
+    "readerId": 90,
+    "rating": 2
+  },
+  {
+    "id": 3931,
+    "bookId": 30,
+    "readerId": 90,
+    "rating": 1
+  },
+  {
+    "id": 3932,
+    "bookId": 46,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3933,
+    "bookId": 21,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3934,
+    "bookId": 33,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3935,
+    "bookId": 15,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3936,
+    "bookId": 16,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3937,
+    "bookId": 34,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3938,
+    "bookId": 8,
+    "readerId": 90,
+    "rating": 1
+  },
+  {
+    "id": 3939,
+    "bookId": 67,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3940,
+    "bookId": 43,
+    "readerId": 90,
+    "rating": 2
+  },
+  {
+    "id": 3941,
+    "bookId": 61,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3942,
+    "bookId": 17,
+    "readerId": 90,
+    "rating": 3
+  },
+  {
+    "id": 3943,
+    "bookId": 20,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3944,
+    "bookId": 4,
+    "readerId": 90,
+    "rating": 5
+  },
+  {
+    "id": 3945,
+    "bookId": 18,
+    "readerId": 90,
+    "rating": 4
+  },
+  {
+    "id": 3946,
+    "bookId": 203,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3947,
+    "bookId": 30,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3948,
+    "bookId": 135,
+    "readerId": 91,
+    "rating": 1
+  },
+  {
+    "id": 3949,
+    "bookId": 86,
+    "readerId": 91,
+    "rating": 2
+  },
+  {
+    "id": 3950,
+    "bookId": 36,
+    "readerId": 91,
+    "rating": 5
+  },
+  {
+    "id": 3951,
+    "bookId": 37,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3952,
+    "bookId": 111,
+    "readerId": 91,
+    "rating": 5
+  },
+  {
+    "id": 3953,
+    "bookId": 134,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3954,
+    "bookId": 66,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3955,
+    "bookId": 35,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3956,
+    "bookId": 98,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3957,
+    "bookId": 42,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3958,
+    "bookId": 29,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3959,
+    "bookId": 17,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3960,
+    "bookId": 18,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3961,
+    "bookId": 21,
+    "readerId": 91,
+    "rating": 1
+  },
+  {
+    "id": 3962,
+    "bookId": 74,
+    "readerId": 91,
+    "rating": 1
+  },
+  {
+    "id": 3963,
+    "bookId": 3,
+    "readerId": 91,
+    "rating": 1
+  },
+  {
+    "id": 3964,
+    "bookId": 22,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3965,
+    "bookId": 44,
+    "readerId": 91,
+    "rating": 5
+  },
+  {
+    "id": 3966,
+    "bookId": 7,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3967,
+    "bookId": 2,
+    "readerId": 91,
+    "rating": 5
+  },
+  {
+    "id": 3968,
+    "bookId": 206,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3969,
+    "bookId": 205,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3970,
+    "bookId": 23,
+    "readerId": 91,
+    "rating": 2
+  },
+  {
+    "id": 3971,
+    "bookId": 161,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3972,
+    "bookId": 45,
+    "readerId": 91,
+    "rating": 5
+  },
+  {
+    "id": 3973,
+    "bookId": 65,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3974,
+    "bookId": 16,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3975,
+    "bookId": 13,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3976,
+    "bookId": 99,
+    "readerId": 91,
+    "rating": 5
+  },
+  {
+    "id": 3977,
+    "bookId": 24,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3978,
+    "bookId": 20,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3979,
+    "bookId": 110,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3980,
+    "bookId": 75,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3981,
+    "bookId": 33,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3982,
+    "bookId": 31,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3983,
+    "bookId": 185,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3984,
+    "bookId": 14,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3985,
+    "bookId": 129,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3986,
+    "bookId": 187,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3987,
+    "bookId": 40,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3988,
+    "bookId": 82,
+    "readerId": 91,
+    "rating": 2
+  },
+  {
+    "id": 3989,
+    "bookId": 26,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3990,
+    "bookId": 116,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3991,
+    "bookId": 6,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3992,
+    "bookId": 80,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3993,
+    "bookId": 15,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3994,
+    "bookId": 28,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3995,
+    "bookId": 8,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3996,
+    "bookId": 73,
+    "readerId": 91,
+    "rating": 2
+  },
+  {
+    "id": 3997,
+    "bookId": 200,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 3998,
+    "bookId": 41,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 3999,
+    "bookId": 52,
+    "readerId": 91,
+    "rating": 2
+  },
+  {
+    "id": 4000,
+    "bookId": 25,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 4001,
+    "bookId": 126,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 4002,
+    "bookId": 11,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 4003,
+    "bookId": 32,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 4004,
+    "bookId": 12,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 4005,
+    "bookId": 114,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 4006,
+    "bookId": 150,
+    "readerId": 91,
+    "rating": 2
+  },
+  {
+    "id": 4007,
+    "bookId": 54,
+    "readerId": 91,
+    "rating": 3
+  },
+  {
+    "id": 4008,
+    "bookId": 27,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 4009,
+    "bookId": 43,
+    "readerId": 91,
+    "rating": 4
+  },
+  {
+    "id": 4010,
+    "bookId": 190,
+    "readerId": 92,
+    "rating": 3
+  },
+  {
+    "id": 4011,
+    "bookId": 191,
+    "readerId": 92,
+    "rating": 3
+  },
+  {
+    "id": 4012,
+    "bookId": 17,
+    "readerId": 92,
+    "rating": 5
+  },
+  {
+    "id": 4013,
+    "bookId": 198,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4014,
+    "bookId": 195,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4015,
+    "bookId": 201,
+    "readerId": 92,
+    "rating": 2
+  },
+  {
+    "id": 4016,
+    "bookId": 169,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4017,
+    "bookId": 134,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4018,
+    "bookId": 188,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4019,
+    "bookId": 200,
+    "readerId": 92,
+    "rating": 2
+  },
+  {
+    "id": 4020,
+    "bookId": 153,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4021,
+    "bookId": 104,
+    "readerId": 92,
+    "rating": 2
+  },
+  {
+    "id": 4022,
+    "bookId": 178,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4023,
+    "bookId": 193,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4024,
+    "bookId": 180,
+    "readerId": 92,
+    "rating": 3
+  },
+  {
+    "id": 4025,
+    "bookId": 204,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4026,
+    "bookId": 189,
+    "readerId": 92,
+    "rating": 5
+  },
+  {
+    "id": 4027,
+    "bookId": 170,
+    "readerId": 92,
+    "rating": 5
+  },
+  {
+    "id": 4028,
+    "bookId": 156,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4029,
+    "bookId": 173,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4030,
+    "bookId": 171,
+    "readerId": 92,
+    "rating": 5
+  },
+  {
+    "id": 4031,
+    "bookId": 121,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4032,
+    "bookId": 88,
+    "readerId": 92,
+    "rating": 2
+  },
+  {
+    "id": 4033,
+    "bookId": 199,
+    "readerId": 92,
+    "rating": 4
+  },
+  {
+    "id": 4034,
+    "bookId": 192,
+    "readerId": 92,
+    "rating": 3
+  },
+  {
+    "id": 4035,
+    "bookId": 24,
+    "readerId": 92,
+    "rating": 1
+  },
+  {
+    "id": 4036,
+    "bookId": 183,
+    "readerId": 92,
+    "rating": 5
+  },
+  {
+    "id": 4037,
+    "bookId": 163,
+    "readerId": 92,
+    "rating": 2
+  },
+  {
+    "id": 4038,
+    "bookId": 138,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4039,
+    "bookId": 117,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4040,
+    "bookId": 142,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4041,
+    "bookId": 31,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4042,
+    "bookId": 192,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4043,
+    "bookId": 132,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4044,
+    "bookId": 188,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4045,
+    "bookId": 206,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4046,
+    "bookId": 178,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4047,
+    "bookId": 175,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4048,
+    "bookId": 170,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4049,
+    "bookId": 195,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4050,
+    "bookId": 189,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4051,
+    "bookId": 180,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4052,
+    "bookId": 177,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4053,
+    "bookId": 203,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4054,
+    "bookId": 207,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4055,
+    "bookId": 183,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4056,
+    "bookId": 89,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4057,
+    "bookId": 184,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4058,
+    "bookId": 185,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4059,
+    "bookId": 201,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4060,
+    "bookId": 204,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4061,
+    "bookId": 193,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4062,
+    "bookId": 171,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4063,
+    "bookId": 200,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4064,
+    "bookId": 181,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4065,
+    "bookId": 197,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4066,
+    "bookId": 190,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4067,
+    "bookId": 134,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4068,
+    "bookId": 10,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4069,
+    "bookId": 78,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4070,
+    "bookId": 160,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4071,
+    "bookId": 176,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4072,
+    "bookId": 196,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4073,
+    "bookId": 179,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4074,
+    "bookId": 202,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4075,
+    "bookId": 198,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4076,
+    "bookId": 187,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4077,
+    "bookId": 172,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4078,
+    "bookId": 205,
+    "readerId": 93,
+    "rating": 5
+  },
+  {
+    "id": 4079,
+    "bookId": 29,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4080,
+    "bookId": 174,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4081,
+    "bookId": 182,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4082,
+    "bookId": 169,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4083,
+    "bookId": 199,
+    "readerId": 93,
+    "rating": 3
+  },
+  {
+    "id": 4084,
+    "bookId": 194,
+    "readerId": 93,
+    "rating": 4
+  },
+  {
+    "id": 4085,
+    "bookId": 27,
+    "readerId": 93,
+    "rating": 2
+  },
+  {
+    "id": 4086,
+    "bookId": 123,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4087,
+    "bookId": 155,
+    "readerId": 94,
+    "rating": 1
+  },
+  {
+    "id": 4088,
+    "bookId": 161,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4089,
+    "bookId": 30,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4090,
+    "bookId": 91,
+    "readerId": 94,
+    "rating": 4
+  },
+  {
+    "id": 4091,
+    "bookId": 51,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4092,
+    "bookId": 117,
+    "readerId": 94,
+    "rating": 4
+  },
+  {
+    "id": 4093,
+    "bookId": 160,
+    "readerId": 94,
+    "rating": 5
+  },
+  {
+    "id": 4094,
+    "bookId": 45,
+    "readerId": 94,
+    "rating": 2
+  },
+  {
+    "id": 4095,
+    "bookId": 81,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4096,
+    "bookId": 76,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4097,
+    "bookId": 168,
+    "readerId": 94,
+    "rating": 4
+  },
+  {
+    "id": 4098,
+    "bookId": 140,
+    "readerId": 94,
+    "rating": 4
+  },
+  {
+    "id": 4099,
+    "bookId": 193,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4100,
+    "bookId": 142,
+    "readerId": 94,
+    "rating": 4
+  },
+  {
+    "id": 4101,
+    "bookId": 143,
+    "readerId": 94,
+    "rating": 3
+  },
+  {
+    "id": 4102,
+    "bookId": 82,
+    "readerId": 94,
+    "rating": 4
+  },
+  {
+    "id": 4103,
+    "bookId": 52,
+    "readerId": 94,
+    "rating": 5
+  },
+  {
+    "id": 4104,
+    "bookId": 156,
+    "readerId": 94,
+    "rating": 4
+  },
+  {
+    "id": 4105,
+    "bookId": 115,
+    "readerId": 94,
+    "rating": 5
+  },
+  {
+    "id": 4106,
+    "bookId": 82,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4107,
+    "bookId": 63,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4108,
+    "bookId": 85,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4109,
+    "bookId": 120,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4110,
+    "bookId": 190,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4111,
+    "bookId": 53,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4112,
+    "bookId": 92,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4113,
+    "bookId": 60,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4114,
+    "bookId": 30,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4115,
+    "bookId": 71,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4116,
+    "bookId": 194,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4117,
+    "bookId": 56,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4118,
+    "bookId": 73,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4119,
+    "bookId": 49,
+    "readerId": 95,
+    "rating": 1
+  },
+  {
+    "id": 4120,
+    "bookId": 138,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4121,
+    "bookId": 100,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4122,
+    "bookId": 51,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4123,
+    "bookId": 75,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4124,
+    "bookId": 58,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4125,
+    "bookId": 110,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4126,
+    "bookId": 76,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4127,
+    "bookId": 74,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4128,
+    "bookId": 55,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4129,
+    "bookId": 90,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4130,
+    "bookId": 150,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4131,
+    "bookId": 89,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4132,
+    "bookId": 88,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4133,
+    "bookId": 86,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4134,
+    "bookId": 170,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4135,
+    "bookId": 84,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4136,
+    "bookId": 67,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4137,
+    "bookId": 54,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4138,
+    "bookId": 50,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4139,
+    "bookId": 91,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4140,
+    "bookId": 70,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4141,
+    "bookId": 47,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4142,
+    "bookId": 65,
+    "readerId": 95,
+    "rating": 1
+  },
+  {
+    "id": 4143,
+    "bookId": 10,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4144,
+    "bookId": 19,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4145,
+    "bookId": 96,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4146,
+    "bookId": 59,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4147,
+    "bookId": 43,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4148,
+    "bookId": 48,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4149,
+    "bookId": 61,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4150,
+    "bookId": 64,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4151,
+    "bookId": 178,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4152,
+    "bookId": 68,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4153,
+    "bookId": 57,
+    "readerId": 95,
+    "rating": 1
+  },
+  {
+    "id": 4154,
+    "bookId": 52,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4155,
+    "bookId": 1,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4156,
+    "bookId": 105,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4157,
+    "bookId": 12,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4158,
+    "bookId": 147,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4159,
+    "bookId": 72,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4160,
+    "bookId": 69,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4161,
+    "bookId": 80,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4162,
+    "bookId": 21,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4163,
+    "bookId": 87,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4164,
+    "bookId": 93,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4165,
+    "bookId": 104,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4166,
+    "bookId": 7,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4167,
+    "bookId": 4,
+    "readerId": 95,
+    "rating": 5
+  },
+  {
+    "id": 4168,
+    "bookId": 66,
+    "readerId": 95,
+    "rating": 3
+  },
+  {
+    "id": 4169,
+    "bookId": 127,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4170,
+    "bookId": 79,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4171,
+    "bookId": 62,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4172,
+    "bookId": 78,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4173,
+    "bookId": 83,
+    "readerId": 95,
+    "rating": 1
+  },
+  {
+    "id": 4174,
+    "bookId": 39,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4175,
+    "bookId": 95,
+    "readerId": 95,
+    "rating": 4
+  },
+  {
+    "id": 4176,
+    "bookId": 81,
+    "readerId": 95,
+    "rating": 2
+  },
+  {
+    "id": 4177,
+    "bookId": 128,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4178,
+    "bookId": 146,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4179,
+    "bookId": 116,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4180,
+    "bookId": 74,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4181,
+    "bookId": 1,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4182,
+    "bookId": 125,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4183,
+    "bookId": 117,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4184,
+    "bookId": 102,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4185,
+    "bookId": 129,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4186,
+    "bookId": 32,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4187,
+    "bookId": 67,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4188,
+    "bookId": 97,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4189,
+    "bookId": 189,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4190,
+    "bookId": 100,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4191,
+    "bookId": 134,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4192,
+    "bookId": 136,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4193,
+    "bookId": 119,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4194,
+    "bookId": 120,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4195,
+    "bookId": 94,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4196,
+    "bookId": 18,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4197,
+    "bookId": 114,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4198,
+    "bookId": 106,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4199,
+    "bookId": 99,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4200,
+    "bookId": 139,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4201,
+    "bookId": 107,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4202,
+    "bookId": 133,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4203,
+    "bookId": 110,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4204,
+    "bookId": 132,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4205,
+    "bookId": 126,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4206,
+    "bookId": 188,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4207,
+    "bookId": 115,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4208,
+    "bookId": 96,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4209,
+    "bookId": 138,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4210,
+    "bookId": 75,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4211,
+    "bookId": 101,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4212,
+    "bookId": 137,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4213,
+    "bookId": 103,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4214,
+    "bookId": 109,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4215,
+    "bookId": 105,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4216,
+    "bookId": 124,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4217,
+    "bookId": 184,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4218,
+    "bookId": 135,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4219,
+    "bookId": 121,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4220,
+    "bookId": 108,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4221,
+    "bookId": 122,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4222,
+    "bookId": 104,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4223,
+    "bookId": 160,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4224,
+    "bookId": 113,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4225,
+    "bookId": 170,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4226,
+    "bookId": 123,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4227,
+    "bookId": 130,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4228,
+    "bookId": 127,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4229,
+    "bookId": 111,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4230,
+    "bookId": 98,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4231,
+    "bookId": 112,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4232,
+    "bookId": 118,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4233,
+    "bookId": 131,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4234,
+    "bookId": 173,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4235,
+    "bookId": 46,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4236,
+    "bookId": 91,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4237,
+    "bookId": 152,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4238,
+    "bookId": 43,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4239,
+    "bookId": 76,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4240,
+    "bookId": 31,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4241,
+    "bookId": 57,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4242,
+    "bookId": 141,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4243,
+    "bookId": 163,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4244,
+    "bookId": 190,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4245,
+    "bookId": 40,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4246,
+    "bookId": 92,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4247,
+    "bookId": 25,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4248,
+    "bookId": 176,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4249,
+    "bookId": 11,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4250,
+    "bookId": 89,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4251,
+    "bookId": 88,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4252,
+    "bookId": 93,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4253,
+    "bookId": 60,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4254,
+    "bookId": 186,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4255,
+    "bookId": 61,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4256,
+    "bookId": 204,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4257,
+    "bookId": 7,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4258,
+    "bookId": 185,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4259,
+    "bookId": 154,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4260,
+    "bookId": 69,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4261,
+    "bookId": 51,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4262,
+    "bookId": 175,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4263,
+    "bookId": 59,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4264,
+    "bookId": 19,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4265,
+    "bookId": 159,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4266,
+    "bookId": 33,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4267,
+    "bookId": 140,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4268,
+    "bookId": 161,
+    "readerId": 96,
+    "rating": 4
+  },
+  {
+    "id": 4269,
+    "bookId": 37,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4270,
+    "bookId": 3,
+    "readerId": 96,
+    "rating": 5
+  },
+  {
+    "id": 4271,
+    "bookId": 22,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4272,
+    "bookId": 181,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4273,
+    "bookId": 172,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4274,
+    "bookId": 55,
+    "readerId": 96,
+    "rating": 1
+  },
+  {
+    "id": 4275,
+    "bookId": 47,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4276,
+    "bookId": 30,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4277,
+    "bookId": 151,
+    "readerId": 96,
+    "rating": 2
+  },
+  {
+    "id": 4278,
+    "bookId": 202,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4279,
+    "bookId": 145,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4280,
+    "bookId": 65,
+    "readerId": 96,
+    "rating": 3
+  },
+  {
+    "id": 4281,
+    "bookId": 53,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4282,
+    "bookId": 89,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4283,
+    "bookId": 79,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4284,
+    "bookId": 57,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4285,
+    "bookId": 63,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4286,
+    "bookId": 52,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4287,
+    "bookId": 88,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4288,
+    "bookId": 24,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4289,
+    "bookId": 67,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4290,
+    "bookId": 64,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4291,
+    "bookId": 146,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4292,
+    "bookId": 83,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4293,
+    "bookId": 48,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4294,
+    "bookId": 49,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4295,
+    "bookId": 133,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4296,
+    "bookId": 65,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4297,
+    "bookId": 90,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4298,
+    "bookId": 13,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4299,
+    "bookId": 71,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4300,
+    "bookId": 60,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4301,
+    "bookId": 84,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4302,
+    "bookId": 181,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4303,
+    "bookId": 81,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4304,
+    "bookId": 87,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4305,
+    "bookId": 80,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4306,
+    "bookId": 69,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4307,
+    "bookId": 77,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4308,
+    "bookId": 72,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4309,
+    "bookId": 186,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4310,
+    "bookId": 76,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4311,
+    "bookId": 128,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4312,
+    "bookId": 56,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4313,
+    "bookId": 19,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4314,
+    "bookId": 7,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4315,
+    "bookId": 95,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4316,
+    "bookId": 55,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4317,
+    "bookId": 70,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4318,
+    "bookId": 62,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4319,
+    "bookId": 73,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4320,
+    "bookId": 50,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4321,
+    "bookId": 165,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4322,
+    "bookId": 58,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4323,
+    "bookId": 61,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4324,
+    "bookId": 74,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4325,
+    "bookId": 85,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4326,
+    "bookId": 66,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4327,
+    "bookId": 173,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4328,
+    "bookId": 54,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4329,
+    "bookId": 86,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4330,
+    "bookId": 51,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4331,
+    "bookId": 36,
+    "readerId": 97,
+    "rating": 1
+  },
+  {
+    "id": 4332,
+    "bookId": 78,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4333,
+    "bookId": 93,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4334,
+    "bookId": 94,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4335,
+    "bookId": 47,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4336,
+    "bookId": 20,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4337,
+    "bookId": 188,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4338,
+    "bookId": 59,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4339,
+    "bookId": 82,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4340,
+    "bookId": 31,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4341,
+    "bookId": 126,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4342,
+    "bookId": 68,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4343,
+    "bookId": 44,
+    "readerId": 97,
+    "rating": 1
+  },
+  {
+    "id": 4344,
+    "bookId": 180,
+    "readerId": 97,
+    "rating": 1
+  },
+  {
+    "id": 4345,
+    "bookId": 91,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4346,
+    "bookId": 75,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4347,
+    "bookId": 92,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4348,
+    "bookId": 152,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4349,
+    "bookId": 10,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4350,
+    "bookId": 123,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4351,
+    "bookId": 45,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4352,
+    "bookId": 120,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4353,
+    "bookId": 121,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4354,
+    "bookId": 136,
+    "readerId": 97,
+    "rating": 1
+  },
+  {
+    "id": 4355,
+    "bookId": 199,
+    "readerId": 97,
+    "rating": 1
+  },
+  {
+    "id": 4356,
+    "bookId": 151,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4357,
+    "bookId": 175,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4358,
+    "bookId": 187,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4359,
+    "bookId": 107,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4360,
+    "bookId": 108,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4361,
+    "bookId": 138,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4362,
+    "bookId": 205,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4363,
+    "bookId": 147,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4364,
+    "bookId": 102,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4365,
+    "bookId": 177,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4366,
+    "bookId": 184,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4367,
+    "bookId": 139,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4368,
+    "bookId": 29,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4369,
+    "bookId": 111,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4370,
+    "bookId": 140,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4371,
+    "bookId": 116,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4372,
+    "bookId": 149,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4373,
+    "bookId": 157,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4374,
+    "bookId": 194,
+    "readerId": 97,
+    "rating": 4
+  },
+  {
+    "id": 4375,
+    "bookId": 178,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4376,
+    "bookId": 30,
+    "readerId": 97,
+    "rating": 5
+  },
+  {
+    "id": 4377,
+    "bookId": 196,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4378,
+    "bookId": 100,
+    "readerId": 97,
+    "rating": 2
+  },
+  {
+    "id": 4379,
+    "bookId": 125,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4380,
+    "bookId": 174,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4381,
+    "bookId": 130,
+    "readerId": 97,
+    "rating": 3
+  },
+  {
+    "id": 4382,
+    "bookId": 92,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4383,
+    "bookId": 82,
+    "readerId": 98,
+    "rating": 1
+  },
+  {
+    "id": 4384,
+    "bookId": 85,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4385,
+    "bookId": 150,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4386,
+    "bookId": 76,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4387,
+    "bookId": 47,
+    "readerId": 98,
+    "rating": 1
+  },
+  {
+    "id": 4388,
+    "bookId": 87,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4389,
+    "bookId": 156,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4390,
+    "bookId": 151,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4391,
+    "bookId": 157,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4392,
+    "bookId": 12,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4393,
+    "bookId": 149,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4394,
+    "bookId": 42,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4395,
+    "bookId": 152,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4396,
+    "bookId": 147,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4397,
+    "bookId": 75,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4398,
+    "bookId": 172,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4399,
+    "bookId": 165,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4400,
+    "bookId": 206,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4401,
+    "bookId": 159,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4402,
+    "bookId": 163,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4403,
+    "bookId": 161,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4404,
+    "bookId": 168,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4405,
+    "bookId": 180,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4406,
+    "bookId": 59,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4407,
+    "bookId": 154,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4408,
+    "bookId": 63,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4409,
+    "bookId": 73,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4410,
+    "bookId": 69,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4411,
+    "bookId": 6,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4412,
+    "bookId": 90,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4413,
+    "bookId": 40,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4414,
+    "bookId": 166,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4415,
+    "bookId": 194,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4416,
+    "bookId": 145,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4417,
+    "bookId": 34,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4418,
+    "bookId": 46,
+    "readerId": 98,
+    "rating": 1
+  },
+  {
+    "id": 4419,
+    "bookId": 164,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4420,
+    "bookId": 20,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4421,
+    "bookId": 148,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4422,
+    "bookId": 93,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4423,
+    "bookId": 51,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4424,
+    "bookId": 144,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4425,
+    "bookId": 98,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4426,
+    "bookId": 74,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4427,
+    "bookId": 81,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4428,
+    "bookId": 95,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4429,
+    "bookId": 21,
+    "readerId": 98,
+    "rating": 1
+  },
+  {
+    "id": 4430,
+    "bookId": 54,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4431,
+    "bookId": 143,
+    "readerId": 98,
+    "rating": 1
+  },
+  {
+    "id": 4432,
+    "bookId": 205,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4433,
+    "bookId": 80,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4434,
+    "bookId": 72,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4435,
+    "bookId": 31,
+    "readerId": 98,
+    "rating": 2
+  },
+  {
+    "id": 4436,
+    "bookId": 140,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4437,
+    "bookId": 160,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4438,
+    "bookId": 52,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4439,
+    "bookId": 142,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4440,
+    "bookId": 153,
+    "readerId": 98,
+    "rating": 4
+  },
+  {
+    "id": 4441,
+    "bookId": 188,
+    "readerId": 98,
+    "rating": 3
+  },
+  {
+    "id": 4442,
+    "bookId": 176,
+    "readerId": 98,
+    "rating": 1
+  },
+  {
+    "id": 4443,
+    "bookId": 162,
+    "readerId": 98,
+    "rating": 5
+  },
+  {
+    "id": 4444,
+    "bookId": 113,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4445,
+    "bookId": 152,
+    "readerId": 99,
+    "rating": 2
+  },
+  {
+    "id": 4446,
+    "bookId": 114,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4447,
+    "bookId": 135,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4448,
+    "bookId": 110,
+    "readerId": 99,
+    "rating": 1
+  },
+  {
+    "id": 4449,
+    "bookId": 130,
+    "readerId": 99,
+    "rating": 2
+  },
+  {
+    "id": 4450,
+    "bookId": 109,
+    "readerId": 99,
+    "rating": 3
+  },
+  {
+    "id": 4451,
+    "bookId": 118,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4452,
+    "bookId": 128,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4453,
+    "bookId": 101,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4454,
+    "bookId": 112,
+    "readerId": 99,
+    "rating": 3
+  },
+  {
+    "id": 4455,
+    "bookId": 122,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4456,
+    "bookId": 123,
+    "readerId": 99,
+    "rating": 5
+  },
+  {
+    "id": 4457,
+    "bookId": 64,
+    "readerId": 99,
+    "rating": 3
+  },
+  {
+    "id": 4458,
+    "bookId": 124,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4459,
+    "bookId": 97,
+    "readerId": 99,
+    "rating": 5
+  },
+  {
+    "id": 4460,
+    "bookId": 133,
+    "readerId": 99,
+    "rating": 2
+  },
+  {
+    "id": 4461,
+    "bookId": 29,
+    "readerId": 99,
+    "rating": 2
+  },
+  {
+    "id": 4462,
+    "bookId": 132,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4463,
+    "bookId": 6,
+    "readerId": 99,
+    "rating": 5
+  },
+  {
+    "id": 4464,
+    "bookId": 121,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4465,
+    "bookId": 103,
+    "readerId": 99,
+    "rating": 3
+  },
+  {
+    "id": 4466,
+    "bookId": 57,
+    "readerId": 99,
+    "rating": 4
+  },
+  {
+    "id": 4467,
+    "bookId": 159,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4468,
+    "bookId": 161,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4469,
+    "bookId": 59,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4470,
+    "bookId": 107,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4471,
+    "bookId": 80,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4472,
+    "bookId": 168,
+    "readerId": 100,
+    "rating": 1
+  },
+  {
+    "id": 4473,
+    "bookId": 99,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4474,
+    "bookId": 113,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4475,
+    "bookId": 90,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4476,
+    "bookId": 167,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4477,
+    "bookId": 40,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4478,
+    "bookId": 91,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4479,
+    "bookId": 93,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4480,
+    "bookId": 117,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4481,
+    "bookId": 131,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4482,
+    "bookId": 165,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4483,
+    "bookId": 162,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4484,
+    "bookId": 57,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4485,
+    "bookId": 65,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4486,
+    "bookId": 146,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4487,
+    "bookId": 154,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4488,
+    "bookId": 72,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4489,
+    "bookId": 158,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4490,
+    "bookId": 47,
+    "readerId": 100,
+    "rating": 1
+  },
+  {
+    "id": 4491,
+    "bookId": 89,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4492,
+    "bookId": 75,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4493,
+    "bookId": 82,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4494,
+    "bookId": 73,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4495,
+    "bookId": 156,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4496,
+    "bookId": 51,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4497,
+    "bookId": 153,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4498,
+    "bookId": 63,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4499,
+    "bookId": 157,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4500,
+    "bookId": 148,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4501,
+    "bookId": 62,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4502,
+    "bookId": 16,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4503,
+    "bookId": 54,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4504,
+    "bookId": 166,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4505,
+    "bookId": 81,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4506,
+    "bookId": 140,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4507,
+    "bookId": 34,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4508,
+    "bookId": 95,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4509,
+    "bookId": 189,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4510,
+    "bookId": 96,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4511,
+    "bookId": 187,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4512,
+    "bookId": 163,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4513,
+    "bookId": 6,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4514,
+    "bookId": 85,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4515,
+    "bookId": 186,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4516,
+    "bookId": 92,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4517,
+    "bookId": 150,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4518,
+    "bookId": 52,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4519,
+    "bookId": 145,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4520,
+    "bookId": 147,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4521,
+    "bookId": 152,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4522,
+    "bookId": 4,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4523,
+    "bookId": 29,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4524,
+    "bookId": 141,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4525,
+    "bookId": 36,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4526,
+    "bookId": 164,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4527,
+    "bookId": 74,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4528,
+    "bookId": 143,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4529,
+    "bookId": 76,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4530,
+    "bookId": 70,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4531,
+    "bookId": 197,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4532,
+    "bookId": 87,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4533,
+    "bookId": 151,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4534,
+    "bookId": 142,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4535,
+    "bookId": 144,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4536,
+    "bookId": 5,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4537,
+    "bookId": 43,
+    "readerId": 100,
+    "rating": 1
+  },
+  {
+    "id": 4538,
+    "bookId": 155,
+    "readerId": 100,
+    "rating": 5
+  },
+  {
+    "id": 4539,
+    "bookId": 160,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4540,
+    "bookId": 170,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4541,
+    "bookId": 149,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4542,
+    "bookId": 183,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4543,
+    "bookId": 192,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4544,
+    "bookId": 41,
+    "readerId": 100,
+    "rating": 4
+  },
+  {
+    "id": 4545,
+    "bookId": 195,
+    "readerId": 100,
+    "rating": 1
+  },
+  {
+    "id": 4546,
+    "bookId": 7,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4547,
+    "bookId": 11,
+    "readerId": 100,
+    "rating": 2
+  },
+  {
+    "id": 4548,
+    "bookId": 106,
+    "readerId": 100,
+    "rating": 3
+  },
+  {
+    "id": 4549,
+    "bookId": 82,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4550,
+    "bookId": 87,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4551,
+    "bookId": 22,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4552,
+    "bookId": 134,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4553,
+    "bookId": 155,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4554,
+    "bookId": 63,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4555,
+    "bookId": 83,
+    "readerId": 101,
+    "rating": 1
+  },
+  {
+    "id": 4556,
+    "bookId": 6,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4557,
+    "bookId": 92,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4558,
+    "bookId": 80,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4559,
+    "bookId": 97,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4560,
+    "bookId": 24,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4561,
+    "bookId": 185,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4562,
+    "bookId": 81,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4563,
+    "bookId": 60,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4564,
+    "bookId": 64,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4565,
+    "bookId": 84,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4566,
+    "bookId": 187,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4567,
+    "bookId": 159,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4568,
+    "bookId": 75,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4569,
+    "bookId": 47,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4570,
+    "bookId": 15,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4571,
+    "bookId": 85,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4572,
+    "bookId": 55,
+    "readerId": 101,
+    "rating": 1
+  },
+  {
+    "id": 4573,
+    "bookId": 198,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4574,
+    "bookId": 66,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4575,
+    "bookId": 78,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4576,
+    "bookId": 136,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4577,
+    "bookId": 94,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4578,
+    "bookId": 90,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4579,
+    "bookId": 42,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4580,
+    "bookId": 74,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4581,
+    "bookId": 48,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4582,
+    "bookId": 61,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4583,
+    "bookId": 95,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4584,
+    "bookId": 68,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4585,
+    "bookId": 57,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4586,
+    "bookId": 51,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4587,
+    "bookId": 72,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4588,
+    "bookId": 58,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4589,
+    "bookId": 70,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4590,
+    "bookId": 79,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4591,
+    "bookId": 172,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4592,
+    "bookId": 65,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4593,
+    "bookId": 34,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4594,
+    "bookId": 93,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4595,
+    "bookId": 54,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4596,
+    "bookId": 56,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4597,
+    "bookId": 59,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4598,
+    "bookId": 53,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4599,
+    "bookId": 67,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4600,
+    "bookId": 49,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4601,
+    "bookId": 89,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4602,
+    "bookId": 86,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4603,
+    "bookId": 73,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4604,
+    "bookId": 102,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4605,
+    "bookId": 88,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4606,
+    "bookId": 38,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4607,
+    "bookId": 91,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4608,
+    "bookId": 77,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4609,
+    "bookId": 52,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4610,
+    "bookId": 30,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4611,
+    "bookId": 62,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4612,
+    "bookId": 19,
+    "readerId": 101,
+    "rating": 4
+  },
+  {
+    "id": 4613,
+    "bookId": 69,
+    "readerId": 101,
+    "rating": 1
+  },
+  {
+    "id": 4614,
+    "bookId": 71,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4615,
+    "bookId": 50,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4616,
+    "bookId": 141,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4617,
+    "bookId": 119,
+    "readerId": 101,
+    "rating": 1
+  },
+  {
+    "id": 4618,
+    "bookId": 76,
+    "readerId": 101,
+    "rating": 5
+  },
+  {
+    "id": 4619,
+    "bookId": 117,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4620,
+    "bookId": 175,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4621,
+    "bookId": 139,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4622,
+    "bookId": 23,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4623,
+    "bookId": 178,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4624,
+    "bookId": 176,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4625,
+    "bookId": 11,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4626,
+    "bookId": 180,
+    "readerId": 101,
+    "rating": 2
+  },
+  {
+    "id": 4627,
+    "bookId": 124,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4628,
+    "bookId": 140,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4629,
+    "bookId": 26,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4630,
+    "bookId": 195,
+    "readerId": 101,
+    "rating": 3
+  },
+  {
+    "id": 4631,
+    "bookId": 65,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4632,
+    "bookId": 150,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4633,
+    "bookId": 190,
+    "readerId": 102,
+    "rating": 1
+  },
+  {
+    "id": 4634,
+    "bookId": 155,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4635,
+    "bookId": 80,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4636,
+    "bookId": 151,
+    "readerId": 102,
+    "rating": 5
+  },
+  {
+    "id": 4637,
+    "bookId": 152,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4638,
+    "bookId": 147,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4639,
+    "bookId": 82,
+    "readerId": 102,
+    "rating": 5
+  },
+  {
+    "id": 4640,
+    "bookId": 37,
+    "readerId": 102,
+    "rating": 5
+  },
+  {
+    "id": 4641,
+    "bookId": 13,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4642,
+    "bookId": 63,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4643,
+    "bookId": 161,
+    "readerId": 102,
+    "rating": 5
+  },
+  {
+    "id": 4644,
+    "bookId": 206,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4645,
+    "bookId": 142,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4646,
+    "bookId": 156,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4647,
+    "bookId": 153,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4648,
+    "bookId": 159,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4649,
+    "bookId": 81,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4650,
+    "bookId": 95,
+    "readerId": 102,
+    "rating": 5
+  },
+  {
+    "id": 4651,
+    "bookId": 76,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4652,
+    "bookId": 163,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4653,
+    "bookId": 149,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4654,
+    "bookId": 85,
+    "readerId": 102,
+    "rating": 4
+  },
+  {
+    "id": 4655,
+    "bookId": 131,
+    "readerId": 102,
+    "rating": 2
+  },
+  {
+    "id": 4656,
+    "bookId": 148,
+    "readerId": 102,
+    "rating": 5
+  },
+  {
+    "id": 4657,
+    "bookId": 28,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4658,
+    "bookId": 39,
+    "readerId": 102,
+    "rating": 3
+  },
+  {
+    "id": 4659,
+    "bookId": 148,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4660,
+    "bookId": 72,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4661,
+    "bookId": 58,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4662,
+    "bookId": 94,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4663,
+    "bookId": 75,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4664,
+    "bookId": 161,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4665,
+    "bookId": 80,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4666,
+    "bookId": 164,
+    "readerId": 103,
+    "rating": 1
+  },
+  {
+    "id": 4667,
+    "bookId": 141,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4668,
+    "bookId": 74,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4669,
+    "bookId": 150,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4670,
+    "bookId": 98,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4671,
+    "bookId": 154,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4672,
+    "bookId": 149,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4673,
+    "bookId": 44,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4674,
+    "bookId": 59,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4675,
+    "bookId": 89,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4676,
+    "bookId": 76,
+    "readerId": 103,
+    "rating": 1
+  },
+  {
+    "id": 4677,
+    "bookId": 131,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4678,
+    "bookId": 205,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4679,
+    "bookId": 105,
+    "readerId": 103,
+    "rating": 1
+  },
+  {
+    "id": 4680,
+    "bookId": 162,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4681,
+    "bookId": 168,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4682,
+    "bookId": 151,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4683,
+    "bookId": 160,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4684,
+    "bookId": 123,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4685,
+    "bookId": 183,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4686,
+    "bookId": 63,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4687,
+    "bookId": 90,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4688,
+    "bookId": 97,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4689,
+    "bookId": 193,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4690,
+    "bookId": 39,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4691,
+    "bookId": 165,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4692,
+    "bookId": 145,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4693,
+    "bookId": 190,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4694,
+    "bookId": 95,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4695,
+    "bookId": 84,
+    "readerId": 103,
+    "rating": 1
+  },
+  {
+    "id": 4696,
+    "bookId": 102,
+    "readerId": 103,
+    "rating": 1
+  },
+  {
+    "id": 4697,
+    "bookId": 60,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4698,
+    "bookId": 163,
+    "readerId": 103,
+    "rating": 1
+  },
+  {
+    "id": 4699,
+    "bookId": 140,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4700,
+    "bookId": 13,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4701,
+    "bookId": 73,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4702,
+    "bookId": 52,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4703,
+    "bookId": 159,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4704,
+    "bookId": 153,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4705,
+    "bookId": 147,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4706,
+    "bookId": 25,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4707,
+    "bookId": 156,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4708,
+    "bookId": 143,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4709,
+    "bookId": 81,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4710,
+    "bookId": 138,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4711,
+    "bookId": 65,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4712,
+    "bookId": 92,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4713,
+    "bookId": 166,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4714,
+    "bookId": 152,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4715,
+    "bookId": 158,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4716,
+    "bookId": 117,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4717,
+    "bookId": 116,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4718,
+    "bookId": 31,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4719,
+    "bookId": 82,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4720,
+    "bookId": 21,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4721,
+    "bookId": 146,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4722,
+    "bookId": 206,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4723,
+    "bookId": 144,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4724,
+    "bookId": 93,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4725,
+    "bookId": 85,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4726,
+    "bookId": 142,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4727,
+    "bookId": 51,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4728,
+    "bookId": 155,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4729,
+    "bookId": 9,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4730,
+    "bookId": 167,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4731,
+    "bookId": 1,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4732,
+    "bookId": 113,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4733,
+    "bookId": 10,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4734,
+    "bookId": 157,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4735,
+    "bookId": 70,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4736,
+    "bookId": 87,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4737,
+    "bookId": 54,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4738,
+    "bookId": 191,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4739,
+    "bookId": 7,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4740,
+    "bookId": 196,
+    "readerId": 103,
+    "rating": 1
+  },
+  {
+    "id": 4741,
+    "bookId": 66,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4742,
+    "bookId": 106,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4743,
+    "bookId": 110,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4744,
+    "bookId": 30,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4745,
+    "bookId": 172,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4746,
+    "bookId": 11,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4747,
+    "bookId": 127,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4748,
+    "bookId": 20,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4749,
+    "bookId": 174,
+    "readerId": 103,
+    "rating": 5
+  },
+  {
+    "id": 4750,
+    "bookId": 18,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4751,
+    "bookId": 192,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4752,
+    "bookId": 5,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4753,
+    "bookId": 187,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4754,
+    "bookId": 86,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4755,
+    "bookId": 33,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4756,
+    "bookId": 53,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4757,
+    "bookId": 22,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4758,
+    "bookId": 109,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4759,
+    "bookId": 169,
+    "readerId": 103,
+    "rating": 3
+  },
+  {
+    "id": 4760,
+    "bookId": 36,
+    "readerId": 103,
+    "rating": 4
+  },
+  {
+    "id": 4761,
+    "bookId": 83,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4762,
+    "bookId": 103,
+    "readerId": 103,
+    "rating": 2
+  },
+  {
+    "id": 4763,
+    "bookId": 59,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4764,
+    "bookId": 68,
+    "readerId": 104,
+    "rating": 5
+  },
+  {
+    "id": 4765,
+    "bookId": 147,
+    "readerId": 104,
+    "rating": 2
+  },
+  {
+    "id": 4766,
+    "bookId": 76,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4767,
+    "bookId": 57,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4768,
+    "bookId": 197,
+    "readerId": 104,
+    "rating": 2
+  },
+  {
+    "id": 4769,
+    "bookId": 81,
+    "readerId": 104,
+    "rating": 5
+  },
+  {
+    "id": 4770,
+    "bookId": 195,
+    "readerId": 104,
+    "rating": 2
+  },
+  {
+    "id": 4771,
+    "bookId": 192,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4772,
+    "bookId": 187,
+    "readerId": 104,
+    "rating": 1
+  },
+  {
+    "id": 4773,
+    "bookId": 88,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4774,
+    "bookId": 185,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4775,
+    "bookId": 71,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4776,
+    "bookId": 58,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4777,
+    "bookId": 53,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4778,
+    "bookId": 92,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4779,
+    "bookId": 139,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4780,
+    "bookId": 50,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4781,
+    "bookId": 67,
+    "readerId": 104,
+    "rating": 5
+  },
+  {
+    "id": 4782,
+    "bookId": 51,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4783,
+    "bookId": 10,
+    "readerId": 104,
+    "rating": 1
+  },
+  {
+    "id": 4784,
+    "bookId": 65,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4785,
+    "bookId": 56,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4786,
+    "bookId": 64,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4787,
+    "bookId": 48,
+    "readerId": 104,
+    "rating": 1
+  },
+  {
+    "id": 4788,
+    "bookId": 27,
+    "readerId": 104,
+    "rating": 4
+  },
+  {
+    "id": 4789,
+    "bookId": 62,
+    "readerId": 104,
+    "rating": 3
+  },
+  {
+    "id": 4790,
+    "bookId": 18,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4791,
+    "bookId": 5,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4792,
+    "bookId": 4,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4793,
+    "bookId": 86,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4794,
+    "bookId": 26,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4795,
+    "bookId": 132,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4796,
+    "bookId": 7,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4797,
+    "bookId": 20,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4798,
+    "bookId": 131,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4799,
+    "bookId": 15,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4800,
+    "bookId": 46,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4801,
+    "bookId": 111,
+    "readerId": 105,
+    "rating": 1
+  },
+  {
+    "id": 4802,
+    "bookId": 8,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4803,
+    "bookId": 163,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4804,
+    "bookId": 27,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4805,
+    "bookId": 200,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4806,
+    "bookId": 41,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4807,
+    "bookId": 9,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4808,
+    "bookId": 6,
+    "readerId": 105,
+    "rating": 1
+  },
+  {
+    "id": 4809,
+    "bookId": 176,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4810,
+    "bookId": 33,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4811,
+    "bookId": 43,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4812,
+    "bookId": 38,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4813,
+    "bookId": 106,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4814,
+    "bookId": 34,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4815,
+    "bookId": 16,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4816,
+    "bookId": 152,
+    "readerId": 105,
+    "rating": 1
+  },
+  {
+    "id": 4817,
+    "bookId": 39,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4818,
+    "bookId": 25,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4819,
+    "bookId": 178,
+    "readerId": 105,
+    "rating": 1
+  },
+  {
+    "id": 4820,
+    "bookId": 30,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4821,
+    "bookId": 40,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4822,
+    "bookId": 11,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4823,
+    "bookId": 109,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4824,
+    "bookId": 148,
+    "readerId": 105,
+    "rating": 1
+  },
+  {
+    "id": 4825,
+    "bookId": 3,
+    "readerId": 105,
+    "rating": 1
+  },
+  {
+    "id": 4826,
+    "bookId": 124,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4827,
+    "bookId": 73,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4828,
+    "bookId": 42,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4829,
+    "bookId": 14,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4830,
+    "bookId": 36,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4831,
+    "bookId": 44,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4832,
+    "bookId": 45,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4833,
+    "bookId": 191,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4834,
+    "bookId": 21,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4835,
+    "bookId": 2,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4836,
+    "bookId": 31,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4837,
+    "bookId": 35,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4838,
+    "bookId": 29,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4839,
+    "bookId": 24,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4840,
+    "bookId": 133,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4841,
+    "bookId": 19,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4842,
+    "bookId": 1,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4843,
+    "bookId": 164,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4844,
+    "bookId": 22,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4845,
+    "bookId": 12,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4846,
+    "bookId": 175,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4847,
+    "bookId": 13,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4848,
+    "bookId": 23,
+    "readerId": 105,
+    "rating": 2
+  },
+  {
+    "id": 4849,
+    "bookId": 10,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4850,
+    "bookId": 37,
+    "readerId": 105,
+    "rating": 4
+  },
+  {
+    "id": 4851,
+    "bookId": 17,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4852,
+    "bookId": 32,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4853,
+    "bookId": 201,
+    "readerId": 105,
+    "rating": 3
+  },
+  {
+    "id": 4854,
+    "bookId": 142,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4855,
+    "bookId": 28,
+    "readerId": 105,
+    "rating": 5
+  },
+  {
+    "id": 4856,
+    "bookId": 27,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4857,
+    "bookId": 127,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4858,
+    "bookId": 123,
+    "readerId": 106,
+    "rating": 1
+  },
+  {
+    "id": 4859,
+    "bookId": 101,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4860,
+    "bookId": 134,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4861,
+    "bookId": 106,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4862,
+    "bookId": 200,
+    "readerId": 106,
+    "rating": 5
+  },
+  {
+    "id": 4863,
+    "bookId": 124,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4864,
+    "bookId": 136,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4865,
+    "bookId": 1,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4866,
+    "bookId": 114,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4867,
+    "bookId": 96,
+    "readerId": 106,
+    "rating": 1
+  },
+  {
+    "id": 4868,
+    "bookId": 121,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4869,
+    "bookId": 119,
+    "readerId": 106,
+    "rating": 2
+  },
+  {
+    "id": 4870,
+    "bookId": 137,
+    "readerId": 106,
+    "rating": 5
+  },
+  {
+    "id": 4871,
+    "bookId": 14,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4872,
+    "bookId": 56,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4873,
+    "bookId": 133,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4874,
+    "bookId": 128,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4875,
+    "bookId": 99,
+    "readerId": 106,
+    "rating": 1
+  },
+  {
+    "id": 4876,
+    "bookId": 54,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4877,
+    "bookId": 139,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4878,
+    "bookId": 103,
+    "readerId": 106,
+    "rating": 3
+  },
+  {
+    "id": 4879,
+    "bookId": 115,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4880,
+    "bookId": 100,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4881,
+    "bookId": 132,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4882,
+    "bookId": 176,
+    "readerId": 106,
+    "rating": 4
+  },
+  {
+    "id": 4883,
+    "bookId": 22,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4884,
+    "bookId": 44,
+    "readerId": 107,
+    "rating": 5
+  },
+  {
+    "id": 4885,
+    "bookId": 38,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4886,
+    "bookId": 107,
+    "readerId": 107,
+    "rating": 2
+  },
+  {
+    "id": 4887,
+    "bookId": 135,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4888,
+    "bookId": 23,
+    "readerId": 107,
+    "rating": 2
+  },
+  {
+    "id": 4889,
+    "bookId": 32,
+    "readerId": 107,
+    "rating": 5
+  },
+  {
+    "id": 4890,
+    "bookId": 31,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4891,
+    "bookId": 128,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4892,
+    "bookId": 37,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4893,
+    "bookId": 33,
+    "readerId": 107,
+    "rating": 2
+  },
+  {
+    "id": 4894,
+    "bookId": 7,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4895,
+    "bookId": 2,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4896,
+    "bookId": 45,
+    "readerId": 107,
+    "rating": 1
+  },
+  {
+    "id": 4897,
+    "bookId": 178,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4898,
+    "bookId": 28,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4899,
+    "bookId": 169,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4900,
+    "bookId": 35,
+    "readerId": 107,
+    "rating": 5
+  },
+  {
+    "id": 4901,
+    "bookId": 4,
+    "readerId": 107,
+    "rating": 5
+  },
+  {
+    "id": 4902,
+    "bookId": 17,
+    "readerId": 107,
+    "rating": 5
+  },
+  {
+    "id": 4903,
+    "bookId": 16,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4904,
+    "bookId": 26,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4905,
+    "bookId": 96,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4906,
+    "bookId": 1,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4907,
+    "bookId": 24,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4908,
+    "bookId": 36,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4909,
+    "bookId": 46,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4910,
+    "bookId": 11,
+    "readerId": 107,
+    "rating": 2
+  },
+  {
+    "id": 4911,
+    "bookId": 5,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4912,
+    "bookId": 141,
+    "readerId": 107,
+    "rating": 2
+  },
+  {
+    "id": 4913,
+    "bookId": 61,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4914,
+    "bookId": 25,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4915,
+    "bookId": 74,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4916,
+    "bookId": 14,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4917,
+    "bookId": 29,
+    "readerId": 107,
+    "rating": 5
+  },
+  {
+    "id": 4918,
+    "bookId": 6,
+    "readerId": 107,
+    "rating": 2
+  },
+  {
+    "id": 4919,
+    "bookId": 18,
+    "readerId": 107,
+    "rating": 1
+  },
+  {
+    "id": 4920,
+    "bookId": 143,
+    "readerId": 107,
+    "rating": 4
+  },
+  {
+    "id": 4921,
+    "bookId": 155,
+    "readerId": 107,
+    "rating": 3
+  },
+  {
+    "id": 4922,
+    "bookId": 126,
+    "readerId": 107,
+    "rating": 1
+  },
+  {
+    "id": 4923,
+    "bookId": 177,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4924,
+    "bookId": 111,
+    "readerId": 108,
+    "rating": 2
+  },
+  {
+    "id": 4925,
+    "bookId": 97,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4926,
+    "bookId": 188,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4927,
+    "bookId": 40,
+    "readerId": 108,
+    "rating": 2
+  },
+  {
+    "id": 4928,
+    "bookId": 193,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4929,
+    "bookId": 169,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4930,
+    "bookId": 98,
+    "readerId": 108,
+    "rating": 2
+  },
+  {
+    "id": 4931,
+    "bookId": 94,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4932,
+    "bookId": 51,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4933,
+    "bookId": 14,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4934,
+    "bookId": 121,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4935,
+    "bookId": 86,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4936,
+    "bookId": 154,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4937,
+    "bookId": 184,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4938,
+    "bookId": 171,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4939,
+    "bookId": 191,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4940,
+    "bookId": 207,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4941,
+    "bookId": 179,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4942,
+    "bookId": 52,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4943,
+    "bookId": 199,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4944,
+    "bookId": 186,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4945,
+    "bookId": 189,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4946,
+    "bookId": 16,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4947,
+    "bookId": 206,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4948,
+    "bookId": 185,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4949,
+    "bookId": 178,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4950,
+    "bookId": 173,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4951,
+    "bookId": 192,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4952,
+    "bookId": 198,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4953,
+    "bookId": 180,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4954,
+    "bookId": 134,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4955,
+    "bookId": 200,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4956,
+    "bookId": 201,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4957,
+    "bookId": 176,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4958,
+    "bookId": 92,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4959,
+    "bookId": 204,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4960,
+    "bookId": 194,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4961,
+    "bookId": 195,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4962,
+    "bookId": 10,
+    "readerId": 108,
+    "rating": 2
+  },
+  {
+    "id": 4963,
+    "bookId": 182,
+    "readerId": 108,
+    "rating": 5
+  },
+  {
+    "id": 4964,
+    "bookId": 38,
+    "readerId": 108,
+    "rating": 2
+  },
+  {
+    "id": 4965,
+    "bookId": 187,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4966,
+    "bookId": 205,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4967,
+    "bookId": 196,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4968,
+    "bookId": 109,
+    "readerId": 108,
+    "rating": 2
+  },
+  {
+    "id": 4969,
+    "bookId": 114,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4970,
+    "bookId": 70,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4971,
+    "bookId": 197,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4972,
+    "bookId": 131,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4973,
+    "bookId": 183,
+    "readerId": 108,
+    "rating": 3
+  },
+  {
+    "id": 4974,
+    "bookId": 29,
+    "readerId": 108,
+    "rating": 1
+  },
+  {
+    "id": 4975,
+    "bookId": 190,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4976,
+    "bookId": 202,
+    "readerId": 108,
+    "rating": 4
+  },
+  {
+    "id": 4977,
+    "bookId": 165,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 4978,
+    "bookId": 197,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 4979,
+    "bookId": 17,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4980,
+    "bookId": 145,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4981,
+    "bookId": 74,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 4982,
+    "bookId": 163,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 4983,
+    "bookId": 64,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4984,
+    "bookId": 93,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 4985,
+    "bookId": 65,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 4986,
+    "bookId": 138,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 4987,
+    "bookId": 167,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4988,
+    "bookId": 72,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4989,
+    "bookId": 207,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4990,
+    "bookId": 76,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4991,
+    "bookId": 82,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 4992,
+    "bookId": 143,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 4993,
+    "bookId": 95,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4994,
+    "bookId": 169,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 4995,
+    "bookId": 146,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 4996,
+    "bookId": 162,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 4997,
+    "bookId": 54,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 4998,
+    "bookId": 92,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 4999,
+    "bookId": 63,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5000,
+    "bookId": 147,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5001,
+    "bookId": 148,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5002,
+    "bookId": 42,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5003,
+    "bookId": 89,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5004,
+    "bookId": 73,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5005,
+    "bookId": 158,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5006,
+    "bookId": 164,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5007,
+    "bookId": 153,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5008,
+    "bookId": 194,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5009,
+    "bookId": 152,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5010,
+    "bookId": 140,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5011,
+    "bookId": 11,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5012,
+    "bookId": 157,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5013,
+    "bookId": 154,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5014,
+    "bookId": 106,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5015,
+    "bookId": 127,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5016,
+    "bookId": 160,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5017,
+    "bookId": 151,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5018,
+    "bookId": 150,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5019,
+    "bookId": 80,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5020,
+    "bookId": 174,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5021,
+    "bookId": 59,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5022,
+    "bookId": 75,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5023,
+    "bookId": 85,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5024,
+    "bookId": 61,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5025,
+    "bookId": 168,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5026,
+    "bookId": 90,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5027,
+    "bookId": 128,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5028,
+    "bookId": 51,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5029,
+    "bookId": 144,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5030,
+    "bookId": 83,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5031,
+    "bookId": 155,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5032,
+    "bookId": 161,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5033,
+    "bookId": 202,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5034,
+    "bookId": 3,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5035,
+    "bookId": 166,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5036,
+    "bookId": 142,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5037,
+    "bookId": 149,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5038,
+    "bookId": 159,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5039,
+    "bookId": 141,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5040,
+    "bookId": 187,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5041,
+    "bookId": 81,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5042,
+    "bookId": 97,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5043,
+    "bookId": 201,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5044,
+    "bookId": 71,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5045,
+    "bookId": 87,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5046,
+    "bookId": 40,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5047,
+    "bookId": 52,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5048,
+    "bookId": 156,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5049,
+    "bookId": 19,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5050,
+    "bookId": 178,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5051,
+    "bookId": 193,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5052,
+    "bookId": 180,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5053,
+    "bookId": 179,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5054,
+    "bookId": 26,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5055,
+    "bookId": 137,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5056,
+    "bookId": 182,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5057,
+    "bookId": 176,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5058,
+    "bookId": 39,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5059,
+    "bookId": 29,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5060,
+    "bookId": 44,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5061,
+    "bookId": 115,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5062,
+    "bookId": 27,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5063,
+    "bookId": 173,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5064,
+    "bookId": 32,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5065,
+    "bookId": 23,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5066,
+    "bookId": 170,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5067,
+    "bookId": 55,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5068,
+    "bookId": 88,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5069,
+    "bookId": 104,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5070,
+    "bookId": 53,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5071,
+    "bookId": 78,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5072,
+    "bookId": 68,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5073,
+    "bookId": 107,
+    "readerId": 109,
+    "rating": 4
+  },
+  {
+    "id": 5074,
+    "bookId": 62,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5075,
+    "bookId": 124,
+    "readerId": 109,
+    "rating": 2
+  },
+  {
+    "id": 5076,
+    "bookId": 47,
+    "readerId": 109,
+    "rating": 3
+  },
+  {
+    "id": 5077,
+    "bookId": 121,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5078,
+    "bookId": 132,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5079,
+    "bookId": 200,
+    "readerId": 109,
+    "rating": 5
+  },
+  {
+    "id": 5080,
+    "bookId": 111,
+    "readerId": 109,
+    "rating": 1
+  },
+  {
+    "id": 5081,
+    "bookId": 104,
+    "readerId": 110,
+    "rating": 5
+  },
+  {
+    "id": 5082,
+    "bookId": 112,
+    "readerId": 110,
+    "rating": 4
+  },
+  {
+    "id": 5083,
+    "bookId": 193,
+    "readerId": 110,
+    "rating": 5
+  },
+  {
+    "id": 5084,
+    "bookId": 204,
+    "readerId": 110,
+    "rating": 3
+  },
+  {
+    "id": 5085,
+    "bookId": 175,
+    "readerId": 110,
+    "rating": 5
+  },
+  {
+    "id": 5086,
+    "bookId": 172,
+    "readerId": 110,
+    "rating": 4
+  },
+  {
+    "id": 5087,
+    "bookId": 51,
+    "readerId": 110,
+    "rating": 3
+  },
+  {
+    "id": 5088,
+    "bookId": 206,
+    "readerId": 110,
+    "rating": 4
+  },
+  {
+    "id": 5089,
+    "bookId": 192,
+    "readerId": 110,
+    "rating": 5
+  },
+  {
+    "id": 5090,
+    "bookId": 22,
+    "readerId": 110,
+    "rating": 3
+  },
+  {
+    "id": 5091,
+    "bookId": 178,
+    "readerId": 110,
+    "rating": 4
+  },
+  {
+    "id": 5092,
+    "bookId": 79,
+    "readerId": 110,
+    "rating": 3
+  },
+  {
+    "id": 5093,
+    "bookId": 196,
+    "readerId": 110,
+    "rating": 4
+  },
+  {
+    "id": 5094,
+    "bookId": 185,
+    "readerId": 110,
+    "rating": 4
+  },
+  {
+    "id": 5095,
+    "bookId": 159,
+    "readerId": 110,
+    "rating": 3
+  },
+  {
+    "id": 5096,
+    "bookId": 183,
+    "readerId": 110,
+    "rating": 2
+  },
+  {
+    "id": 5097,
+    "bookId": 201,
+    "readerId": 110,
+    "rating": 5
+  },
+  {
+    "id": 5098,
+    "bookId": 182,
+    "readerId": 110,
+    "rating": 5
+  },
+  {
+    "id": 5099,
+    "bookId": 92,
+    "readerId": 110,
+    "rating": 2
+  },
+  {
+    "id": 5100,
+    "bookId": 133,
+    "readerId": 111,
+    "rating": 4
+  },
+  {
+    "id": 5101,
+    "bookId": 99,
+    "readerId": 111,
+    "rating": 1
+  },
+  {
+    "id": 5102,
+    "bookId": 126,
+    "readerId": 111,
+    "rating": 3
+  },
+  {
+    "id": 5103,
+    "bookId": 46,
+    "readerId": 111,
+    "rating": 2
+  },
+  {
+    "id": 5104,
+    "bookId": 113,
+    "readerId": 111,
+    "rating": 3
+  },
+  {
+    "id": 5105,
+    "bookId": 111,
+    "readerId": 111,
+    "rating": 4
+  },
+  {
+    "id": 5106,
+    "bookId": 125,
+    "readerId": 111,
+    "rating": 5
+  },
+  {
+    "id": 5107,
+    "bookId": 102,
+    "readerId": 111,
+    "rating": 5
+  },
+  {
+    "id": 5108,
+    "bookId": 121,
+    "readerId": 111,
+    "rating": 5
+  },
+  {
+    "id": 5109,
+    "bookId": 115,
+    "readerId": 111,
+    "rating": 5
+  },
+  {
+    "id": 5110,
+    "bookId": 151,
+    "readerId": 111,
+    "rating": 2
+  },
+  {
+    "id": 5111,
+    "bookId": 128,
+    "readerId": 111,
+    "rating": 3
+  },
+  {
+    "id": 5112,
+    "bookId": 178,
+    "readerId": 111,
+    "rating": 3
+  },
+  {
+    "id": 5113,
+    "bookId": 106,
+    "readerId": 111,
+    "rating": 4
+  },
+  {
+    "id": 5114,
+    "bookId": 122,
+    "readerId": 112,
+    "rating": 2
+  },
+  {
+    "id": 5115,
+    "bookId": 117,
+    "readerId": 112,
+    "rating": 3
+  },
+  {
+    "id": 5116,
+    "bookId": 115,
+    "readerId": 112,
+    "rating": 4
+  },
+  {
+    "id": 5117,
+    "bookId": 136,
+    "readerId": 112,
+    "rating": 4
+  },
+  {
+    "id": 5118,
+    "bookId": 100,
+    "readerId": 112,
+    "rating": 4
+  },
+  {
+    "id": 5119,
+    "bookId": 189,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5120,
+    "bookId": 186,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5121,
+    "bookId": 103,
+    "readerId": 113,
+    "rating": 2
+  },
+  {
+    "id": 5122,
+    "bookId": 190,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5123,
+    "bookId": 75,
+    "readerId": 113,
+    "rating": 1
+  },
+  {
+    "id": 5124,
+    "bookId": 174,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5125,
+    "bookId": 196,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5126,
+    "bookId": 192,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5127,
+    "bookId": 126,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5128,
+    "bookId": 176,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5129,
+    "bookId": 52,
+    "readerId": 113,
+    "rating": 1
+  },
+  {
+    "id": 5130,
+    "bookId": 194,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5131,
+    "bookId": 191,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5132,
+    "bookId": 204,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5133,
+    "bookId": 172,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5134,
+    "bookId": 14,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5135,
+    "bookId": 117,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5136,
+    "bookId": 198,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5137,
+    "bookId": 150,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5138,
+    "bookId": 169,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5139,
+    "bookId": 97,
+    "readerId": 113,
+    "rating": 2
+  },
+  {
+    "id": 5140,
+    "bookId": 86,
+    "readerId": 113,
+    "rating": 1
+  },
+  {
+    "id": 5141,
+    "bookId": 179,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5142,
+    "bookId": 171,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5143,
+    "bookId": 180,
+    "readerId": 113,
+    "rating": 2
+  },
+  {
+    "id": 5144,
+    "bookId": 199,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5145,
+    "bookId": 195,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5146,
+    "bookId": 184,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5147,
+    "bookId": 200,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5148,
+    "bookId": 183,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5149,
+    "bookId": 61,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5150,
+    "bookId": 188,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5151,
+    "bookId": 158,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5152,
+    "bookId": 68,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5153,
+    "bookId": 197,
+    "readerId": 113,
+    "rating": 2
+  },
+  {
+    "id": 5154,
+    "bookId": 182,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5155,
+    "bookId": 151,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5156,
+    "bookId": 177,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5157,
+    "bookId": 36,
+    "readerId": 113,
+    "rating": 2
+  },
+  {
+    "id": 5158,
+    "bookId": 173,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5159,
+    "bookId": 203,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5160,
+    "bookId": 201,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5161,
+    "bookId": 81,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5162,
+    "bookId": 185,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5163,
+    "bookId": 170,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5164,
+    "bookId": 178,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5165,
+    "bookId": 205,
+    "readerId": 113,
+    "rating": 1
+  },
+  {
+    "id": 5166,
+    "bookId": 155,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5167,
+    "bookId": 206,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5168,
+    "bookId": 207,
+    "readerId": 113,
+    "rating": 1
+  },
+  {
+    "id": 5169,
+    "bookId": 181,
+    "readerId": 113,
+    "rating": 4
+  },
+  {
+    "id": 5170,
+    "bookId": 187,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5171,
+    "bookId": 38,
+    "readerId": 113,
+    "rating": 2
+  },
+  {
+    "id": 5172,
+    "bookId": 202,
+    "readerId": 113,
+    "rating": 5
+  },
+  {
+    "id": 5173,
+    "bookId": 175,
+    "readerId": 113,
+    "rating": 3
+  },
+  {
+    "id": 5174,
+    "bookId": 40,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5175,
+    "bookId": 34,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5176,
+    "bookId": 24,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5177,
+    "bookId": 77,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5178,
+    "bookId": 28,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5179,
+    "bookId": 118,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5180,
+    "bookId": 129,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5181,
+    "bookId": 43,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5182,
+    "bookId": 191,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5183,
+    "bookId": 6,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5184,
+    "bookId": 1,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5185,
+    "bookId": 84,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5186,
+    "bookId": 117,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5187,
+    "bookId": 10,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5188,
+    "bookId": 36,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5189,
+    "bookId": 32,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5190,
+    "bookId": 37,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5191,
+    "bookId": 41,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5192,
+    "bookId": 101,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5193,
+    "bookId": 9,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5194,
+    "bookId": 39,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5195,
+    "bookId": 146,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5196,
+    "bookId": 157,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5197,
+    "bookId": 3,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5198,
+    "bookId": 186,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5199,
+    "bookId": 143,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5200,
+    "bookId": 33,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5201,
+    "bookId": 19,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5202,
+    "bookId": 14,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5203,
+    "bookId": 18,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5204,
+    "bookId": 159,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5205,
+    "bookId": 59,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5206,
+    "bookId": 81,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5207,
+    "bookId": 44,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5208,
+    "bookId": 15,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5209,
+    "bookId": 142,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5210,
+    "bookId": 21,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5211,
+    "bookId": 13,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5212,
+    "bookId": 183,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5213,
+    "bookId": 160,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5214,
+    "bookId": 111,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5215,
+    "bookId": 16,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5216,
+    "bookId": 42,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5217,
+    "bookId": 45,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5218,
+    "bookId": 12,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5219,
+    "bookId": 113,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5220,
+    "bookId": 86,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5221,
+    "bookId": 8,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5222,
+    "bookId": 145,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5223,
+    "bookId": 153,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5224,
+    "bookId": 17,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5225,
+    "bookId": 31,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5226,
+    "bookId": 125,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5227,
+    "bookId": 46,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5228,
+    "bookId": 11,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5229,
+    "bookId": 4,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5230,
+    "bookId": 25,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5231,
+    "bookId": 23,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5232,
+    "bookId": 178,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5233,
+    "bookId": 7,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5234,
+    "bookId": 27,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5235,
+    "bookId": 38,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5236,
+    "bookId": 26,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5237,
+    "bookId": 2,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5238,
+    "bookId": 35,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5239,
+    "bookId": 29,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5240,
+    "bookId": 5,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5241,
+    "bookId": 30,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5242,
+    "bookId": 20,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5243,
+    "bookId": 22,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5244,
+    "bookId": 97,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5245,
+    "bookId": 50,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5246,
+    "bookId": 171,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5247,
+    "bookId": 135,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5248,
+    "bookId": 182,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5249,
+    "bookId": 188,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5250,
+    "bookId": 190,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5251,
+    "bookId": 184,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5252,
+    "bookId": 201,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5253,
+    "bookId": 144,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5254,
+    "bookId": 108,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5255,
+    "bookId": 100,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5256,
+    "bookId": 68,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5257,
+    "bookId": 187,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5258,
+    "bookId": 114,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5259,
+    "bookId": 170,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5260,
+    "bookId": 128,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5261,
+    "bookId": 124,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5262,
+    "bookId": 180,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5263,
+    "bookId": 163,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5264,
+    "bookId": 195,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5265,
+    "bookId": 151,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5266,
+    "bookId": 175,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5267,
+    "bookId": 200,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5268,
+    "bookId": 136,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5269,
+    "bookId": 62,
+    "readerId": 114,
+    "rating": 1
+  },
+  {
+    "id": 5270,
+    "bookId": 205,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5271,
+    "bookId": 204,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5272,
+    "bookId": 202,
+    "readerId": 114,
+    "rating": 3
+  },
+  {
+    "id": 5273,
+    "bookId": 92,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5274,
+    "bookId": 60,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5275,
+    "bookId": 150,
+    "readerId": 114,
+    "rating": 5
+  },
+  {
+    "id": 5276,
+    "bookId": 94,
+    "readerId": 114,
+    "rating": 4
+  },
+  {
+    "id": 5277,
+    "bookId": 93,
+    "readerId": 114,
+    "rating": 2
+  },
+  {
+    "id": 5278,
+    "bookId": 195,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5279,
+    "bookId": 196,
+    "readerId": 115,
+    "rating": 5
+  },
+  {
+    "id": 5280,
+    "bookId": 112,
+    "readerId": 115,
+    "rating": 3
+  },
+  {
+    "id": 5281,
+    "bookId": 55,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5282,
+    "bookId": 178,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5283,
+    "bookId": 172,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5284,
+    "bookId": 174,
+    "readerId": 115,
+    "rating": 3
+  },
+  {
+    "id": 5285,
+    "bookId": 147,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5286,
+    "bookId": 134,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5287,
+    "bookId": 93,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5288,
+    "bookId": 200,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5289,
+    "bookId": 122,
+    "readerId": 115,
+    "rating": 2
+  },
+  {
+    "id": 5290,
+    "bookId": 138,
+    "readerId": 115,
+    "rating": 3
+  },
+  {
+    "id": 5291,
+    "bookId": 182,
+    "readerId": 115,
+    "rating": 3
+  },
+  {
+    "id": 5292,
+    "bookId": 83,
+    "readerId": 115,
+    "rating": 2
+  },
+  {
+    "id": 5293,
+    "bookId": 49,
+    "readerId": 115,
+    "rating": 4
+  },
+  {
+    "id": 5294,
+    "bookId": 60,
+    "readerId": 116,
+    "rating": 3
+  },
+  {
+    "id": 5295,
+    "bookId": 173,
+    "readerId": 116,
+    "rating": 3
+  },
+  {
+    "id": 5296,
+    "bookId": 64,
+    "readerId": 116,
+    "rating": 2
+  },
+  {
+    "id": 5297,
+    "bookId": 59,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5298,
+    "bookId": 71,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5299,
+    "bookId": 51,
+    "readerId": 116,
+    "rating": 3
+  },
+  {
+    "id": 5300,
+    "bookId": 82,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5301,
+    "bookId": 83,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5302,
+    "bookId": 34,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5303,
+    "bookId": 91,
+    "readerId": 116,
+    "rating": 3
+  },
+  {
+    "id": 5304,
+    "bookId": 87,
+    "readerId": 116,
+    "rating": 5
+  },
+  {
+    "id": 5305,
+    "bookId": 200,
+    "readerId": 116,
+    "rating": 3
+  },
+  {
+    "id": 5306,
+    "bookId": 54,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5307,
+    "bookId": 52,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5308,
+    "bookId": 79,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5309,
+    "bookId": 192,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5310,
+    "bookId": 4,
+    "readerId": 116,
+    "rating": 1
+  },
+  {
+    "id": 5311,
+    "bookId": 84,
+    "readerId": 116,
+    "rating": 1
+  },
+  {
+    "id": 5312,
+    "bookId": 66,
+    "readerId": 116,
+    "rating": 5
+  },
+  {
+    "id": 5313,
+    "bookId": 85,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5314,
+    "bookId": 68,
+    "readerId": 116,
+    "rating": 5
+  },
+  {
+    "id": 5315,
+    "bookId": 19,
+    "readerId": 116,
+    "rating": 5
+  },
+  {
+    "id": 5316,
+    "bookId": 81,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5317,
+    "bookId": 53,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5318,
+    "bookId": 7,
+    "readerId": 116,
+    "rating": 2
+  },
+  {
+    "id": 5319,
+    "bookId": 58,
+    "readerId": 116,
+    "rating": 3
+  },
+  {
+    "id": 5320,
+    "bookId": 56,
+    "readerId": 116,
+    "rating": 5
+  },
+  {
+    "id": 5321,
+    "bookId": 90,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5322,
+    "bookId": 77,
+    "readerId": 116,
+    "rating": 3
+  },
+  {
+    "id": 5323,
+    "bookId": 92,
+    "readerId": 116,
+    "rating": 5
+  },
+  {
+    "id": 5324,
+    "bookId": 80,
+    "readerId": 116,
+    "rating": 5
+  },
+  {
+    "id": 5325,
+    "bookId": 42,
+    "readerId": 116,
+    "rating": 1
+  },
+  {
+    "id": 5326,
+    "bookId": 136,
+    "readerId": 116,
+    "rating": 4
+  },
+  {
+    "id": 5327,
+    "bookId": 49,
+    "readerId": 116,
+    "rating": 2
+  },
+  {
+    "id": 5328,
+    "bookId": 51,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5329,
+    "bookId": 197,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5330,
+    "bookId": 204,
+    "readerId": 117,
+    "rating": 3
+  },
+  {
+    "id": 5331,
+    "bookId": 192,
+    "readerId": 117,
+    "rating": 2
+  },
+  {
+    "id": 5332,
+    "bookId": 16,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5333,
+    "bookId": 182,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5334,
+    "bookId": 179,
+    "readerId": 117,
+    "rating": 3
+  },
+  {
+    "id": 5335,
+    "bookId": 174,
+    "readerId": 117,
+    "rating": 5
+  },
+  {
+    "id": 5336,
+    "bookId": 199,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5337,
+    "bookId": 114,
+    "readerId": 117,
+    "rating": 3
+  },
+  {
+    "id": 5338,
+    "bookId": 184,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5339,
+    "bookId": 181,
+    "readerId": 117,
+    "rating": 1
+  },
+  {
+    "id": 5340,
+    "bookId": 1,
+    "readerId": 117,
+    "rating": 3
+  },
+  {
+    "id": 5341,
+    "bookId": 169,
+    "readerId": 117,
+    "rating": 5
+  },
+  {
+    "id": 5342,
+    "bookId": 88,
+    "readerId": 117,
+    "rating": 2
+  },
+  {
+    "id": 5343,
+    "bookId": 111,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5344,
+    "bookId": 189,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5345,
+    "bookId": 188,
+    "readerId": 117,
+    "rating": 3
+  },
+  {
+    "id": 5346,
+    "bookId": 206,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5347,
+    "bookId": 134,
+    "readerId": 117,
+    "rating": 1
+  },
+  {
+    "id": 5348,
+    "bookId": 198,
+    "readerId": 117,
+    "rating": 5
+  },
+  {
+    "id": 5349,
+    "bookId": 46,
+    "readerId": 117,
+    "rating": 2
+  },
+  {
+    "id": 5350,
+    "bookId": 4,
+    "readerId": 117,
+    "rating": 3
+  },
+  {
+    "id": 5351,
+    "bookId": 93,
+    "readerId": 117,
+    "rating": 3
+  },
+  {
+    "id": 5352,
+    "bookId": 203,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5353,
+    "bookId": 195,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5354,
+    "bookId": 173,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5355,
+    "bookId": 172,
+    "readerId": 117,
+    "rating": 4
+  },
+  {
+    "id": 5356,
+    "bookId": 23,
+    "readerId": 118,
+    "rating": 5
+  },
+  {
+    "id": 5357,
+    "bookId": 197,
+    "readerId": 118,
+    "rating": 3
+  },
+  {
+    "id": 5358,
+    "bookId": 4,
+    "readerId": 118,
+    "rating": 4
+  },
+  {
+    "id": 5359,
+    "bookId": 6,
+    "readerId": 118,
+    "rating": 4
+  },
+  {
+    "id": 5360,
+    "bookId": 35,
+    "readerId": 118,
+    "rating": 4
+  },
+  {
+    "id": 5361,
+    "bookId": 16,
+    "readerId": 118,
+    "rating": 4
+  },
+  {
+    "id": 5362,
+    "bookId": 30,
+    "readerId": 118,
+    "rating": 4
+  },
+  {
+    "id": 5363,
+    "bookId": 11,
+    "readerId": 118,
+    "rating": 4
+  },
+  {
+    "id": 5364,
+    "bookId": 33,
+    "readerId": 118,
+    "rating": 4
+  },
+  {
+    "id": 5365,
+    "bookId": 17,
+    "readerId": 118,
+    "rating": 1
+  },
+  {
+    "id": 5366,
+    "bookId": 186,
+    "readerId": 119,
+    "rating": 2
+  },
+  {
+    "id": 5367,
+    "bookId": 174,
+    "readerId": 119,
+    "rating": 1
+  },
+  {
+    "id": 5368,
+    "bookId": 96,
+    "readerId": 119,
+    "rating": 5
+  },
+  {
+    "id": 5369,
+    "bookId": 132,
+    "readerId": 119,
+    "rating": 3
+  },
+  {
+    "id": 5370,
+    "bookId": 8,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5371,
+    "bookId": 76,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5372,
+    "bookId": 84,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5373,
+    "bookId": 67,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5374,
+    "bookId": 73,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5375,
+    "bookId": 171,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5376,
+    "bookId": 89,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5377,
+    "bookId": 94,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5378,
+    "bookId": 99,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5379,
+    "bookId": 141,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5380,
+    "bookId": 51,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5381,
+    "bookId": 81,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5382,
+    "bookId": 201,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5383,
+    "bookId": 113,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5384,
+    "bookId": 62,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5385,
+    "bookId": 60,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5386,
+    "bookId": 49,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5387,
+    "bookId": 71,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5388,
+    "bookId": 19,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5389,
+    "bookId": 75,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5390,
+    "bookId": 144,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5391,
+    "bookId": 64,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5392,
+    "bookId": 53,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5393,
+    "bookId": 90,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5394,
+    "bookId": 82,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5395,
+    "bookId": 54,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5396,
+    "bookId": 80,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5397,
+    "bookId": 110,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5398,
+    "bookId": 195,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5399,
+    "bookId": 65,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5400,
+    "bookId": 83,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5401,
+    "bookId": 176,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5402,
+    "bookId": 46,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5403,
+    "bookId": 47,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5404,
+    "bookId": 52,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5405,
+    "bookId": 167,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5406,
+    "bookId": 154,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5407,
+    "bookId": 57,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5408,
+    "bookId": 14,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5409,
+    "bookId": 93,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5410,
+    "bookId": 66,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5411,
+    "bookId": 78,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5412,
+    "bookId": 59,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5413,
+    "bookId": 95,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5414,
+    "bookId": 85,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5415,
+    "bookId": 88,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5416,
+    "bookId": 63,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5417,
+    "bookId": 79,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5418,
+    "bookId": 55,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5419,
+    "bookId": 87,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5420,
+    "bookId": 91,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5421,
+    "bookId": 68,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5422,
+    "bookId": 77,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5423,
+    "bookId": 70,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5424,
+    "bookId": 92,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5425,
+    "bookId": 61,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5426,
+    "bookId": 50,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5427,
+    "bookId": 56,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5428,
+    "bookId": 58,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5429,
+    "bookId": 12,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5430,
+    "bookId": 120,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5431,
+    "bookId": 129,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5432,
+    "bookId": 121,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5433,
+    "bookId": 207,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5434,
+    "bookId": 128,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5435,
+    "bookId": 160,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5436,
+    "bookId": 69,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5437,
+    "bookId": 74,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5438,
+    "bookId": 48,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5439,
+    "bookId": 114,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5440,
+    "bookId": 72,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5441,
+    "bookId": 86,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5442,
+    "bookId": 198,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5443,
+    "bookId": 117,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5444,
+    "bookId": 11,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5445,
+    "bookId": 22,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5446,
+    "bookId": 182,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5447,
+    "bookId": 29,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5448,
+    "bookId": 97,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5449,
+    "bookId": 157,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5450,
+    "bookId": 181,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5451,
+    "bookId": 177,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5452,
+    "bookId": 43,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5453,
+    "bookId": 105,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5454,
+    "bookId": 202,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5455,
+    "bookId": 206,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5456,
+    "bookId": 17,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5457,
+    "bookId": 20,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5458,
+    "bookId": 25,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5459,
+    "bookId": 112,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5460,
+    "bookId": 143,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5461,
+    "bookId": 7,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5462,
+    "bookId": 139,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5463,
+    "bookId": 163,
+    "readerId": 120,
+    "rating": 5
+  },
+  {
+    "id": 5464,
+    "bookId": 10,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5465,
+    "bookId": 196,
+    "readerId": 120,
+    "rating": 1
+  },
+  {
+    "id": 5466,
+    "bookId": 180,
+    "readerId": 120,
+    "rating": 2
+  },
+  {
+    "id": 5467,
+    "bookId": 133,
+    "readerId": 120,
+    "rating": 3
+  },
+  {
+    "id": 5468,
+    "bookId": 187,
+    "readerId": 120,
+    "rating": 4
+  },
+  {
+    "id": 5469,
+    "bookId": 81,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5470,
+    "bookId": 140,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5471,
+    "bookId": 9,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5472,
+    "bookId": 51,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5473,
+    "bookId": 154,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5474,
+    "bookId": 65,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5475,
+    "bookId": 125,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5476,
+    "bookId": 151,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5477,
+    "bookId": 42,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5478,
+    "bookId": 145,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5479,
+    "bookId": 148,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5480,
+    "bookId": 162,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5481,
+    "bookId": 165,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5482,
+    "bookId": 159,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5483,
+    "bookId": 76,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5484,
+    "bookId": 75,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5485,
+    "bookId": 155,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5486,
+    "bookId": 152,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5487,
+    "bookId": 153,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5488,
+    "bookId": 118,
+    "readerId": 121,
+    "rating": 1
+  },
+  {
+    "id": 5489,
+    "bookId": 144,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5490,
+    "bookId": 137,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5491,
+    "bookId": 183,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5492,
+    "bookId": 36,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5493,
+    "bookId": 149,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5494,
+    "bookId": 156,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5495,
+    "bookId": 168,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5496,
+    "bookId": 158,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5497,
+    "bookId": 142,
+    "readerId": 121,
+    "rating": 2
+  },
+  {
+    "id": 5498,
+    "bookId": 73,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5499,
+    "bookId": 92,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5500,
+    "bookId": 160,
+    "readerId": 121,
+    "rating": 2
+  },
+  {
+    "id": 5501,
+    "bookId": 72,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5502,
+    "bookId": 4,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5503,
+    "bookId": 121,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5504,
+    "bookId": 80,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5505,
+    "bookId": 176,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5506,
+    "bookId": 93,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5507,
+    "bookId": 157,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5508,
+    "bookId": 59,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5509,
+    "bookId": 122,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5510,
+    "bookId": 52,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5511,
+    "bookId": 50,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5512,
+    "bookId": 91,
+    "readerId": 121,
+    "rating": 2
+  },
+  {
+    "id": 5513,
+    "bookId": 68,
+    "readerId": 121,
+    "rating": 2
+  },
+  {
+    "id": 5514,
+    "bookId": 136,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5515,
+    "bookId": 87,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5516,
+    "bookId": 82,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5517,
+    "bookId": 150,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5518,
+    "bookId": 95,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5519,
+    "bookId": 163,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5520,
+    "bookId": 102,
+    "readerId": 121,
+    "rating": 2
+  },
+  {
+    "id": 5521,
+    "bookId": 85,
+    "readerId": 121,
+    "rating": 5
+  },
+  {
+    "id": 5522,
+    "bookId": 143,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5523,
+    "bookId": 109,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5524,
+    "bookId": 54,
+    "readerId": 121,
+    "rating": 1
+  },
+  {
+    "id": 5525,
+    "bookId": 147,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5526,
+    "bookId": 74,
+    "readerId": 121,
+    "rating": 4
+  },
+  {
+    "id": 5527,
+    "bookId": 89,
+    "readerId": 121,
+    "rating": 3
+  },
+  {
+    "id": 5528,
+    "bookId": 197,
+    "readerId": 122,
+    "rating": 4
+  },
+  {
+    "id": 5529,
+    "bookId": 17,
+    "readerId": 122,
+    "rating": 3
+  },
+  {
+    "id": 5530,
+    "bookId": 59,
+    "readerId": 122,
+    "rating": 3
+  },
+  {
+    "id": 5531,
+    "bookId": 85,
+    "readerId": 122,
+    "rating": 5
+  },
+  {
+    "id": 5532,
+    "bookId": 82,
+    "readerId": 122,
+    "rating": 4
+  },
+  {
+    "id": 5533,
+    "bookId": 10,
+    "readerId": 122,
+    "rating": 5
+  },
+  {
+    "id": 5534,
+    "bookId": 95,
+    "readerId": 122,
+    "rating": 4
+  },
+  {
+    "id": 5535,
+    "bookId": 46,
+    "readerId": 122,
+    "rating": 2
+  },
+  {
+    "id": 5536,
+    "bookId": 156,
+    "readerId": 122,
+    "rating": 5
+  },
+  {
+    "id": 5537,
+    "bookId": 149,
+    "readerId": 122,
+    "rating": 5
+  },
+  {
+    "id": 5538,
+    "bookId": 146,
+    "readerId": 122,
+    "rating": 4
+  },
+  {
+    "id": 5539,
+    "bookId": 92,
+    "readerId": 122,
+    "rating": 4
+  },
+  {
+    "id": 5540,
+    "bookId": 76,
+    "readerId": 122,
+    "rating": 4
+  },
+  {
+    "id": 5541,
+    "bookId": 55,
+    "readerId": 122,
+    "rating": 2
+  },
+  {
+    "id": 5542,
+    "bookId": 93,
+    "readerId": 122,
+    "rating": 4
+  },
+  {
+    "id": 5543,
+    "bookId": 72,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5544,
+    "bookId": 87,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5545,
+    "bookId": 76,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5546,
+    "bookId": 23,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5547,
+    "bookId": 154,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5548,
+    "bookId": 52,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5549,
+    "bookId": 166,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5550,
+    "bookId": 91,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5551,
+    "bookId": 56,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5552,
+    "bookId": 78,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5553,
+    "bookId": 198,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5554,
+    "bookId": 53,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5555,
+    "bookId": 37,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5556,
+    "bookId": 10,
+    "readerId": 123,
+    "rating": 1
+  },
+  {
+    "id": 5557,
+    "bookId": 61,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5558,
+    "bookId": 85,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5559,
+    "bookId": 148,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5560,
+    "bookId": 3,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5561,
+    "bookId": 157,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5562,
+    "bookId": 94,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5563,
+    "bookId": 74,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5564,
+    "bookId": 39,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5565,
+    "bookId": 112,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5566,
+    "bookId": 115,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5567,
+    "bookId": 82,
+    "readerId": 123,
+    "rating": 1
+  },
+  {
+    "id": 5568,
+    "bookId": 58,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5569,
+    "bookId": 81,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5570,
+    "bookId": 73,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5571,
+    "bookId": 90,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5572,
+    "bookId": 95,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5573,
+    "bookId": 50,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5574,
+    "bookId": 150,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5575,
+    "bookId": 64,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5576,
+    "bookId": 75,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5577,
+    "bookId": 84,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5578,
+    "bookId": 63,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5579,
+    "bookId": 127,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5580,
+    "bookId": 80,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5581,
+    "bookId": 55,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5582,
+    "bookId": 93,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5583,
+    "bookId": 79,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5584,
+    "bookId": 59,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5585,
+    "bookId": 66,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5586,
+    "bookId": 54,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5587,
+    "bookId": 92,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5588,
+    "bookId": 51,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5589,
+    "bookId": 132,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5590,
+    "bookId": 67,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5591,
+    "bookId": 168,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5592,
+    "bookId": 86,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5593,
+    "bookId": 48,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5594,
+    "bookId": 49,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5595,
+    "bookId": 71,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5596,
+    "bookId": 65,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5597,
+    "bookId": 89,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5598,
+    "bookId": 32,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5599,
+    "bookId": 69,
+    "readerId": 123,
+    "rating": 2
+  },
+  {
+    "id": 5600,
+    "bookId": 60,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5601,
+    "bookId": 83,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5602,
+    "bookId": 88,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5603,
+    "bookId": 70,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5604,
+    "bookId": 77,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5605,
+    "bookId": 68,
+    "readerId": 123,
+    "rating": 5
+  },
+  {
+    "id": 5606,
+    "bookId": 57,
+    "readerId": 123,
+    "rating": 3
+  },
+  {
+    "id": 5607,
+    "bookId": 179,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5608,
+    "bookId": 47,
+    "readerId": 123,
+    "rating": 4
+  },
+  {
+    "id": 5609,
+    "bookId": 200,
+    "readerId": 124,
+    "rating": 4
+  },
+  {
+    "id": 5610,
+    "bookId": 204,
+    "readerId": 124,
+    "rating": 4
+  },
+  {
+    "id": 5611,
+    "bookId": 42,
+    "readerId": 124,
+    "rating": 1
+  },
+  {
+    "id": 5612,
+    "bookId": 180,
+    "readerId": 124,
+    "rating": 4
+  },
+  {
+    "id": 5613,
+    "bookId": 178,
+    "readerId": 124,
+    "rating": 4
+  },
+  {
+    "id": 5614,
+    "bookId": 196,
+    "readerId": 124,
+    "rating": 3
+  },
+  {
+    "id": 5615,
+    "bookId": 128,
+    "readerId": 124,
+    "rating": 5
+  },
+  {
+    "id": 5616,
+    "bookId": 179,
+    "readerId": 124,
+    "rating": 4
+  },
+  {
+    "id": 5617,
+    "bookId": 181,
+    "readerId": 124,
+    "rating": 5
+  },
+  {
+    "id": 5618,
+    "bookId": 183,
+    "readerId": 124,
+    "rating": 4
+  },
+  {
+    "id": 5619,
+    "bookId": 182,
+    "readerId": 124,
+    "rating": 4
+  },
+  {
+    "id": 5620,
+    "bookId": 177,
+    "readerId": 124,
+    "rating": 1
+  },
+  {
+    "id": 5621,
+    "bookId": 154,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5622,
+    "bookId": 5,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5623,
+    "bookId": 34,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5624,
+    "bookId": 22,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5625,
+    "bookId": 43,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5626,
+    "bookId": 45,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5627,
+    "bookId": 31,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5628,
+    "bookId": 95,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5629,
+    "bookId": 23,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5630,
+    "bookId": 30,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5631,
+    "bookId": 135,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5632,
+    "bookId": 33,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5633,
+    "bookId": 36,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5634,
+    "bookId": 1,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5635,
+    "bookId": 42,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5636,
+    "bookId": 98,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5637,
+    "bookId": 3,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5638,
+    "bookId": 19,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5639,
+    "bookId": 26,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5640,
+    "bookId": 41,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5641,
+    "bookId": 27,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5642,
+    "bookId": 2,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5643,
+    "bookId": 4,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5644,
+    "bookId": 180,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5645,
+    "bookId": 39,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5646,
+    "bookId": 28,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5647,
+    "bookId": 14,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5648,
+    "bookId": 122,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5649,
+    "bookId": 11,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5650,
+    "bookId": 124,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5651,
+    "bookId": 10,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5652,
+    "bookId": 46,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5653,
+    "bookId": 148,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5654,
+    "bookId": 15,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5655,
+    "bookId": 12,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5656,
+    "bookId": 62,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5657,
+    "bookId": 84,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5658,
+    "bookId": 18,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5659,
+    "bookId": 13,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5660,
+    "bookId": 16,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5661,
+    "bookId": 37,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5662,
+    "bookId": 104,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5663,
+    "bookId": 32,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5664,
+    "bookId": 35,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5665,
+    "bookId": 38,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5666,
+    "bookId": 197,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5667,
+    "bookId": 21,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5668,
+    "bookId": 40,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5669,
+    "bookId": 85,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5670,
+    "bookId": 20,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5671,
+    "bookId": 206,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5672,
+    "bookId": 47,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5673,
+    "bookId": 7,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5674,
+    "bookId": 17,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5675,
+    "bookId": 133,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5676,
+    "bookId": 25,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5677,
+    "bookId": 9,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5678,
+    "bookId": 6,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5679,
+    "bookId": 8,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5680,
+    "bookId": 29,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5681,
+    "bookId": 24,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5682,
+    "bookId": 118,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5683,
+    "bookId": 44,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5684,
+    "bookId": 54,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5685,
+    "bookId": 134,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5686,
+    "bookId": 204,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5687,
+    "bookId": 203,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5688,
+    "bookId": 178,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5689,
+    "bookId": 50,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5690,
+    "bookId": 103,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5691,
+    "bookId": 157,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5692,
+    "bookId": 108,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5693,
+    "bookId": 126,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5694,
+    "bookId": 111,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5695,
+    "bookId": 112,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5696,
+    "bookId": 165,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5697,
+    "bookId": 99,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5698,
+    "bookId": 114,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5699,
+    "bookId": 109,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5700,
+    "bookId": 181,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5701,
+    "bookId": 168,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5702,
+    "bookId": 183,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5703,
+    "bookId": 74,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5704,
+    "bookId": 166,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5705,
+    "bookId": 105,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5706,
+    "bookId": 171,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5707,
+    "bookId": 161,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5708,
+    "bookId": 97,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5709,
+    "bookId": 190,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5710,
+    "bookId": 51,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5711,
+    "bookId": 64,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5712,
+    "bookId": 191,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5713,
+    "bookId": 205,
+    "readerId": 125,
+    "rating": 5
+  },
+  {
+    "id": 5714,
+    "bookId": 198,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5715,
+    "bookId": 65,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5716,
+    "bookId": 195,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5717,
+    "bookId": 81,
+    "readerId": 125,
+    "rating": 2
+  },
+  {
+    "id": 5718,
+    "bookId": 184,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5719,
+    "bookId": 78,
+    "readerId": 125,
+    "rating": 1
+  },
+  {
+    "id": 5720,
+    "bookId": 90,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5721,
+    "bookId": 130,
+    "readerId": 125,
+    "rating": 4
+  },
+  {
+    "id": 5722,
+    "bookId": 70,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5723,
+    "bookId": 120,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5724,
+    "bookId": 106,
+    "readerId": 125,
+    "rating": 3
+  },
+  {
+    "id": 5725,
+    "bookId": 33,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5726,
+    "bookId": 45,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5727,
+    "bookId": 12,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5728,
+    "bookId": 9,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5729,
+    "bookId": 18,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5730,
+    "bookId": 2,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5731,
+    "bookId": 34,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5732,
+    "bookId": 10,
+    "readerId": 126,
+    "rating": 1
+  },
+  {
+    "id": 5733,
+    "bookId": 99,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5734,
+    "bookId": 25,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5735,
+    "bookId": 172,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5736,
+    "bookId": 129,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5737,
+    "bookId": 1,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5738,
+    "bookId": 122,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5739,
+    "bookId": 193,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5740,
+    "bookId": 120,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5741,
+    "bookId": 29,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5742,
+    "bookId": 40,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5743,
+    "bookId": 14,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5744,
+    "bookId": 24,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5745,
+    "bookId": 32,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5746,
+    "bookId": 35,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5747,
+    "bookId": 128,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5748,
+    "bookId": 36,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5749,
+    "bookId": 7,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5750,
+    "bookId": 44,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5751,
+    "bookId": 92,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5752,
+    "bookId": 42,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5753,
+    "bookId": 69,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5754,
+    "bookId": 31,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5755,
+    "bookId": 16,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5756,
+    "bookId": 20,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5757,
+    "bookId": 19,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5758,
+    "bookId": 37,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5759,
+    "bookId": 8,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5760,
+    "bookId": 28,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5761,
+    "bookId": 125,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5762,
+    "bookId": 30,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5763,
+    "bookId": 168,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5764,
+    "bookId": 41,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5765,
+    "bookId": 13,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5766,
+    "bookId": 56,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5767,
+    "bookId": 87,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5768,
+    "bookId": 106,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5769,
+    "bookId": 43,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5770,
+    "bookId": 46,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5771,
+    "bookId": 76,
+    "readerId": 126,
+    "rating": 1
+  },
+  {
+    "id": 5772,
+    "bookId": 23,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5773,
+    "bookId": 11,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5774,
+    "bookId": 4,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5775,
+    "bookId": 22,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5776,
+    "bookId": 26,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5777,
+    "bookId": 17,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5778,
+    "bookId": 3,
+    "readerId": 126,
+    "rating": 1
+  },
+  {
+    "id": 5779,
+    "bookId": 108,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5780,
+    "bookId": 144,
+    "readerId": 126,
+    "rating": 2
+  },
+  {
+    "id": 5781,
+    "bookId": 21,
+    "readerId": 126,
+    "rating": 3
+  },
+  {
+    "id": 5782,
+    "bookId": 38,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5783,
+    "bookId": 39,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5784,
+    "bookId": 5,
+    "readerId": 126,
+    "rating": 5
+  },
+  {
+    "id": 5785,
+    "bookId": 6,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5786,
+    "bookId": 15,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5787,
+    "bookId": 81,
+    "readerId": 126,
+    "rating": 4
+  },
+  {
+    "id": 5788,
+    "bookId": 20,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5789,
+    "bookId": 148,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5790,
+    "bookId": 151,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5791,
+    "bookId": 160,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5792,
+    "bookId": 72,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5793,
+    "bookId": 85,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5794,
+    "bookId": 93,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5795,
+    "bookId": 57,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5796,
+    "bookId": 54,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5797,
+    "bookId": 75,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5798,
+    "bookId": 146,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5799,
+    "bookId": 81,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5800,
+    "bookId": 102,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5801,
+    "bookId": 52,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5802,
+    "bookId": 32,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5803,
+    "bookId": 157,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5804,
+    "bookId": 82,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5805,
+    "bookId": 89,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5806,
+    "bookId": 74,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5807,
+    "bookId": 67,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5808,
+    "bookId": 159,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5809,
+    "bookId": 65,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5810,
+    "bookId": 187,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5811,
+    "bookId": 51,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5812,
+    "bookId": 202,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5813,
+    "bookId": 59,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5814,
+    "bookId": 143,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5815,
+    "bookId": 63,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5816,
+    "bookId": 90,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5817,
+    "bookId": 92,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5818,
+    "bookId": 122,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5819,
+    "bookId": 116,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5820,
+    "bookId": 161,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5821,
+    "bookId": 87,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5822,
+    "bookId": 158,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5823,
+    "bookId": 147,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5824,
+    "bookId": 165,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5825,
+    "bookId": 179,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5826,
+    "bookId": 152,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5827,
+    "bookId": 76,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5828,
+    "bookId": 142,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5829,
+    "bookId": 149,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5830,
+    "bookId": 33,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5831,
+    "bookId": 145,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5832,
+    "bookId": 144,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5833,
+    "bookId": 155,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5834,
+    "bookId": 153,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5835,
+    "bookId": 164,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5836,
+    "bookId": 83,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5837,
+    "bookId": 166,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5838,
+    "bookId": 198,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5839,
+    "bookId": 95,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5840,
+    "bookId": 167,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5841,
+    "bookId": 140,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5842,
+    "bookId": 28,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5843,
+    "bookId": 168,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5844,
+    "bookId": 196,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5845,
+    "bookId": 132,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5846,
+    "bookId": 48,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5847,
+    "bookId": 150,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5848,
+    "bookId": 73,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5849,
+    "bookId": 154,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5850,
+    "bookId": 80,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5851,
+    "bookId": 136,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5852,
+    "bookId": 61,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5853,
+    "bookId": 141,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5854,
+    "bookId": 163,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5855,
+    "bookId": 162,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5856,
+    "bookId": 156,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5857,
+    "bookId": 199,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5858,
+    "bookId": 133,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5859,
+    "bookId": 129,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5860,
+    "bookId": 30,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5861,
+    "bookId": 131,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5862,
+    "bookId": 4,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5863,
+    "bookId": 1,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5864,
+    "bookId": 7,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5865,
+    "bookId": 19,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5866,
+    "bookId": 127,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5867,
+    "bookId": 3,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5868,
+    "bookId": 55,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5869,
+    "bookId": 112,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5870,
+    "bookId": 205,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5871,
+    "bookId": 197,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5872,
+    "bookId": 8,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5873,
+    "bookId": 44,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5874,
+    "bookId": 64,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5875,
+    "bookId": 66,
+    "readerId": 127,
+    "rating": 4
+  },
+  {
+    "id": 5876,
+    "bookId": 38,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5877,
+    "bookId": 183,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5878,
+    "bookId": 188,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5879,
+    "bookId": 26,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5880,
+    "bookId": 173,
+    "readerId": 127,
+    "rating": 5
+  },
+  {
+    "id": 5881,
+    "bookId": 203,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5882,
+    "bookId": 84,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5883,
+    "bookId": 100,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5884,
+    "bookId": 193,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5885,
+    "bookId": 58,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5886,
+    "bookId": 47,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5887,
+    "bookId": 17,
+    "readerId": 127,
+    "rating": 3
+  },
+  {
+    "id": 5888,
+    "bookId": 42,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5889,
+    "bookId": 108,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5890,
+    "bookId": 177,
+    "readerId": 127,
+    "rating": 1
+  },
+  {
+    "id": 5891,
+    "bookId": 101,
+    "readerId": 127,
+    "rating": 2
+  },
+  {
+    "id": 5892,
+    "bookId": 190,
+    "readerId": 128,
+    "rating": 3
+  },
+  {
+    "id": 5893,
+    "bookId": 106,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5894,
+    "bookId": 120,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5895,
+    "bookId": 165,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5896,
+    "bookId": 119,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5897,
+    "bookId": 108,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5898,
+    "bookId": 129,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5899,
+    "bookId": 117,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5900,
+    "bookId": 101,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5901,
+    "bookId": 138,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5902,
+    "bookId": 115,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5903,
+    "bookId": 113,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5904,
+    "bookId": 128,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5905,
+    "bookId": 164,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5906,
+    "bookId": 77,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5907,
+    "bookId": 111,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5908,
+    "bookId": 126,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5909,
+    "bookId": 124,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5910,
+    "bookId": 103,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5911,
+    "bookId": 123,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5912,
+    "bookId": 104,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5913,
+    "bookId": 145,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5914,
+    "bookId": 134,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5915,
+    "bookId": 122,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5916,
+    "bookId": 136,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5917,
+    "bookId": 131,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5918,
+    "bookId": 7,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5919,
+    "bookId": 110,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5920,
+    "bookId": 125,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5921,
+    "bookId": 137,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5922,
+    "bookId": 109,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5923,
+    "bookId": 133,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5924,
+    "bookId": 141,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5925,
+    "bookId": 105,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5926,
+    "bookId": 127,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5927,
+    "bookId": 59,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5928,
+    "bookId": 112,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5929,
+    "bookId": 118,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5930,
+    "bookId": 92,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5931,
+    "bookId": 98,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5932,
+    "bookId": 180,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5933,
+    "bookId": 114,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5934,
+    "bookId": 163,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5935,
+    "bookId": 130,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5936,
+    "bookId": 142,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5937,
+    "bookId": 79,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5938,
+    "bookId": 82,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5939,
+    "bookId": 97,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5940,
+    "bookId": 135,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5941,
+    "bookId": 121,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5942,
+    "bookId": 102,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5943,
+    "bookId": 3,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5944,
+    "bookId": 107,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5945,
+    "bookId": 132,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5946,
+    "bookId": 67,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5947,
+    "bookId": 50,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5948,
+    "bookId": 94,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5949,
+    "bookId": 99,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5950,
+    "bookId": 100,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5951,
+    "bookId": 96,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5952,
+    "bookId": 35,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5953,
+    "bookId": 41,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5954,
+    "bookId": 139,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5955,
+    "bookId": 43,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5956,
+    "bookId": 9,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5957,
+    "bookId": 116,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5958,
+    "bookId": 188,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5959,
+    "bookId": 26,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5960,
+    "bookId": 184,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5961,
+    "bookId": 56,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5962,
+    "bookId": 197,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5963,
+    "bookId": 181,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5964,
+    "bookId": 5,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5965,
+    "bookId": 157,
+    "readerId": 129,
+    "rating": 5
+  },
+  {
+    "id": 5966,
+    "bookId": 40,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5967,
+    "bookId": 45,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5968,
+    "bookId": 172,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5969,
+    "bookId": 73,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5970,
+    "bookId": 63,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5971,
+    "bookId": 85,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5972,
+    "bookId": 168,
+    "readerId": 129,
+    "rating": 1
+  },
+  {
+    "id": 5973,
+    "bookId": 160,
+    "readerId": 129,
+    "rating": 3
+  },
+  {
+    "id": 5974,
+    "bookId": 37,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5975,
+    "bookId": 76,
+    "readerId": 129,
+    "rating": 2
+  },
+  {
+    "id": 5976,
+    "bookId": 140,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5977,
+    "bookId": 48,
+    "readerId": 129,
+    "rating": 4
+  },
+  {
+    "id": 5978,
+    "bookId": 192,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5979,
+    "bookId": 126,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 5980,
+    "bookId": 109,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5981,
+    "bookId": 133,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5982,
+    "bookId": 106,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5983,
+    "bookId": 115,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5984,
+    "bookId": 3,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 5985,
+    "bookId": 132,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5986,
+    "bookId": 139,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 5987,
+    "bookId": 125,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 5988,
+    "bookId": 124,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5989,
+    "bookId": 54,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5990,
+    "bookId": 107,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 5991,
+    "bookId": 104,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5992,
+    "bookId": 129,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5993,
+    "bookId": 19,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 5994,
+    "bookId": 175,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 5995,
+    "bookId": 121,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 5996,
+    "bookId": 114,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 5997,
+    "bookId": 122,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 5998,
+    "bookId": 103,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 5999,
+    "bookId": 127,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6000,
+    "bookId": 31,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6001,
+    "bookId": 96,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6002,
+    "bookId": 100,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6003,
+    "bookId": 157,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6004,
+    "bookId": 30,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6005,
+    "bookId": 99,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6006,
+    "bookId": 118,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6007,
+    "bookId": 101,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6008,
+    "bookId": 138,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6009,
+    "bookId": 97,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6010,
+    "bookId": 108,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6011,
+    "bookId": 98,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6012,
+    "bookId": 119,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6013,
+    "bookId": 128,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6014,
+    "bookId": 130,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6015,
+    "bookId": 112,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6016,
+    "bookId": 136,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6017,
+    "bookId": 110,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6018,
+    "bookId": 134,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6019,
+    "bookId": 111,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6020,
+    "bookId": 135,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6021,
+    "bookId": 38,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6022,
+    "bookId": 4,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6023,
+    "bookId": 105,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6024,
+    "bookId": 207,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6025,
+    "bookId": 120,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6026,
+    "bookId": 116,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6027,
+    "bookId": 73,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6028,
+    "bookId": 40,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6029,
+    "bookId": 123,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6030,
+    "bookId": 184,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6031,
+    "bookId": 113,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6032,
+    "bookId": 131,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6033,
+    "bookId": 144,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6034,
+    "bookId": 102,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6035,
+    "bookId": 117,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6036,
+    "bookId": 137,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6037,
+    "bookId": 23,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6038,
+    "bookId": 57,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6039,
+    "bookId": 71,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6040,
+    "bookId": 89,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6041,
+    "bookId": 186,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6042,
+    "bookId": 24,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6043,
+    "bookId": 159,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6044,
+    "bookId": 49,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6045,
+    "bookId": 87,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6046,
+    "bookId": 201,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6047,
+    "bookId": 194,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6048,
+    "bookId": 188,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6049,
+    "bookId": 151,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6050,
+    "bookId": 15,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6051,
+    "bookId": 95,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6052,
+    "bookId": 21,
+    "readerId": 130,
+    "rating": 1
+  },
+  {
+    "id": 6053,
+    "bookId": 28,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6054,
+    "bookId": 197,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6055,
+    "bookId": 158,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6056,
+    "bookId": 70,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6057,
+    "bookId": 48,
+    "readerId": 130,
+    "rating": 4
+  },
+  {
+    "id": 6058,
+    "bookId": 161,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6059,
+    "bookId": 43,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6060,
+    "bookId": 198,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6061,
+    "bookId": 80,
+    "readerId": 130,
+    "rating": 5
+  },
+  {
+    "id": 6062,
+    "bookId": 196,
+    "readerId": 130,
+    "rating": 2
+  },
+  {
+    "id": 6063,
+    "bookId": 46,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6064,
+    "bookId": 62,
+    "readerId": 130,
+    "rating": 3
+  },
+  {
+    "id": 6065,
+    "bookId": 113,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6066,
+    "bookId": 128,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6067,
+    "bookId": 134,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6068,
+    "bookId": 105,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6069,
+    "bookId": 112,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6070,
+    "bookId": 60,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6071,
+    "bookId": 132,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6072,
+    "bookId": 136,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6073,
+    "bookId": 118,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6074,
+    "bookId": 119,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6075,
+    "bookId": 124,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6076,
+    "bookId": 123,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6077,
+    "bookId": 159,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6078,
+    "bookId": 138,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6079,
+    "bookId": 100,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6080,
+    "bookId": 121,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6081,
+    "bookId": 99,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6082,
+    "bookId": 44,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6083,
+    "bookId": 147,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6084,
+    "bookId": 115,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6085,
+    "bookId": 109,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6086,
+    "bookId": 98,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6087,
+    "bookId": 114,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6088,
+    "bookId": 131,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6089,
+    "bookId": 107,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6090,
+    "bookId": 104,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6091,
+    "bookId": 137,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6092,
+    "bookId": 125,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6093,
+    "bookId": 106,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6094,
+    "bookId": 96,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6095,
+    "bookId": 111,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6096,
+    "bookId": 133,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6097,
+    "bookId": 74,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6098,
+    "bookId": 135,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6099,
+    "bookId": 108,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6100,
+    "bookId": 86,
+    "readerId": 131,
+    "rating": 2
+  },
+  {
+    "id": 6101,
+    "bookId": 120,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6102,
+    "bookId": 139,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6103,
+    "bookId": 141,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6104,
+    "bookId": 142,
+    "readerId": 131,
+    "rating": 2
+  },
+  {
+    "id": 6105,
+    "bookId": 101,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6106,
+    "bookId": 204,
+    "readerId": 131,
+    "rating": 2
+  },
+  {
+    "id": 6107,
+    "bookId": 116,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6108,
+    "bookId": 37,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6109,
+    "bookId": 97,
+    "readerId": 131,
+    "rating": 2
+  },
+  {
+    "id": 6110,
+    "bookId": 56,
+    "readerId": 131,
+    "rating": 1
+  },
+  {
+    "id": 6111,
+    "bookId": 88,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6112,
+    "bookId": 102,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6113,
+    "bookId": 164,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6114,
+    "bookId": 61,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6115,
+    "bookId": 68,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6116,
+    "bookId": 129,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6117,
+    "bookId": 103,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6118,
+    "bookId": 72,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6119,
+    "bookId": 110,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6120,
+    "bookId": 117,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6121,
+    "bookId": 126,
+    "readerId": 131,
+    "rating": 4
+  },
+  {
+    "id": 6122,
+    "bookId": 130,
+    "readerId": 131,
+    "rating": 5
+  },
+  {
+    "id": 6123,
+    "bookId": 127,
+    "readerId": 131,
+    "rating": 3
+  },
+  {
+    "id": 6124,
+    "bookId": 175,
+    "readerId": 131,
+    "rating": 2
+  },
+  {
+    "id": 6125,
+    "bookId": 19,
+    "readerId": 132,
+    "rating": 3
+  },
+  {
+    "id": 6126,
+    "bookId": 2,
+    "readerId": 132,
+    "rating": 1
+  },
+  {
+    "id": 6127,
+    "bookId": 24,
+    "readerId": 132,
+    "rating": 3
+  },
+  {
+    "id": 6128,
+    "bookId": 98,
+    "readerId": 133,
+    "rating": 5
+  },
+  {
+    "id": 6129,
+    "bookId": 154,
+    "readerId": 133,
+    "rating": 2
+  },
+  {
+    "id": 6130,
+    "bookId": 105,
+    "readerId": 133,
+    "rating": 5
+  },
+  {
+    "id": 6131,
+    "bookId": 103,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6132,
+    "bookId": 124,
+    "readerId": 133,
+    "rating": 3
+  },
+  {
+    "id": 6133,
+    "bookId": 109,
+    "readerId": 133,
+    "rating": 3
+  },
+  {
+    "id": 6134,
+    "bookId": 104,
+    "readerId": 133,
+    "rating": 5
+  },
+  {
+    "id": 6135,
+    "bookId": 40,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6136,
+    "bookId": 117,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6137,
+    "bookId": 114,
+    "readerId": 133,
+    "rating": 5
+  },
+  {
+    "id": 6138,
+    "bookId": 184,
+    "readerId": 133,
+    "rating": 1
+  },
+  {
+    "id": 6139,
+    "bookId": 97,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6140,
+    "bookId": 101,
+    "readerId": 133,
+    "rating": 5
+  },
+  {
+    "id": 6141,
+    "bookId": 172,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6142,
+    "bookId": 118,
+    "readerId": 133,
+    "rating": 1
+  },
+  {
+    "id": 6143,
+    "bookId": 131,
+    "readerId": 133,
+    "rating": 5
+  },
+  {
+    "id": 6144,
+    "bookId": 115,
+    "readerId": 133,
+    "rating": 3
+  },
+  {
+    "id": 6145,
+    "bookId": 136,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6146,
+    "bookId": 125,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6147,
+    "bookId": 138,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6148,
+    "bookId": 173,
+    "readerId": 133,
+    "rating": 2
+  },
+  {
+    "id": 6149,
+    "bookId": 137,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6150,
+    "bookId": 183,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6151,
+    "bookId": 119,
+    "readerId": 133,
+    "rating": 4
+  },
+  {
+    "id": 6152,
+    "bookId": 51,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6153,
+    "bookId": 78,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6154,
+    "bookId": 21,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6155,
+    "bookId": 1,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6156,
+    "bookId": 189,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6157,
+    "bookId": 10,
+    "readerId": 134,
+    "rating": 1
+  },
+  {
+    "id": 6158,
+    "bookId": 118,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6159,
+    "bookId": 7,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6160,
+    "bookId": 94,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6161,
+    "bookId": 149,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6162,
+    "bookId": 84,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6163,
+    "bookId": 3,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6164,
+    "bookId": 43,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6165,
+    "bookId": 28,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6166,
+    "bookId": 36,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6167,
+    "bookId": 31,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6168,
+    "bookId": 20,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6169,
+    "bookId": 178,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6170,
+    "bookId": 9,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6171,
+    "bookId": 12,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6172,
+    "bookId": 132,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6173,
+    "bookId": 37,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6174,
+    "bookId": 8,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6175,
+    "bookId": 85,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6176,
+    "bookId": 39,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6177,
+    "bookId": 155,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6178,
+    "bookId": 90,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6179,
+    "bookId": 29,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6180,
+    "bookId": 4,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6181,
+    "bookId": 45,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6182,
+    "bookId": 126,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6183,
+    "bookId": 154,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6184,
+    "bookId": 30,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6185,
+    "bookId": 40,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6186,
+    "bookId": 38,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6187,
+    "bookId": 147,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6188,
+    "bookId": 44,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6189,
+    "bookId": 184,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6190,
+    "bookId": 15,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6191,
+    "bookId": 11,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6192,
+    "bookId": 5,
+    "readerId": 134,
+    "rating": 1
+  },
+  {
+    "id": 6193,
+    "bookId": 42,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6194,
+    "bookId": 33,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6195,
+    "bookId": 190,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6196,
+    "bookId": 41,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6197,
+    "bookId": 77,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6198,
+    "bookId": 23,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6199,
+    "bookId": 131,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6200,
+    "bookId": 27,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6201,
+    "bookId": 18,
+    "readerId": 134,
+    "rating": 1
+  },
+  {
+    "id": 6202,
+    "bookId": 13,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6203,
+    "bookId": 26,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6204,
+    "bookId": 35,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6205,
+    "bookId": 6,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6206,
+    "bookId": 19,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6207,
+    "bookId": 71,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6208,
+    "bookId": 161,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6209,
+    "bookId": 80,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6210,
+    "bookId": 25,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6211,
+    "bookId": 96,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6212,
+    "bookId": 22,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6213,
+    "bookId": 170,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6214,
+    "bookId": 14,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6215,
+    "bookId": 125,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6216,
+    "bookId": 32,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6217,
+    "bookId": 174,
+    "readerId": 134,
+    "rating": 1
+  },
+  {
+    "id": 6218,
+    "bookId": 145,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6219,
+    "bookId": 188,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6220,
+    "bookId": 17,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6221,
+    "bookId": 73,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6222,
+    "bookId": 24,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6223,
+    "bookId": 86,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6224,
+    "bookId": 34,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6225,
+    "bookId": 2,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6226,
+    "bookId": 173,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6227,
+    "bookId": 200,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6228,
+    "bookId": 202,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6229,
+    "bookId": 16,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6230,
+    "bookId": 46,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6231,
+    "bookId": 98,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6232,
+    "bookId": 70,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6233,
+    "bookId": 117,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6234,
+    "bookId": 133,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6235,
+    "bookId": 159,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6236,
+    "bookId": 74,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6237,
+    "bookId": 204,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6238,
+    "bookId": 79,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6239,
+    "bookId": 106,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6240,
+    "bookId": 199,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6241,
+    "bookId": 52,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6242,
+    "bookId": 99,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6243,
+    "bookId": 179,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6244,
+    "bookId": 134,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6245,
+    "bookId": 104,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6246,
+    "bookId": 192,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6247,
+    "bookId": 48,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6248,
+    "bookId": 177,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6249,
+    "bookId": 129,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6250,
+    "bookId": 176,
+    "readerId": 134,
+    "rating": 4
+  },
+  {
+    "id": 6251,
+    "bookId": 57,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6252,
+    "bookId": 50,
+    "readerId": 134,
+    "rating": 5
+  },
+  {
+    "id": 6253,
+    "bookId": 95,
+    "readerId": 134,
+    "rating": 3
+  },
+  {
+    "id": 6254,
+    "bookId": 115,
+    "readerId": 134,
+    "rating": 2
+  },
+  {
+    "id": 6255,
+    "bookId": 164,
+    "readerId": 134,
+    "rating": 1
+  },
+  {
+    "id": 6256,
+    "bookId": 111,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6257,
+    "bookId": 130,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6258,
+    "bookId": 132,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6259,
+    "bookId": 63,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6260,
+    "bookId": 112,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6261,
+    "bookId": 73,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6262,
+    "bookId": 114,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6263,
+    "bookId": 113,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6264,
+    "bookId": 122,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6265,
+    "bookId": 128,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6266,
+    "bookId": 102,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6267,
+    "bookId": 124,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6268,
+    "bookId": 129,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6269,
+    "bookId": 98,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6270,
+    "bookId": 137,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6271,
+    "bookId": 127,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6272,
+    "bookId": 109,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6273,
+    "bookId": 125,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6274,
+    "bookId": 99,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6275,
+    "bookId": 117,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6276,
+    "bookId": 110,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6277,
+    "bookId": 97,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6278,
+    "bookId": 157,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6279,
+    "bookId": 107,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6280,
+    "bookId": 96,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6281,
+    "bookId": 115,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6282,
+    "bookId": 133,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6283,
+    "bookId": 108,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6284,
+    "bookId": 131,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6285,
+    "bookId": 101,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6286,
+    "bookId": 42,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6287,
+    "bookId": 105,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6288,
+    "bookId": 123,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6289,
+    "bookId": 104,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6290,
+    "bookId": 106,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6291,
+    "bookId": 134,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6292,
+    "bookId": 120,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6293,
+    "bookId": 138,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6294,
+    "bookId": 126,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6295,
+    "bookId": 118,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6296,
+    "bookId": 135,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6297,
+    "bookId": 177,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6298,
+    "bookId": 116,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6299,
+    "bookId": 194,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6300,
+    "bookId": 121,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6301,
+    "bookId": 87,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6302,
+    "bookId": 139,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6303,
+    "bookId": 100,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6304,
+    "bookId": 69,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6305,
+    "bookId": 6,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6306,
+    "bookId": 136,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6307,
+    "bookId": 50,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6308,
+    "bookId": 141,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6309,
+    "bookId": 49,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6310,
+    "bookId": 86,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6311,
+    "bookId": 119,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6312,
+    "bookId": 91,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6313,
+    "bookId": 103,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6314,
+    "bookId": 52,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6315,
+    "bookId": 207,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6316,
+    "bookId": 37,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6317,
+    "bookId": 27,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6318,
+    "bookId": 206,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6319,
+    "bookId": 70,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6320,
+    "bookId": 174,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6321,
+    "bookId": 187,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6322,
+    "bookId": 40,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6323,
+    "bookId": 85,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6324,
+    "bookId": 201,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6325,
+    "bookId": 14,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6326,
+    "bookId": 156,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6327,
+    "bookId": 145,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6328,
+    "bookId": 36,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6329,
+    "bookId": 146,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6330,
+    "bookId": 19,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6331,
+    "bookId": 8,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6332,
+    "bookId": 151,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6333,
+    "bookId": 183,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6334,
+    "bookId": 184,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6335,
+    "bookId": 17,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6336,
+    "bookId": 22,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6337,
+    "bookId": 203,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6338,
+    "bookId": 56,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6339,
+    "bookId": 47,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6340,
+    "bookId": 168,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6341,
+    "bookId": 154,
+    "readerId": 135,
+    "rating": 1
+  },
+  {
+    "id": 6342,
+    "bookId": 150,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6343,
+    "bookId": 88,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6344,
+    "bookId": 72,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6345,
+    "bookId": 93,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6346,
+    "bookId": 148,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6347,
+    "bookId": 202,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6348,
+    "bookId": 58,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6349,
+    "bookId": 62,
+    "readerId": 135,
+    "rating": 5
+  },
+  {
+    "id": 6350,
+    "bookId": 147,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6351,
+    "bookId": 59,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6352,
+    "bookId": 20,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6353,
+    "bookId": 162,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6354,
+    "bookId": 193,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6355,
+    "bookId": 30,
+    "readerId": 135,
+    "rating": 4
+  },
+  {
+    "id": 6356,
+    "bookId": 84,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6357,
+    "bookId": 55,
+    "readerId": 135,
+    "rating": 2
+  },
+  {
+    "id": 6358,
+    "bookId": 195,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6359,
+    "bookId": 78,
+    "readerId": 135,
+    "rating": 3
+  },
+  {
+    "id": 6360,
+    "bookId": 170,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6361,
+    "bookId": 85,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6362,
+    "bookId": 189,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6363,
+    "bookId": 156,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6364,
+    "bookId": 179,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6365,
+    "bookId": 175,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6366,
+    "bookId": 164,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6367,
+    "bookId": 171,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6368,
+    "bookId": 55,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6369,
+    "bookId": 192,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6370,
+    "bookId": 176,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6371,
+    "bookId": 178,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6372,
+    "bookId": 8,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6373,
+    "bookId": 162,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6374,
+    "bookId": 35,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6375,
+    "bookId": 122,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6376,
+    "bookId": 198,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6377,
+    "bookId": 194,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6378,
+    "bookId": 207,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6379,
+    "bookId": 201,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6380,
+    "bookId": 200,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6381,
+    "bookId": 16,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6382,
+    "bookId": 188,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6383,
+    "bookId": 169,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6384,
+    "bookId": 184,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6385,
+    "bookId": 48,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6386,
+    "bookId": 202,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6387,
+    "bookId": 180,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6388,
+    "bookId": 182,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6389,
+    "bookId": 59,
+    "readerId": 136,
+    "rating": 1
+  },
+  {
+    "id": 6390,
+    "bookId": 14,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6391,
+    "bookId": 172,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6392,
+    "bookId": 155,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6393,
+    "bookId": 134,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6394,
+    "bookId": 199,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6395,
+    "bookId": 163,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6396,
+    "bookId": 88,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6397,
+    "bookId": 203,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6398,
+    "bookId": 128,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6399,
+    "bookId": 205,
+    "readerId": 136,
+    "rating": 5
+  },
+  {
+    "id": 6400,
+    "bookId": 187,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6401,
+    "bookId": 195,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6402,
+    "bookId": 86,
+    "readerId": 136,
+    "rating": 1
+  },
+  {
+    "id": 6403,
+    "bookId": 174,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6404,
+    "bookId": 3,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6405,
+    "bookId": 193,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6406,
+    "bookId": 177,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6407,
+    "bookId": 181,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6408,
+    "bookId": 115,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6409,
+    "bookId": 197,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6410,
+    "bookId": 57,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6411,
+    "bookId": 206,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6412,
+    "bookId": 75,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6413,
+    "bookId": 165,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6414,
+    "bookId": 120,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6415,
+    "bookId": 186,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6416,
+    "bookId": 185,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6417,
+    "bookId": 190,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6418,
+    "bookId": 173,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6419,
+    "bookId": 149,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6420,
+    "bookId": 191,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6421,
+    "bookId": 204,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6422,
+    "bookId": 141,
+    "readerId": 136,
+    "rating": 1
+  },
+  {
+    "id": 6423,
+    "bookId": 196,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6424,
+    "bookId": 183,
+    "readerId": 136,
+    "rating": 4
+  },
+  {
+    "id": 6425,
+    "bookId": 96,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6426,
+    "bookId": 5,
+    "readerId": 136,
+    "rating": 1
+  },
+  {
+    "id": 6427,
+    "bookId": 37,
+    "readerId": 136,
+    "rating": 1
+  },
+  {
+    "id": 6428,
+    "bookId": 67,
+    "readerId": 136,
+    "rating": 2
+  },
+  {
+    "id": 6429,
+    "bookId": 91,
+    "readerId": 136,
+    "rating": 3
+  },
+  {
+    "id": 6430,
+    "bookId": 65,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6431,
+    "bookId": 134,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6432,
+    "bookId": 185,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6433,
+    "bookId": 201,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6434,
+    "bookId": 174,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6435,
+    "bookId": 194,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6436,
+    "bookId": 120,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6437,
+    "bookId": 148,
+    "readerId": 137,
+    "rating": 2
+  },
+  {
+    "id": 6438,
+    "bookId": 176,
+    "readerId": 137,
+    "rating": 2
+  },
+  {
+    "id": 6439,
+    "bookId": 182,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6440,
+    "bookId": 187,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6441,
+    "bookId": 184,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6442,
+    "bookId": 20,
+    "readerId": 137,
+    "rating": 2
+  },
+  {
+    "id": 6443,
+    "bookId": 177,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6444,
+    "bookId": 99,
+    "readerId": 137,
+    "rating": 1
+  },
+  {
+    "id": 6445,
+    "bookId": 51,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6446,
+    "bookId": 192,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6447,
+    "bookId": 171,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6448,
+    "bookId": 179,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6449,
+    "bookId": 131,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6450,
+    "bookId": 180,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6451,
+    "bookId": 183,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6452,
+    "bookId": 175,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6453,
+    "bookId": 190,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6454,
+    "bookId": 203,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6455,
+    "bookId": 172,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6456,
+    "bookId": 206,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6457,
+    "bookId": 169,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6458,
+    "bookId": 14,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6459,
+    "bookId": 11,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6460,
+    "bookId": 193,
+    "readerId": 137,
+    "rating": 4
+  },
+  {
+    "id": 6461,
+    "bookId": 173,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6462,
+    "bookId": 186,
+    "readerId": 137,
+    "rating": 1
+  },
+  {
+    "id": 6463,
+    "bookId": 39,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6464,
+    "bookId": 200,
+    "readerId": 137,
+    "rating": 1
+  },
+  {
+    "id": 6465,
+    "bookId": 198,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6466,
+    "bookId": 204,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6467,
+    "bookId": 33,
+    "readerId": 137,
+    "rating": 2
+  },
+  {
+    "id": 6468,
+    "bookId": 202,
+    "readerId": 137,
+    "rating": 3
+  },
+  {
+    "id": 6469,
+    "bookId": 79,
+    "readerId": 137,
+    "rating": 5
+  },
+  {
+    "id": 6470,
+    "bookId": 94,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6471,
+    "bookId": 52,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6472,
+    "bookId": 203,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6473,
+    "bookId": 200,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6474,
+    "bookId": 204,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6475,
+    "bookId": 207,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6476,
+    "bookId": 183,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6477,
+    "bookId": 53,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6478,
+    "bookId": 206,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6479,
+    "bookId": 193,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6480,
+    "bookId": 135,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6481,
+    "bookId": 28,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6482,
+    "bookId": 166,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6483,
+    "bookId": 192,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6484,
+    "bookId": 151,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6485,
+    "bookId": 96,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6486,
+    "bookId": 180,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6487,
+    "bookId": 85,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6488,
+    "bookId": 196,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6489,
+    "bookId": 173,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6490,
+    "bookId": 178,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6491,
+    "bookId": 134,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6492,
+    "bookId": 72,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6493,
+    "bookId": 191,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6494,
+    "bookId": 188,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6495,
+    "bookId": 182,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6496,
+    "bookId": 205,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6497,
+    "bookId": 197,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6498,
+    "bookId": 185,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6499,
+    "bookId": 179,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6500,
+    "bookId": 14,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6501,
+    "bookId": 170,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6502,
+    "bookId": 184,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6503,
+    "bookId": 91,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6504,
+    "bookId": 61,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6505,
+    "bookId": 177,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6506,
+    "bookId": 122,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6507,
+    "bookId": 198,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6508,
+    "bookId": 186,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6509,
+    "bookId": 201,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6510,
+    "bookId": 104,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6511,
+    "bookId": 171,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6512,
+    "bookId": 181,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6513,
+    "bookId": 174,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6514,
+    "bookId": 190,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6515,
+    "bookId": 189,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6516,
+    "bookId": 156,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6517,
+    "bookId": 176,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6518,
+    "bookId": 195,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6519,
+    "bookId": 169,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6520,
+    "bookId": 194,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6521,
+    "bookId": 30,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6522,
+    "bookId": 202,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6523,
+    "bookId": 199,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6524,
+    "bookId": 172,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6525,
+    "bookId": 175,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6526,
+    "bookId": 187,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6527,
+    "bookId": 71,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6528,
+    "bookId": 76,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6529,
+    "bookId": 22,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6530,
+    "bookId": 147,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6531,
+    "bookId": 113,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6532,
+    "bookId": 160,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6533,
+    "bookId": 164,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6534,
+    "bookId": 167,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6535,
+    "bookId": 161,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6536,
+    "bookId": 10,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6537,
+    "bookId": 123,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6538,
+    "bookId": 87,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6539,
+    "bookId": 79,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6540,
+    "bookId": 43,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6541,
+    "bookId": 165,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6542,
+    "bookId": 92,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6543,
+    "bookId": 146,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6544,
+    "bookId": 106,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6545,
+    "bookId": 102,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6546,
+    "bookId": 158,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6547,
+    "bookId": 138,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6548,
+    "bookId": 2,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6549,
+    "bookId": 128,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6550,
+    "bookId": 153,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6551,
+    "bookId": 9,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6552,
+    "bookId": 116,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6553,
+    "bookId": 37,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6554,
+    "bookId": 17,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6555,
+    "bookId": 16,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6556,
+    "bookId": 15,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6557,
+    "bookId": 73,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6558,
+    "bookId": 39,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6559,
+    "bookId": 131,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6560,
+    "bookId": 75,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6561,
+    "bookId": 74,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6562,
+    "bookId": 121,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6563,
+    "bookId": 78,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6564,
+    "bookId": 24,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6565,
+    "bookId": 40,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6566,
+    "bookId": 136,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6567,
+    "bookId": 95,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6568,
+    "bookId": 99,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6569,
+    "bookId": 132,
+    "readerId": 138,
+    "rating": 1
+  },
+  {
+    "id": 6570,
+    "bookId": 21,
+    "readerId": 138,
+    "rating": 3
+  },
+  {
+    "id": 6571,
+    "bookId": 31,
+    "readerId": 138,
+    "rating": 2
+  },
+  {
+    "id": 6572,
+    "bookId": 129,
+    "readerId": 138,
+    "rating": 4
+  },
+  {
+    "id": 6573,
+    "bookId": 18,
+    "readerId": 138,
+    "rating": 5
+  },
+  {
+    "id": 6574,
+    "bookId": 198,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6575,
+    "bookId": 68,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6576,
+    "bookId": 147,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6577,
+    "bookId": 66,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6578,
+    "bookId": 1,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6579,
+    "bookId": 181,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6580,
+    "bookId": 119,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6581,
+    "bookId": 90,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6582,
+    "bookId": 178,
+    "readerId": 139,
+    "rating": 1
+  },
+  {
+    "id": 6583,
+    "bookId": 62,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6584,
+    "bookId": 65,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6585,
+    "bookId": 91,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6586,
+    "bookId": 123,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6587,
+    "bookId": 93,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6588,
+    "bookId": 115,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6589,
+    "bookId": 51,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6590,
+    "bookId": 83,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6591,
+    "bookId": 80,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6592,
+    "bookId": 78,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6593,
+    "bookId": 45,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6594,
+    "bookId": 17,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6595,
+    "bookId": 67,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6596,
+    "bookId": 84,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6597,
+    "bookId": 196,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6598,
+    "bookId": 81,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6599,
+    "bookId": 73,
+    "readerId": 139,
+    "rating": 1
+  },
+  {
+    "id": 6600,
+    "bookId": 70,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6601,
+    "bookId": 194,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6602,
+    "bookId": 48,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6603,
+    "bookId": 55,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6604,
+    "bookId": 100,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6605,
+    "bookId": 72,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6606,
+    "bookId": 105,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6607,
+    "bookId": 57,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6608,
+    "bookId": 60,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6609,
+    "bookId": 39,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6610,
+    "bookId": 49,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6611,
+    "bookId": 87,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6612,
+    "bookId": 56,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6613,
+    "bookId": 52,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6614,
+    "bookId": 36,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6615,
+    "bookId": 159,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6616,
+    "bookId": 161,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6617,
+    "bookId": 206,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6618,
+    "bookId": 92,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6619,
+    "bookId": 53,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6620,
+    "bookId": 69,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6621,
+    "bookId": 58,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6622,
+    "bookId": 88,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6623,
+    "bookId": 86,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6624,
+    "bookId": 94,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6625,
+    "bookId": 47,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6626,
+    "bookId": 75,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6627,
+    "bookId": 122,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6628,
+    "bookId": 26,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6629,
+    "bookId": 95,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6630,
+    "bookId": 50,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6631,
+    "bookId": 127,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6632,
+    "bookId": 63,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6633,
+    "bookId": 54,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6634,
+    "bookId": 71,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6635,
+    "bookId": 19,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6636,
+    "bookId": 89,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6637,
+    "bookId": 59,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6638,
+    "bookId": 76,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6639,
+    "bookId": 82,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6640,
+    "bookId": 61,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6641,
+    "bookId": 170,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6642,
+    "bookId": 32,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6643,
+    "bookId": 134,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6644,
+    "bookId": 77,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6645,
+    "bookId": 74,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6646,
+    "bookId": 85,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6647,
+    "bookId": 174,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6648,
+    "bookId": 79,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6649,
+    "bookId": 64,
+    "readerId": 139,
+    "rating": 1
+  },
+  {
+    "id": 6650,
+    "bookId": 18,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6651,
+    "bookId": 34,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6652,
+    "bookId": 150,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6653,
+    "bookId": 171,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6654,
+    "bookId": 149,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6655,
+    "bookId": 152,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6656,
+    "bookId": 12,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6657,
+    "bookId": 27,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6658,
+    "bookId": 189,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6659,
+    "bookId": 110,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6660,
+    "bookId": 21,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6661,
+    "bookId": 154,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6662,
+    "bookId": 2,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6663,
+    "bookId": 186,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6664,
+    "bookId": 101,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6665,
+    "bookId": 97,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6666,
+    "bookId": 162,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6667,
+    "bookId": 30,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6668,
+    "bookId": 139,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6669,
+    "bookId": 203,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6670,
+    "bookId": 143,
+    "readerId": 139,
+    "rating": 5
+  },
+  {
+    "id": 6671,
+    "bookId": 25,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6672,
+    "bookId": 3,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6673,
+    "bookId": 191,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6674,
+    "bookId": 117,
+    "readerId": 139,
+    "rating": 2
+  },
+  {
+    "id": 6675,
+    "bookId": 24,
+    "readerId": 139,
+    "rating": 3
+  },
+  {
+    "id": 6676,
+    "bookId": 114,
+    "readerId": 139,
+    "rating": 4
+  },
+  {
+    "id": 6677,
+    "bookId": 156,
+    "readerId": 139,
+    "rating": 1
+  },
+  {
+    "id": 6678,
+    "bookId": 6,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6679,
+    "bookId": 71,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6680,
+    "bookId": 87,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6681,
+    "bookId": 194,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6682,
+    "bookId": 115,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6683,
+    "bookId": 52,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6684,
+    "bookId": 57,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6685,
+    "bookId": 186,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6686,
+    "bookId": 172,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6687,
+    "bookId": 62,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6688,
+    "bookId": 56,
+    "readerId": 140,
+    "rating": 1
+  },
+  {
+    "id": 6689,
+    "bookId": 49,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6690,
+    "bookId": 73,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6691,
+    "bookId": 84,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6692,
+    "bookId": 65,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6693,
+    "bookId": 51,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6694,
+    "bookId": 90,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6695,
+    "bookId": 204,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6696,
+    "bookId": 72,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6697,
+    "bookId": 88,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6698,
+    "bookId": 39,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6699,
+    "bookId": 95,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6700,
+    "bookId": 3,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6701,
+    "bookId": 70,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6702,
+    "bookId": 91,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6703,
+    "bookId": 166,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6704,
+    "bookId": 48,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6705,
+    "bookId": 77,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6706,
+    "bookId": 107,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6707,
+    "bookId": 102,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6708,
+    "bookId": 66,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6709,
+    "bookId": 55,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6710,
+    "bookId": 138,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6711,
+    "bookId": 78,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6712,
+    "bookId": 75,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6713,
+    "bookId": 53,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6714,
+    "bookId": 147,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6715,
+    "bookId": 86,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6716,
+    "bookId": 63,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6717,
+    "bookId": 82,
+    "readerId": 140,
+    "rating": 1
+  },
+  {
+    "id": 6718,
+    "bookId": 60,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6719,
+    "bookId": 74,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6720,
+    "bookId": 40,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6721,
+    "bookId": 61,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6722,
+    "bookId": 47,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6723,
+    "bookId": 79,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6724,
+    "bookId": 58,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6725,
+    "bookId": 64,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6726,
+    "bookId": 94,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6727,
+    "bookId": 67,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6728,
+    "bookId": 69,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6729,
+    "bookId": 89,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6730,
+    "bookId": 93,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6731,
+    "bookId": 92,
+    "readerId": 140,
+    "rating": 3
+  },
+  {
+    "id": 6732,
+    "bookId": 68,
+    "readerId": 140,
+    "rating": 2
+  },
+  {
+    "id": 6733,
+    "bookId": 76,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6734,
+    "bookId": 19,
+    "readerId": 140,
+    "rating": 1
+  },
+  {
+    "id": 6735,
+    "bookId": 50,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6736,
+    "bookId": 59,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6737,
+    "bookId": 80,
+    "readerId": 140,
+    "rating": 5
+  },
+  {
+    "id": 6738,
+    "bookId": 42,
+    "readerId": 140,
+    "rating": 4
+  },
+  {
+    "id": 6739,
+    "bookId": 121,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6740,
+    "bookId": 193,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6741,
+    "bookId": 99,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6742,
+    "bookId": 145,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6743,
+    "bookId": 45,
+    "readerId": 141,
+    "rating": 1
+  },
+  {
+    "id": 6744,
+    "bookId": 198,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6745,
+    "bookId": 139,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6746,
+    "bookId": 113,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6747,
+    "bookId": 125,
+    "readerId": 141,
+    "rating": 1
+  },
+  {
+    "id": 6748,
+    "bookId": 207,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6749,
+    "bookId": 124,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6750,
+    "bookId": 120,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6751,
+    "bookId": 96,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6752,
+    "bookId": 109,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6753,
+    "bookId": 101,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6754,
+    "bookId": 55,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6755,
+    "bookId": 131,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6756,
+    "bookId": 115,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6757,
+    "bookId": 110,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6758,
+    "bookId": 108,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6759,
+    "bookId": 97,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6760,
+    "bookId": 51,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6761,
+    "bookId": 111,
+    "readerId": 141,
+    "rating": 1
+  },
+  {
+    "id": 6762,
+    "bookId": 24,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6763,
+    "bookId": 144,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6764,
+    "bookId": 6,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6765,
+    "bookId": 104,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6766,
+    "bookId": 126,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6767,
+    "bookId": 187,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6768,
+    "bookId": 62,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6769,
+    "bookId": 122,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6770,
+    "bookId": 28,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6771,
+    "bookId": 103,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6772,
+    "bookId": 134,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6773,
+    "bookId": 107,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6774,
+    "bookId": 133,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6775,
+    "bookId": 130,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6776,
+    "bookId": 116,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6777,
+    "bookId": 127,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6778,
+    "bookId": 155,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6779,
+    "bookId": 201,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6780,
+    "bookId": 5,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6781,
+    "bookId": 137,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6782,
+    "bookId": 54,
+    "readerId": 141,
+    "rating": 1
+  },
+  {
+    "id": 6783,
+    "bookId": 112,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6784,
+    "bookId": 135,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6785,
+    "bookId": 129,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6786,
+    "bookId": 132,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6787,
+    "bookId": 123,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6788,
+    "bookId": 119,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6789,
+    "bookId": 136,
+    "readerId": 141,
+    "rating": 1
+  },
+  {
+    "id": 6790,
+    "bookId": 199,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6791,
+    "bookId": 105,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6792,
+    "bookId": 168,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6793,
+    "bookId": 128,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6794,
+    "bookId": 98,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6795,
+    "bookId": 138,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6796,
+    "bookId": 117,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6797,
+    "bookId": 102,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6798,
+    "bookId": 114,
+    "readerId": 141,
+    "rating": 5
+  },
+  {
+    "id": 6799,
+    "bookId": 118,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6800,
+    "bookId": 100,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6801,
+    "bookId": 23,
+    "readerId": 141,
+    "rating": 1
+  },
+  {
+    "id": 6802,
+    "bookId": 106,
+    "readerId": 141,
+    "rating": 4
+  },
+  {
+    "id": 6803,
+    "bookId": 60,
+    "readerId": 141,
+    "rating": 3
+  },
+  {
+    "id": 6804,
+    "bookId": 190,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6805,
+    "bookId": 95,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6806,
+    "bookId": 180,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6807,
+    "bookId": 37,
+    "readerId": 141,
+    "rating": 2
+  },
+  {
+    "id": 6808,
+    "bookId": 139,
+    "readerId": 142,
+    "rating": 5
+  },
+  {
+    "id": 6809,
+    "bookId": 61,
+    "readerId": 142,
+    "rating": 1
+  },
+  {
+    "id": 6810,
+    "bookId": 126,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6811,
+    "bookId": 128,
+    "readerId": 142,
+    "rating": 3
+  },
+  {
+    "id": 6812,
+    "bookId": 99,
+    "readerId": 142,
+    "rating": 2
+  },
+  {
+    "id": 6813,
+    "bookId": 109,
+    "readerId": 142,
+    "rating": 5
+  },
+  {
+    "id": 6814,
+    "bookId": 125,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6815,
+    "bookId": 174,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6816,
+    "bookId": 110,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6817,
+    "bookId": 36,
+    "readerId": 142,
+    "rating": 2
+  },
+  {
+    "id": 6818,
+    "bookId": 179,
+    "readerId": 142,
+    "rating": 3
+  },
+  {
+    "id": 6819,
+    "bookId": 102,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6820,
+    "bookId": 122,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6821,
+    "bookId": 117,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6822,
+    "bookId": 97,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6823,
+    "bookId": 106,
+    "readerId": 142,
+    "rating": 5
+  },
+  {
+    "id": 6824,
+    "bookId": 104,
+    "readerId": 142,
+    "rating": 5
+  },
+  {
+    "id": 6825,
+    "bookId": 115,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6826,
+    "bookId": 114,
+    "readerId": 142,
+    "rating": 5
+  },
+  {
+    "id": 6827,
+    "bookId": 29,
+    "readerId": 142,
+    "rating": 2
+  },
+  {
+    "id": 6828,
+    "bookId": 120,
+    "readerId": 142,
+    "rating": 5
+  },
+  {
+    "id": 6829,
+    "bookId": 67,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6830,
+    "bookId": 134,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6831,
+    "bookId": 130,
+    "readerId": 142,
+    "rating": 3
+  },
+  {
+    "id": 6832,
+    "bookId": 124,
+    "readerId": 142,
+    "rating": 1
+  },
+  {
+    "id": 6833,
+    "bookId": 118,
+    "readerId": 142,
+    "rating": 5
+  },
+  {
+    "id": 6834,
+    "bookId": 111,
+    "readerId": 142,
+    "rating": 3
+  },
+  {
+    "id": 6835,
+    "bookId": 73,
+    "readerId": 142,
+    "rating": 1
+  },
+  {
+    "id": 6836,
+    "bookId": 77,
+    "readerId": 142,
+    "rating": 4
+  },
+  {
+    "id": 6837,
+    "bookId": 169,
+    "readerId": 142,
+    "rating": 2
+  },
+  {
+    "id": 6838,
+    "bookId": 100,
+    "readerId": 142,
+    "rating": 3
+  },
+  {
+    "id": 6839,
+    "bookId": 9,
+    "readerId": 143,
+    "rating": 2
+  },
+  {
+    "id": 6840,
+    "bookId": 59,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6841,
+    "bookId": 105,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6842,
+    "bookId": 30,
+    "readerId": 143,
+    "rating": 2
+  },
+  {
+    "id": 6843,
+    "bookId": 119,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6844,
+    "bookId": 91,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6845,
+    "bookId": 82,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6846,
+    "bookId": 52,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6847,
+    "bookId": 176,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6848,
+    "bookId": 49,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6849,
+    "bookId": 81,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6850,
+    "bookId": 104,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6851,
+    "bookId": 71,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6852,
+    "bookId": 72,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6853,
+    "bookId": 89,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6854,
+    "bookId": 64,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6855,
+    "bookId": 88,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6856,
+    "bookId": 80,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6857,
+    "bookId": 19,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6858,
+    "bookId": 51,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6859,
+    "bookId": 60,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6860,
+    "bookId": 168,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6861,
+    "bookId": 73,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6862,
+    "bookId": 85,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6863,
+    "bookId": 93,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6864,
+    "bookId": 69,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6865,
+    "bookId": 146,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6866,
+    "bookId": 187,
+    "readerId": 143,
+    "rating": 1
+  },
+  {
+    "id": 6867,
+    "bookId": 63,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6868,
+    "bookId": 50,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6869,
+    "bookId": 193,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6870,
+    "bookId": 68,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6871,
+    "bookId": 140,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6872,
+    "bookId": 110,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6873,
+    "bookId": 53,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6874,
+    "bookId": 66,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6875,
+    "bookId": 150,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6876,
+    "bookId": 77,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6877,
+    "bookId": 90,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6878,
+    "bookId": 95,
+    "readerId": 143,
+    "rating": 1
+  },
+  {
+    "id": 6879,
+    "bookId": 58,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6880,
+    "bookId": 46,
+    "readerId": 143,
+    "rating": 2
+  },
+  {
+    "id": 6881,
+    "bookId": 83,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6882,
+    "bookId": 74,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6883,
+    "bookId": 48,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6884,
+    "bookId": 99,
+    "readerId": 143,
+    "rating": 2
+  },
+  {
+    "id": 6885,
+    "bookId": 79,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6886,
+    "bookId": 70,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6887,
+    "bookId": 94,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6888,
+    "bookId": 47,
+    "readerId": 143,
+    "rating": 3
+  },
+  {
+    "id": 6889,
+    "bookId": 92,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6890,
+    "bookId": 54,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6891,
+    "bookId": 87,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6892,
+    "bookId": 76,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6893,
+    "bookId": 196,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6894,
+    "bookId": 78,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6895,
+    "bookId": 55,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6896,
+    "bookId": 188,
+    "readerId": 143,
+    "rating": 2
+  },
+  {
+    "id": 6897,
+    "bookId": 164,
+    "readerId": 143,
+    "rating": 5
+  },
+  {
+    "id": 6898,
+    "bookId": 65,
+    "readerId": 143,
+    "rating": 4
+  },
+  {
+    "id": 6899,
+    "bookId": 41,
+    "readerId": 143,
+    "rating": 1
+  },
+  {
+    "id": 6900,
+    "bookId": 148,
+    "readerId": 144,
+    "rating": 3
+  },
+  {
+    "id": 6901,
+    "bookId": 153,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6902,
+    "bookId": 149,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6903,
+    "bookId": 189,
+    "readerId": 144,
+    "rating": 3
+  },
+  {
+    "id": 6904,
+    "bookId": 46,
+    "readerId": 144,
+    "rating": 3
+  },
+  {
+    "id": 6905,
+    "bookId": 155,
+    "readerId": 144,
+    "rating": 5
+  },
+  {
+    "id": 6906,
+    "bookId": 141,
+    "readerId": 144,
+    "rating": 2
+  },
+  {
+    "id": 6907,
+    "bookId": 152,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6908,
+    "bookId": 151,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6909,
+    "bookId": 158,
+    "readerId": 144,
+    "rating": 5
+  },
+  {
+    "id": 6910,
+    "bookId": 73,
+    "readerId": 144,
+    "rating": 5
+  },
+  {
+    "id": 6911,
+    "bookId": 186,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6912,
+    "bookId": 51,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6913,
+    "bookId": 14,
+    "readerId": 144,
+    "rating": 2
+  },
+  {
+    "id": 6914,
+    "bookId": 116,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6915,
+    "bookId": 146,
+    "readerId": 144,
+    "rating": 2
+  },
+  {
+    "id": 6916,
+    "bookId": 172,
+    "readerId": 144,
+    "rating": 2
+  },
+  {
+    "id": 6917,
+    "bookId": 34,
+    "readerId": 144,
+    "rating": 3
+  },
+  {
+    "id": 6918,
+    "bookId": 163,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6919,
+    "bookId": 111,
+    "readerId": 144,
+    "rating": 2
+  },
+  {
+    "id": 6920,
+    "bookId": 54,
+    "readerId": 144,
+    "rating": 3
+  },
+  {
+    "id": 6921,
+    "bookId": 63,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6922,
+    "bookId": 160,
+    "readerId": 144,
+    "rating": 4
+  },
+  {
+    "id": 6923,
+    "bookId": 134,
+    "readerId": 145,
+    "rating": 3
+  },
+  {
+    "id": 6924,
+    "bookId": 198,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6925,
+    "bookId": 25,
+    "readerId": 145,
+    "rating": 3
+  },
+  {
+    "id": 6926,
+    "bookId": 173,
+    "readerId": 145,
+    "rating": 2
+  },
+  {
+    "id": 6927,
+    "bookId": 159,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6928,
+    "bookId": 207,
+    "readerId": 145,
+    "rating": 3
+  },
+  {
+    "id": 6929,
+    "bookId": 199,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6930,
+    "bookId": 75,
+    "readerId": 145,
+    "rating": 3
+  },
+  {
+    "id": 6931,
+    "bookId": 99,
+    "readerId": 145,
+    "rating": 2
+  },
+  {
+    "id": 6932,
+    "bookId": 180,
+    "readerId": 145,
+    "rating": 3
+  },
+  {
+    "id": 6933,
+    "bookId": 101,
+    "readerId": 145,
+    "rating": 2
+  },
+  {
+    "id": 6934,
+    "bookId": 179,
+    "readerId": 145,
+    "rating": 2
+  },
+  {
+    "id": 6935,
+    "bookId": 170,
+    "readerId": 145,
+    "rating": 1
+  },
+  {
+    "id": 6936,
+    "bookId": 126,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6937,
+    "bookId": 186,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6938,
+    "bookId": 183,
+    "readerId": 145,
+    "rating": 3
+  },
+  {
+    "id": 6939,
+    "bookId": 176,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6940,
+    "bookId": 184,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6941,
+    "bookId": 191,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6942,
+    "bookId": 182,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6943,
+    "bookId": 187,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6944,
+    "bookId": 204,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6945,
+    "bookId": 79,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6946,
+    "bookId": 201,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6947,
+    "bookId": 202,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6948,
+    "bookId": 205,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6949,
+    "bookId": 14,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6950,
+    "bookId": 193,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6951,
+    "bookId": 169,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6952,
+    "bookId": 181,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6953,
+    "bookId": 195,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6954,
+    "bookId": 19,
+    "readerId": 145,
+    "rating": 3
+  },
+  {
+    "id": 6955,
+    "bookId": 22,
+    "readerId": 145,
+    "rating": 1
+  },
+  {
+    "id": 6956,
+    "bookId": 177,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6957,
+    "bookId": 190,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6958,
+    "bookId": 194,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6959,
+    "bookId": 196,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6960,
+    "bookId": 103,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6961,
+    "bookId": 175,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6962,
+    "bookId": 185,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6963,
+    "bookId": 197,
+    "readerId": 145,
+    "rating": 4
+  },
+  {
+    "id": 6964,
+    "bookId": 178,
+    "readerId": 145,
+    "rating": 5
+  },
+  {
+    "id": 6965,
+    "bookId": 83,
+    "readerId": 146,
+    "rating": 4
+  },
+  {
+    "id": 6966,
+    "bookId": 205,
+    "readerId": 146,
+    "rating": 3
+  },
+  {
+    "id": 6967,
+    "bookId": 58,
+    "readerId": 146,
+    "rating": 5
+  },
+  {
+    "id": 6968,
+    "bookId": 144,
+    "readerId": 146,
+    "rating": 2
+  },
+  {
+    "id": 6969,
+    "bookId": 115,
+    "readerId": 146,
+    "rating": 2
+  },
+  {
+    "id": 6970,
+    "bookId": 95,
+    "readerId": 146,
+    "rating": 4
+  },
+  {
+    "id": 6971,
+    "bookId": 72,
+    "readerId": 146,
+    "rating": 4
+  },
+  {
+    "id": 6972,
+    "bookId": 48,
+    "readerId": 146,
+    "rating": 3
+  },
+  {
+    "id": 6973,
+    "bookId": 80,
+    "readerId": 146,
+    "rating": 4
+  },
+  {
+    "id": 6974,
+    "bookId": 91,
+    "readerId": 146,
+    "rating": 1
+  },
+  {
+    "id": 6975,
+    "bookId": 59,
+    "readerId": 146,
+    "rating": 3
+  },
+  {
+    "id": 6976,
+    "bookId": 82,
+    "readerId": 146,
+    "rating": 4
+  },
+  {
+    "id": 6977,
+    "bookId": 50,
+    "readerId": 146,
+    "rating": 4
+  },
+  {
+    "id": 6978,
+    "bookId": 63,
+    "readerId": 146,
+    "rating": 3
+  },
+  {
+    "id": 6979,
+    "bookId": 104,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 6980,
+    "bookId": 102,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6981,
+    "bookId": 189,
+    "readerId": 147,
+    "rating": 2
+  },
+  {
+    "id": 6982,
+    "bookId": 116,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 6983,
+    "bookId": 119,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6984,
+    "bookId": 103,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6985,
+    "bookId": 112,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6986,
+    "bookId": 138,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6987,
+    "bookId": 126,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 6988,
+    "bookId": 41,
+    "readerId": 147,
+    "rating": 1
+  },
+  {
+    "id": 6989,
+    "bookId": 185,
+    "readerId": 147,
+    "rating": 2
+  },
+  {
+    "id": 6990,
+    "bookId": 128,
+    "readerId": 147,
+    "rating": 2
+  },
+  {
+    "id": 6991,
+    "bookId": 117,
+    "readerId": 147,
+    "rating": 1
+  },
+  {
+    "id": 6992,
+    "bookId": 120,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6993,
+    "bookId": 145,
+    "readerId": 147,
+    "rating": 2
+  },
+  {
+    "id": 6994,
+    "bookId": 58,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6995,
+    "bookId": 108,
+    "readerId": 147,
+    "rating": 3
+  },
+  {
+    "id": 6996,
+    "bookId": 167,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6997,
+    "bookId": 106,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 6998,
+    "bookId": 121,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 6999,
+    "bookId": 114,
+    "readerId": 147,
+    "rating": 3
+  },
+  {
+    "id": 7000,
+    "bookId": 115,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 7001,
+    "bookId": 76,
+    "readerId": 147,
+    "rating": 1
+  },
+  {
+    "id": 7002,
+    "bookId": 206,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 7003,
+    "bookId": 43,
+    "readerId": 147,
+    "rating": 3
+  },
+  {
+    "id": 7004,
+    "bookId": 124,
+    "readerId": 147,
+    "rating": 3
+  },
+  {
+    "id": 7005,
+    "bookId": 168,
+    "readerId": 147,
+    "rating": 2
+  },
+  {
+    "id": 7006,
+    "bookId": 99,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 7007,
+    "bookId": 97,
+    "readerId": 147,
+    "rating": 3
+  },
+  {
+    "id": 7008,
+    "bookId": 100,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 7009,
+    "bookId": 110,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 7010,
+    "bookId": 51,
+    "readerId": 147,
+    "rating": 3
+  },
+  {
+    "id": 7011,
+    "bookId": 111,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 7012,
+    "bookId": 101,
+    "readerId": 147,
+    "rating": 4
+  },
+  {
+    "id": 7013,
+    "bookId": 132,
+    "readerId": 147,
+    "rating": 5
+  },
+  {
+    "id": 7014,
+    "bookId": 46,
+    "readerId": 148,
+    "rating": 3
+  },
+  {
+    "id": 7015,
+    "bookId": 85,
+    "readerId": 148,
+    "rating": 4
+  },
+  {
+    "id": 7016,
+    "bookId": 74,
+    "readerId": 148,
+    "rating": 3
+  },
+  {
+    "id": 7017,
+    "bookId": 146,
+    "readerId": 148,
+    "rating": 4
+  },
+  {
+    "id": 7018,
+    "bookId": 109,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7019,
+    "bookId": 116,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7020,
+    "bookId": 124,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7021,
+    "bookId": 190,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7022,
+    "bookId": 147,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7023,
+    "bookId": 100,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7024,
+    "bookId": 140,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7025,
+    "bookId": 5,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7026,
+    "bookId": 94,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7027,
+    "bookId": 128,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7028,
+    "bookId": 138,
+    "readerId": 149,
+    "rating": 1
+  },
+  {
+    "id": 7029,
+    "bookId": 112,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7030,
+    "bookId": 123,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7031,
+    "bookId": 131,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7032,
+    "bookId": 132,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7033,
+    "bookId": 121,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7034,
+    "bookId": 133,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7035,
+    "bookId": 105,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7036,
+    "bookId": 97,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7037,
+    "bookId": 113,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7038,
+    "bookId": 96,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7039,
+    "bookId": 107,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7040,
+    "bookId": 135,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7041,
+    "bookId": 115,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7042,
+    "bookId": 120,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7043,
+    "bookId": 88,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7044,
+    "bookId": 134,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7045,
+    "bookId": 108,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7046,
+    "bookId": 127,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7047,
+    "bookId": 143,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7048,
+    "bookId": 130,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7049,
+    "bookId": 136,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7050,
+    "bookId": 139,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7051,
+    "bookId": 110,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7052,
+    "bookId": 30,
+    "readerId": 149,
+    "rating": 1
+  },
+  {
+    "id": 7053,
+    "bookId": 61,
+    "readerId": 149,
+    "rating": 1
+  },
+  {
+    "id": 7054,
+    "bookId": 79,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7055,
+    "bookId": 98,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7056,
+    "bookId": 101,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7057,
+    "bookId": 49,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7058,
+    "bookId": 125,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7059,
+    "bookId": 114,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7060,
+    "bookId": 103,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7061,
+    "bookId": 122,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7062,
+    "bookId": 126,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7063,
+    "bookId": 117,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7064,
+    "bookId": 38,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7065,
+    "bookId": 80,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7066,
+    "bookId": 119,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7067,
+    "bookId": 111,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7068,
+    "bookId": 129,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7069,
+    "bookId": 137,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7070,
+    "bookId": 102,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7071,
+    "bookId": 99,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7072,
+    "bookId": 106,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7073,
+    "bookId": 55,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7074,
+    "bookId": 118,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7075,
+    "bookId": 104,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7076,
+    "bookId": 58,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7077,
+    "bookId": 19,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7078,
+    "bookId": 91,
+    "readerId": 149,
+    "rating": 1
+  },
+  {
+    "id": 7079,
+    "bookId": 145,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7080,
+    "bookId": 70,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7081,
+    "bookId": 84,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7082,
+    "bookId": 59,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7083,
+    "bookId": 8,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7084,
+    "bookId": 39,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7085,
+    "bookId": 3,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7086,
+    "bookId": 54,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7087,
+    "bookId": 13,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7088,
+    "bookId": 192,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7089,
+    "bookId": 151,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7090,
+    "bookId": 60,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7091,
+    "bookId": 50,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7092,
+    "bookId": 33,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7093,
+    "bookId": 68,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7094,
+    "bookId": 153,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7095,
+    "bookId": 81,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7096,
+    "bookId": 93,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7097,
+    "bookId": 18,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7098,
+    "bookId": 167,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7099,
+    "bookId": 17,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7100,
+    "bookId": 27,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7101,
+    "bookId": 46,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7102,
+    "bookId": 78,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7103,
+    "bookId": 16,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7104,
+    "bookId": 92,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7105,
+    "bookId": 194,
+    "readerId": 149,
+    "rating": 1
+  },
+  {
+    "id": 7106,
+    "bookId": 42,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7107,
+    "bookId": 171,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7108,
+    "bookId": 177,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7109,
+    "bookId": 200,
+    "readerId": 149,
+    "rating": 5
+  },
+  {
+    "id": 7110,
+    "bookId": 44,
+    "readerId": 149,
+    "rating": 3
+  },
+  {
+    "id": 7111,
+    "bookId": 74,
+    "readerId": 149,
+    "rating": 2
+  },
+  {
+    "id": 7112,
+    "bookId": 95,
+    "readerId": 149,
+    "rating": 4
+  },
+  {
+    "id": 7113,
+    "bookId": 48,
+    "readerId": 150,
+    "rating": 3
+  },
+  {
+    "id": 7114,
+    "bookId": 8,
+    "readerId": 150,
+    "rating": 4
+  },
+  {
+    "id": 7115,
+    "bookId": 87,
+    "readerId": 150,
+    "rating": 4
+  },
+  {
+    "id": 7116,
+    "bookId": 118,
+    "readerId": 150,
+    "rating": 4
+  },
+  {
+    "id": 7117,
+    "bookId": 72,
+    "readerId": 150,
+    "rating": 3
+  },
+  {
+    "id": 7118,
+    "bookId": 57,
+    "readerId": 150,
+    "rating": 4
+  },
+  {
+    "id": 7119,
+    "bookId": 69,
+    "readerId": 150,
+    "rating": 5
+  },
+  {
+    "id": 7120,
+    "bookId": 52,
+    "readerId": 150,
+    "rating": 5
+  },
+  {
+    "id": 7121,
+    "bookId": 89,
+    "readerId": 150,
+    "rating": 2
+  },
+  {
+    "id": 7122,
+    "bookId": 127,
+    "readerId": 150,
+    "rating": 2
+  },
+  {
+    "id": 7123,
+    "bookId": 53,
+    "readerId": 150,
+    "rating": 4
+  },
+  {
+    "id": 7124,
+    "bookId": 19,
+    "readerId": 150,
+    "rating": 3
+  },
+  {
+    "id": 7125,
+    "bookId": 88,
+    "readerId": 150,
+    "rating": 5
+  },
+  {
+    "id": 7126,
+    "bookId": 196,
+    "readerId": 150,
+    "rating": 2
+  },
+  {
+    "id": 7127,
+    "bookId": 50,
+    "readerId": 150,
+    "rating": 5
+  },
+  {
+    "id": 7128,
+    "bookId": 131,
+    "readerId": 151,
+    "rating": 3
+  },
+  {
+    "id": 7129,
+    "bookId": 21,
+    "readerId": 151,
+    "rating": 3
+  },
+  {
+    "id": 7130,
+    "bookId": 114,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7131,
+    "bookId": 126,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7132,
+    "bookId": 16,
+    "readerId": 151,
+    "rating": 2
+  },
+  {
+    "id": 7133,
+    "bookId": 98,
+    "readerId": 151,
+    "rating": 5
+  },
+  {
+    "id": 7134,
+    "bookId": 102,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7135,
+    "bookId": 113,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7136,
+    "bookId": 77,
+    "readerId": 151,
+    "rating": 3
+  },
+  {
+    "id": 7137,
+    "bookId": 117,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7138,
+    "bookId": 110,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7139,
+    "bookId": 138,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7140,
+    "bookId": 96,
+    "readerId": 151,
+    "rating": 5
+  },
+  {
+    "id": 7141,
+    "bookId": 47,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7142,
+    "bookId": 192,
+    "readerId": 151,
+    "rating": 3
+  },
+  {
+    "id": 7143,
+    "bookId": 100,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7144,
+    "bookId": 121,
+    "readerId": 151,
+    "rating": 5
+  },
+  {
+    "id": 7145,
+    "bookId": 145,
+    "readerId": 151,
+    "rating": 3
+  },
+  {
+    "id": 7146,
+    "bookId": 99,
+    "readerId": 151,
+    "rating": 5
+  },
+  {
+    "id": 7147,
+    "bookId": 119,
+    "readerId": 151,
+    "rating": 5
+  },
+  {
+    "id": 7148,
+    "bookId": 116,
+    "readerId": 151,
+    "rating": 1
+  },
+  {
+    "id": 7149,
+    "bookId": 37,
+    "readerId": 151,
+    "rating": 3
+  },
+  {
+    "id": 7150,
+    "bookId": 63,
+    "readerId": 151,
+    "rating": 3
+  },
+  {
+    "id": 7151,
+    "bookId": 128,
+    "readerId": 151,
+    "rating": 2
+  },
+  {
+    "id": 7152,
+    "bookId": 137,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7153,
+    "bookId": 124,
+    "readerId": 151,
+    "rating": 4
+  },
+  {
+    "id": 7154,
+    "bookId": 155,
+    "readerId": 151,
+    "rating": 2
+  },
+  {
+    "id": 7155,
+    "bookId": 91,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7156,
+    "bookId": 65,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7157,
+    "bookId": 70,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7158,
+    "bookId": 73,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7159,
+    "bookId": 59,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7160,
+    "bookId": 62,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7161,
+    "bookId": 57,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7162,
+    "bookId": 66,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7163,
+    "bookId": 28,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7164,
+    "bookId": 68,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7165,
+    "bookId": 19,
+    "readerId": 152,
+    "rating": 1
+  },
+  {
+    "id": 7166,
+    "bookId": 61,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7167,
+    "bookId": 64,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7168,
+    "bookId": 77,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7169,
+    "bookId": 51,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7170,
+    "bookId": 69,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7171,
+    "bookId": 58,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7172,
+    "bookId": 93,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7173,
+    "bookId": 88,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7174,
+    "bookId": 78,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7175,
+    "bookId": 48,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7176,
+    "bookId": 13,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7177,
+    "bookId": 83,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7178,
+    "bookId": 89,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7179,
+    "bookId": 71,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7180,
+    "bookId": 49,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7181,
+    "bookId": 147,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7182,
+    "bookId": 54,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7183,
+    "bookId": 95,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7184,
+    "bookId": 84,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7185,
+    "bookId": 82,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7186,
+    "bookId": 86,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7187,
+    "bookId": 72,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7188,
+    "bookId": 109,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7189,
+    "bookId": 85,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7190,
+    "bookId": 53,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7191,
+    "bookId": 67,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7192,
+    "bookId": 60,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7193,
+    "bookId": 56,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7194,
+    "bookId": 96,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7195,
+    "bookId": 87,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7196,
+    "bookId": 47,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7197,
+    "bookId": 38,
+    "readerId": 152,
+    "rating": 1
+  },
+  {
+    "id": 7198,
+    "bookId": 75,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7199,
+    "bookId": 81,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7200,
+    "bookId": 149,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7201,
+    "bookId": 79,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7202,
+    "bookId": 90,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7203,
+    "bookId": 80,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7204,
+    "bookId": 76,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7205,
+    "bookId": 63,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7206,
+    "bookId": 2,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7207,
+    "bookId": 203,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7208,
+    "bookId": 50,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7209,
+    "bookId": 92,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7210,
+    "bookId": 177,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7211,
+    "bookId": 29,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7212,
+    "bookId": 52,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7213,
+    "bookId": 132,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7214,
+    "bookId": 94,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7215,
+    "bookId": 164,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7216,
+    "bookId": 120,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7217,
+    "bookId": 74,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7218,
+    "bookId": 55,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7219,
+    "bookId": 193,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7220,
+    "bookId": 128,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7221,
+    "bookId": 124,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7222,
+    "bookId": 42,
+    "readerId": 152,
+    "rating": 1
+  },
+  {
+    "id": 7223,
+    "bookId": 22,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7224,
+    "bookId": 104,
+    "readerId": 152,
+    "rating": 5
+  },
+  {
+    "id": 7225,
+    "bookId": 181,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7226,
+    "bookId": 172,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7227,
+    "bookId": 151,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7228,
+    "bookId": 197,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7229,
+    "bookId": 165,
+    "readerId": 152,
+    "rating": 1
+  },
+  {
+    "id": 7230,
+    "bookId": 159,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7231,
+    "bookId": 195,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7232,
+    "bookId": 103,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7233,
+    "bookId": 186,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7234,
+    "bookId": 18,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7235,
+    "bookId": 200,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7236,
+    "bookId": 122,
+    "readerId": 152,
+    "rating": 1
+  },
+  {
+    "id": 7237,
+    "bookId": 185,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7238,
+    "bookId": 188,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7239,
+    "bookId": 179,
+    "readerId": 152,
+    "rating": 1
+  },
+  {
+    "id": 7240,
+    "bookId": 126,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7241,
+    "bookId": 119,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7242,
+    "bookId": 97,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7243,
+    "bookId": 101,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7244,
+    "bookId": 7,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7245,
+    "bookId": 34,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7246,
+    "bookId": 162,
+    "readerId": 152,
+    "rating": 1
+  },
+  {
+    "id": 7247,
+    "bookId": 201,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7248,
+    "bookId": 190,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7249,
+    "bookId": 207,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7250,
+    "bookId": 130,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7251,
+    "bookId": 153,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7252,
+    "bookId": 121,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7253,
+    "bookId": 9,
+    "readerId": 152,
+    "rating": 4
+  },
+  {
+    "id": 7254,
+    "bookId": 187,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7255,
+    "bookId": 127,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7256,
+    "bookId": 196,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7257,
+    "bookId": 180,
+    "readerId": 152,
+    "rating": 3
+  },
+  {
+    "id": 7258,
+    "bookId": 110,
+    "readerId": 152,
+    "rating": 2
+  },
+  {
+    "id": 7259,
+    "bookId": 168,
+    "readerId": 153,
+    "rating": 1
+  },
+  {
+    "id": 7260,
+    "bookId": 76,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7261,
+    "bookId": 52,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7262,
+    "bookId": 159,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7263,
+    "bookId": 62,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7264,
+    "bookId": 118,
+    "readerId": 153,
+    "rating": 1
+  },
+  {
+    "id": 7265,
+    "bookId": 60,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7266,
+    "bookId": 53,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7267,
+    "bookId": 93,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7268,
+    "bookId": 90,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7269,
+    "bookId": 112,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7270,
+    "bookId": 4,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7271,
+    "bookId": 85,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7272,
+    "bookId": 67,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7273,
+    "bookId": 94,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7274,
+    "bookId": 65,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7275,
+    "bookId": 73,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7276,
+    "bookId": 22,
+    "readerId": 153,
+    "rating": 1
+  },
+  {
+    "id": 7277,
+    "bookId": 91,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7278,
+    "bookId": 20,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7279,
+    "bookId": 86,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7280,
+    "bookId": 83,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7281,
+    "bookId": 122,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7282,
+    "bookId": 64,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7283,
+    "bookId": 61,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7284,
+    "bookId": 189,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7285,
+    "bookId": 55,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7286,
+    "bookId": 195,
+    "readerId": 153,
+    "rating": 1
+  },
+  {
+    "id": 7287,
+    "bookId": 80,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7288,
+    "bookId": 72,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7289,
+    "bookId": 173,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7290,
+    "bookId": 63,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7291,
+    "bookId": 84,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7292,
+    "bookId": 57,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7293,
+    "bookId": 49,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7294,
+    "bookId": 56,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7295,
+    "bookId": 87,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7296,
+    "bookId": 96,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7297,
+    "bookId": 54,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7298,
+    "bookId": 77,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7299,
+    "bookId": 58,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7300,
+    "bookId": 14,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7301,
+    "bookId": 24,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7302,
+    "bookId": 59,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7303,
+    "bookId": 50,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7304,
+    "bookId": 78,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7305,
+    "bookId": 82,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7306,
+    "bookId": 88,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7307,
+    "bookId": 69,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7308,
+    "bookId": 19,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7309,
+    "bookId": 98,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7310,
+    "bookId": 92,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7311,
+    "bookId": 68,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7312,
+    "bookId": 47,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7313,
+    "bookId": 70,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7314,
+    "bookId": 26,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7315,
+    "bookId": 66,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7316,
+    "bookId": 18,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7317,
+    "bookId": 81,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7318,
+    "bookId": 74,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7319,
+    "bookId": 75,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7320,
+    "bookId": 107,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7321,
+    "bookId": 89,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7322,
+    "bookId": 204,
+    "readerId": 153,
+    "rating": 1
+  },
+  {
+    "id": 7323,
+    "bookId": 71,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7324,
+    "bookId": 79,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7325,
+    "bookId": 95,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7326,
+    "bookId": 48,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7327,
+    "bookId": 51,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7328,
+    "bookId": 27,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7329,
+    "bookId": 44,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7330,
+    "bookId": 125,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7331,
+    "bookId": 138,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7332,
+    "bookId": 154,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7333,
+    "bookId": 205,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7334,
+    "bookId": 43,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7335,
+    "bookId": 178,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7336,
+    "bookId": 117,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7337,
+    "bookId": 151,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7338,
+    "bookId": 11,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7339,
+    "bookId": 6,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7340,
+    "bookId": 1,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7341,
+    "bookId": 174,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7342,
+    "bookId": 39,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7343,
+    "bookId": 162,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7344,
+    "bookId": 45,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7345,
+    "bookId": 100,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7346,
+    "bookId": 9,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7347,
+    "bookId": 182,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7348,
+    "bookId": 141,
+    "readerId": 153,
+    "rating": 5
+  },
+  {
+    "id": 7349,
+    "bookId": 119,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7350,
+    "bookId": 183,
+    "readerId": 153,
+    "rating": 1
+  },
+  {
+    "id": 7351,
+    "bookId": 113,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7352,
+    "bookId": 12,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7353,
+    "bookId": 148,
+    "readerId": 153,
+    "rating": 2
+  },
+  {
+    "id": 7354,
+    "bookId": 13,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7355,
+    "bookId": 120,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7356,
+    "bookId": 133,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7357,
+    "bookId": 202,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7358,
+    "bookId": 164,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7359,
+    "bookId": 177,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7360,
+    "bookId": 126,
+    "readerId": 153,
+    "rating": 4
+  },
+  {
+    "id": 7361,
+    "bookId": 108,
+    "readerId": 153,
+    "rating": 3
+  },
+  {
+    "id": 7362,
+    "bookId": 190,
+    "readerId": 153,
+    "rating": 1
+  },
+  {
+    "id": 7363,
+    "bookId": 33,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7364,
+    "bookId": 112,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7365,
+    "bookId": 1,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7366,
+    "bookId": 5,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7367,
+    "bookId": 146,
+    "readerId": 154,
+    "rating": 2
+  },
+  {
+    "id": 7368,
+    "bookId": 17,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7369,
+    "bookId": 15,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7370,
+    "bookId": 24,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7371,
+    "bookId": 37,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7372,
+    "bookId": 170,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7373,
+    "bookId": 18,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7374,
+    "bookId": 29,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7375,
+    "bookId": 38,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7376,
+    "bookId": 129,
+    "readerId": 154,
+    "rating": 1
+  },
+  {
+    "id": 7377,
+    "bookId": 11,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7378,
+    "bookId": 31,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7379,
+    "bookId": 19,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7380,
+    "bookId": 200,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7381,
+    "bookId": 36,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7382,
+    "bookId": 8,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7383,
+    "bookId": 6,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7384,
+    "bookId": 21,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7385,
+    "bookId": 16,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7386,
+    "bookId": 3,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7387,
+    "bookId": 188,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7388,
+    "bookId": 70,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7389,
+    "bookId": 4,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7390,
+    "bookId": 32,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7391,
+    "bookId": 45,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7392,
+    "bookId": 27,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7393,
+    "bookId": 43,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7394,
+    "bookId": 7,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7395,
+    "bookId": 40,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7396,
+    "bookId": 2,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7397,
+    "bookId": 184,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7398,
+    "bookId": 10,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7399,
+    "bookId": 25,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7400,
+    "bookId": 147,
+    "readerId": 154,
+    "rating": 2
+  },
+  {
+    "id": 7401,
+    "bookId": 42,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7402,
+    "bookId": 22,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7403,
+    "bookId": 35,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7404,
+    "bookId": 23,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7405,
+    "bookId": 12,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7406,
+    "bookId": 122,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7407,
+    "bookId": 9,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7408,
+    "bookId": 67,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7409,
+    "bookId": 20,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7410,
+    "bookId": 14,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7411,
+    "bookId": 157,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7412,
+    "bookId": 93,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7413,
+    "bookId": 46,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7414,
+    "bookId": 65,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7415,
+    "bookId": 50,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7416,
+    "bookId": 194,
+    "readerId": 154,
+    "rating": 1
+  },
+  {
+    "id": 7417,
+    "bookId": 41,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7418,
+    "bookId": 39,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7419,
+    "bookId": 95,
+    "readerId": 154,
+    "rating": 2
+  },
+  {
+    "id": 7420,
+    "bookId": 44,
+    "readerId": 154,
+    "rating": 2
+  },
+  {
+    "id": 7421,
+    "bookId": 30,
+    "readerId": 154,
+    "rating": 2
+  },
+  {
+    "id": 7422,
+    "bookId": 118,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7423,
+    "bookId": 13,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7424,
+    "bookId": 125,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7425,
+    "bookId": 34,
+    "readerId": 154,
+    "rating": 5
+  },
+  {
+    "id": 7426,
+    "bookId": 26,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7427,
+    "bookId": 75,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7428,
+    "bookId": 28,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7429,
+    "bookId": 72,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7430,
+    "bookId": 79,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7431,
+    "bookId": 181,
+    "readerId": 154,
+    "rating": 1
+  },
+  {
+    "id": 7432,
+    "bookId": 186,
+    "readerId": 154,
+    "rating": 4
+  },
+  {
+    "id": 7433,
+    "bookId": 183,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7434,
+    "bookId": 110,
+    "readerId": 154,
+    "rating": 1
+  },
+  {
+    "id": 7435,
+    "bookId": 172,
+    "readerId": 154,
+    "rating": 2
+  },
+  {
+    "id": 7436,
+    "bookId": 132,
+    "readerId": 154,
+    "rating": 3
+  },
+  {
+    "id": 7437,
+    "bookId": 23,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7438,
+    "bookId": 39,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7439,
+    "bookId": 153,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7440,
+    "bookId": 43,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7441,
+    "bookId": 160,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7442,
+    "bookId": 158,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7443,
+    "bookId": 24,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7444,
+    "bookId": 85,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7445,
+    "bookId": 145,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7446,
+    "bookId": 65,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7447,
+    "bookId": 207,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7448,
+    "bookId": 89,
+    "readerId": 155,
+    "rating": 1
+  },
+  {
+    "id": 7449,
+    "bookId": 146,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7450,
+    "bookId": 76,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7451,
+    "bookId": 77,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7452,
+    "bookId": 139,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7453,
+    "bookId": 61,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7454,
+    "bookId": 72,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7455,
+    "bookId": 52,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7456,
+    "bookId": 154,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7457,
+    "bookId": 164,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7458,
+    "bookId": 157,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7459,
+    "bookId": 144,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7460,
+    "bookId": 196,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7461,
+    "bookId": 44,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7462,
+    "bookId": 87,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7463,
+    "bookId": 150,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7464,
+    "bookId": 163,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7465,
+    "bookId": 81,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7466,
+    "bookId": 62,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7467,
+    "bookId": 165,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7468,
+    "bookId": 173,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7469,
+    "bookId": 68,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7470,
+    "bookId": 152,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7471,
+    "bookId": 74,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7472,
+    "bookId": 54,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7473,
+    "bookId": 148,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7474,
+    "bookId": 159,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7475,
+    "bookId": 155,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7476,
+    "bookId": 167,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7477,
+    "bookId": 166,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7478,
+    "bookId": 137,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7479,
+    "bookId": 59,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7480,
+    "bookId": 201,
+    "readerId": 155,
+    "rating": 1
+  },
+  {
+    "id": 7481,
+    "bookId": 93,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7482,
+    "bookId": 82,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7483,
+    "bookId": 75,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7484,
+    "bookId": 51,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7485,
+    "bookId": 162,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7486,
+    "bookId": 168,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7487,
+    "bookId": 3,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7488,
+    "bookId": 55,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7489,
+    "bookId": 143,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7490,
+    "bookId": 123,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7491,
+    "bookId": 182,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7492,
+    "bookId": 141,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7493,
+    "bookId": 90,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7494,
+    "bookId": 151,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7495,
+    "bookId": 161,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7496,
+    "bookId": 80,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7497,
+    "bookId": 140,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7498,
+    "bookId": 46,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7499,
+    "bookId": 178,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7500,
+    "bookId": 56,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7501,
+    "bookId": 149,
+    "readerId": 155,
+    "rating": 1
+  },
+  {
+    "id": 7502,
+    "bookId": 92,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7503,
+    "bookId": 142,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7504,
+    "bookId": 188,
+    "readerId": 155,
+    "rating": 1
+  },
+  {
+    "id": 7505,
+    "bookId": 73,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7506,
+    "bookId": 116,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7507,
+    "bookId": 156,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7508,
+    "bookId": 191,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7509,
+    "bookId": 147,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7510,
+    "bookId": 204,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7511,
+    "bookId": 63,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7512,
+    "bookId": 95,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7513,
+    "bookId": 127,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7514,
+    "bookId": 58,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7515,
+    "bookId": 118,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7516,
+    "bookId": 40,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7517,
+    "bookId": 190,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7518,
+    "bookId": 9,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7519,
+    "bookId": 12,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7520,
+    "bookId": 88,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7521,
+    "bookId": 195,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7522,
+    "bookId": 83,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7523,
+    "bookId": 45,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7524,
+    "bookId": 109,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7525,
+    "bookId": 122,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7526,
+    "bookId": 176,
+    "readerId": 155,
+    "rating": 1
+  },
+  {
+    "id": 7527,
+    "bookId": 47,
+    "readerId": 155,
+    "rating": 4
+  },
+  {
+    "id": 7528,
+    "bookId": 14,
+    "readerId": 155,
+    "rating": 2
+  },
+  {
+    "id": 7529,
+    "bookId": 53,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7530,
+    "bookId": 99,
+    "readerId": 155,
+    "rating": 3
+  },
+  {
+    "id": 7531,
+    "bookId": 11,
+    "readerId": 155,
+    "rating": 5
+  },
+  {
+    "id": 7532,
+    "bookId": 96,
+    "readerId": 156,
+    "rating": 1
+  },
+  {
+    "id": 7533,
+    "bookId": 1,
+    "readerId": 156,
+    "rating": 2
+  },
+  {
+    "id": 7534,
+    "bookId": 183,
+    "readerId": 156,
+    "rating": 4
+  },
+  {
+    "id": 7535,
+    "bookId": 154,
+    "readerId": 156,
+    "rating": 4
+  },
+  {
+    "id": 7536,
+    "bookId": 14,
+    "readerId": 156,
+    "rating": 1
+  },
+  {
+    "id": 7537,
+    "bookId": 176,
+    "readerId": 156,
+    "rating": 2
+  },
+  {
+    "id": 7538,
+    "bookId": 98,
+    "readerId": 156,
+    "rating": 1
+  },
+  {
+    "id": 7539,
+    "bookId": 199,
+    "readerId": 156,
+    "rating": 4
+  },
+  {
+    "id": 7540,
+    "bookId": 204,
+    "readerId": 156,
+    "rating": 4
+  },
+  {
+    "id": 7541,
+    "bookId": 203,
+    "readerId": 156,
+    "rating": 3
+  },
+  {
+    "id": 7542,
+    "bookId": 193,
+    "readerId": 156,
+    "rating": 4
+  },
+  {
+    "id": 7543,
+    "bookId": 139,
+    "readerId": 156,
+    "rating": 2
+  },
+  {
+    "id": 7544,
+    "bookId": 175,
+    "readerId": 156,
+    "rating": 4
+  },
+  {
+    "id": 7545,
+    "bookId": 207,
+    "readerId": 156,
+    "rating": 3
+  },
+  {
+    "id": 7546,
+    "bookId": 205,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7547,
+    "bookId": 84,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7548,
+    "bookId": 186,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7549,
+    "bookId": 189,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7550,
+    "bookId": 187,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7551,
+    "bookId": 185,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7552,
+    "bookId": 196,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7553,
+    "bookId": 147,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7554,
+    "bookId": 177,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7555,
+    "bookId": 199,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7556,
+    "bookId": 202,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7557,
+    "bookId": 173,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7558,
+    "bookId": 14,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7559,
+    "bookId": 203,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7560,
+    "bookId": 87,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7561,
+    "bookId": 200,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7562,
+    "bookId": 174,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7563,
+    "bookId": 191,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7564,
+    "bookId": 184,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7565,
+    "bookId": 172,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7566,
+    "bookId": 136,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7567,
+    "bookId": 181,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7568,
+    "bookId": 171,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7569,
+    "bookId": 183,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7570,
+    "bookId": 201,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7571,
+    "bookId": 182,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7572,
+    "bookId": 198,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7573,
+    "bookId": 175,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7574,
+    "bookId": 62,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7575,
+    "bookId": 56,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7576,
+    "bookId": 195,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7577,
+    "bookId": 179,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7578,
+    "bookId": 178,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7579,
+    "bookId": 204,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7580,
+    "bookId": 192,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7581,
+    "bookId": 165,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7582,
+    "bookId": 197,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7583,
+    "bookId": 188,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7584,
+    "bookId": 194,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7585,
+    "bookId": 156,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7586,
+    "bookId": 176,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7587,
+    "bookId": 5,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7588,
+    "bookId": 193,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7589,
+    "bookId": 108,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7590,
+    "bookId": 134,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7591,
+    "bookId": 170,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7592,
+    "bookId": 190,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7593,
+    "bookId": 27,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7594,
+    "bookId": 11,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7595,
+    "bookId": 72,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7596,
+    "bookId": 206,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7597,
+    "bookId": 71,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7598,
+    "bookId": 107,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7599,
+    "bookId": 169,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7600,
+    "bookId": 207,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7601,
+    "bookId": 180,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7602,
+    "bookId": 75,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7603,
+    "bookId": 21,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7604,
+    "bookId": 60,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7605,
+    "bookId": 49,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7606,
+    "bookId": 20,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7607,
+    "bookId": 94,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7608,
+    "bookId": 154,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7609,
+    "bookId": 167,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7610,
+    "bookId": 64,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7611,
+    "bookId": 110,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7612,
+    "bookId": 15,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7613,
+    "bookId": 36,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7614,
+    "bookId": 133,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7615,
+    "bookId": 122,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7616,
+    "bookId": 61,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7617,
+    "bookId": 123,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7618,
+    "bookId": 41,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7619,
+    "bookId": 30,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7620,
+    "bookId": 128,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7621,
+    "bookId": 162,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7622,
+    "bookId": 163,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7623,
+    "bookId": 38,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7624,
+    "bookId": 43,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7625,
+    "bookId": 17,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7626,
+    "bookId": 80,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7627,
+    "bookId": 70,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7628,
+    "bookId": 146,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7629,
+    "bookId": 131,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7630,
+    "bookId": 127,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7631,
+    "bookId": 109,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7632,
+    "bookId": 95,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7633,
+    "bookId": 115,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7634,
+    "bookId": 125,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7635,
+    "bookId": 16,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7636,
+    "bookId": 82,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7637,
+    "bookId": 86,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7638,
+    "bookId": 121,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7639,
+    "bookId": 81,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7640,
+    "bookId": 42,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7641,
+    "bookId": 139,
+    "readerId": 157,
+    "rating": 5
+  },
+  {
+    "id": 7642,
+    "bookId": 6,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7643,
+    "bookId": 53,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7644,
+    "bookId": 111,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7645,
+    "bookId": 79,
+    "readerId": 157,
+    "rating": 4
+  },
+  {
+    "id": 7646,
+    "bookId": 7,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7647,
+    "bookId": 101,
+    "readerId": 157,
+    "rating": 3
+  },
+  {
+    "id": 7648,
+    "bookId": 23,
+    "readerId": 157,
+    "rating": 2
+  },
+  {
+    "id": 7649,
+    "bookId": 132,
+    "readerId": 157,
+    "rating": 1
+  },
+  {
+    "id": 7650,
+    "bookId": 30,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7651,
+    "bookId": 2,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7652,
+    "bookId": 20,
+    "readerId": 158,
+    "rating": 5
+  },
+  {
+    "id": 7653,
+    "bookId": 16,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7654,
+    "bookId": 61,
+    "readerId": 158,
+    "rating": 3
+  },
+  {
+    "id": 7655,
+    "bookId": 10,
+    "readerId": 158,
+    "rating": 5
+  },
+  {
+    "id": 7656,
+    "bookId": 23,
+    "readerId": 158,
+    "rating": 3
+  },
+  {
+    "id": 7657,
+    "bookId": 34,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7658,
+    "bookId": 15,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7659,
+    "bookId": 17,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7660,
+    "bookId": 8,
+    "readerId": 158,
+    "rating": 2
+  },
+  {
+    "id": 7661,
+    "bookId": 59,
+    "readerId": 158,
+    "rating": 3
+  },
+  {
+    "id": 7662,
+    "bookId": 99,
+    "readerId": 158,
+    "rating": 3
+  },
+  {
+    "id": 7663,
+    "bookId": 184,
+    "readerId": 158,
+    "rating": 2
+  },
+  {
+    "id": 7664,
+    "bookId": 41,
+    "readerId": 158,
+    "rating": 5
+  },
+  {
+    "id": 7665,
+    "bookId": 36,
+    "readerId": 158,
+    "rating": 3
+  },
+  {
+    "id": 7666,
+    "bookId": 4,
+    "readerId": 158,
+    "rating": 1
+  },
+  {
+    "id": 7667,
+    "bookId": 44,
+    "readerId": 158,
+    "rating": 2
+  },
+  {
+    "id": 7668,
+    "bookId": 43,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7669,
+    "bookId": 80,
+    "readerId": 158,
+    "rating": 2
+  },
+  {
+    "id": 7670,
+    "bookId": 31,
+    "readerId": 158,
+    "rating": 4
+  },
+  {
+    "id": 7671,
+    "bookId": 11,
+    "readerId": 158,
+    "rating": 5
+  },
+  {
+    "id": 7672,
+    "bookId": 41,
+    "readerId": 159,
+    "rating": 5
+  },
+  {
+    "id": 7673,
+    "bookId": 31,
+    "readerId": 159,
+    "rating": 5
+  },
+  {
+    "id": 7674,
+    "bookId": 189,
+    "readerId": 159,
+    "rating": 3
+  },
+  {
+    "id": 7675,
+    "bookId": 98,
+    "readerId": 159,
+    "rating": 3
+  },
+  {
+    "id": 7676,
+    "bookId": 6,
+    "readerId": 159,
+    "rating": 2
+  },
+  {
+    "id": 7677,
+    "bookId": 22,
+    "readerId": 159,
+    "rating": 5
+  },
+  {
+    "id": 7678,
+    "bookId": 61,
+    "readerId": 159,
+    "rating": 3
+  },
+  {
+    "id": 7679,
+    "bookId": 15,
+    "readerId": 159,
+    "rating": 5
+  },
+  {
+    "id": 7680,
+    "bookId": 44,
+    "readerId": 159,
+    "rating": 2
+  },
+  {
+    "id": 7681,
+    "bookId": 24,
+    "readerId": 159,
+    "rating": 2
+  },
+  {
+    "id": 7682,
+    "bookId": 148,
+    "readerId": 159,
+    "rating": 4
+  },
+  {
+    "id": 7683,
+    "bookId": 28,
+    "readerId": 159,
+    "rating": 4
+  },
+  {
+    "id": 7684,
+    "bookId": 43,
+    "readerId": 159,
+    "rating": 4
+  },
+  {
+    "id": 7685,
+    "bookId": 107,
+    "readerId": 159,
+    "rating": 2
+  },
+  {
+    "id": 7686,
+    "bookId": 71,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7687,
+    "bookId": 54,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7688,
+    "bookId": 47,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7689,
+    "bookId": 66,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7690,
+    "bookId": 86,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7691,
+    "bookId": 204,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7692,
+    "bookId": 88,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7693,
+    "bookId": 82,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7694,
+    "bookId": 159,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7695,
+    "bookId": 23,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7696,
+    "bookId": 62,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7697,
+    "bookId": 72,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7698,
+    "bookId": 79,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7699,
+    "bookId": 195,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7700,
+    "bookId": 84,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7701,
+    "bookId": 164,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7702,
+    "bookId": 182,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7703,
+    "bookId": 87,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7704,
+    "bookId": 77,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7705,
+    "bookId": 64,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7706,
+    "bookId": 93,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7707,
+    "bookId": 180,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7708,
+    "bookId": 95,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7709,
+    "bookId": 67,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7710,
+    "bookId": 69,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7711,
+    "bookId": 89,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7712,
+    "bookId": 83,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7713,
+    "bookId": 50,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7714,
+    "bookId": 61,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7715,
+    "bookId": 55,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7716,
+    "bookId": 92,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7717,
+    "bookId": 91,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7718,
+    "bookId": 49,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7719,
+    "bookId": 57,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7720,
+    "bookId": 80,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7721,
+    "bookId": 166,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7722,
+    "bookId": 68,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7723,
+    "bookId": 59,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7724,
+    "bookId": 65,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7725,
+    "bookId": 90,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7726,
+    "bookId": 81,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7727,
+    "bookId": 74,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7728,
+    "bookId": 85,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7729,
+    "bookId": 73,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7730,
+    "bookId": 63,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7731,
+    "bookId": 172,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7732,
+    "bookId": 51,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7733,
+    "bookId": 70,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7734,
+    "bookId": 78,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7735,
+    "bookId": 60,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7736,
+    "bookId": 48,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7737,
+    "bookId": 56,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7738,
+    "bookId": 119,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7739,
+    "bookId": 53,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7740,
+    "bookId": 206,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7741,
+    "bookId": 193,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7742,
+    "bookId": 157,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7743,
+    "bookId": 76,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7744,
+    "bookId": 52,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7745,
+    "bookId": 75,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7746,
+    "bookId": 94,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7747,
+    "bookId": 19,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7748,
+    "bookId": 58,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7749,
+    "bookId": 17,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7750,
+    "bookId": 137,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7751,
+    "bookId": 156,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7752,
+    "bookId": 120,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7753,
+    "bookId": 2,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7754,
+    "bookId": 174,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7755,
+    "bookId": 105,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7756,
+    "bookId": 167,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7757,
+    "bookId": 147,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7758,
+    "bookId": 25,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7759,
+    "bookId": 28,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7760,
+    "bookId": 142,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7761,
+    "bookId": 24,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7762,
+    "bookId": 134,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7763,
+    "bookId": 4,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7764,
+    "bookId": 153,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7765,
+    "bookId": 46,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7766,
+    "bookId": 31,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7767,
+    "bookId": 16,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7768,
+    "bookId": 151,
+    "readerId": 160,
+    "rating": 5
+  },
+  {
+    "id": 7769,
+    "bookId": 117,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7770,
+    "bookId": 165,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7771,
+    "bookId": 8,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7772,
+    "bookId": 27,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7773,
+    "bookId": 196,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7774,
+    "bookId": 163,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7775,
+    "bookId": 141,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7776,
+    "bookId": 203,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7777,
+    "bookId": 14,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7778,
+    "bookId": 35,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7779,
+    "bookId": 43,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7780,
+    "bookId": 115,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7781,
+    "bookId": 36,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7782,
+    "bookId": 11,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7783,
+    "bookId": 18,
+    "readerId": 160,
+    "rating": 2
+  },
+  {
+    "id": 7784,
+    "bookId": 201,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7785,
+    "bookId": 171,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7786,
+    "bookId": 116,
+    "readerId": 160,
+    "rating": 4
+  },
+  {
+    "id": 7787,
+    "bookId": 184,
+    "readerId": 160,
+    "rating": 3
+  },
+  {
+    "id": 7788,
+    "bookId": 150,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7789,
+    "bookId": 162,
+    "readerId": 160,
+    "rating": 1
+  },
+  {
+    "id": 7790,
+    "bookId": 196,
+    "readerId": 161,
+    "rating": 4
+  },
+  {
+    "id": 7791,
+    "bookId": 101,
+    "readerId": 161,
+    "rating": 4
+  },
+  {
+    "id": 7792,
+    "bookId": 189,
+    "readerId": 161,
+    "rating": 3
+  },
+  {
+    "id": 7793,
+    "bookId": 142,
+    "readerId": 161,
+    "rating": 3
+  },
+  {
+    "id": 7794,
+    "bookId": 183,
+    "readerId": 161,
+    "rating": 4
+  },
+  {
+    "id": 7795,
+    "bookId": 184,
+    "readerId": 161,
+    "rating": 4
+  },
+  {
+    "id": 7796,
+    "bookId": 65,
+    "readerId": 161,
+    "rating": 3
+  },
+  {
+    "id": 7797,
+    "bookId": 72,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7798,
+    "bookId": 52,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7799,
+    "bookId": 124,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7800,
+    "bookId": 109,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7801,
+    "bookId": 94,
+    "readerId": 162,
+    "rating": 5
+  },
+  {
+    "id": 7802,
+    "bookId": 68,
+    "readerId": 162,
+    "rating": 5
+  },
+  {
+    "id": 7803,
+    "bookId": 74,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7804,
+    "bookId": 76,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7805,
+    "bookId": 62,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7806,
+    "bookId": 113,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7807,
+    "bookId": 60,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7808,
+    "bookId": 67,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7809,
+    "bookId": 56,
+    "readerId": 162,
+    "rating": 5
+  },
+  {
+    "id": 7810,
+    "bookId": 71,
+    "readerId": 162,
+    "rating": 5
+  },
+  {
+    "id": 7811,
+    "bookId": 48,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7812,
+    "bookId": 65,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7813,
+    "bookId": 116,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7814,
+    "bookId": 145,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7815,
+    "bookId": 54,
+    "readerId": 162,
+    "rating": 5
+  },
+  {
+    "id": 7816,
+    "bookId": 120,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7817,
+    "bookId": 63,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7818,
+    "bookId": 206,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7819,
+    "bookId": 91,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7820,
+    "bookId": 80,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7821,
+    "bookId": 18,
+    "readerId": 162,
+    "rating": 1
+  },
+  {
+    "id": 7822,
+    "bookId": 51,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7823,
+    "bookId": 86,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7824,
+    "bookId": 90,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7825,
+    "bookId": 73,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7826,
+    "bookId": 50,
+    "readerId": 162,
+    "rating": 1
+  },
+  {
+    "id": 7827,
+    "bookId": 82,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7828,
+    "bookId": 39,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7829,
+    "bookId": 19,
+    "readerId": 162,
+    "rating": 1
+  },
+  {
+    "id": 7830,
+    "bookId": 85,
+    "readerId": 162,
+    "rating": 5
+  },
+  {
+    "id": 7831,
+    "bookId": 174,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7832,
+    "bookId": 88,
+    "readerId": 162,
+    "rating": 5
+  },
+  {
+    "id": 7833,
+    "bookId": 75,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7834,
+    "bookId": 66,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7835,
+    "bookId": 183,
+    "readerId": 162,
+    "rating": 4
+  },
+  {
+    "id": 7836,
+    "bookId": 58,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7837,
+    "bookId": 130,
+    "readerId": 162,
+    "rating": 2
+  },
+  {
+    "id": 7838,
+    "bookId": 111,
+    "readerId": 162,
+    "rating": 3
+  },
+  {
+    "id": 7839,
+    "bookId": 97,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7840,
+    "bookId": 133,
+    "readerId": 163,
+    "rating": 3
+  },
+  {
+    "id": 7841,
+    "bookId": 58,
+    "readerId": 163,
+    "rating": 1
+  },
+  {
+    "id": 7842,
+    "bookId": 75,
+    "readerId": 163,
+    "rating": 3
+  },
+  {
+    "id": 7843,
+    "bookId": 118,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7844,
+    "bookId": 164,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7845,
+    "bookId": 49,
+    "readerId": 163,
+    "rating": 2
+  },
+  {
+    "id": 7846,
+    "bookId": 63,
+    "readerId": 163,
+    "rating": 3
+  },
+  {
+    "id": 7847,
+    "bookId": 78,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7848,
+    "bookId": 52,
+    "readerId": 163,
+    "rating": 2
+  },
+  {
+    "id": 7849,
+    "bookId": 74,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7850,
+    "bookId": 43,
+    "readerId": 163,
+    "rating": 2
+  },
+  {
+    "id": 7851,
+    "bookId": 5,
+    "readerId": 163,
+    "rating": 3
+  },
+  {
+    "id": 7852,
+    "bookId": 68,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7853,
+    "bookId": 7,
+    "readerId": 163,
+    "rating": 2
+  },
+  {
+    "id": 7854,
+    "bookId": 28,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7855,
+    "bookId": 100,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7856,
+    "bookId": 40,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7857,
+    "bookId": 89,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7858,
+    "bookId": 131,
+    "readerId": 163,
+    "rating": 3
+  },
+  {
+    "id": 7859,
+    "bookId": 56,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7860,
+    "bookId": 67,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7861,
+    "bookId": 64,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7862,
+    "bookId": 96,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7863,
+    "bookId": 30,
+    "readerId": 163,
+    "rating": 3
+  },
+  {
+    "id": 7864,
+    "bookId": 33,
+    "readerId": 163,
+    "rating": 3
+  },
+  {
+    "id": 7865,
+    "bookId": 86,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7866,
+    "bookId": 72,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7867,
+    "bookId": 62,
+    "readerId": 163,
+    "rating": 1
+  },
+  {
+    "id": 7868,
+    "bookId": 48,
+    "readerId": 163,
+    "rating": 5
+  },
+  {
+    "id": 7869,
+    "bookId": 83,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7870,
+    "bookId": 55,
+    "readerId": 163,
+    "rating": 4
+  },
+  {
+    "id": 7871,
+    "bookId": 189,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7872,
+    "bookId": 176,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7873,
+    "bookId": 204,
+    "readerId": 164,
+    "rating": 2
+  },
+  {
+    "id": 7874,
+    "bookId": 140,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7875,
+    "bookId": 199,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7876,
+    "bookId": 68,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7877,
+    "bookId": 37,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7878,
+    "bookId": 188,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7879,
+    "bookId": 203,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7880,
+    "bookId": 134,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7881,
+    "bookId": 201,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7882,
+    "bookId": 194,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7883,
+    "bookId": 191,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7884,
+    "bookId": 7,
+    "readerId": 164,
+    "rating": 1
+  },
+  {
+    "id": 7885,
+    "bookId": 174,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7886,
+    "bookId": 180,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7887,
+    "bookId": 75,
+    "readerId": 164,
+    "rating": 2
+  },
+  {
+    "id": 7888,
+    "bookId": 193,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7889,
+    "bookId": 184,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7890,
+    "bookId": 181,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7891,
+    "bookId": 183,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7892,
+    "bookId": 62,
+    "readerId": 164,
+    "rating": 2
+  },
+  {
+    "id": 7893,
+    "bookId": 173,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7894,
+    "bookId": 205,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7895,
+    "bookId": 179,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7896,
+    "bookId": 175,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7897,
+    "bookId": 182,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7898,
+    "bookId": 136,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7899,
+    "bookId": 200,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7900,
+    "bookId": 20,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7901,
+    "bookId": 14,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7902,
+    "bookId": 49,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7903,
+    "bookId": 190,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7904,
+    "bookId": 178,
+    "readerId": 164,
+    "rating": 1
+  },
+  {
+    "id": 7905,
+    "bookId": 162,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7906,
+    "bookId": 207,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7907,
+    "bookId": 169,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7908,
+    "bookId": 172,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7909,
+    "bookId": 196,
+    "readerId": 164,
+    "rating": 4
+  },
+  {
+    "id": 7910,
+    "bookId": 98,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7911,
+    "bookId": 185,
+    "readerId": 164,
+    "rating": 5
+  },
+  {
+    "id": 7912,
+    "bookId": 170,
+    "readerId": 164,
+    "rating": 3
+  },
+  {
+    "id": 7913,
+    "bookId": 205,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7914,
+    "bookId": 20,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7915,
+    "bookId": 116,
+    "readerId": 165,
+    "rating": 2
+  },
+  {
+    "id": 7916,
+    "bookId": 85,
+    "readerId": 165,
+    "rating": 2
+  },
+  {
+    "id": 7917,
+    "bookId": 113,
+    "readerId": 165,
+    "rating": 3
+  },
+  {
+    "id": 7918,
+    "bookId": 182,
+    "readerId": 165,
+    "rating": 5
+  },
+  {
+    "id": 7919,
+    "bookId": 183,
+    "readerId": 165,
+    "rating": 5
+  },
+  {
+    "id": 7920,
+    "bookId": 1,
+    "readerId": 165,
+    "rating": 3
+  },
+  {
+    "id": 7921,
+    "bookId": 207,
+    "readerId": 165,
+    "rating": 5
+  },
+  {
+    "id": 7922,
+    "bookId": 203,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7923,
+    "bookId": 73,
+    "readerId": 165,
+    "rating": 3
+  },
+  {
+    "id": 7924,
+    "bookId": 197,
+    "readerId": 165,
+    "rating": 5
+  },
+  {
+    "id": 7925,
+    "bookId": 80,
+    "readerId": 165,
+    "rating": 2
+  },
+  {
+    "id": 7926,
+    "bookId": 177,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7927,
+    "bookId": 171,
+    "readerId": 165,
+    "rating": 3
+  },
+  {
+    "id": 7928,
+    "bookId": 57,
+    "readerId": 165,
+    "rating": 2
+  },
+  {
+    "id": 7929,
+    "bookId": 202,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7930,
+    "bookId": 180,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7931,
+    "bookId": 199,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7932,
+    "bookId": 115,
+    "readerId": 165,
+    "rating": 2
+  },
+  {
+    "id": 7933,
+    "bookId": 195,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7934,
+    "bookId": 179,
+    "readerId": 165,
+    "rating": 5
+  },
+  {
+    "id": 7935,
+    "bookId": 198,
+    "readerId": 165,
+    "rating": 4
+  },
+  {
+    "id": 7936,
+    "bookId": 183,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7937,
+    "bookId": 67,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 7938,
+    "bookId": 91,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7939,
+    "bookId": 73,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7940,
+    "bookId": 89,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7941,
+    "bookId": 159,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7942,
+    "bookId": 85,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7943,
+    "bookId": 155,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7944,
+    "bookId": 39,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7945,
+    "bookId": 202,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 7946,
+    "bookId": 50,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7947,
+    "bookId": 90,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 7948,
+    "bookId": 60,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7949,
+    "bookId": 71,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7950,
+    "bookId": 95,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7951,
+    "bookId": 55,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7952,
+    "bookId": 59,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7953,
+    "bookId": 86,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7954,
+    "bookId": 19,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7955,
+    "bookId": 78,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7956,
+    "bookId": 83,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7957,
+    "bookId": 94,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7958,
+    "bookId": 14,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7959,
+    "bookId": 54,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7960,
+    "bookId": 70,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7961,
+    "bookId": 82,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7962,
+    "bookId": 63,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7963,
+    "bookId": 92,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7964,
+    "bookId": 53,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7965,
+    "bookId": 75,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7966,
+    "bookId": 142,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7967,
+    "bookId": 69,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7968,
+    "bookId": 61,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7969,
+    "bookId": 171,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7970,
+    "bookId": 57,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 7971,
+    "bookId": 81,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7972,
+    "bookId": 84,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7973,
+    "bookId": 72,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7974,
+    "bookId": 62,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7975,
+    "bookId": 48,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7976,
+    "bookId": 93,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7977,
+    "bookId": 109,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 7978,
+    "bookId": 87,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7979,
+    "bookId": 68,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7980,
+    "bookId": 51,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7981,
+    "bookId": 74,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7982,
+    "bookId": 88,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7983,
+    "bookId": 5,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7984,
+    "bookId": 65,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7985,
+    "bookId": 42,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7986,
+    "bookId": 105,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7987,
+    "bookId": 80,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7988,
+    "bookId": 77,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7989,
+    "bookId": 118,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7990,
+    "bookId": 52,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7991,
+    "bookId": 31,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 7992,
+    "bookId": 64,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7993,
+    "bookId": 79,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 7994,
+    "bookId": 56,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 7995,
+    "bookId": 49,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7996,
+    "bookId": 76,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7997,
+    "bookId": 16,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 7998,
+    "bookId": 58,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 7999,
+    "bookId": 66,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 8000,
+    "bookId": 110,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 8001,
+    "bookId": 47,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8002,
+    "bookId": 23,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 8003,
+    "bookId": 149,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8004,
+    "bookId": 3,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8005,
+    "bookId": 188,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 8006,
+    "bookId": 35,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8007,
+    "bookId": 164,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8008,
+    "bookId": 128,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8009,
+    "bookId": 123,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8010,
+    "bookId": 133,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8011,
+    "bookId": 100,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8012,
+    "bookId": 160,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 8013,
+    "bookId": 169,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8014,
+    "bookId": 158,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 8015,
+    "bookId": 38,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8016,
+    "bookId": 168,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8017,
+    "bookId": 198,
+    "readerId": 166,
+    "rating": 4
+  },
+  {
+    "id": 8018,
+    "bookId": 121,
+    "readerId": 166,
+    "rating": 2
+  },
+  {
+    "id": 8019,
+    "bookId": 182,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8020,
+    "bookId": 114,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8021,
+    "bookId": 152,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 8022,
+    "bookId": 107,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 8023,
+    "bookId": 116,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 8024,
+    "bookId": 27,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8025,
+    "bookId": 156,
+    "readerId": 166,
+    "rating": 3
+  },
+  {
+    "id": 8026,
+    "bookId": 97,
+    "readerId": 166,
+    "rating": 5
+  },
+  {
+    "id": 8027,
+    "bookId": 106,
+    "readerId": 166,
+    "rating": 1
+  },
+  {
+    "id": 8028,
+    "bookId": 200,
+    "readerId": 167,
+    "rating": 3
+  },
+  {
+    "id": 8029,
+    "bookId": 19,
+    "readerId": 167,
+    "rating": 3
+  },
+  {
+    "id": 8030,
+    "bookId": 204,
+    "readerId": 167,
+    "rating": 5
+  },
+  {
+    "id": 8031,
+    "bookId": 173,
+    "readerId": 167,
+    "rating": 5
+  },
+  {
+    "id": 8032,
+    "bookId": 186,
+    "readerId": 167,
+    "rating": 4
+  },
+  {
+    "id": 8033,
+    "bookId": 194,
+    "readerId": 167,
+    "rating": 4
+  },
+  {
+    "id": 8034,
+    "bookId": 157,
+    "readerId": 167,
+    "rating": 2
+  },
+  {
+    "id": 8035,
+    "bookId": 189,
+    "readerId": 168,
+    "rating": 2
+  },
+  {
+    "id": 8036,
+    "bookId": 171,
+    "readerId": 168,
+    "rating": 3
+  },
+  {
+    "id": 8037,
+    "bookId": 175,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8038,
+    "bookId": 49,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8039,
+    "bookId": 174,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8040,
+    "bookId": 198,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8041,
+    "bookId": 182,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8042,
+    "bookId": 14,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8043,
+    "bookId": 177,
+    "readerId": 168,
+    "rating": 3
+  },
+  {
+    "id": 8044,
+    "bookId": 170,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8045,
+    "bookId": 207,
+    "readerId": 168,
+    "rating": 1
+  },
+  {
+    "id": 8046,
+    "bookId": 140,
+    "readerId": 168,
+    "rating": 3
+  },
+  {
+    "id": 8047,
+    "bookId": 200,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8048,
+    "bookId": 184,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8049,
+    "bookId": 134,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8050,
+    "bookId": 202,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8051,
+    "bookId": 190,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8052,
+    "bookId": 173,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8053,
+    "bookId": 192,
+    "readerId": 168,
+    "rating": 1
+  },
+  {
+    "id": 8054,
+    "bookId": 199,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8055,
+    "bookId": 65,
+    "readerId": 168,
+    "rating": 3
+  },
+  {
+    "id": 8056,
+    "bookId": 180,
+    "readerId": 168,
+    "rating": 1
+  },
+  {
+    "id": 8057,
+    "bookId": 76,
+    "readerId": 168,
+    "rating": 2
+  },
+  {
+    "id": 8058,
+    "bookId": 36,
+    "readerId": 168,
+    "rating": 2
+  },
+  {
+    "id": 8059,
+    "bookId": 181,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8060,
+    "bookId": 152,
+    "readerId": 168,
+    "rating": 2
+  },
+  {
+    "id": 8061,
+    "bookId": 156,
+    "readerId": 168,
+    "rating": 3
+  },
+  {
+    "id": 8062,
+    "bookId": 205,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8063,
+    "bookId": 188,
+    "readerId": 168,
+    "rating": 1
+  },
+  {
+    "id": 8064,
+    "bookId": 203,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8065,
+    "bookId": 193,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8066,
+    "bookId": 186,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8067,
+    "bookId": 54,
+    "readerId": 168,
+    "rating": 5
+  },
+  {
+    "id": 8068,
+    "bookId": 96,
+    "readerId": 168,
+    "rating": 3
+  },
+  {
+    "id": 8069,
+    "bookId": 35,
+    "readerId": 168,
+    "rating": 2
+  },
+  {
+    "id": 8070,
+    "bookId": 113,
+    "readerId": 168,
+    "rating": 1
+  },
+  {
+    "id": 8071,
+    "bookId": 34,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8072,
+    "bookId": 12,
+    "readerId": 168,
+    "rating": 4
+  },
+  {
+    "id": 8073,
+    "bookId": 146,
+    "readerId": 169,
+    "rating": 5
+  },
+  {
+    "id": 8074,
+    "bookId": 132,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8075,
+    "bookId": 150,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8076,
+    "bookId": 166,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8077,
+    "bookId": 143,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8078,
+    "bookId": 95,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8079,
+    "bookId": 163,
+    "readerId": 169,
+    "rating": 5
+  },
+  {
+    "id": 8080,
+    "bookId": 151,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8081,
+    "bookId": 3,
+    "readerId": 169,
+    "rating": 1
+  },
+  {
+    "id": 8082,
+    "bookId": 156,
+    "readerId": 169,
+    "rating": 5
+  },
+  {
+    "id": 8083,
+    "bookId": 92,
+    "readerId": 169,
+    "rating": 3
+  },
+  {
+    "id": 8084,
+    "bookId": 131,
+    "readerId": 169,
+    "rating": 2
+  },
+  {
+    "id": 8085,
+    "bookId": 158,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8086,
+    "bookId": 75,
+    "readerId": 169,
+    "rating": 4
+  },
+  {
+    "id": 8087,
+    "bookId": 144,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8088,
+    "bookId": 24,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8089,
+    "bookId": 95,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8090,
+    "bookId": 193,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8091,
+    "bookId": 192,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8092,
+    "bookId": 165,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8093,
+    "bookId": 135,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8094,
+    "bookId": 34,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8095,
+    "bookId": 155,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8096,
+    "bookId": 85,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8097,
+    "bookId": 92,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8098,
+    "bookId": 75,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8099,
+    "bookId": 51,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8100,
+    "bookId": 159,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8101,
+    "bookId": 127,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8102,
+    "bookId": 25,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8103,
+    "bookId": 156,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8104,
+    "bookId": 142,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8105,
+    "bookId": 8,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8106,
+    "bookId": 108,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8107,
+    "bookId": 164,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8108,
+    "bookId": 59,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8109,
+    "bookId": 114,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8110,
+    "bookId": 90,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8111,
+    "bookId": 98,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8112,
+    "bookId": 74,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8113,
+    "bookId": 72,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8114,
+    "bookId": 153,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8115,
+    "bookId": 150,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8116,
+    "bookId": 147,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8117,
+    "bookId": 52,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8118,
+    "bookId": 89,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8119,
+    "bookId": 167,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8120,
+    "bookId": 157,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8121,
+    "bookId": 104,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8122,
+    "bookId": 132,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8123,
+    "bookId": 42,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8124,
+    "bookId": 151,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8125,
+    "bookId": 65,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8126,
+    "bookId": 162,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8127,
+    "bookId": 166,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8128,
+    "bookId": 91,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8129,
+    "bookId": 163,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8130,
+    "bookId": 154,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8131,
+    "bookId": 76,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8132,
+    "bookId": 149,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8133,
+    "bookId": 107,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8134,
+    "bookId": 143,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8135,
+    "bookId": 146,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8136,
+    "bookId": 97,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8137,
+    "bookId": 161,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8138,
+    "bookId": 1,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8139,
+    "bookId": 168,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8140,
+    "bookId": 116,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8141,
+    "bookId": 63,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8142,
+    "bookId": 62,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8143,
+    "bookId": 158,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8144,
+    "bookId": 82,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8145,
+    "bookId": 203,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8146,
+    "bookId": 81,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8147,
+    "bookId": 54,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8148,
+    "bookId": 80,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8149,
+    "bookId": 160,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8150,
+    "bookId": 140,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8151,
+    "bookId": 73,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8152,
+    "bookId": 35,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8153,
+    "bookId": 152,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8154,
+    "bookId": 58,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8155,
+    "bookId": 141,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8156,
+    "bookId": 198,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8157,
+    "bookId": 87,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8158,
+    "bookId": 93,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8159,
+    "bookId": 148,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8160,
+    "bookId": 174,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8161,
+    "bookId": 145,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8162,
+    "bookId": 100,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8163,
+    "bookId": 125,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8164,
+    "bookId": 133,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8165,
+    "bookId": 173,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8166,
+    "bookId": 11,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8167,
+    "bookId": 46,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8168,
+    "bookId": 180,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8169,
+    "bookId": 60,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8170,
+    "bookId": 109,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8171,
+    "bookId": 201,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8172,
+    "bookId": 186,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8173,
+    "bookId": 176,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8174,
+    "bookId": 101,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8175,
+    "bookId": 195,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8176,
+    "bookId": 56,
+    "readerId": 170,
+    "rating": 1
+  },
+  {
+    "id": 8177,
+    "bookId": 185,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8178,
+    "bookId": 183,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8179,
+    "bookId": 112,
+    "readerId": 170,
+    "rating": 2
+  },
+  {
+    "id": 8180,
+    "bookId": 45,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8181,
+    "bookId": 2,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8182,
+    "bookId": 175,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8183,
+    "bookId": 29,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8184,
+    "bookId": 128,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8185,
+    "bookId": 53,
+    "readerId": 170,
+    "rating": 4
+  },
+  {
+    "id": 8186,
+    "bookId": 182,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8187,
+    "bookId": 38,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8188,
+    "bookId": 103,
+    "readerId": 170,
+    "rating": 5
+  },
+  {
+    "id": 8189,
+    "bookId": 115,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8190,
+    "bookId": 9,
+    "readerId": 170,
+    "rating": 3
+  },
+  {
+    "id": 8191,
+    "bookId": 122,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8192,
+    "bookId": 131,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8193,
+    "bookId": 130,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8194,
+    "bookId": 135,
+    "readerId": 171,
+    "rating": 1
+  },
+  {
+    "id": 8195,
+    "bookId": 47,
+    "readerId": 171,
+    "rating": 1
+  },
+  {
+    "id": 8196,
+    "bookId": 205,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8197,
+    "bookId": 101,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8198,
+    "bookId": 34,
+    "readerId": 171,
+    "rating": 5
+  },
+  {
+    "id": 8199,
+    "bookId": 161,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8200,
+    "bookId": 126,
+    "readerId": 171,
+    "rating": 5
+  },
+  {
+    "id": 8201,
+    "bookId": 136,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8202,
+    "bookId": 55,
+    "readerId": 171,
+    "rating": 1
+  },
+  {
+    "id": 8203,
+    "bookId": 138,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8204,
+    "bookId": 157,
+    "readerId": 171,
+    "rating": 2
+  },
+  {
+    "id": 8205,
+    "bookId": 102,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8206,
+    "bookId": 104,
+    "readerId": 171,
+    "rating": 5
+  },
+  {
+    "id": 8207,
+    "bookId": 134,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8208,
+    "bookId": 116,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8209,
+    "bookId": 167,
+    "readerId": 171,
+    "rating": 2
+  },
+  {
+    "id": 8210,
+    "bookId": 133,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8211,
+    "bookId": 125,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8212,
+    "bookId": 137,
+    "readerId": 171,
+    "rating": 5
+  },
+  {
+    "id": 8213,
+    "bookId": 3,
+    "readerId": 171,
+    "rating": 5
+  },
+  {
+    "id": 8214,
+    "bookId": 106,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8215,
+    "bookId": 27,
+    "readerId": 171,
+    "rating": 1
+  },
+  {
+    "id": 8216,
+    "bookId": 115,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8217,
+    "bookId": 107,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8218,
+    "bookId": 121,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8219,
+    "bookId": 184,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8220,
+    "bookId": 99,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8221,
+    "bookId": 129,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8222,
+    "bookId": 43,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8223,
+    "bookId": 108,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8224,
+    "bookId": 97,
+    "readerId": 171,
+    "rating": 5
+  },
+  {
+    "id": 8225,
+    "bookId": 16,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8226,
+    "bookId": 132,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8227,
+    "bookId": 92,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8228,
+    "bookId": 159,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8229,
+    "bookId": 112,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8230,
+    "bookId": 120,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8231,
+    "bookId": 69,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8232,
+    "bookId": 31,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8233,
+    "bookId": 127,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8234,
+    "bookId": 114,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8235,
+    "bookId": 111,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8236,
+    "bookId": 109,
+    "readerId": 171,
+    "rating": 4
+  },
+  {
+    "id": 8237,
+    "bookId": 113,
+    "readerId": 171,
+    "rating": 5
+  },
+  {
+    "id": 8238,
+    "bookId": 119,
+    "readerId": 171,
+    "rating": 3
+  },
+  {
+    "id": 8239,
+    "bookId": 78,
+    "readerId": 171,
+    "rating": 1
+  },
+  {
+    "id": 8240,
+    "bookId": 84,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8241,
+    "bookId": 56,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8242,
+    "bookId": 57,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8243,
+    "bookId": 48,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8244,
+    "bookId": 60,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8245,
+    "bookId": 76,
+    "readerId": 172,
+    "rating": 1
+  },
+  {
+    "id": 8246,
+    "bookId": 193,
+    "readerId": 172,
+    "rating": 2
+  },
+  {
+    "id": 8247,
+    "bookId": 146,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8248,
+    "bookId": 163,
+    "readerId": 172,
+    "rating": 2
+  },
+  {
+    "id": 8249,
+    "bookId": 149,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8250,
+    "bookId": 78,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8251,
+    "bookId": 201,
+    "readerId": 172,
+    "rating": 2
+  },
+  {
+    "id": 8252,
+    "bookId": 137,
+    "readerId": 172,
+    "rating": 2
+  },
+  {
+    "id": 8253,
+    "bookId": 79,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8254,
+    "bookId": 77,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8255,
+    "bookId": 49,
+    "readerId": 172,
+    "rating": 2
+  },
+  {
+    "id": 8256,
+    "bookId": 204,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8257,
+    "bookId": 50,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8258,
+    "bookId": 68,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8259,
+    "bookId": 202,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8260,
+    "bookId": 80,
+    "readerId": 172,
+    "rating": 1
+  },
+  {
+    "id": 8261,
+    "bookId": 95,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8262,
+    "bookId": 197,
+    "readerId": 172,
+    "rating": 2
+  },
+  {
+    "id": 8263,
+    "bookId": 74,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8264,
+    "bookId": 53,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8265,
+    "bookId": 61,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8266,
+    "bookId": 65,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8267,
+    "bookId": 20,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8268,
+    "bookId": 58,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8269,
+    "bookId": 55,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8270,
+    "bookId": 102,
+    "readerId": 172,
+    "rating": 1
+  },
+  {
+    "id": 8271,
+    "bookId": 59,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8272,
+    "bookId": 72,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8273,
+    "bookId": 51,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8274,
+    "bookId": 73,
+    "readerId": 172,
+    "rating": 5
+  },
+  {
+    "id": 8275,
+    "bookId": 129,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8276,
+    "bookId": 88,
+    "readerId": 172,
+    "rating": 3
+  },
+  {
+    "id": 8277,
+    "bookId": 69,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8278,
+    "bookId": 86,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8279,
+    "bookId": 82,
+    "readerId": 172,
+    "rating": 4
+  },
+  {
+    "id": 8280,
+    "bookId": 85,
+    "readerId": 173,
+    "rating": 4
+  },
+  {
+    "id": 8281,
+    "bookId": 163,
+    "readerId": 173,
+    "rating": 3
+  },
+  {
+    "id": 8282,
+    "bookId": 54,
+    "readerId": 173,
+    "rating": 4
+  },
+  {
+    "id": 8283,
+    "bookId": 164,
+    "readerId": 173,
+    "rating": 3
+  },
+  {
+    "id": 8284,
+    "bookId": 150,
+    "readerId": 173,
+    "rating": 4
+  },
+  {
+    "id": 8285,
+    "bookId": 167,
+    "readerId": 173,
+    "rating": 4
+  },
+  {
+    "id": 8286,
+    "bookId": 43,
+    "readerId": 173,
+    "rating": 2
+  },
+  {
+    "id": 8287,
+    "bookId": 81,
+    "readerId": 173,
+    "rating": 4
+  },
+  {
+    "id": 8288,
+    "bookId": 146,
+    "readerId": 173,
+    "rating": 5
+  },
+  {
+    "id": 8289,
+    "bookId": 155,
+    "readerId": 173,
+    "rating": 1
+  },
+  {
+    "id": 8290,
+    "bookId": 2,
+    "readerId": 174,
+    "rating": 5
+  },
+  {
+    "id": 8291,
+    "bookId": 147,
+    "readerId": 174,
+    "rating": 2
+  },
+  {
+    "id": 8292,
+    "bookId": 36,
+    "readerId": 174,
+    "rating": 1
+  },
+  {
+    "id": 8293,
+    "bookId": 9,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8294,
+    "bookId": 11,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8295,
+    "bookId": 29,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8296,
+    "bookId": 45,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8297,
+    "bookId": 41,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8298,
+    "bookId": 30,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8299,
+    "bookId": 34,
+    "readerId": 174,
+    "rating": 5
+  },
+  {
+    "id": 8300,
+    "bookId": 1,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8301,
+    "bookId": 13,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8302,
+    "bookId": 40,
+    "readerId": 174,
+    "rating": 5
+  },
+  {
+    "id": 8303,
+    "bookId": 42,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8304,
+    "bookId": 31,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8305,
+    "bookId": 150,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8306,
+    "bookId": 188,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8307,
+    "bookId": 111,
+    "readerId": 174,
+    "rating": 1
+  },
+  {
+    "id": 8308,
+    "bookId": 18,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8309,
+    "bookId": 15,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8310,
+    "bookId": 27,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8311,
+    "bookId": 21,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8312,
+    "bookId": 22,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8313,
+    "bookId": 169,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8314,
+    "bookId": 10,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8315,
+    "bookId": 37,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8316,
+    "bookId": 60,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8317,
+    "bookId": 44,
+    "readerId": 174,
+    "rating": 5
+  },
+  {
+    "id": 8318,
+    "bookId": 128,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8319,
+    "bookId": 46,
+    "readerId": 174,
+    "rating": 5
+  },
+  {
+    "id": 8320,
+    "bookId": 48,
+    "readerId": 174,
+    "rating": 2
+  },
+  {
+    "id": 8321,
+    "bookId": 3,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8322,
+    "bookId": 162,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8323,
+    "bookId": 163,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8324,
+    "bookId": 25,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8325,
+    "bookId": 28,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8326,
+    "bookId": 114,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8327,
+    "bookId": 149,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8328,
+    "bookId": 77,
+    "readerId": 174,
+    "rating": 2
+  },
+  {
+    "id": 8329,
+    "bookId": 119,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8330,
+    "bookId": 117,
+    "readerId": 174,
+    "rating": 1
+  },
+  {
+    "id": 8331,
+    "bookId": 23,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8332,
+    "bookId": 6,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8333,
+    "bookId": 16,
+    "readerId": 174,
+    "rating": 2
+  },
+  {
+    "id": 8334,
+    "bookId": 8,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8335,
+    "bookId": 38,
+    "readerId": 174,
+    "rating": 5
+  },
+  {
+    "id": 8336,
+    "bookId": 158,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8337,
+    "bookId": 17,
+    "readerId": 174,
+    "rating": 1
+  },
+  {
+    "id": 8338,
+    "bookId": 35,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8339,
+    "bookId": 33,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8340,
+    "bookId": 103,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8341,
+    "bookId": 19,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8342,
+    "bookId": 49,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8343,
+    "bookId": 145,
+    "readerId": 174,
+    "rating": 2
+  },
+  {
+    "id": 8344,
+    "bookId": 67,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8345,
+    "bookId": 154,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8346,
+    "bookId": 14,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8347,
+    "bookId": 4,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8348,
+    "bookId": 5,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8349,
+    "bookId": 7,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8350,
+    "bookId": 39,
+    "readerId": 174,
+    "rating": 5
+  },
+  {
+    "id": 8351,
+    "bookId": 26,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8352,
+    "bookId": 43,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8353,
+    "bookId": 20,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8354,
+    "bookId": 132,
+    "readerId": 174,
+    "rating": 2
+  },
+  {
+    "id": 8355,
+    "bookId": 24,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8356,
+    "bookId": 12,
+    "readerId": 174,
+    "rating": 4
+  },
+  {
+    "id": 8357,
+    "bookId": 87,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8358,
+    "bookId": 164,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8359,
+    "bookId": 32,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8360,
+    "bookId": 59,
+    "readerId": 174,
+    "rating": 2
+  },
+  {
+    "id": 8361,
+    "bookId": 82,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8362,
+    "bookId": 125,
+    "readerId": 174,
+    "rating": 3
+  },
+  {
+    "id": 8363,
+    "bookId": 99,
+    "readerId": 174,
+    "rating": 1
+  },
+  {
+    "id": 8364,
+    "bookId": 181,
+    "readerId": 175,
+    "rating": 5
+  },
+  {
+    "id": 8365,
+    "bookId": 140,
+    "readerId": 175,
+    "rating": 3
+  },
+  {
+    "id": 8366,
+    "bookId": 203,
+    "readerId": 175,
+    "rating": 2
+  },
+  {
+    "id": 8367,
+    "bookId": 134,
+    "readerId": 175,
+    "rating": 4
+  },
+  {
+    "id": 8368,
+    "bookId": 183,
+    "readerId": 175,
+    "rating": 4
+  },
+  {
+    "id": 8369,
+    "bookId": 189,
+    "readerId": 175,
+    "rating": 3
+  },
+  {
+    "id": 8370,
+    "bookId": 76,
+    "readerId": 176,
+    "rating": 4
+  },
+  {
+    "id": 8371,
+    "bookId": 156,
+    "readerId": 176,
+    "rating": 2
+  },
+  {
+    "id": 8372,
+    "bookId": 53,
+    "readerId": 176,
+    "rating": 4
+  },
+  {
+    "id": 8373,
+    "bookId": 44,
+    "readerId": 176,
+    "rating": 2
+  },
+  {
+    "id": 8374,
+    "bookId": 47,
+    "readerId": 176,
+    "rating": 4
+  },
+  {
+    "id": 8375,
+    "bookId": 74,
+    "readerId": 176,
+    "rating": 4
+  },
+  {
+    "id": 8376,
+    "bookId": 108,
+    "readerId": 176,
+    "rating": 5
+  },
+  {
+    "id": 8377,
+    "bookId": 92,
+    "readerId": 176,
+    "rating": 4
+  },
+  {
+    "id": 8378,
+    "bookId": 5,
+    "readerId": 177,
+    "rating": 4
+  },
+  {
+    "id": 8379,
+    "bookId": 85,
+    "readerId": 177,
+    "rating": 3
+  },
+  {
+    "id": 8380,
+    "bookId": 10,
+    "readerId": 177,
+    "rating": 3
+  },
+  {
+    "id": 8381,
+    "bookId": 13,
+    "readerId": 177,
+    "rating": 2
+  },
+  {
+    "id": 8382,
+    "bookId": 29,
+    "readerId": 177,
+    "rating": 3
+  },
+  {
+    "id": 8383,
+    "bookId": 89,
+    "readerId": 177,
+    "rating": 1
+  },
+  {
+    "id": 8384,
+    "bookId": 108,
+    "readerId": 177,
+    "rating": 3
+  },
+  {
+    "id": 8385,
+    "bookId": 20,
+    "readerId": 177,
+    "rating": 4
+  },
+  {
+    "id": 8386,
+    "bookId": 41,
+    "readerId": 177,
+    "rating": 4
+  },
+  {
+    "id": 8387,
+    "bookId": 39,
+    "readerId": 177,
+    "rating": 4
+  },
+  {
+    "id": 8388,
+    "bookId": 45,
+    "readerId": 177,
+    "rating": 4
+  },
+  {
+    "id": 8389,
+    "bookId": 17,
+    "readerId": 177,
+    "rating": 4
+  },
+  {
+    "id": 8390,
+    "bookId": 199,
+    "readerId": 177,
+    "rating": 4
+  },
+  {
+    "id": 8391,
+    "bookId": 119,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8392,
+    "bookId": 141,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8393,
+    "bookId": 75,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8394,
+    "bookId": 85,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8395,
+    "bookId": 78,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8396,
+    "bookId": 95,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8397,
+    "bookId": 156,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8398,
+    "bookId": 48,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8399,
+    "bookId": 54,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8400,
+    "bookId": 67,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8401,
+    "bookId": 18,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8402,
+    "bookId": 68,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8403,
+    "bookId": 115,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8404,
+    "bookId": 28,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8405,
+    "bookId": 53,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8406,
+    "bookId": 92,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8407,
+    "bookId": 136,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8408,
+    "bookId": 77,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8409,
+    "bookId": 62,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8410,
+    "bookId": 73,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8411,
+    "bookId": 57,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8412,
+    "bookId": 93,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8413,
+    "bookId": 146,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8414,
+    "bookId": 58,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8415,
+    "bookId": 51,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8416,
+    "bookId": 91,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8417,
+    "bookId": 7,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8418,
+    "bookId": 55,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8419,
+    "bookId": 90,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8420,
+    "bookId": 89,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8421,
+    "bookId": 66,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8422,
+    "bookId": 88,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8423,
+    "bookId": 60,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8424,
+    "bookId": 59,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8425,
+    "bookId": 44,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8426,
+    "bookId": 64,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8427,
+    "bookId": 196,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8428,
+    "bookId": 56,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8429,
+    "bookId": 74,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8430,
+    "bookId": 84,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8431,
+    "bookId": 52,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8432,
+    "bookId": 50,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8433,
+    "bookId": 63,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8434,
+    "bookId": 76,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8435,
+    "bookId": 79,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8436,
+    "bookId": 80,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8437,
+    "bookId": 123,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8438,
+    "bookId": 47,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8439,
+    "bookId": 49,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8440,
+    "bookId": 71,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8441,
+    "bookId": 19,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8442,
+    "bookId": 69,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8443,
+    "bookId": 83,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8444,
+    "bookId": 86,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8445,
+    "bookId": 65,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8446,
+    "bookId": 82,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8447,
+    "bookId": 135,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8448,
+    "bookId": 72,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8449,
+    "bookId": 128,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8450,
+    "bookId": 87,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8451,
+    "bookId": 61,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8452,
+    "bookId": 94,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8453,
+    "bookId": 81,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8454,
+    "bookId": 70,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8455,
+    "bookId": 151,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8456,
+    "bookId": 192,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8457,
+    "bookId": 124,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8458,
+    "bookId": 130,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8459,
+    "bookId": 118,
+    "readerId": 178,
+    "rating": 1
+  },
+  {
+    "id": 8460,
+    "bookId": 183,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8461,
+    "bookId": 165,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8462,
+    "bookId": 172,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8463,
+    "bookId": 11,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8464,
+    "bookId": 143,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8465,
+    "bookId": 30,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8466,
+    "bookId": 133,
+    "readerId": 178,
+    "rating": 1
+  },
+  {
+    "id": 8467,
+    "bookId": 114,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8468,
+    "bookId": 5,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8469,
+    "bookId": 134,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8470,
+    "bookId": 152,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8471,
+    "bookId": 159,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8472,
+    "bookId": 108,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8473,
+    "bookId": 117,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8474,
+    "bookId": 105,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8475,
+    "bookId": 127,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8476,
+    "bookId": 42,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8477,
+    "bookId": 140,
+    "readerId": 178,
+    "rating": 2
+  },
+  {
+    "id": 8478,
+    "bookId": 21,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8479,
+    "bookId": 113,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8480,
+    "bookId": 125,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8481,
+    "bookId": 161,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8482,
+    "bookId": 37,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8483,
+    "bookId": 132,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8484,
+    "bookId": 104,
+    "readerId": 178,
+    "rating": 1
+  },
+  {
+    "id": 8485,
+    "bookId": 8,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8486,
+    "bookId": 203,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8487,
+    "bookId": 163,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8488,
+    "bookId": 27,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8489,
+    "bookId": 32,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8490,
+    "bookId": 184,
+    "readerId": 178,
+    "rating": 1
+  },
+  {
+    "id": 8491,
+    "bookId": 202,
+    "readerId": 178,
+    "rating": 4
+  },
+  {
+    "id": 8492,
+    "bookId": 142,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8493,
+    "bookId": 26,
+    "readerId": 178,
+    "rating": 3
+  },
+  {
+    "id": 8494,
+    "bookId": 173,
+    "readerId": 178,
+    "rating": 5
+  },
+  {
+    "id": 8495,
+    "bookId": 157,
+    "readerId": 179,
+    "rating": 5
+  },
+  {
+    "id": 8496,
+    "bookId": 167,
+    "readerId": 179,
+    "rating": 4
+  },
+  {
+    "id": 8497,
+    "bookId": 163,
+    "readerId": 179,
+    "rating": 4
+  },
+  {
+    "id": 8498,
+    "bookId": 182,
+    "readerId": 179,
+    "rating": 2
+  },
+  {
+    "id": 8499,
+    "bookId": 136,
+    "readerId": 179,
+    "rating": 3
+  },
+  {
+    "id": 8500,
+    "bookId": 91,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8501,
+    "bookId": 76,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8502,
+    "bookId": 57,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8503,
+    "bookId": 82,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8504,
+    "bookId": 207,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8505,
+    "bookId": 78,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8506,
+    "bookId": 72,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8507,
+    "bookId": 86,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8508,
+    "bookId": 74,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8509,
+    "bookId": 159,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8510,
+    "bookId": 63,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8511,
+    "bookId": 66,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8512,
+    "bookId": 68,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8513,
+    "bookId": 48,
+    "readerId": 180,
+    "rating": 5
+  },
+  {
+    "id": 8514,
+    "bookId": 70,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8515,
+    "bookId": 45,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8516,
+    "bookId": 53,
+    "readerId": 180,
+    "rating": 5
+  },
+  {
+    "id": 8517,
+    "bookId": 50,
+    "readerId": 180,
+    "rating": 1
+  },
+  {
+    "id": 8518,
+    "bookId": 64,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8519,
+    "bookId": 49,
+    "readerId": 180,
+    "rating": 5
+  },
+  {
+    "id": 8520,
+    "bookId": 77,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8521,
+    "bookId": 55,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8522,
+    "bookId": 47,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8523,
+    "bookId": 42,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8524,
+    "bookId": 194,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8525,
+    "bookId": 126,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8526,
+    "bookId": 73,
+    "readerId": 180,
+    "rating": 5
+  },
+  {
+    "id": 8527,
+    "bookId": 19,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8528,
+    "bookId": 84,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8529,
+    "bookId": 146,
+    "readerId": 180,
+    "rating": 1
+  },
+  {
+    "id": 8530,
+    "bookId": 88,
+    "readerId": 180,
+    "rating": 2
+  },
+  {
+    "id": 8531,
+    "bookId": 202,
+    "readerId": 180,
+    "rating": 2
+  },
+  {
+    "id": 8532,
+    "bookId": 196,
+    "readerId": 180,
+    "rating": 2
+  },
+  {
+    "id": 8533,
+    "bookId": 71,
+    "readerId": 180,
+    "rating": 5
+  },
+  {
+    "id": 8534,
+    "bookId": 85,
+    "readerId": 180,
+    "rating": 4
+  },
+  {
+    "id": 8535,
+    "bookId": 90,
+    "readerId": 180,
+    "rating": 3
+  },
+  {
+    "id": 8536,
+    "bookId": 14,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8537,
+    "bookId": 168,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8538,
+    "bookId": 172,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8539,
+    "bookId": 40,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8540,
+    "bookId": 197,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8541,
+    "bookId": 192,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8542,
+    "bookId": 181,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8543,
+    "bookId": 23,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8544,
+    "bookId": 177,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8545,
+    "bookId": 194,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8546,
+    "bookId": 188,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8547,
+    "bookId": 51,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8548,
+    "bookId": 187,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8549,
+    "bookId": 39,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8550,
+    "bookId": 19,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8551,
+    "bookId": 45,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8552,
+    "bookId": 101,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8553,
+    "bookId": 134,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8554,
+    "bookId": 35,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8555,
+    "bookId": 206,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8556,
+    "bookId": 183,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8557,
+    "bookId": 198,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8558,
+    "bookId": 193,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8559,
+    "bookId": 186,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8560,
+    "bookId": 171,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8561,
+    "bookId": 207,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8562,
+    "bookId": 199,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8563,
+    "bookId": 115,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8564,
+    "bookId": 178,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8565,
+    "bookId": 182,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8566,
+    "bookId": 201,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8567,
+    "bookId": 204,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8568,
+    "bookId": 200,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8569,
+    "bookId": 196,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8570,
+    "bookId": 175,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8571,
+    "bookId": 62,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8572,
+    "bookId": 9,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8573,
+    "bookId": 185,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8574,
+    "bookId": 176,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8575,
+    "bookId": 202,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8576,
+    "bookId": 33,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8577,
+    "bookId": 169,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8578,
+    "bookId": 184,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8579,
+    "bookId": 83,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8580,
+    "bookId": 203,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8581,
+    "bookId": 66,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8582,
+    "bookId": 191,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8583,
+    "bookId": 26,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8584,
+    "bookId": 190,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8585,
+    "bookId": 174,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8586,
+    "bookId": 173,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8587,
+    "bookId": 11,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8588,
+    "bookId": 189,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8589,
+    "bookId": 179,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8590,
+    "bookId": 102,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8591,
+    "bookId": 205,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8592,
+    "bookId": 195,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8593,
+    "bookId": 180,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8594,
+    "bookId": 170,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8595,
+    "bookId": 48,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8596,
+    "bookId": 99,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8597,
+    "bookId": 112,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8598,
+    "bookId": 122,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8599,
+    "bookId": 125,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8600,
+    "bookId": 146,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8601,
+    "bookId": 98,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8602,
+    "bookId": 72,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8603,
+    "bookId": 70,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8604,
+    "bookId": 41,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8605,
+    "bookId": 164,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8606,
+    "bookId": 105,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8607,
+    "bookId": 163,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8608,
+    "bookId": 131,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8609,
+    "bookId": 135,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8610,
+    "bookId": 28,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8611,
+    "bookId": 16,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8612,
+    "bookId": 55,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8613,
+    "bookId": 20,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8614,
+    "bookId": 58,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8615,
+    "bookId": 84,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8616,
+    "bookId": 31,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8617,
+    "bookId": 127,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8618,
+    "bookId": 110,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8619,
+    "bookId": 117,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8620,
+    "bookId": 123,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8621,
+    "bookId": 21,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8622,
+    "bookId": 157,
+    "readerId": 181,
+    "rating": 1
+  },
+  {
+    "id": 8623,
+    "bookId": 94,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8624,
+    "bookId": 49,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8625,
+    "bookId": 56,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8626,
+    "bookId": 107,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8627,
+    "bookId": 73,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8628,
+    "bookId": 12,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8629,
+    "bookId": 43,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8630,
+    "bookId": 148,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8631,
+    "bookId": 116,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8632,
+    "bookId": 128,
+    "readerId": 181,
+    "rating": 5
+  },
+  {
+    "id": 8633,
+    "bookId": 162,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8634,
+    "bookId": 61,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8635,
+    "bookId": 76,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8636,
+    "bookId": 10,
+    "readerId": 181,
+    "rating": 2
+  },
+  {
+    "id": 8637,
+    "bookId": 79,
+    "readerId": 181,
+    "rating": 3
+  },
+  {
+    "id": 8638,
+    "bookId": 118,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8639,
+    "bookId": 89,
+    "readerId": 181,
+    "rating": 4
+  },
+  {
+    "id": 8640,
+    "bookId": 192,
+    "readerId": 182,
+    "rating": 5
+  },
+  {
+    "id": 8641,
+    "bookId": 206,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8642,
+    "bookId": 170,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8643,
+    "bookId": 185,
+    "readerId": 182,
+    "rating": 2
+  },
+  {
+    "id": 8644,
+    "bookId": 191,
+    "readerId": 182,
+    "rating": 2
+  },
+  {
+    "id": 8645,
+    "bookId": 190,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8646,
+    "bookId": 169,
+    "readerId": 182,
+    "rating": 5
+  },
+  {
+    "id": 8647,
+    "bookId": 174,
+    "readerId": 182,
+    "rating": 3
+  },
+  {
+    "id": 8648,
+    "bookId": 198,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8649,
+    "bookId": 200,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8650,
+    "bookId": 151,
+    "readerId": 182,
+    "rating": 2
+  },
+  {
+    "id": 8651,
+    "bookId": 203,
+    "readerId": 182,
+    "rating": 5
+  },
+  {
+    "id": 8652,
+    "bookId": 204,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8653,
+    "bookId": 175,
+    "readerId": 182,
+    "rating": 5
+  },
+  {
+    "id": 8654,
+    "bookId": 181,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8655,
+    "bookId": 142,
+    "readerId": 182,
+    "rating": 2
+  },
+  {
+    "id": 8656,
+    "bookId": 180,
+    "readerId": 182,
+    "rating": 3
+  },
+  {
+    "id": 8657,
+    "bookId": 187,
+    "readerId": 182,
+    "rating": 5
+  },
+  {
+    "id": 8658,
+    "bookId": 201,
+    "readerId": 182,
+    "rating": 1
+  },
+  {
+    "id": 8659,
+    "bookId": 122,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8660,
+    "bookId": 189,
+    "readerId": 182,
+    "rating": 3
+  },
+  {
+    "id": 8661,
+    "bookId": 178,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8662,
+    "bookId": 194,
+    "readerId": 182,
+    "rating": 3
+  },
+  {
+    "id": 8663,
+    "bookId": 12,
+    "readerId": 182,
+    "rating": 2
+  },
+  {
+    "id": 8664,
+    "bookId": 89,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8665,
+    "bookId": 183,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8666,
+    "bookId": 30,
+    "readerId": 182,
+    "rating": 1
+  },
+  {
+    "id": 8667,
+    "bookId": 144,
+    "readerId": 182,
+    "rating": 3
+  },
+  {
+    "id": 8668,
+    "bookId": 184,
+    "readerId": 182,
+    "rating": 4
+  },
+  {
+    "id": 8669,
+    "bookId": 176,
+    "readerId": 182,
+    "rating": 3
+  },
+  {
+    "id": 8670,
+    "bookId": 104,
+    "readerId": 183,
+    "rating": 1
+  },
+  {
+    "id": 8671,
+    "bookId": 188,
+    "readerId": 183,
+    "rating": 3
+  },
+  {
+    "id": 8672,
+    "bookId": 103,
+    "readerId": 183,
+    "rating": 5
+  },
+  {
+    "id": 8673,
+    "bookId": 203,
+    "readerId": 183,
+    "rating": 2
+  },
+  {
+    "id": 8674,
+    "bookId": 107,
+    "readerId": 183,
+    "rating": 1
+  },
+  {
+    "id": 8675,
+    "bookId": 120,
+    "readerId": 183,
+    "rating": 3
+  },
+  {
+    "id": 8676,
+    "bookId": 129,
+    "readerId": 183,
+    "rating": 4
+  },
+  {
+    "id": 8677,
+    "bookId": 139,
+    "readerId": 183,
+    "rating": 4
+  },
+  {
+    "id": 8678,
+    "bookId": 116,
+    "readerId": 183,
+    "rating": 3
+  },
+  {
+    "id": 8679,
+    "bookId": 133,
+    "readerId": 183,
+    "rating": 3
+  },
+  {
+    "id": 8680,
+    "bookId": 118,
+    "readerId": 183,
+    "rating": 1
+  },
+  {
+    "id": 8681,
+    "bookId": 106,
+    "readerId": 183,
+    "rating": 5
+  },
+  {
+    "id": 8682,
+    "bookId": 33,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8683,
+    "bookId": 46,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8684,
+    "bookId": 44,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8685,
+    "bookId": 37,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8686,
+    "bookId": 13,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8687,
+    "bookId": 161,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8688,
+    "bookId": 180,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8689,
+    "bookId": 11,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8690,
+    "bookId": 25,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8691,
+    "bookId": 54,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8692,
+    "bookId": 9,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8693,
+    "bookId": 39,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8694,
+    "bookId": 35,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8695,
+    "bookId": 125,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8696,
+    "bookId": 41,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8697,
+    "bookId": 19,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8698,
+    "bookId": 18,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8699,
+    "bookId": 2,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8700,
+    "bookId": 14,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8701,
+    "bookId": 103,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8702,
+    "bookId": 149,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8703,
+    "bookId": 160,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8704,
+    "bookId": 27,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8705,
+    "bookId": 207,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8706,
+    "bookId": 45,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8707,
+    "bookId": 22,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8708,
+    "bookId": 20,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8709,
+    "bookId": 23,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8710,
+    "bookId": 16,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8711,
+    "bookId": 102,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8712,
+    "bookId": 26,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8713,
+    "bookId": 30,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8714,
+    "bookId": 1,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8715,
+    "bookId": 117,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8716,
+    "bookId": 24,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8717,
+    "bookId": 36,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8718,
+    "bookId": 138,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8719,
+    "bookId": 12,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8720,
+    "bookId": 43,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8721,
+    "bookId": 7,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8722,
+    "bookId": 28,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8723,
+    "bookId": 42,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8724,
+    "bookId": 34,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8725,
+    "bookId": 10,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8726,
+    "bookId": 3,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8727,
+    "bookId": 29,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8728,
+    "bookId": 6,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8729,
+    "bookId": 131,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8730,
+    "bookId": 40,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8731,
+    "bookId": 15,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8732,
+    "bookId": 177,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8733,
+    "bookId": 4,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8734,
+    "bookId": 8,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8735,
+    "bookId": 17,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8736,
+    "bookId": 31,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8737,
+    "bookId": 59,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8738,
+    "bookId": 38,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8739,
+    "bookId": 21,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8740,
+    "bookId": 5,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8741,
+    "bookId": 139,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8742,
+    "bookId": 32,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8743,
+    "bookId": 48,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8744,
+    "bookId": 87,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8745,
+    "bookId": 104,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8746,
+    "bookId": 176,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8747,
+    "bookId": 107,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8748,
+    "bookId": 200,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8749,
+    "bookId": 193,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8750,
+    "bookId": 86,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8751,
+    "bookId": 114,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8752,
+    "bookId": 155,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8753,
+    "bookId": 83,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8754,
+    "bookId": 65,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8755,
+    "bookId": 118,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8756,
+    "bookId": 156,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8757,
+    "bookId": 100,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8758,
+    "bookId": 132,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8759,
+    "bookId": 187,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8760,
+    "bookId": 121,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8761,
+    "bookId": 85,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8762,
+    "bookId": 70,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8763,
+    "bookId": 174,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8764,
+    "bookId": 206,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8765,
+    "bookId": 189,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8766,
+    "bookId": 152,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8767,
+    "bookId": 53,
+    "readerId": 184,
+    "rating": 1
+  },
+  {
+    "id": 8768,
+    "bookId": 108,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8769,
+    "bookId": 113,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8770,
+    "bookId": 169,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8771,
+    "bookId": 203,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8772,
+    "bookId": 106,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8773,
+    "bookId": 123,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8774,
+    "bookId": 49,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8775,
+    "bookId": 191,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8776,
+    "bookId": 127,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8777,
+    "bookId": 178,
+    "readerId": 184,
+    "rating": 5
+  },
+  {
+    "id": 8778,
+    "bookId": 90,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8779,
+    "bookId": 73,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8780,
+    "bookId": 163,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8781,
+    "bookId": 190,
+    "readerId": 184,
+    "rating": 2
+  },
+  {
+    "id": 8782,
+    "bookId": 183,
+    "readerId": 184,
+    "rating": 4
+  },
+  {
+    "id": 8783,
+    "bookId": 57,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8784,
+    "bookId": 55,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8785,
+    "bookId": 182,
+    "readerId": 184,
+    "rating": 3
+  },
+  {
+    "id": 8786,
+    "bookId": 19,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8787,
+    "bookId": 92,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8788,
+    "bookId": 88,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8789,
+    "bookId": 74,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8790,
+    "bookId": 205,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8791,
+    "bookId": 66,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8792,
+    "bookId": 91,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8793,
+    "bookId": 90,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8794,
+    "bookId": 77,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8795,
+    "bookId": 109,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8796,
+    "bookId": 49,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8797,
+    "bookId": 86,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8798,
+    "bookId": 58,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8799,
+    "bookId": 81,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8800,
+    "bookId": 64,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8801,
+    "bookId": 192,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8802,
+    "bookId": 101,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8803,
+    "bookId": 73,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8804,
+    "bookId": 76,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8805,
+    "bookId": 18,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8806,
+    "bookId": 175,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8807,
+    "bookId": 85,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8808,
+    "bookId": 65,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8809,
+    "bookId": 59,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8810,
+    "bookId": 176,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8811,
+    "bookId": 78,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8812,
+    "bookId": 126,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8813,
+    "bookId": 87,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8814,
+    "bookId": 50,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8815,
+    "bookId": 72,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8816,
+    "bookId": 60,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8817,
+    "bookId": 8,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8818,
+    "bookId": 52,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8819,
+    "bookId": 71,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8820,
+    "bookId": 93,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8821,
+    "bookId": 45,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8822,
+    "bookId": 203,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8823,
+    "bookId": 201,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8824,
+    "bookId": 62,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8825,
+    "bookId": 82,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8826,
+    "bookId": 69,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8827,
+    "bookId": 89,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8828,
+    "bookId": 56,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8829,
+    "bookId": 48,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8830,
+    "bookId": 95,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8831,
+    "bookId": 47,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8832,
+    "bookId": 80,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8833,
+    "bookId": 53,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8834,
+    "bookId": 54,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8835,
+    "bookId": 51,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8836,
+    "bookId": 70,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8837,
+    "bookId": 94,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8838,
+    "bookId": 57,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8839,
+    "bookId": 75,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8840,
+    "bookId": 84,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8841,
+    "bookId": 67,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8842,
+    "bookId": 157,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8843,
+    "bookId": 63,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8844,
+    "bookId": 61,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8845,
+    "bookId": 15,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8846,
+    "bookId": 135,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8847,
+    "bookId": 55,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8848,
+    "bookId": 68,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8849,
+    "bookId": 83,
+    "readerId": 185,
+    "rating": 5
+  },
+  {
+    "id": 8850,
+    "bookId": 22,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8851,
+    "bookId": 79,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8852,
+    "bookId": 134,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8853,
+    "bookId": 151,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8854,
+    "bookId": 141,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8855,
+    "bookId": 3,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8856,
+    "bookId": 10,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8857,
+    "bookId": 147,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8858,
+    "bookId": 145,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8859,
+    "bookId": 158,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8860,
+    "bookId": 150,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8861,
+    "bookId": 148,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8862,
+    "bookId": 182,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8863,
+    "bookId": 206,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8864,
+    "bookId": 113,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8865,
+    "bookId": 187,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8866,
+    "bookId": 204,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8867,
+    "bookId": 96,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8868,
+    "bookId": 25,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8869,
+    "bookId": 202,
+    "readerId": 185,
+    "rating": 2
+  },
+  {
+    "id": 8870,
+    "bookId": 144,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8871,
+    "bookId": 195,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8872,
+    "bookId": 46,
+    "readerId": 185,
+    "rating": 3
+  },
+  {
+    "id": 8873,
+    "bookId": 163,
+    "readerId": 185,
+    "rating": 1
+  },
+  {
+    "id": 8874,
+    "bookId": 142,
+    "readerId": 185,
+    "rating": 4
+  },
+  {
+    "id": 8875,
+    "bookId": 81,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8876,
+    "bookId": 168,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8877,
+    "bookId": 104,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8878,
+    "bookId": 110,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8879,
+    "bookId": 136,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8880,
+    "bookId": 132,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8881,
+    "bookId": 77,
+    "readerId": 186,
+    "rating": 1
+  },
+  {
+    "id": 8882,
+    "bookId": 131,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8883,
+    "bookId": 111,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8884,
+    "bookId": 107,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8885,
+    "bookId": 134,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8886,
+    "bookId": 14,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8887,
+    "bookId": 15,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8888,
+    "bookId": 112,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8889,
+    "bookId": 59,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8890,
+    "bookId": 36,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8891,
+    "bookId": 120,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8892,
+    "bookId": 87,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8893,
+    "bookId": 139,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8894,
+    "bookId": 133,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8895,
+    "bookId": 130,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8896,
+    "bookId": 125,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8897,
+    "bookId": 122,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8898,
+    "bookId": 127,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8899,
+    "bookId": 129,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8900,
+    "bookId": 101,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8901,
+    "bookId": 117,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8902,
+    "bookId": 118,
+    "readerId": 186,
+    "rating": 1
+  },
+  {
+    "id": 8903,
+    "bookId": 128,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8904,
+    "bookId": 115,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8905,
+    "bookId": 106,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8906,
+    "bookId": 196,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8907,
+    "bookId": 99,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8908,
+    "bookId": 109,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8909,
+    "bookId": 124,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8910,
+    "bookId": 116,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8911,
+    "bookId": 98,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8912,
+    "bookId": 123,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8913,
+    "bookId": 40,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8914,
+    "bookId": 188,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8915,
+    "bookId": 97,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8916,
+    "bookId": 71,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8917,
+    "bookId": 195,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8918,
+    "bookId": 42,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8919,
+    "bookId": 85,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8920,
+    "bookId": 119,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8921,
+    "bookId": 113,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8922,
+    "bookId": 135,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8923,
+    "bookId": 103,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8924,
+    "bookId": 100,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8925,
+    "bookId": 148,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8926,
+    "bookId": 105,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8927,
+    "bookId": 126,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8928,
+    "bookId": 54,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8929,
+    "bookId": 207,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8930,
+    "bookId": 102,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8931,
+    "bookId": 108,
+    "readerId": 186,
+    "rating": 5
+  },
+  {
+    "id": 8932,
+    "bookId": 137,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8933,
+    "bookId": 31,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8934,
+    "bookId": 121,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8935,
+    "bookId": 114,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8936,
+    "bookId": 138,
+    "readerId": 186,
+    "rating": 4
+  },
+  {
+    "id": 8937,
+    "bookId": 12,
+    "readerId": 186,
+    "rating": 3
+  },
+  {
+    "id": 8938,
+    "bookId": 96,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8939,
+    "bookId": 177,
+    "readerId": 186,
+    "rating": 2
+  },
+  {
+    "id": 8940,
+    "bookId": 11,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8941,
+    "bookId": 30,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8942,
+    "bookId": 119,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8943,
+    "bookId": 17,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8944,
+    "bookId": 7,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8945,
+    "bookId": 45,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8946,
+    "bookId": 1,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8947,
+    "bookId": 46,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8948,
+    "bookId": 88,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8949,
+    "bookId": 137,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8950,
+    "bookId": 127,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8951,
+    "bookId": 31,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8952,
+    "bookId": 16,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8953,
+    "bookId": 44,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8954,
+    "bookId": 23,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8955,
+    "bookId": 148,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8956,
+    "bookId": 37,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8957,
+    "bookId": 4,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 8958,
+    "bookId": 36,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8959,
+    "bookId": 14,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8960,
+    "bookId": 34,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8961,
+    "bookId": 10,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8962,
+    "bookId": 35,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8963,
+    "bookId": 41,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8964,
+    "bookId": 6,
+    "readerId": 187,
+    "rating": 1
+  },
+  {
+    "id": 8965,
+    "bookId": 25,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8966,
+    "bookId": 33,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8967,
+    "bookId": 202,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8968,
+    "bookId": 2,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8969,
+    "bookId": 175,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8970,
+    "bookId": 3,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8971,
+    "bookId": 21,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8972,
+    "bookId": 13,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8973,
+    "bookId": 27,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8974,
+    "bookId": 78,
+    "readerId": 187,
+    "rating": 1
+  },
+  {
+    "id": 8975,
+    "bookId": 116,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 8976,
+    "bookId": 5,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8977,
+    "bookId": 29,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8978,
+    "bookId": 167,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 8979,
+    "bookId": 38,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8980,
+    "bookId": 8,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8981,
+    "bookId": 125,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8982,
+    "bookId": 43,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8983,
+    "bookId": 32,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8984,
+    "bookId": 9,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8985,
+    "bookId": 12,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8986,
+    "bookId": 18,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8987,
+    "bookId": 146,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8988,
+    "bookId": 22,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8989,
+    "bookId": 26,
+    "readerId": 187,
+    "rating": 1
+  },
+  {
+    "id": 8990,
+    "bookId": 39,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 8991,
+    "bookId": 19,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8992,
+    "bookId": 20,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8993,
+    "bookId": 28,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8994,
+    "bookId": 200,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8995,
+    "bookId": 40,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8996,
+    "bookId": 107,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 8997,
+    "bookId": 192,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 8998,
+    "bookId": 205,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 8999,
+    "bookId": 42,
+    "readerId": 187,
+    "rating": 1
+  },
+  {
+    "id": 9000,
+    "bookId": 15,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9001,
+    "bookId": 24,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9002,
+    "bookId": 185,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9003,
+    "bookId": 170,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9004,
+    "bookId": 47,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9005,
+    "bookId": 61,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9006,
+    "bookId": 103,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9007,
+    "bookId": 97,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9008,
+    "bookId": 166,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9009,
+    "bookId": 128,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9010,
+    "bookId": 204,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9011,
+    "bookId": 74,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9012,
+    "bookId": 131,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9013,
+    "bookId": 91,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9014,
+    "bookId": 159,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9015,
+    "bookId": 168,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9016,
+    "bookId": 141,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9017,
+    "bookId": 154,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9018,
+    "bookId": 130,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9019,
+    "bookId": 79,
+    "readerId": 187,
+    "rating": 5
+  },
+  {
+    "id": 9020,
+    "bookId": 109,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9021,
+    "bookId": 73,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9022,
+    "bookId": 123,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9023,
+    "bookId": 83,
+    "readerId": 187,
+    "rating": 1
+  },
+  {
+    "id": 9024,
+    "bookId": 55,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9025,
+    "bookId": 173,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9026,
+    "bookId": 129,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9027,
+    "bookId": 120,
+    "readerId": 187,
+    "rating": 1
+  },
+  {
+    "id": 9028,
+    "bookId": 102,
+    "readerId": 187,
+    "rating": 1
+  },
+  {
+    "id": 9029,
+    "bookId": 138,
+    "readerId": 187,
+    "rating": 3
+  },
+  {
+    "id": 9030,
+    "bookId": 174,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9031,
+    "bookId": 150,
+    "readerId": 187,
+    "rating": 2
+  },
+  {
+    "id": 9032,
+    "bookId": 160,
+    "readerId": 187,
+    "rating": 4
+  },
+  {
+    "id": 9033,
+    "bookId": 85,
+    "readerId": 188,
+    "rating": 5
+  },
+  {
+    "id": 9034,
+    "bookId": 64,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9035,
+    "bookId": 73,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9036,
+    "bookId": 79,
+    "readerId": 188,
+    "rating": 1
+  },
+  {
+    "id": 9037,
+    "bookId": 69,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9038,
+    "bookId": 77,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9039,
+    "bookId": 78,
+    "readerId": 188,
+    "rating": 1
+  },
+  {
+    "id": 9040,
+    "bookId": 89,
+    "readerId": 188,
+    "rating": 3
+  },
+  {
+    "id": 9041,
+    "bookId": 81,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9042,
+    "bookId": 9,
+    "readerId": 188,
+    "rating": 2
+  },
+  {
+    "id": 9043,
+    "bookId": 82,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9044,
+    "bookId": 20,
+    "readerId": 188,
+    "rating": 3
+  },
+  {
+    "id": 9045,
+    "bookId": 39,
+    "readerId": 188,
+    "rating": 2
+  },
+  {
+    "id": 9046,
+    "bookId": 129,
+    "readerId": 188,
+    "rating": 5
+  },
+  {
+    "id": 9047,
+    "bookId": 52,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9048,
+    "bookId": 67,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9049,
+    "bookId": 65,
+    "readerId": 188,
+    "rating": 5
+  },
+  {
+    "id": 9050,
+    "bookId": 55,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9051,
+    "bookId": 56,
+    "readerId": 188,
+    "rating": 5
+  },
+  {
+    "id": 9052,
+    "bookId": 207,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9053,
+    "bookId": 75,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9054,
+    "bookId": 84,
+    "readerId": 188,
+    "rating": 3
+  },
+  {
+    "id": 9055,
+    "bookId": 62,
+    "readerId": 188,
+    "rating": 3
+  },
+  {
+    "id": 9056,
+    "bookId": 76,
+    "readerId": 188,
+    "rating": 3
+  },
+  {
+    "id": 9057,
+    "bookId": 58,
+    "readerId": 188,
+    "rating": 1
+  },
+  {
+    "id": 9058,
+    "bookId": 19,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9059,
+    "bookId": 83,
+    "readerId": 188,
+    "rating": 5
+  },
+  {
+    "id": 9060,
+    "bookId": 59,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9061,
+    "bookId": 32,
+    "readerId": 188,
+    "rating": 3
+  },
+  {
+    "id": 9062,
+    "bookId": 47,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9063,
+    "bookId": 50,
+    "readerId": 188,
+    "rating": 3
+  },
+  {
+    "id": 9064,
+    "bookId": 57,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9065,
+    "bookId": 2,
+    "readerId": 188,
+    "rating": 2
+  },
+  {
+    "id": 9066,
+    "bookId": 95,
+    "readerId": 188,
+    "rating": 4
+  },
+  {
+    "id": 9067,
+    "bookId": 198,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9068,
+    "bookId": 190,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9069,
+    "bookId": 189,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9070,
+    "bookId": 206,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9071,
+    "bookId": 14,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9072,
+    "bookId": 113,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9073,
+    "bookId": 24,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9074,
+    "bookId": 201,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9075,
+    "bookId": 179,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9076,
+    "bookId": 192,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9077,
+    "bookId": 183,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9078,
+    "bookId": 202,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9079,
+    "bookId": 133,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9080,
+    "bookId": 172,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9081,
+    "bookId": 100,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9082,
+    "bookId": 159,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9083,
+    "bookId": 52,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9084,
+    "bookId": 203,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9085,
+    "bookId": 70,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9086,
+    "bookId": 175,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9087,
+    "bookId": 169,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9088,
+    "bookId": 187,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9089,
+    "bookId": 40,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9090,
+    "bookId": 76,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9091,
+    "bookId": 112,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9092,
+    "bookId": 194,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9093,
+    "bookId": 181,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9094,
+    "bookId": 171,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9095,
+    "bookId": 204,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9096,
+    "bookId": 174,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9097,
+    "bookId": 177,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9098,
+    "bookId": 178,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9099,
+    "bookId": 176,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9100,
+    "bookId": 51,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9101,
+    "bookId": 207,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9102,
+    "bookId": 197,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9103,
+    "bookId": 195,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9104,
+    "bookId": 186,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9105,
+    "bookId": 180,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9106,
+    "bookId": 199,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9107,
+    "bookId": 170,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9108,
+    "bookId": 200,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9109,
+    "bookId": 196,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9110,
+    "bookId": 33,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9111,
+    "bookId": 134,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9112,
+    "bookId": 182,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9113,
+    "bookId": 173,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9114,
+    "bookId": 185,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9115,
+    "bookId": 188,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9116,
+    "bookId": 162,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9117,
+    "bookId": 191,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9118,
+    "bookId": 184,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9119,
+    "bookId": 56,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9120,
+    "bookId": 193,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9121,
+    "bookId": 205,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9122,
+    "bookId": 80,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9123,
+    "bookId": 7,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9124,
+    "bookId": 121,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9125,
+    "bookId": 119,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9126,
+    "bookId": 166,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9127,
+    "bookId": 123,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9128,
+    "bookId": 63,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9129,
+    "bookId": 79,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9130,
+    "bookId": 9,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9131,
+    "bookId": 139,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9132,
+    "bookId": 142,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9133,
+    "bookId": 8,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9134,
+    "bookId": 61,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9135,
+    "bookId": 69,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9136,
+    "bookId": 4,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9137,
+    "bookId": 58,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9138,
+    "bookId": 92,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9139,
+    "bookId": 55,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9140,
+    "bookId": 17,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9141,
+    "bookId": 94,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9142,
+    "bookId": 49,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9143,
+    "bookId": 157,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9144,
+    "bookId": 128,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9145,
+    "bookId": 42,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9146,
+    "bookId": 36,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9147,
+    "bookId": 90,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9148,
+    "bookId": 93,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9149,
+    "bookId": 45,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9150,
+    "bookId": 27,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9151,
+    "bookId": 84,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9152,
+    "bookId": 75,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9153,
+    "bookId": 2,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9154,
+    "bookId": 71,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9155,
+    "bookId": 3,
+    "readerId": 189,
+    "rating": 5
+  },
+  {
+    "id": 9156,
+    "bookId": 77,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9157,
+    "bookId": 114,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9158,
+    "bookId": 67,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9159,
+    "bookId": 124,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9160,
+    "bookId": 101,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9161,
+    "bookId": 145,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9162,
+    "bookId": 32,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9163,
+    "bookId": 83,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9164,
+    "bookId": 129,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9165,
+    "bookId": 38,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9166,
+    "bookId": 118,
+    "readerId": 189,
+    "rating": 1
+  },
+  {
+    "id": 9167,
+    "bookId": 68,
+    "readerId": 189,
+    "rating": 3
+  },
+  {
+    "id": 9168,
+    "bookId": 25,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9169,
+    "bookId": 102,
+    "readerId": 189,
+    "rating": 4
+  },
+  {
+    "id": 9170,
+    "bookId": 28,
+    "readerId": 189,
+    "rating": 2
+  },
+  {
+    "id": 9171,
+    "bookId": 84,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9172,
+    "bookId": 190,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9173,
+    "bookId": 186,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9174,
+    "bookId": 179,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9175,
+    "bookId": 14,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9176,
+    "bookId": 187,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9177,
+    "bookId": 181,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9178,
+    "bookId": 188,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9179,
+    "bookId": 156,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9180,
+    "bookId": 205,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9181,
+    "bookId": 175,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9182,
+    "bookId": 172,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9183,
+    "bookId": 67,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9184,
+    "bookId": 196,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9185,
+    "bookId": 73,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9186,
+    "bookId": 12,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9187,
+    "bookId": 169,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9188,
+    "bookId": 31,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9189,
+    "bookId": 180,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9190,
+    "bookId": 135,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9191,
+    "bookId": 198,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9192,
+    "bookId": 184,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9193,
+    "bookId": 174,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9194,
+    "bookId": 51,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9195,
+    "bookId": 199,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9196,
+    "bookId": 98,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9197,
+    "bookId": 183,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9198,
+    "bookId": 97,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9199,
+    "bookId": 178,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9200,
+    "bookId": 173,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9201,
+    "bookId": 185,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9202,
+    "bookId": 197,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9203,
+    "bookId": 16,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9204,
+    "bookId": 177,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9205,
+    "bookId": 1,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9206,
+    "bookId": 192,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9207,
+    "bookId": 128,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9208,
+    "bookId": 116,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9209,
+    "bookId": 195,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9210,
+    "bookId": 171,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9211,
+    "bookId": 134,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9212,
+    "bookId": 203,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9213,
+    "bookId": 202,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9214,
+    "bookId": 191,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9215,
+    "bookId": 193,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9216,
+    "bookId": 206,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9217,
+    "bookId": 170,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9218,
+    "bookId": 148,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9219,
+    "bookId": 207,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9220,
+    "bookId": 54,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9221,
+    "bookId": 189,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9222,
+    "bookId": 176,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9223,
+    "bookId": 201,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9224,
+    "bookId": 194,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9225,
+    "bookId": 204,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9226,
+    "bookId": 182,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9227,
+    "bookId": 19,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9228,
+    "bookId": 200,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9229,
+    "bookId": 89,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9230,
+    "bookId": 158,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9231,
+    "bookId": 70,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9232,
+    "bookId": 136,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9233,
+    "bookId": 36,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9234,
+    "bookId": 141,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9235,
+    "bookId": 66,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9236,
+    "bookId": 42,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9237,
+    "bookId": 23,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9238,
+    "bookId": 110,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9239,
+    "bookId": 65,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9240,
+    "bookId": 108,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9241,
+    "bookId": 152,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9242,
+    "bookId": 163,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9243,
+    "bookId": 115,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9244,
+    "bookId": 79,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9245,
+    "bookId": 50,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9246,
+    "bookId": 104,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9247,
+    "bookId": 118,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9248,
+    "bookId": 126,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9249,
+    "bookId": 129,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9250,
+    "bookId": 154,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9251,
+    "bookId": 102,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9252,
+    "bookId": 76,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9253,
+    "bookId": 74,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9254,
+    "bookId": 44,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9255,
+    "bookId": 6,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9256,
+    "bookId": 109,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9257,
+    "bookId": 5,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9258,
+    "bookId": 140,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9259,
+    "bookId": 143,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9260,
+    "bookId": 35,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9261,
+    "bookId": 26,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9262,
+    "bookId": 59,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9263,
+    "bookId": 29,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9264,
+    "bookId": 61,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9265,
+    "bookId": 90,
+    "readerId": 190,
+    "rating": 4
+  },
+  {
+    "id": 9266,
+    "bookId": 39,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9267,
+    "bookId": 133,
+    "readerId": 190,
+    "rating": 2
+  },
+  {
+    "id": 9268,
+    "bookId": 117,
+    "readerId": 190,
+    "rating": 1
+  },
+  {
+    "id": 9269,
+    "bookId": 122,
+    "readerId": 190,
+    "rating": 5
+  },
+  {
+    "id": 9270,
+    "bookId": 127,
+    "readerId": 190,
+    "rating": 3
+  },
+  {
+    "id": 9271,
+    "bookId": 180,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9272,
+    "bookId": 28,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9273,
+    "bookId": 26,
+    "readerId": 191,
+    "rating": 1
+  },
+  {
+    "id": 9274,
+    "bookId": 30,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9275,
+    "bookId": 19,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9276,
+    "bookId": 38,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9277,
+    "bookId": 40,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9278,
+    "bookId": 36,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9279,
+    "bookId": 14,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9280,
+    "bookId": 41,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9281,
+    "bookId": 2,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9282,
+    "bookId": 136,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9283,
+    "bookId": 45,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9284,
+    "bookId": 22,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9285,
+    "bookId": 34,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9286,
+    "bookId": 123,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9287,
+    "bookId": 21,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9288,
+    "bookId": 93,
+    "readerId": 191,
+    "rating": 1
+  },
+  {
+    "id": 9289,
+    "bookId": 35,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9290,
+    "bookId": 16,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9291,
+    "bookId": 124,
+    "readerId": 191,
+    "rating": 2
+  },
+  {
+    "id": 9292,
+    "bookId": 7,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9293,
+    "bookId": 132,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9294,
+    "bookId": 27,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9295,
+    "bookId": 1,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9296,
+    "bookId": 8,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9297,
+    "bookId": 9,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9298,
+    "bookId": 150,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9299,
+    "bookId": 32,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9300,
+    "bookId": 13,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9301,
+    "bookId": 15,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9302,
+    "bookId": 117,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9303,
+    "bookId": 23,
+    "readerId": 191,
+    "rating": 2
+  },
+  {
+    "id": 9304,
+    "bookId": 24,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9305,
+    "bookId": 37,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9306,
+    "bookId": 44,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9307,
+    "bookId": 109,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9308,
+    "bookId": 43,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9309,
+    "bookId": 4,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9310,
+    "bookId": 17,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9311,
+    "bookId": 92,
+    "readerId": 191,
+    "rating": 2
+  },
+  {
+    "id": 9312,
+    "bookId": 6,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9313,
+    "bookId": 42,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9314,
+    "bookId": 10,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9315,
+    "bookId": 149,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9316,
+    "bookId": 60,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9317,
+    "bookId": 3,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9318,
+    "bookId": 166,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9319,
+    "bookId": 111,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9320,
+    "bookId": 5,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9321,
+    "bookId": 39,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9322,
+    "bookId": 72,
+    "readerId": 191,
+    "rating": 1
+  },
+  {
+    "id": 9323,
+    "bookId": 29,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9324,
+    "bookId": 12,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9325,
+    "bookId": 161,
+    "readerId": 191,
+    "rating": 2
+  },
+  {
+    "id": 9326,
+    "bookId": 11,
+    "readerId": 191,
+    "rating": 1
+  },
+  {
+    "id": 9327,
+    "bookId": 20,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9328,
+    "bookId": 25,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9329,
+    "bookId": 33,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9330,
+    "bookId": 31,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9331,
+    "bookId": 18,
+    "readerId": 191,
+    "rating": 4
+  },
+  {
+    "id": 9332,
+    "bookId": 46,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9333,
+    "bookId": 173,
+    "readerId": 191,
+    "rating": 1
+  },
+  {
+    "id": 9334,
+    "bookId": 79,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9335,
+    "bookId": 50,
+    "readerId": 191,
+    "rating": 1
+  },
+  {
+    "id": 9336,
+    "bookId": 181,
+    "readerId": 191,
+    "rating": 2
+  },
+  {
+    "id": 9337,
+    "bookId": 69,
+    "readerId": 191,
+    "rating": 1
+  },
+  {
+    "id": 9338,
+    "bookId": 99,
+    "readerId": 191,
+    "rating": 2
+  },
+  {
+    "id": 9339,
+    "bookId": 187,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9340,
+    "bookId": 130,
+    "readerId": 191,
+    "rating": 2
+  },
+  {
+    "id": 9341,
+    "bookId": 74,
+    "readerId": 191,
+    "rating": 5
+  },
+  {
+    "id": 9342,
+    "bookId": 81,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9343,
+    "bookId": 154,
+    "readerId": 191,
+    "rating": 3
+  },
+  {
+    "id": 9344,
+    "bookId": 59,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9345,
+    "bookId": 51,
+    "readerId": 192,
+    "rating": 3
+  },
+  {
+    "id": 9346,
+    "bookId": 54,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9347,
+    "bookId": 167,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9348,
+    "bookId": 194,
+    "readerId": 192,
+    "rating": 1
+  },
+  {
+    "id": 9349,
+    "bookId": 72,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9350,
+    "bookId": 81,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9351,
+    "bookId": 149,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9352,
+    "bookId": 1,
+    "readerId": 192,
+    "rating": 2
+  },
+  {
+    "id": 9353,
+    "bookId": 65,
+    "readerId": 192,
+    "rating": 3
+  },
+  {
+    "id": 9354,
+    "bookId": 95,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9355,
+    "bookId": 22,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9356,
+    "bookId": 165,
+    "readerId": 192,
+    "rating": 1
+  },
+  {
+    "id": 9357,
+    "bookId": 147,
+    "readerId": 192,
+    "rating": 2
+  },
+  {
+    "id": 9358,
+    "bookId": 159,
+    "readerId": 192,
+    "rating": 1
+  },
+  {
+    "id": 9359,
+    "bookId": 23,
+    "readerId": 192,
+    "rating": 3
+  },
+  {
+    "id": 9360,
+    "bookId": 145,
+    "readerId": 192,
+    "rating": 1
+  },
+  {
+    "id": 9361,
+    "bookId": 93,
+    "readerId": 192,
+    "rating": 1
+  },
+  {
+    "id": 9362,
+    "bookId": 168,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9363,
+    "bookId": 150,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9364,
+    "bookId": 75,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9365,
+    "bookId": 160,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9366,
+    "bookId": 73,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9367,
+    "bookId": 143,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9368,
+    "bookId": 166,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9369,
+    "bookId": 64,
+    "readerId": 192,
+    "rating": 3
+  },
+  {
+    "id": 9370,
+    "bookId": 153,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9371,
+    "bookId": 157,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9372,
+    "bookId": 155,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9373,
+    "bookId": 63,
+    "readerId": 192,
+    "rating": 3
+  },
+  {
+    "id": 9374,
+    "bookId": 122,
+    "readerId": 192,
+    "rating": 2
+  },
+  {
+    "id": 9375,
+    "bookId": 144,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9376,
+    "bookId": 6,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9377,
+    "bookId": 156,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9378,
+    "bookId": 80,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9379,
+    "bookId": 162,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9380,
+    "bookId": 112,
+    "readerId": 192,
+    "rating": 2
+  },
+  {
+    "id": 9381,
+    "bookId": 158,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9382,
+    "bookId": 163,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9383,
+    "bookId": 62,
+    "readerId": 192,
+    "rating": 3
+  },
+  {
+    "id": 9384,
+    "bookId": 198,
+    "readerId": 192,
+    "rating": 3
+  },
+  {
+    "id": 9385,
+    "bookId": 140,
+    "readerId": 192,
+    "rating": 5
+  },
+  {
+    "id": 9386,
+    "bookId": 96,
+    "readerId": 192,
+    "rating": 2
+  },
+  {
+    "id": 9387,
+    "bookId": 152,
+    "readerId": 192,
+    "rating": 1
+  },
+  {
+    "id": 9388,
+    "bookId": 164,
+    "readerId": 192,
+    "rating": 4
+  },
+  {
+    "id": 9389,
+    "bookId": 21,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9390,
+    "bookId": 3,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9391,
+    "bookId": 107,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9392,
+    "bookId": 40,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9393,
+    "bookId": 34,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9394,
+    "bookId": 13,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9395,
+    "bookId": 22,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9396,
+    "bookId": 114,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9397,
+    "bookId": 147,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9398,
+    "bookId": 29,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9399,
+    "bookId": 19,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9400,
+    "bookId": 35,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9401,
+    "bookId": 30,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9402,
+    "bookId": 58,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9403,
+    "bookId": 44,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9404,
+    "bookId": 189,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9405,
+    "bookId": 33,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9406,
+    "bookId": 141,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9407,
+    "bookId": 28,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9408,
+    "bookId": 159,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9409,
+    "bookId": 46,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9410,
+    "bookId": 12,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9411,
+    "bookId": 11,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9412,
+    "bookId": 129,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9413,
+    "bookId": 8,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9414,
+    "bookId": 199,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9415,
+    "bookId": 20,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9416,
+    "bookId": 31,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9417,
+    "bookId": 188,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9418,
+    "bookId": 6,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9419,
+    "bookId": 43,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9420,
+    "bookId": 23,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9421,
+    "bookId": 1,
+    "readerId": 193,
+    "rating": 1
+  },
+  {
+    "id": 9422,
+    "bookId": 122,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9423,
+    "bookId": 4,
+    "readerId": 193,
+    "rating": 1
+  },
+  {
+    "id": 9424,
+    "bookId": 14,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9425,
+    "bookId": 26,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9426,
+    "bookId": 45,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9427,
+    "bookId": 15,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9428,
+    "bookId": 24,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9429,
+    "bookId": 27,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9430,
+    "bookId": 17,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9431,
+    "bookId": 36,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9432,
+    "bookId": 5,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9433,
+    "bookId": 42,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9434,
+    "bookId": 16,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9435,
+    "bookId": 2,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9436,
+    "bookId": 18,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9437,
+    "bookId": 41,
+    "readerId": 193,
+    "rating": 1
+  },
+  {
+    "id": 9438,
+    "bookId": 32,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9439,
+    "bookId": 38,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9440,
+    "bookId": 37,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9441,
+    "bookId": 64,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9442,
+    "bookId": 144,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9443,
+    "bookId": 7,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9444,
+    "bookId": 39,
+    "readerId": 193,
+    "rating": 5
+  },
+  {
+    "id": 9445,
+    "bookId": 84,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9446,
+    "bookId": 97,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9447,
+    "bookId": 125,
+    "readerId": 193,
+    "rating": 1
+  },
+  {
+    "id": 9448,
+    "bookId": 25,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9449,
+    "bookId": 10,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9450,
+    "bookId": 47,
+    "readerId": 193,
+    "rating": 1
+  },
+  {
+    "id": 9451,
+    "bookId": 9,
+    "readerId": 193,
+    "rating": 1
+  },
+  {
+    "id": 9452,
+    "bookId": 168,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9453,
+    "bookId": 181,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9454,
+    "bookId": 62,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9455,
+    "bookId": 146,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9456,
+    "bookId": 98,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9457,
+    "bookId": 69,
+    "readerId": 193,
+    "rating": 1
+  },
+  {
+    "id": 9458,
+    "bookId": 158,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9459,
+    "bookId": 177,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9460,
+    "bookId": 145,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9461,
+    "bookId": 95,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9462,
+    "bookId": 148,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9463,
+    "bookId": 186,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9464,
+    "bookId": 178,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9465,
+    "bookId": 57,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9466,
+    "bookId": 80,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9467,
+    "bookId": 131,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9468,
+    "bookId": 130,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9469,
+    "bookId": 207,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9470,
+    "bookId": 174,
+    "readerId": 193,
+    "rating": 4
+  },
+  {
+    "id": 9471,
+    "bookId": 93,
+    "readerId": 193,
+    "rating": 2
+  },
+  {
+    "id": 9472,
+    "bookId": 133,
+    "readerId": 193,
+    "rating": 3
+  },
+  {
+    "id": 9473,
+    "bookId": 189,
+    "readerId": 194,
+    "rating": 4
+  },
+  {
+    "id": 9474,
+    "bookId": 74,
+    "readerId": 194,
+    "rating": 3
+  },
+  {
+    "id": 9475,
+    "bookId": 42,
+    "readerId": 194,
+    "rating": 1
+  },
+  {
+    "id": 9476,
+    "bookId": 149,
+    "readerId": 194,
+    "rating": 1
+  },
+  {
+    "id": 9477,
+    "bookId": 132,
+    "readerId": 194,
+    "rating": 3
+  },
+  {
+    "id": 9478,
+    "bookId": 121,
+    "readerId": 194,
+    "rating": 3
+  },
+  {
+    "id": 9479,
+    "bookId": 13,
+    "readerId": 194,
+    "rating": 1
+  },
+  {
+    "id": 9480,
+    "bookId": 65,
+    "readerId": 194,
+    "rating": 1
+  },
+  {
+    "id": 9481,
+    "bookId": 153,
+    "readerId": 194,
+    "rating": 5
+  },
+  {
+    "id": 9482,
+    "bookId": 126,
+    "readerId": 194,
+    "rating": 3
+  },
+  {
+    "id": 9483,
+    "bookId": 137,
+    "readerId": 194,
+    "rating": 2
+  },
+  {
+    "id": 9484,
+    "bookId": 130,
+    "readerId": 194,
+    "rating": 4
+  },
+  {
+    "id": 9485,
+    "bookId": 128,
+    "readerId": 194,
+    "rating": 2
+  },
+  {
+    "id": 9486,
+    "bookId": 192,
+    "readerId": 194,
+    "rating": 3
+  },
+  {
+    "id": 9487,
+    "bookId": 52,
+    "readerId": 194,
+    "rating": 1
+  },
+  {
+    "id": 9488,
+    "bookId": 143,
+    "readerId": 194,
+    "rating": 4
+  },
+  {
+    "id": 9489,
+    "bookId": 166,
+    "readerId": 194,
+    "rating": 4
+  },
+  {
+    "id": 9490,
+    "bookId": 59,
+    "readerId": 194,
+    "rating": 5
+  },
+  {
+    "id": 9491,
+    "bookId": 60,
+    "readerId": 194,
+    "rating": 4
+  },
+  {
+    "id": 9492,
+    "bookId": 15,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9493,
+    "bookId": 145,
+    "readerId": 195,
+    "rating": 2
+  },
+  {
+    "id": 9494,
+    "bookId": 2,
+    "readerId": 195,
+    "rating": 5
+  },
+  {
+    "id": 9495,
+    "bookId": 29,
+    "readerId": 195,
+    "rating": 5
+  },
+  {
+    "id": 9496,
+    "bookId": 1,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9497,
+    "bookId": 18,
+    "readerId": 195,
+    "rating": 5
+  },
+  {
+    "id": 9498,
+    "bookId": 27,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9499,
+    "bookId": 25,
+    "readerId": 195,
+    "rating": 3
+  },
+  {
+    "id": 9500,
+    "bookId": 189,
+    "readerId": 195,
+    "rating": 5
+  },
+  {
+    "id": 9501,
+    "bookId": 124,
+    "readerId": 195,
+    "rating": 3
+  },
+  {
+    "id": 9502,
+    "bookId": 22,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9503,
+    "bookId": 202,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9504,
+    "bookId": 37,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9505,
+    "bookId": 8,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9506,
+    "bookId": 44,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9507,
+    "bookId": 33,
+    "readerId": 195,
+    "rating": 3
+  },
+  {
+    "id": 9508,
+    "bookId": 45,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9509,
+    "bookId": 6,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9510,
+    "bookId": 140,
+    "readerId": 195,
+    "rating": 4
+  },
+  {
+    "id": 9511,
+    "bookId": 148,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9512,
+    "bookId": 159,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9513,
+    "bookId": 75,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9514,
+    "bookId": 182,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9515,
+    "bookId": 152,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9516,
+    "bookId": 149,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9517,
+    "bookId": 85,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9518,
+    "bookId": 144,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9519,
+    "bookId": 91,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9520,
+    "bookId": 82,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9521,
+    "bookId": 155,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9522,
+    "bookId": 14,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9523,
+    "bookId": 72,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9524,
+    "bookId": 146,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9525,
+    "bookId": 161,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9526,
+    "bookId": 41,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9527,
+    "bookId": 67,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9528,
+    "bookId": 203,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9529,
+    "bookId": 191,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9530,
+    "bookId": 143,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9531,
+    "bookId": 165,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9532,
+    "bookId": 71,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9533,
+    "bookId": 89,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9534,
+    "bookId": 196,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9535,
+    "bookId": 63,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9536,
+    "bookId": 65,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9537,
+    "bookId": 68,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9538,
+    "bookId": 95,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9539,
+    "bookId": 81,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9540,
+    "bookId": 153,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9541,
+    "bookId": 150,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9542,
+    "bookId": 52,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9543,
+    "bookId": 167,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9544,
+    "bookId": 198,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9545,
+    "bookId": 177,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9546,
+    "bookId": 134,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9547,
+    "bookId": 183,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9548,
+    "bookId": 164,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9549,
+    "bookId": 87,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9550,
+    "bookId": 121,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9551,
+    "bookId": 125,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9552,
+    "bookId": 163,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9553,
+    "bookId": 151,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9554,
+    "bookId": 93,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9555,
+    "bookId": 168,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9556,
+    "bookId": 74,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9557,
+    "bookId": 97,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9558,
+    "bookId": 158,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9559,
+    "bookId": 147,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9560,
+    "bookId": 32,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9561,
+    "bookId": 156,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9562,
+    "bookId": 80,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9563,
+    "bookId": 166,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9564,
+    "bookId": 59,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9565,
+    "bookId": 140,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9566,
+    "bookId": 162,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9567,
+    "bookId": 76,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9568,
+    "bookId": 142,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9569,
+    "bookId": 145,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9570,
+    "bookId": 141,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9571,
+    "bookId": 157,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9572,
+    "bookId": 73,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9573,
+    "bookId": 37,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9574,
+    "bookId": 154,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9575,
+    "bookId": 61,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9576,
+    "bookId": 130,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9577,
+    "bookId": 54,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9578,
+    "bookId": 51,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9579,
+    "bookId": 90,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9580,
+    "bookId": 92,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9581,
+    "bookId": 132,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9582,
+    "bookId": 160,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9583,
+    "bookId": 172,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9584,
+    "bookId": 128,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9585,
+    "bookId": 2,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9586,
+    "bookId": 21,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9587,
+    "bookId": 55,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9588,
+    "bookId": 187,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9589,
+    "bookId": 127,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9590,
+    "bookId": 205,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9591,
+    "bookId": 26,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9592,
+    "bookId": 175,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9593,
+    "bookId": 197,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9594,
+    "bookId": 35,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9595,
+    "bookId": 171,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9596,
+    "bookId": 104,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9597,
+    "bookId": 66,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9598,
+    "bookId": 1,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9599,
+    "bookId": 24,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9600,
+    "bookId": 4,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9601,
+    "bookId": 136,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9602,
+    "bookId": 15,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9603,
+    "bookId": 64,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9604,
+    "bookId": 62,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9605,
+    "bookId": 122,
+    "readerId": 196,
+    "rating": 5
+  },
+  {
+    "id": 9606,
+    "bookId": 185,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9607,
+    "bookId": 34,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9608,
+    "bookId": 42,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9609,
+    "bookId": 139,
+    "readerId": 196,
+    "rating": 3
+  },
+  {
+    "id": 9610,
+    "bookId": 112,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9611,
+    "bookId": 25,
+    "readerId": 196,
+    "rating": 2
+  },
+  {
+    "id": 9612,
+    "bookId": 86,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9613,
+    "bookId": 188,
+    "readerId": 196,
+    "rating": 4
+  },
+  {
+    "id": 9614,
+    "bookId": 131,
+    "readerId": 196,
+    "rating": 1
+  },
+  {
+    "id": 9615,
+    "bookId": 157,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9616,
+    "bookId": 144,
+    "readerId": 197,
+    "rating": 5
+  },
+  {
+    "id": 9617,
+    "bookId": 76,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9618,
+    "bookId": 74,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9619,
+    "bookId": 75,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9620,
+    "bookId": 183,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9621,
+    "bookId": 154,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9622,
+    "bookId": 59,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9623,
+    "bookId": 142,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9624,
+    "bookId": 152,
+    "readerId": 197,
+    "rating": 5
+  },
+  {
+    "id": 9625,
+    "bookId": 145,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9626,
+    "bookId": 95,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9627,
+    "bookId": 62,
+    "readerId": 197,
+    "rating": 2
+  },
+  {
+    "id": 9628,
+    "bookId": 161,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9629,
+    "bookId": 2,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9630,
+    "bookId": 80,
+    "readerId": 197,
+    "rating": 1
+  },
+  {
+    "id": 9631,
+    "bookId": 56,
+    "readerId": 197,
+    "rating": 5
+  },
+  {
+    "id": 9632,
+    "bookId": 117,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9633,
+    "bookId": 86,
+    "readerId": 197,
+    "rating": 1
+  },
+  {
+    "id": 9634,
+    "bookId": 93,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9635,
+    "bookId": 147,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9636,
+    "bookId": 143,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9637,
+    "bookId": 89,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9638,
+    "bookId": 16,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9639,
+    "bookId": 151,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9640,
+    "bookId": 148,
+    "readerId": 197,
+    "rating": 1
+  },
+  {
+    "id": 9641,
+    "bookId": 156,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9642,
+    "bookId": 65,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9643,
+    "bookId": 81,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9644,
+    "bookId": 109,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9645,
+    "bookId": 100,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9646,
+    "bookId": 163,
+    "readerId": 197,
+    "rating": 5
+  },
+  {
+    "id": 9647,
+    "bookId": 15,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9648,
+    "bookId": 166,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9649,
+    "bookId": 150,
+    "readerId": 197,
+    "rating": 5
+  },
+  {
+    "id": 9650,
+    "bookId": 153,
+    "readerId": 197,
+    "rating": 5
+  },
+  {
+    "id": 9651,
+    "bookId": 160,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9652,
+    "bookId": 167,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9653,
+    "bookId": 92,
+    "readerId": 197,
+    "rating": 5
+  },
+  {
+    "id": 9654,
+    "bookId": 87,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9655,
+    "bookId": 29,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9656,
+    "bookId": 51,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9657,
+    "bookId": 72,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9658,
+    "bookId": 155,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9659,
+    "bookId": 141,
+    "readerId": 197,
+    "rating": 2
+  },
+  {
+    "id": 9660,
+    "bookId": 58,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9661,
+    "bookId": 149,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9662,
+    "bookId": 64,
+    "readerId": 197,
+    "rating": 1
+  },
+  {
+    "id": 9663,
+    "bookId": 82,
+    "readerId": 197,
+    "rating": 4
+  },
+  {
+    "id": 9664,
+    "bookId": 97,
+    "readerId": 197,
+    "rating": 3
+  },
+  {
+    "id": 9665,
+    "bookId": 127,
+    "readerId": 198,
+    "rating": 5
+  },
+  {
+    "id": 9666,
+    "bookId": 16,
+    "readerId": 198,
+    "rating": 4
+  },
+  {
+    "id": 9667,
+    "bookId": 77,
+    "readerId": 198,
+    "rating": 3
+  },
+  {
+    "id": 9668,
+    "bookId": 105,
+    "readerId": 198,
+    "rating": 5
+  },
+  {
+    "id": 9669,
+    "bookId": 59,
+    "readerId": 198,
+    "rating": 3
+  },
+  {
+    "id": 9670,
+    "bookId": 110,
+    "readerId": 198,
+    "rating": 3
+  },
+  {
+    "id": 9671,
+    "bookId": 112,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9672,
+    "bookId": 128,
+    "readerId": 198,
+    "rating": 5
+  },
+  {
+    "id": 9673,
+    "bookId": 63,
+    "readerId": 198,
+    "rating": 3
+  },
+  {
+    "id": 9674,
+    "bookId": 83,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9675,
+    "bookId": 87,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9676,
+    "bookId": 139,
+    "readerId": 198,
+    "rating": 3
+  },
+  {
+    "id": 9677,
+    "bookId": 137,
+    "readerId": 198,
+    "rating": 4
+  },
+  {
+    "id": 9678,
+    "bookId": 99,
+    "readerId": 198,
+    "rating": 4
+  },
+  {
+    "id": 9679,
+    "bookId": 79,
+    "readerId": 198,
+    "rating": 4
+  },
+  {
+    "id": 9680,
+    "bookId": 11,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9681,
+    "bookId": 129,
+    "readerId": 198,
+    "rating": 5
+  },
+  {
+    "id": 9682,
+    "bookId": 103,
+    "readerId": 198,
+    "rating": 4
+  },
+  {
+    "id": 9683,
+    "bookId": 102,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9684,
+    "bookId": 133,
+    "readerId": 198,
+    "rating": 4
+  },
+  {
+    "id": 9685,
+    "bookId": 71,
+    "readerId": 198,
+    "rating": 5
+  },
+  {
+    "id": 9686,
+    "bookId": 146,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9687,
+    "bookId": 166,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9688,
+    "bookId": 119,
+    "readerId": 198,
+    "rating": 3
+  },
+  {
+    "id": 9689,
+    "bookId": 160,
+    "readerId": 198,
+    "rating": 2
+  },
+  {
+    "id": 9690,
+    "bookId": 161,
+    "readerId": 198,
+    "rating": 1
+  },
+  {
+    "id": 9691,
+    "bookId": 195,
+    "readerId": 199,
+    "rating": 4
+  },
+  {
+    "id": 9692,
+    "bookId": 107,
+    "readerId": 199,
+    "rating": 4
+  },
+  {
+    "id": 9693,
+    "bookId": 196,
+    "readerId": 199,
+    "rating": 4
+  },
+  {
+    "id": 9694,
+    "bookId": 5,
+    "readerId": 200,
+    "rating": 2
+  },
+  {
+    "id": 9695,
+    "bookId": 170,
+    "readerId": 200,
+    "rating": 3
+  },
+  {
+    "id": 9696,
+    "bookId": 25,
+    "readerId": 200,
+    "rating": 2
+  },
+  {
+    "id": 9697,
+    "bookId": 28,
+    "readerId": 200,
+    "rating": 4
+  },
+  {
+    "id": 9698,
+    "bookId": 44,
+    "readerId": 200,
+    "rating": 4
+  },
+  {
+    "id": 9699,
+    "bookId": 36,
+    "readerId": 200,
+    "rating": 3
+  },
+  {
+    "id": 9700,
+    "bookId": 22,
+    "readerId": 200,
+    "rating": 2
+  },
+  {
+    "id": 9701,
+    "bookId": 75,
+    "readerId": 201,
+    "rating": 5
+  },
+  {
+    "id": 9702,
+    "bookId": 95,
+    "readerId": 201,
+    "rating": 3
+  },
+  {
+    "id": 9703,
+    "bookId": 52,
+    "readerId": 201,
+    "rating": 5
+  },
+  {
+    "id": 9704,
+    "bookId": 87,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9705,
+    "bookId": 57,
+    "readerId": 201,
+    "rating": 3
+  },
+  {
+    "id": 9706,
+    "bookId": 70,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9707,
+    "bookId": 65,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9708,
+    "bookId": 36,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9709,
+    "bookId": 83,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9710,
+    "bookId": 76,
+    "readerId": 201,
+    "rating": 3
+  },
+  {
+    "id": 9711,
+    "bookId": 61,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9712,
+    "bookId": 55,
+    "readerId": 201,
+    "rating": 1
+  },
+  {
+    "id": 9713,
+    "bookId": 86,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9714,
+    "bookId": 185,
+    "readerId": 201,
+    "rating": 3
+  },
+  {
+    "id": 9715,
+    "bookId": 56,
+    "readerId": 201,
+    "rating": 5
+  },
+  {
+    "id": 9716,
+    "bookId": 63,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9717,
+    "bookId": 51,
+    "readerId": 201,
+    "rating": 3
+  },
+  {
+    "id": 9718,
+    "bookId": 50,
+    "readerId": 201,
+    "rating": 4
+  },
+  {
+    "id": 9719,
+    "bookId": 73,
+    "readerId": 201,
+    "rating": 5
+  },
+  {
+    "id": 9720,
+    "bookId": 77,
+    "readerId": 201,
+    "rating": 3
+  },
+  {
+    "id": 9721,
+    "bookId": 84,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9722,
+    "bookId": 166,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9723,
+    "bookId": 19,
+    "readerId": 202,
+    "rating": 1
+  },
+  {
+    "id": 9724,
+    "bookId": 143,
+    "readerId": 202,
+    "rating": 1
+  },
+  {
+    "id": 9725,
+    "bookId": 148,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9726,
+    "bookId": 74,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9727,
+    "bookId": 93,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9728,
+    "bookId": 181,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9729,
+    "bookId": 89,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9730,
+    "bookId": 55,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9731,
+    "bookId": 79,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9732,
+    "bookId": 96,
+    "readerId": 202,
+    "rating": 1
+  },
+  {
+    "id": 9733,
+    "bookId": 76,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9734,
+    "bookId": 71,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9735,
+    "bookId": 25,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9736,
+    "bookId": 151,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9737,
+    "bookId": 165,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9738,
+    "bookId": 173,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9739,
+    "bookId": 129,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9740,
+    "bookId": 72,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9741,
+    "bookId": 67,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9742,
+    "bookId": 75,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9743,
+    "bookId": 63,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9744,
+    "bookId": 153,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9745,
+    "bookId": 57,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9746,
+    "bookId": 70,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9747,
+    "bookId": 77,
+    "readerId": 202,
+    "rating": 1
+  },
+  {
+    "id": 9748,
+    "bookId": 86,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9749,
+    "bookId": 106,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9750,
+    "bookId": 78,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9751,
+    "bookId": 125,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9752,
+    "bookId": 52,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9753,
+    "bookId": 12,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9754,
+    "bookId": 174,
+    "readerId": 202,
+    "rating": 1
+  },
+  {
+    "id": 9755,
+    "bookId": 58,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9756,
+    "bookId": 60,
+    "readerId": 202,
+    "rating": 1
+  },
+  {
+    "id": 9757,
+    "bookId": 197,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9758,
+    "bookId": 11,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9759,
+    "bookId": 150,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9760,
+    "bookId": 59,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9761,
+    "bookId": 90,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9762,
+    "bookId": 65,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9763,
+    "bookId": 53,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9764,
+    "bookId": 94,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9765,
+    "bookId": 92,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9766,
+    "bookId": 47,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9767,
+    "bookId": 159,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9768,
+    "bookId": 80,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9769,
+    "bookId": 48,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9770,
+    "bookId": 66,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9771,
+    "bookId": 82,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9772,
+    "bookId": 73,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9773,
+    "bookId": 127,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9774,
+    "bookId": 128,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9775,
+    "bookId": 49,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9776,
+    "bookId": 37,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9777,
+    "bookId": 68,
+    "readerId": 202,
+    "rating": 1
+  },
+  {
+    "id": 9778,
+    "bookId": 152,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9779,
+    "bookId": 95,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9780,
+    "bookId": 87,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9781,
+    "bookId": 185,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9782,
+    "bookId": 91,
+    "readerId": 202,
+    "rating": 2
+  },
+  {
+    "id": 9783,
+    "bookId": 88,
+    "readerId": 202,
+    "rating": 5
+  },
+  {
+    "id": 9784,
+    "bookId": 195,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9785,
+    "bookId": 160,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9786,
+    "bookId": 54,
+    "readerId": 202,
+    "rating": 4
+  },
+  {
+    "id": 9787,
+    "bookId": 56,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9788,
+    "bookId": 107,
+    "readerId": 202,
+    "rating": 3
+  },
+  {
+    "id": 9789,
+    "bookId": 34,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9790,
+    "bookId": 17,
+    "readerId": 203,
+    "rating": 5
+  },
+  {
+    "id": 9791,
+    "bookId": 40,
+    "readerId": 203,
+    "rating": 2
+  },
+  {
+    "id": 9792,
+    "bookId": 65,
+    "readerId": 203,
+    "rating": 2
+  },
+  {
+    "id": 9793,
+    "bookId": 36,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9794,
+    "bookId": 30,
+    "readerId": 203,
+    "rating": 2
+  },
+  {
+    "id": 9795,
+    "bookId": 43,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9796,
+    "bookId": 165,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9797,
+    "bookId": 178,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9798,
+    "bookId": 127,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9799,
+    "bookId": 24,
+    "readerId": 203,
+    "rating": 5
+  },
+  {
+    "id": 9800,
+    "bookId": 26,
+    "readerId": 203,
+    "rating": 5
+  },
+  {
+    "id": 9801,
+    "bookId": 77,
+    "readerId": 203,
+    "rating": 5
+  },
+  {
+    "id": 9802,
+    "bookId": 27,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9803,
+    "bookId": 15,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9804,
+    "bookId": 12,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9805,
+    "bookId": 82,
+    "readerId": 203,
+    "rating": 2
+  },
+  {
+    "id": 9806,
+    "bookId": 21,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9807,
+    "bookId": 78,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9808,
+    "bookId": 32,
+    "readerId": 203,
+    "rating": 5
+  },
+  {
+    "id": 9809,
+    "bookId": 93,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9810,
+    "bookId": 6,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9811,
+    "bookId": 16,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9812,
+    "bookId": 2,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9813,
+    "bookId": 145,
+    "readerId": 203,
+    "rating": 2
+  },
+  {
+    "id": 9814,
+    "bookId": 29,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9815,
+    "bookId": 5,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9816,
+    "bookId": 175,
+    "readerId": 203,
+    "rating": 2
+  },
+  {
+    "id": 9817,
+    "bookId": 37,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9818,
+    "bookId": 42,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9819,
+    "bookId": 4,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9820,
+    "bookId": 55,
+    "readerId": 203,
+    "rating": 2
+  },
+  {
+    "id": 9821,
+    "bookId": 142,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9822,
+    "bookId": 39,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9823,
+    "bookId": 45,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9824,
+    "bookId": 25,
+    "readerId": 203,
+    "rating": 5
+  },
+  {
+    "id": 9825,
+    "bookId": 11,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9826,
+    "bookId": 157,
+    "readerId": 203,
+    "rating": 5
+  },
+  {
+    "id": 9827,
+    "bookId": 14,
+    "readerId": 203,
+    "rating": 3
+  },
+  {
+    "id": 9828,
+    "bookId": 44,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9829,
+    "bookId": 28,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9830,
+    "bookId": 3,
+    "readerId": 203,
+    "rating": 4
+  },
+  {
+    "id": 9831,
+    "bookId": 123,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9832,
+    "bookId": 113,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9833,
+    "bookId": 124,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9834,
+    "bookId": 56,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9835,
+    "bookId": 37,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9836,
+    "bookId": 61,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9837,
+    "bookId": 160,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9838,
+    "bookId": 101,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9839,
+    "bookId": 52,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9840,
+    "bookId": 98,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9841,
+    "bookId": 118,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9842,
+    "bookId": 133,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9843,
+    "bookId": 129,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9844,
+    "bookId": 122,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9845,
+    "bookId": 104,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9846,
+    "bookId": 99,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9847,
+    "bookId": 134,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9848,
+    "bookId": 131,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9849,
+    "bookId": 112,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9850,
+    "bookId": 117,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9851,
+    "bookId": 137,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9852,
+    "bookId": 10,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9853,
+    "bookId": 136,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9854,
+    "bookId": 138,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9855,
+    "bookId": 109,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9856,
+    "bookId": 114,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9857,
+    "bookId": 103,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9858,
+    "bookId": 125,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9859,
+    "bookId": 111,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9860,
+    "bookId": 135,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9861,
+    "bookId": 106,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9862,
+    "bookId": 100,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9863,
+    "bookId": 120,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9864,
+    "bookId": 141,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9865,
+    "bookId": 206,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9866,
+    "bookId": 116,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9867,
+    "bookId": 130,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9868,
+    "bookId": 105,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9869,
+    "bookId": 132,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9870,
+    "bookId": 110,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9871,
+    "bookId": 107,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9872,
+    "bookId": 102,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9873,
+    "bookId": 127,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9874,
+    "bookId": 115,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9875,
+    "bookId": 158,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9876,
+    "bookId": 139,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9877,
+    "bookId": 96,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9878,
+    "bookId": 126,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9879,
+    "bookId": 119,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9880,
+    "bookId": 108,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9881,
+    "bookId": 155,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9882,
+    "bookId": 168,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9883,
+    "bookId": 128,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9884,
+    "bookId": 121,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9885,
+    "bookId": 97,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9886,
+    "bookId": 156,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9887,
+    "bookId": 84,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9888,
+    "bookId": 82,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9889,
+    "bookId": 54,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9890,
+    "bookId": 15,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9891,
+    "bookId": 163,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9892,
+    "bookId": 16,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9893,
+    "bookId": 189,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9894,
+    "bookId": 192,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9895,
+    "bookId": 44,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9896,
+    "bookId": 33,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9897,
+    "bookId": 69,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9898,
+    "bookId": 38,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9899,
+    "bookId": 71,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9900,
+    "bookId": 140,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9901,
+    "bookId": 47,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9902,
+    "bookId": 183,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9903,
+    "bookId": 169,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9904,
+    "bookId": 174,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9905,
+    "bookId": 179,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9906,
+    "bookId": 35,
+    "readerId": 204,
+    "rating": 1
+  },
+  {
+    "id": 9907,
+    "bookId": 6,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9908,
+    "bookId": 151,
+    "readerId": 204,
+    "rating": 4
+  },
+  {
+    "id": 9909,
+    "bookId": 63,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9910,
+    "bookId": 67,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9911,
+    "bookId": 165,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9912,
+    "bookId": 85,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9913,
+    "bookId": 30,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9914,
+    "bookId": 57,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9915,
+    "bookId": 203,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9916,
+    "bookId": 172,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9917,
+    "bookId": 182,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9918,
+    "bookId": 13,
+    "readerId": 204,
+    "rating": 3
+  },
+  {
+    "id": 9919,
+    "bookId": 74,
+    "readerId": 204,
+    "rating": 5
+  },
+  {
+    "id": 9920,
+    "bookId": 88,
+    "readerId": 204,
+    "rating": 2
+  },
+  {
+    "id": 9921,
+    "bookId": 149,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9922,
+    "bookId": 19,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9923,
+    "bookId": 101,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9924,
+    "bookId": 59,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9925,
+    "bookId": 89,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9926,
+    "bookId": 52,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9927,
+    "bookId": 72,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9928,
+    "bookId": 184,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9929,
+    "bookId": 93,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9930,
+    "bookId": 168,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9931,
+    "bookId": 6,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9932,
+    "bookId": 157,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9933,
+    "bookId": 14,
+    "readerId": 205,
+    "rating": 2
+  },
+  {
+    "id": 9934,
+    "bookId": 80,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9935,
+    "bookId": 150,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9936,
+    "bookId": 137,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9937,
+    "bookId": 155,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9938,
+    "bookId": 33,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9939,
+    "bookId": 85,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9940,
+    "bookId": 163,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9941,
+    "bookId": 164,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9942,
+    "bookId": 2,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9943,
+    "bookId": 51,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9944,
+    "bookId": 63,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9945,
+    "bookId": 50,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9946,
+    "bookId": 100,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9947,
+    "bookId": 202,
+    "readerId": 205,
+    "rating": 2
+  },
+  {
+    "id": 9948,
+    "bookId": 144,
+    "readerId": 205,
+    "rating": 2
+  },
+  {
+    "id": 9949,
+    "bookId": 151,
+    "readerId": 205,
+    "rating": 2
+  },
+  {
+    "id": 9950,
+    "bookId": 167,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9951,
+    "bookId": 185,
+    "readerId": 205,
+    "rating": 2
+  },
+  {
+    "id": 9952,
+    "bookId": 154,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9953,
+    "bookId": 140,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9954,
+    "bookId": 173,
+    "readerId": 205,
+    "rating": 2
+  },
+  {
+    "id": 9955,
+    "bookId": 31,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9956,
+    "bookId": 123,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9957,
+    "bookId": 147,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9958,
+    "bookId": 47,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9959,
+    "bookId": 203,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9960,
+    "bookId": 117,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9961,
+    "bookId": 92,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9962,
+    "bookId": 134,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9963,
+    "bookId": 75,
+    "readerId": 205,
+    "rating": 4
+  },
+  {
+    "id": 9964,
+    "bookId": 159,
+    "readerId": 205,
+    "rating": 5
+  },
+  {
+    "id": 9965,
+    "bookId": 41,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9966,
+    "bookId": 148,
+    "readerId": 205,
+    "rating": 3
+  },
+  {
+    "id": 9967,
+    "bookId": 46,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9968,
+    "bookId": 64,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9969,
+    "bookId": 69,
+    "readerId": 206,
+    "rating": 1
+  },
+  {
+    "id": 9970,
+    "bookId": 63,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 9971,
+    "bookId": 92,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 9972,
+    "bookId": 73,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 9973,
+    "bookId": 33,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 9974,
+    "bookId": 61,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9975,
+    "bookId": 57,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9976,
+    "bookId": 25,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 9977,
+    "bookId": 19,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 9978,
+    "bookId": 204,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9979,
+    "bookId": 135,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 9980,
+    "bookId": 55,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9981,
+    "bookId": 47,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9982,
+    "bookId": 82,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 9983,
+    "bookId": 60,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9984,
+    "bookId": 164,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9985,
+    "bookId": 196,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9986,
+    "bookId": 77,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 9987,
+    "bookId": 70,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9988,
+    "bookId": 80,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9989,
+    "bookId": 67,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9990,
+    "bookId": 71,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 9991,
+    "bookId": 50,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9992,
+    "bookId": 52,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9993,
+    "bookId": 15,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 9994,
+    "bookId": 150,
+    "readerId": 206,
+    "rating": 1
+  },
+  {
+    "id": 9995,
+    "bookId": 4,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 9996,
+    "bookId": 87,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 9997,
+    "bookId": 81,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9998,
+    "bookId": 75,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 9999,
+    "bookId": 86,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10000,
+    "bookId": 66,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10001,
+    "bookId": 90,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10002,
+    "bookId": 65,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10003,
+    "bookId": 56,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10004,
+    "bookId": 115,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10005,
+    "bookId": 48,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10006,
+    "bookId": 79,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10007,
+    "bookId": 76,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10008,
+    "bookId": 203,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10009,
+    "bookId": 84,
+    "readerId": 206,
+    "rating": 1
+  },
+  {
+    "id": 10010,
+    "bookId": 74,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10011,
+    "bookId": 83,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10012,
+    "bookId": 91,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10013,
+    "bookId": 88,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10014,
+    "bookId": 54,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10015,
+    "bookId": 111,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10016,
+    "bookId": 68,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10017,
+    "bookId": 51,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10018,
+    "bookId": 170,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10019,
+    "bookId": 53,
+    "readerId": 206,
+    "rating": 1
+  },
+  {
+    "id": 10020,
+    "bookId": 89,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10021,
+    "bookId": 59,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10022,
+    "bookId": 95,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10023,
+    "bookId": 98,
+    "readerId": 206,
+    "rating": 1
+  },
+  {
+    "id": 10024,
+    "bookId": 58,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10025,
+    "bookId": 72,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10026,
+    "bookId": 62,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10027,
+    "bookId": 94,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10028,
+    "bookId": 85,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10029,
+    "bookId": 93,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10030,
+    "bookId": 78,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10031,
+    "bookId": 49,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10032,
+    "bookId": 101,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10033,
+    "bookId": 178,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10034,
+    "bookId": 14,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10035,
+    "bookId": 32,
+    "readerId": 206,
+    "rating": 1
+  },
+  {
+    "id": 10036,
+    "bookId": 175,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10037,
+    "bookId": 207,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10038,
+    "bookId": 162,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10039,
+    "bookId": 187,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10040,
+    "bookId": 20,
+    "readerId": 206,
+    "rating": 1
+  },
+  {
+    "id": 10041,
+    "bookId": 41,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10042,
+    "bookId": 116,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10043,
+    "bookId": 171,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10044,
+    "bookId": 13,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10045,
+    "bookId": 156,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10046,
+    "bookId": 104,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10047,
+    "bookId": 143,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10048,
+    "bookId": 12,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10049,
+    "bookId": 16,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10050,
+    "bookId": 18,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10051,
+    "bookId": 192,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10052,
+    "bookId": 114,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10053,
+    "bookId": 193,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10054,
+    "bookId": 131,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10055,
+    "bookId": 140,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10056,
+    "bookId": 113,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10057,
+    "bookId": 35,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10058,
+    "bookId": 200,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10059,
+    "bookId": 183,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10060,
+    "bookId": 105,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10061,
+    "bookId": 190,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10062,
+    "bookId": 151,
+    "readerId": 206,
+    "rating": 5
+  },
+  {
+    "id": 10063,
+    "bookId": 39,
+    "readerId": 206,
+    "rating": 2
+  },
+  {
+    "id": 10064,
+    "bookId": 163,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10065,
+    "bookId": 17,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10066,
+    "bookId": 40,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10067,
+    "bookId": 169,
+    "readerId": 206,
+    "rating": 3
+  },
+  {
+    "id": 10068,
+    "bookId": 136,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10069,
+    "bookId": 153,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10070,
+    "bookId": 108,
+    "readerId": 206,
+    "rating": 4
+  },
+  {
+    "id": 10071,
+    "bookId": 9,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10072,
+    "bookId": 119,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10073,
+    "bookId": 109,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10074,
+    "bookId": 92,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10075,
+    "bookId": 127,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10076,
+    "bookId": 51,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10077,
+    "bookId": 113,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10078,
+    "bookId": 125,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10079,
+    "bookId": 29,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10080,
+    "bookId": 189,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10081,
+    "bookId": 128,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10082,
+    "bookId": 105,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10083,
+    "bookId": 111,
+    "readerId": 207,
+    "rating": 1
+  },
+  {
+    "id": 10084,
+    "bookId": 102,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10085,
+    "bookId": 186,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10086,
+    "bookId": 101,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10087,
+    "bookId": 116,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10088,
+    "bookId": 62,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10089,
+    "bookId": 124,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10090,
+    "bookId": 170,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10091,
+    "bookId": 98,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10092,
+    "bookId": 99,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10093,
+    "bookId": 122,
+    "readerId": 207,
+    "rating": 1
+  },
+  {
+    "id": 10094,
+    "bookId": 58,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10095,
+    "bookId": 185,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10096,
+    "bookId": 103,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10097,
+    "bookId": 81,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10098,
+    "bookId": 48,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10099,
+    "bookId": 133,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10100,
+    "bookId": 135,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10101,
+    "bookId": 162,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10102,
+    "bookId": 182,
+    "readerId": 207,
+    "rating": 1
+  },
+  {
+    "id": 10103,
+    "bookId": 131,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10104,
+    "bookId": 78,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10105,
+    "bookId": 129,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10106,
+    "bookId": 87,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10107,
+    "bookId": 137,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10108,
+    "bookId": 123,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10109,
+    "bookId": 117,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10110,
+    "bookId": 44,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10111,
+    "bookId": 97,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10112,
+    "bookId": 100,
+    "readerId": 207,
+    "rating": 1
+  },
+  {
+    "id": 10113,
+    "bookId": 96,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10114,
+    "bookId": 110,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10115,
+    "bookId": 120,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10116,
+    "bookId": 64,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10117,
+    "bookId": 118,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10118,
+    "bookId": 19,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10119,
+    "bookId": 134,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10120,
+    "bookId": 107,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10121,
+    "bookId": 112,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10122,
+    "bookId": 121,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10123,
+    "bookId": 153,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10124,
+    "bookId": 114,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10125,
+    "bookId": 138,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10126,
+    "bookId": 108,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10127,
+    "bookId": 132,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10128,
+    "bookId": 106,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10129,
+    "bookId": 115,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10130,
+    "bookId": 73,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10131,
+    "bookId": 139,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10132,
+    "bookId": 104,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10133,
+    "bookId": 23,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10134,
+    "bookId": 126,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10135,
+    "bookId": 136,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10136,
+    "bookId": 130,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10137,
+    "bookId": 75,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10138,
+    "bookId": 33,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10139,
+    "bookId": 88,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10140,
+    "bookId": 14,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10141,
+    "bookId": 47,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10142,
+    "bookId": 184,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10143,
+    "bookId": 66,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10144,
+    "bookId": 80,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10145,
+    "bookId": 67,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10146,
+    "bookId": 157,
+    "readerId": 207,
+    "rating": 1
+  },
+  {
+    "id": 10147,
+    "bookId": 13,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10148,
+    "bookId": 86,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10149,
+    "bookId": 45,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10150,
+    "bookId": 83,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10151,
+    "bookId": 82,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10152,
+    "bookId": 142,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10153,
+    "bookId": 202,
+    "readerId": 207,
+    "rating": 1
+  },
+  {
+    "id": 10154,
+    "bookId": 156,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10155,
+    "bookId": 179,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10156,
+    "bookId": 192,
+    "readerId": 207,
+    "rating": 1
+  },
+  {
+    "id": 10157,
+    "bookId": 61,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10158,
+    "bookId": 63,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10159,
+    "bookId": 144,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10160,
+    "bookId": 1,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10161,
+    "bookId": 152,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10162,
+    "bookId": 56,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10163,
+    "bookId": 181,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10164,
+    "bookId": 191,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10165,
+    "bookId": 146,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10166,
+    "bookId": 31,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10167,
+    "bookId": 70,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10168,
+    "bookId": 147,
+    "readerId": 207,
+    "rating": 5
+  },
+  {
+    "id": 10169,
+    "bookId": 76,
+    "readerId": 207,
+    "rating": 2
+  },
+  {
+    "id": 10170,
+    "bookId": 154,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10171,
+    "bookId": 163,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10172,
+    "bookId": 199,
+    "readerId": 207,
+    "rating": 4
+  },
+  {
+    "id": 10173,
+    "bookId": 183,
+    "readerId": 207,
+    "rating": 3
+  },
+  {
+    "id": 10174,
+    "bookId": 155,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10175,
+    "bookId": 165,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10176,
+    "bookId": 81,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10177,
+    "bookId": 147,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10178,
+    "bookId": 85,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10179,
+    "bookId": 93,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10180,
+    "bookId": 49,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10181,
+    "bookId": 50,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10182,
+    "bookId": 121,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10183,
+    "bookId": 38,
+    "readerId": 208,
+    "rating": 1
+  },
+  {
+    "id": 10184,
+    "bookId": 89,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10185,
+    "bookId": 48,
+    "readerId": 208,
+    "rating": 2
+  },
+  {
+    "id": 10186,
+    "bookId": 138,
+    "readerId": 208,
+    "rating": 2
+  },
+  {
+    "id": 10187,
+    "bookId": 125,
+    "readerId": 208,
+    "rating": 1
+  },
+  {
+    "id": 10188,
+    "bookId": 169,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10189,
+    "bookId": 63,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10190,
+    "bookId": 152,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10191,
+    "bookId": 82,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10192,
+    "bookId": 153,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10193,
+    "bookId": 119,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10194,
+    "bookId": 41,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10195,
+    "bookId": 160,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10196,
+    "bookId": 197,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10197,
+    "bookId": 51,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10198,
+    "bookId": 177,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10199,
+    "bookId": 164,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10200,
+    "bookId": 162,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10201,
+    "bookId": 52,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10202,
+    "bookId": 159,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10203,
+    "bookId": 73,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10204,
+    "bookId": 173,
+    "readerId": 208,
+    "rating": 2
+  },
+  {
+    "id": 10205,
+    "bookId": 74,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10206,
+    "bookId": 29,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10207,
+    "bookId": 142,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10208,
+    "bookId": 59,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10209,
+    "bookId": 61,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10210,
+    "bookId": 90,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10211,
+    "bookId": 206,
+    "readerId": 208,
+    "rating": 2
+  },
+  {
+    "id": 10212,
+    "bookId": 167,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10213,
+    "bookId": 151,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10214,
+    "bookId": 87,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10215,
+    "bookId": 95,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10216,
+    "bookId": 201,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10217,
+    "bookId": 75,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10218,
+    "bookId": 139,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10219,
+    "bookId": 84,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10220,
+    "bookId": 54,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10221,
+    "bookId": 154,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10222,
+    "bookId": 146,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10223,
+    "bookId": 39,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10224,
+    "bookId": 53,
+    "readerId": 208,
+    "rating": 1
+  },
+  {
+    "id": 10225,
+    "bookId": 144,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10226,
+    "bookId": 76,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10227,
+    "bookId": 12,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10228,
+    "bookId": 106,
+    "readerId": 208,
+    "rating": 2
+  },
+  {
+    "id": 10229,
+    "bookId": 65,
+    "readerId": 208,
+    "rating": 2
+  },
+  {
+    "id": 10230,
+    "bookId": 44,
+    "readerId": 208,
+    "rating": 3
+  },
+  {
+    "id": 10231,
+    "bookId": 140,
+    "readerId": 208,
+    "rating": 2
+  },
+  {
+    "id": 10232,
+    "bookId": 141,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10233,
+    "bookId": 143,
+    "readerId": 208,
+    "rating": 5
+  },
+  {
+    "id": 10234,
+    "bookId": 161,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10235,
+    "bookId": 72,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10236,
+    "bookId": 57,
+    "readerId": 208,
+    "rating": 4
+  },
+  {
+    "id": 10237,
+    "bookId": 103,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10238,
+    "bookId": 115,
+    "readerId": 209,
+    "rating": 5
+  },
+  {
+    "id": 10239,
+    "bookId": 135,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10240,
+    "bookId": 75,
+    "readerId": 209,
+    "rating": 1
+  },
+  {
+    "id": 10241,
+    "bookId": 169,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10242,
+    "bookId": 123,
+    "readerId": 209,
+    "rating": 1
+  },
+  {
+    "id": 10243,
+    "bookId": 31,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10244,
+    "bookId": 124,
+    "readerId": 209,
+    "rating": 5
+  },
+  {
+    "id": 10245,
+    "bookId": 156,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10246,
+    "bookId": 126,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10247,
+    "bookId": 63,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10248,
+    "bookId": 112,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10249,
+    "bookId": 107,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10250,
+    "bookId": 110,
+    "readerId": 209,
+    "rating": 2
+  },
+  {
+    "id": 10251,
+    "bookId": 17,
+    "readerId": 209,
+    "rating": 2
+  },
+  {
+    "id": 10252,
+    "bookId": 109,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10253,
+    "bookId": 134,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10254,
+    "bookId": 22,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10255,
+    "bookId": 99,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10256,
+    "bookId": 106,
+    "readerId": 209,
+    "rating": 5
+  },
+  {
+    "id": 10257,
+    "bookId": 132,
+    "readerId": 209,
+    "rating": 5
+  },
+  {
+    "id": 10258,
+    "bookId": 4,
+    "readerId": 209,
+    "rating": 2
+  },
+  {
+    "id": 10259,
+    "bookId": 133,
+    "readerId": 209,
+    "rating": 5
+  },
+  {
+    "id": 10260,
+    "bookId": 118,
+    "readerId": 209,
+    "rating": 1
+  },
+  {
+    "id": 10261,
+    "bookId": 113,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10262,
+    "bookId": 3,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10263,
+    "bookId": 83,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10264,
+    "bookId": 80,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10265,
+    "bookId": 97,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10266,
+    "bookId": 101,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10267,
+    "bookId": 128,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10268,
+    "bookId": 50,
+    "readerId": 209,
+    "rating": 2
+  },
+  {
+    "id": 10269,
+    "bookId": 131,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10270,
+    "bookId": 111,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10271,
+    "bookId": 98,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10272,
+    "bookId": 173,
+    "readerId": 209,
+    "rating": 2
+  },
+  {
+    "id": 10273,
+    "bookId": 129,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10274,
+    "bookId": 130,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10275,
+    "bookId": 67,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10276,
+    "bookId": 105,
+    "readerId": 209,
+    "rating": 2
+  },
+  {
+    "id": 10277,
+    "bookId": 122,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10278,
+    "bookId": 96,
+    "readerId": 209,
+    "rating": 5
+  },
+  {
+    "id": 10279,
+    "bookId": 108,
+    "readerId": 209,
+    "rating": 5
+  },
+  {
+    "id": 10280,
+    "bookId": 12,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10281,
+    "bookId": 139,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10282,
+    "bookId": 137,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10283,
+    "bookId": 116,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10284,
+    "bookId": 140,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10285,
+    "bookId": 125,
+    "readerId": 209,
+    "rating": 4
+  },
+  {
+    "id": 10286,
+    "bookId": 192,
+    "readerId": 209,
+    "rating": 2
+  },
+  {
+    "id": 10287,
+    "bookId": 29,
+    "readerId": 209,
+    "rating": 3
+  },
+  {
+    "id": 10288,
+    "bookId": 1,
+    "readerId": 209,
+    "rating": 1
+  },
+  {
+    "id": 10289,
+    "bookId": 168,
+    "readerId": 210,
+    "rating": 3
+  },
+  {
+    "id": 10290,
+    "bookId": 86,
+    "readerId": 210,
+    "rating": 1
+  },
+  {
+    "id": 10291,
+    "bookId": 112,
+    "readerId": 210,
+    "rating": 2
+  },
+  {
+    "id": 10292,
+    "bookId": 206,
+    "readerId": 210,
+    "rating": 1
+  },
+  {
+    "id": 10293,
+    "bookId": 65,
+    "readerId": 210,
+    "rating": 3
+  },
+  {
+    "id": 10294,
+    "bookId": 68,
+    "readerId": 210,
+    "rating": 3
+  },
+  {
+    "id": 10295,
+    "bookId": 138,
+    "readerId": 210,
+    "rating": 5
+  },
+  {
+    "id": 10296,
+    "bookId": 82,
+    "readerId": 210,
+    "rating": 4
+  },
+  {
+    "id": 10297,
+    "bookId": 109,
+    "readerId": 210,
+    "rating": 5
+  },
+  {
+    "id": 10298,
+    "bookId": 85,
+    "readerId": 210,
+    "rating": 4
+  },
+  {
+    "id": 10299,
+    "bookId": 29,
+    "readerId": 210,
+    "rating": 3
+  },
+  {
+    "id": 10300,
+    "bookId": 71,
+    "readerId": 210,
+    "rating": 5
+  },
+  {
+    "id": 10301,
+    "bookId": 34,
+    "readerId": 211,
+    "rating": 3
+  },
+  {
+    "id": 10302,
+    "bookId": 112,
+    "readerId": 211,
+    "rating": 5
+  },
+  {
+    "id": 10303,
+    "bookId": 108,
+    "readerId": 211,
+    "rating": 5
+  },
+  {
+    "id": 10304,
+    "bookId": 58,
+    "readerId": 211,
+    "rating": 3
+  },
+  {
+    "id": 10305,
+    "bookId": 132,
+    "readerId": 211,
+    "rating": 4
+  },
+  {
+    "id": 10306,
+    "bookId": 199,
+    "readerId": 211,
+    "rating": 3
+  },
+  {
+    "id": 10307,
+    "bookId": 126,
+    "readerId": 211,
+    "rating": 4
+  },
+  {
+    "id": 10308,
+    "bookId": 105,
+    "readerId": 211,
+    "rating": 4
+  },
+  {
+    "id": 10309,
+    "bookId": 97,
+    "readerId": 211,
+    "rating": 4
+  },
+  {
+    "id": 10310,
+    "bookId": 122,
+    "readerId": 211,
+    "rating": 5
+  },
+  {
+    "id": 10311,
+    "bookId": 139,
+    "readerId": 211,
+    "rating": 1
+  },
+  {
+    "id": 10312,
+    "bookId": 135,
+    "readerId": 211,
+    "rating": 4
+  },
+  {
+    "id": 10313,
+    "bookId": 64,
+    "readerId": 211,
+    "rating": 1
+  },
+  {
+    "id": 10314,
+    "bookId": 114,
+    "readerId": 211,
+    "rating": 5
+  },
+  {
+    "id": 10315,
+    "bookId": 133,
+    "readerId": 211,
+    "rating": 3
+  },
+  {
+    "id": 10316,
+    "bookId": 111,
+    "readerId": 211,
+    "rating": 3
+  },
+  {
+    "id": 10317,
+    "bookId": 129,
+    "readerId": 211,
+    "rating": 4
+  },
+  {
+    "id": 10318,
+    "bookId": 104,
+    "readerId": 211,
+    "rating": 4
+  },
+  {
+    "id": 10319,
+    "bookId": 86,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10320,
+    "bookId": 39,
+    "readerId": 212,
+    "rating": 2
+  },
+  {
+    "id": 10321,
+    "bookId": 37,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10322,
+    "bookId": 91,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10323,
+    "bookId": 69,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10324,
+    "bookId": 78,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10325,
+    "bookId": 84,
+    "readerId": 212,
+    "rating": 2
+  },
+  {
+    "id": 10326,
+    "bookId": 74,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10327,
+    "bookId": 81,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10328,
+    "bookId": 82,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10329,
+    "bookId": 94,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10330,
+    "bookId": 85,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10331,
+    "bookId": 28,
+    "readerId": 212,
+    "rating": 2
+  },
+  {
+    "id": 10332,
+    "bookId": 87,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10333,
+    "bookId": 55,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10334,
+    "bookId": 107,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10335,
+    "bookId": 148,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10336,
+    "bookId": 58,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10337,
+    "bookId": 72,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10338,
+    "bookId": 70,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10339,
+    "bookId": 59,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10340,
+    "bookId": 105,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10341,
+    "bookId": 18,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10342,
+    "bookId": 77,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10343,
+    "bookId": 88,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10344,
+    "bookId": 65,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10345,
+    "bookId": 79,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10346,
+    "bookId": 61,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10347,
+    "bookId": 24,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10348,
+    "bookId": 80,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10349,
+    "bookId": 62,
+    "readerId": 212,
+    "rating": 2
+  },
+  {
+    "id": 10350,
+    "bookId": 54,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10351,
+    "bookId": 49,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10352,
+    "bookId": 52,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10353,
+    "bookId": 60,
+    "readerId": 212,
+    "rating": 1
+  },
+  {
+    "id": 10354,
+    "bookId": 48,
+    "readerId": 212,
+    "rating": 2
+  },
+  {
+    "id": 10355,
+    "bookId": 50,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10356,
+    "bookId": 149,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10357,
+    "bookId": 20,
+    "readerId": 212,
+    "rating": 2
+  },
+  {
+    "id": 10358,
+    "bookId": 122,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10359,
+    "bookId": 66,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10360,
+    "bookId": 67,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10361,
+    "bookId": 73,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10362,
+    "bookId": 47,
+    "readerId": 212,
+    "rating": 1
+  },
+  {
+    "id": 10363,
+    "bookId": 120,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10364,
+    "bookId": 89,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10365,
+    "bookId": 207,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10366,
+    "bookId": 114,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10367,
+    "bookId": 63,
+    "readerId": 212,
+    "rating": 5
+  },
+  {
+    "id": 10368,
+    "bookId": 68,
+    "readerId": 212,
+    "rating": 3
+  },
+  {
+    "id": 10369,
+    "bookId": 160,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10370,
+    "bookId": 172,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10371,
+    "bookId": 90,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10372,
+    "bookId": 76,
+    "readerId": 212,
+    "rating": 4
+  },
+  {
+    "id": 10373,
+    "bookId": 44,
+    "readerId": 212,
+    "rating": 2
+  },
+  {
+    "id": 10374,
+    "bookId": 122,
+    "readerId": 213,
+    "rating": 3
+  },
+  {
+    "id": 10375,
+    "bookId": 105,
+    "readerId": 213,
+    "rating": 3
+  },
+  {
+    "id": 10376,
+    "bookId": 127,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10377,
+    "bookId": 131,
+    "readerId": 213,
+    "rating": 5
+  },
+  {
+    "id": 10378,
+    "bookId": 133,
+    "readerId": 213,
+    "rating": 2
+  },
+  {
+    "id": 10379,
+    "bookId": 119,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10380,
+    "bookId": 121,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10381,
+    "bookId": 91,
+    "readerId": 213,
+    "rating": 3
+  },
+  {
+    "id": 10382,
+    "bookId": 154,
+    "readerId": 213,
+    "rating": 3
+  },
+  {
+    "id": 10383,
+    "bookId": 113,
+    "readerId": 213,
+    "rating": 5
+  },
+  {
+    "id": 10384,
+    "bookId": 126,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10385,
+    "bookId": 50,
+    "readerId": 213,
+    "rating": 2
+  },
+  {
+    "id": 10386,
+    "bookId": 120,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10387,
+    "bookId": 149,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10388,
+    "bookId": 179,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10389,
+    "bookId": 111,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10390,
+    "bookId": 125,
+    "readerId": 213,
+    "rating": 4
+  },
+  {
+    "id": 10391,
+    "bookId": 116,
+    "readerId": 213,
+    "rating": 5
+  },
+  {
+    "id": 10392,
+    "bookId": 102,
+    "readerId": 213,
+    "rating": 3
+  },
+  {
+    "id": 10393,
+    "bookId": 90,
+    "readerId": 214,
+    "rating": 5
+  },
+  {
+    "id": 10394,
+    "bookId": 47,
+    "readerId": 214,
+    "rating": 3
+  },
+  {
+    "id": 10395,
+    "bookId": 1,
+    "readerId": 214,
+    "rating": 5
+  },
+  {
+    "id": 10396,
+    "bookId": 58,
+    "readerId": 214,
+    "rating": 4
+  },
+  {
+    "id": 10397,
+    "bookId": 36,
+    "readerId": 214,
+    "rating": 3
+  },
+  {
+    "id": 10398,
+    "bookId": 30,
+    "readerId": 214,
+    "rating": 4
+  },
+  {
+    "id": 10399,
+    "bookId": 5,
+    "readerId": 214,
+    "rating": 4
+  },
+  {
+    "id": 10400,
+    "bookId": 190,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10401,
+    "bookId": 169,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10402,
+    "bookId": 179,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10403,
+    "bookId": 188,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10404,
+    "bookId": 197,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10405,
+    "bookId": 14,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10406,
+    "bookId": 204,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10407,
+    "bookId": 203,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10408,
+    "bookId": 170,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10409,
+    "bookId": 9,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10410,
+    "bookId": 207,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10411,
+    "bookId": 196,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10412,
+    "bookId": 180,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10413,
+    "bookId": 177,
+    "readerId": 215,
+    "rating": 1
+  },
+  {
+    "id": 10414,
+    "bookId": 185,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10415,
+    "bookId": 206,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10416,
+    "bookId": 172,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10417,
+    "bookId": 186,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10418,
+    "bookId": 184,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10419,
+    "bookId": 199,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10420,
+    "bookId": 173,
+    "readerId": 215,
+    "rating": 1
+  },
+  {
+    "id": 10421,
+    "bookId": 134,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10422,
+    "bookId": 122,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10423,
+    "bookId": 198,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10424,
+    "bookId": 168,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10425,
+    "bookId": 176,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10426,
+    "bookId": 131,
+    "readerId": 215,
+    "rating": 1
+  },
+  {
+    "id": 10427,
+    "bookId": 195,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10428,
+    "bookId": 191,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10429,
+    "bookId": 71,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10430,
+    "bookId": 192,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10431,
+    "bookId": 21,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10432,
+    "bookId": 171,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10433,
+    "bookId": 202,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10434,
+    "bookId": 178,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10435,
+    "bookId": 174,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10436,
+    "bookId": 205,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10437,
+    "bookId": 182,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10438,
+    "bookId": 193,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10439,
+    "bookId": 181,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10440,
+    "bookId": 70,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10441,
+    "bookId": 183,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10442,
+    "bookId": 200,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10443,
+    "bookId": 175,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10444,
+    "bookId": 187,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10445,
+    "bookId": 189,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10446,
+    "bookId": 201,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10447,
+    "bookId": 194,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10448,
+    "bookId": 101,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10449,
+    "bookId": 106,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10450,
+    "bookId": 57,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10451,
+    "bookId": 86,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10452,
+    "bookId": 3,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10453,
+    "bookId": 42,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10454,
+    "bookId": 34,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10455,
+    "bookId": 50,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10456,
+    "bookId": 137,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10457,
+    "bookId": 163,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10458,
+    "bookId": 129,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10459,
+    "bookId": 61,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10460,
+    "bookId": 32,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10461,
+    "bookId": 135,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10462,
+    "bookId": 40,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10463,
+    "bookId": 29,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10464,
+    "bookId": 117,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10465,
+    "bookId": 127,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10466,
+    "bookId": 45,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10467,
+    "bookId": 141,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10468,
+    "bookId": 51,
+    "readerId": 215,
+    "rating": 1
+  },
+  {
+    "id": 10469,
+    "bookId": 130,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10470,
+    "bookId": 83,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10471,
+    "bookId": 22,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10472,
+    "bookId": 11,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10473,
+    "bookId": 5,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10474,
+    "bookId": 108,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10475,
+    "bookId": 79,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10476,
+    "bookId": 136,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10477,
+    "bookId": 25,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10478,
+    "bookId": 52,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10479,
+    "bookId": 17,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10480,
+    "bookId": 160,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10481,
+    "bookId": 149,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10482,
+    "bookId": 53,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10483,
+    "bookId": 77,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10484,
+    "bookId": 97,
+    "readerId": 215,
+    "rating": 4
+  },
+  {
+    "id": 10485,
+    "bookId": 113,
+    "readerId": 215,
+    "rating": 3
+  },
+  {
+    "id": 10486,
+    "bookId": 153,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10487,
+    "bookId": 116,
+    "readerId": 215,
+    "rating": 5
+  },
+  {
+    "id": 10488,
+    "bookId": 103,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10489,
+    "bookId": 115,
+    "readerId": 215,
+    "rating": 2
+  },
+  {
+    "id": 10490,
+    "bookId": 165,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10491,
+    "bookId": 192,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10492,
+    "bookId": 29,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10493,
+    "bookId": 30,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10494,
+    "bookId": 11,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10495,
+    "bookId": 81,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10496,
+    "bookId": 8,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10497,
+    "bookId": 33,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10498,
+    "bookId": 1,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10499,
+    "bookId": 35,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10500,
+    "bookId": 24,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10501,
+    "bookId": 17,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10502,
+    "bookId": 27,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10503,
+    "bookId": 9,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10504,
+    "bookId": 140,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10505,
+    "bookId": 5,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10506,
+    "bookId": 193,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10507,
+    "bookId": 2,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10508,
+    "bookId": 31,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10509,
+    "bookId": 6,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10510,
+    "bookId": 48,
+    "readerId": 216,
+    "rating": 1
+  },
+  {
+    "id": 10511,
+    "bookId": 22,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10512,
+    "bookId": 51,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10513,
+    "bookId": 43,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10514,
+    "bookId": 44,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10515,
+    "bookId": 59,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10516,
+    "bookId": 45,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10517,
+    "bookId": 19,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10518,
+    "bookId": 134,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10519,
+    "bookId": 139,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10520,
+    "bookId": 82,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10521,
+    "bookId": 174,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10522,
+    "bookId": 7,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10523,
+    "bookId": 155,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10524,
+    "bookId": 12,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10525,
+    "bookId": 39,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10526,
+    "bookId": 10,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10527,
+    "bookId": 42,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10528,
+    "bookId": 57,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10529,
+    "bookId": 40,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10530,
+    "bookId": 123,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10531,
+    "bookId": 80,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10532,
+    "bookId": 18,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10533,
+    "bookId": 13,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10534,
+    "bookId": 26,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10535,
+    "bookId": 37,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10536,
+    "bookId": 15,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10537,
+    "bookId": 23,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10538,
+    "bookId": 28,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10539,
+    "bookId": 62,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10540,
+    "bookId": 89,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10541,
+    "bookId": 197,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10542,
+    "bookId": 54,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10543,
+    "bookId": 16,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10544,
+    "bookId": 20,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10545,
+    "bookId": 118,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10546,
+    "bookId": 38,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10547,
+    "bookId": 3,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10548,
+    "bookId": 146,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10549,
+    "bookId": 14,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10550,
+    "bookId": 32,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10551,
+    "bookId": 46,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10552,
+    "bookId": 36,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10553,
+    "bookId": 176,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10554,
+    "bookId": 138,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10555,
+    "bookId": 4,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10556,
+    "bookId": 25,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10557,
+    "bookId": 21,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10558,
+    "bookId": 34,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10559,
+    "bookId": 41,
+    "readerId": 216,
+    "rating": 1
+  },
+  {
+    "id": 10560,
+    "bookId": 147,
+    "readerId": 216,
+    "rating": 1
+  },
+  {
+    "id": 10561,
+    "bookId": 102,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10562,
+    "bookId": 77,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10563,
+    "bookId": 149,
+    "readerId": 216,
+    "rating": 1
+  },
+  {
+    "id": 10564,
+    "bookId": 73,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10565,
+    "bookId": 185,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10566,
+    "bookId": 110,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10567,
+    "bookId": 184,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10568,
+    "bookId": 76,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10569,
+    "bookId": 93,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10570,
+    "bookId": 170,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10571,
+    "bookId": 126,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10572,
+    "bookId": 142,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10573,
+    "bookId": 86,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10574,
+    "bookId": 68,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10575,
+    "bookId": 157,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10576,
+    "bookId": 136,
+    "readerId": 216,
+    "rating": 1
+  },
+  {
+    "id": 10577,
+    "bookId": 116,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10578,
+    "bookId": 183,
+    "readerId": 216,
+    "rating": 1
+  },
+  {
+    "id": 10579,
+    "bookId": 65,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10580,
+    "bookId": 164,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10581,
+    "bookId": 121,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10582,
+    "bookId": 83,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10583,
+    "bookId": 101,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10584,
+    "bookId": 187,
+    "readerId": 216,
+    "rating": 1
+  },
+  {
+    "id": 10585,
+    "bookId": 75,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10586,
+    "bookId": 145,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10587,
+    "bookId": 104,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10588,
+    "bookId": 108,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10589,
+    "bookId": 189,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10590,
+    "bookId": 92,
+    "readerId": 216,
+    "rating": 5
+  },
+  {
+    "id": 10591,
+    "bookId": 63,
+    "readerId": 216,
+    "rating": 2
+  },
+  {
+    "id": 10592,
+    "bookId": 120,
+    "readerId": 216,
+    "rating": 3
+  },
+  {
+    "id": 10593,
+    "bookId": 202,
+    "readerId": 216,
+    "rating": 4
+  },
+  {
+    "id": 10594,
+    "bookId": 1,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10595,
+    "bookId": 123,
+    "readerId": 217,
+    "rating": 2
+  },
+  {
+    "id": 10596,
+    "bookId": 20,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10597,
+    "bookId": 31,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10598,
+    "bookId": 30,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10599,
+    "bookId": 99,
+    "readerId": 217,
+    "rating": 1
+  },
+  {
+    "id": 10600,
+    "bookId": 9,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10601,
+    "bookId": 22,
+    "readerId": 217,
+    "rating": 5
+  },
+  {
+    "id": 10602,
+    "bookId": 17,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10603,
+    "bookId": 193,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10604,
+    "bookId": 12,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10605,
+    "bookId": 40,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10606,
+    "bookId": 75,
+    "readerId": 217,
+    "rating": 2
+  },
+  {
+    "id": 10607,
+    "bookId": 18,
+    "readerId": 217,
+    "rating": 5
+  },
+  {
+    "id": 10608,
+    "bookId": 4,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10609,
+    "bookId": 102,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10610,
+    "bookId": 8,
+    "readerId": 217,
+    "rating": 2
+  },
+  {
+    "id": 10611,
+    "bookId": 23,
+    "readerId": 217,
+    "rating": 5
+  },
+  {
+    "id": 10612,
+    "bookId": 36,
+    "readerId": 217,
+    "rating": 1
+  },
+  {
+    "id": 10613,
+    "bookId": 196,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10614,
+    "bookId": 10,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10615,
+    "bookId": 33,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10616,
+    "bookId": 2,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10617,
+    "bookId": 159,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10618,
+    "bookId": 25,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10619,
+    "bookId": 39,
+    "readerId": 217,
+    "rating": 2
+  },
+  {
+    "id": 10620,
+    "bookId": 19,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10621,
+    "bookId": 26,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10622,
+    "bookId": 29,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10623,
+    "bookId": 114,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10624,
+    "bookId": 46,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10625,
+    "bookId": 32,
+    "readerId": 217,
+    "rating": 1
+  },
+  {
+    "id": 10626,
+    "bookId": 13,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10627,
+    "bookId": 21,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10628,
+    "bookId": 15,
+    "readerId": 217,
+    "rating": 2
+  },
+  {
+    "id": 10629,
+    "bookId": 7,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10630,
+    "bookId": 56,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10631,
+    "bookId": 3,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10632,
+    "bookId": 37,
+    "readerId": 217,
+    "rating": 5
+  },
+  {
+    "id": 10633,
+    "bookId": 87,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10634,
+    "bookId": 6,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10635,
+    "bookId": 166,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10636,
+    "bookId": 98,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10637,
+    "bookId": 42,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10638,
+    "bookId": 45,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10639,
+    "bookId": 34,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10640,
+    "bookId": 27,
+    "readerId": 217,
+    "rating": 3
+  },
+  {
+    "id": 10641,
+    "bookId": 38,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10642,
+    "bookId": 24,
+    "readerId": 217,
+    "rating": 4
+  },
+  {
+    "id": 10643,
+    "bookId": 126,
+    "readerId": 217,
+    "rating": 2
+  },
+  {
+    "id": 10644,
+    "bookId": 67,
+    "readerId": 217,
+    "rating": 2
+  },
+  {
+    "id": 10645,
+    "bookId": 11,
+    "readerId": 217,
+    "rating": 5
+  },
+  {
+    "id": 10646,
+    "bookId": 105,
+    "readerId": 218,
+    "rating": 5
+  },
+  {
+    "id": 10647,
+    "bookId": 100,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10648,
+    "bookId": 79,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10649,
+    "bookId": 130,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10650,
+    "bookId": 137,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10651,
+    "bookId": 133,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10652,
+    "bookId": 104,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10653,
+    "bookId": 167,
+    "readerId": 219,
+    "rating": 3
+  },
+  {
+    "id": 10654,
+    "bookId": 124,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10655,
+    "bookId": 24,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10656,
+    "bookId": 134,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10657,
+    "bookId": 107,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10658,
+    "bookId": 139,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10659,
+    "bookId": 156,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10660,
+    "bookId": 135,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10661,
+    "bookId": 97,
+    "readerId": 219,
+    "rating": 3
+  },
+  {
+    "id": 10662,
+    "bookId": 77,
+    "readerId": 219,
+    "rating": 3
+  },
+  {
+    "id": 10663,
+    "bookId": 98,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10664,
+    "bookId": 146,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10665,
+    "bookId": 95,
+    "readerId": 219,
+    "rating": 2
+  },
+  {
+    "id": 10666,
+    "bookId": 132,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10667,
+    "bookId": 102,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10668,
+    "bookId": 112,
+    "readerId": 219,
+    "rating": 3
+  },
+  {
+    "id": 10669,
+    "bookId": 196,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10670,
+    "bookId": 126,
+    "readerId": 219,
+    "rating": 2
+  },
+  {
+    "id": 10671,
+    "bookId": 18,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10672,
+    "bookId": 111,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10673,
+    "bookId": 96,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10674,
+    "bookId": 108,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10675,
+    "bookId": 119,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10676,
+    "bookId": 105,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10677,
+    "bookId": 198,
+    "readerId": 219,
+    "rating": 2
+  },
+  {
+    "id": 10678,
+    "bookId": 129,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10679,
+    "bookId": 74,
+    "readerId": 219,
+    "rating": 2
+  },
+  {
+    "id": 10680,
+    "bookId": 122,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10681,
+    "bookId": 118,
+    "readerId": 219,
+    "rating": 3
+  },
+  {
+    "id": 10682,
+    "bookId": 113,
+    "readerId": 219,
+    "rating": 3
+  },
+  {
+    "id": 10683,
+    "bookId": 125,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10684,
+    "bookId": 101,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10685,
+    "bookId": 15,
+    "readerId": 219,
+    "rating": 2
+  },
+  {
+    "id": 10686,
+    "bookId": 116,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10687,
+    "bookId": 152,
+    "readerId": 219,
+    "rating": 1
+  },
+  {
+    "id": 10688,
+    "bookId": 9,
+    "readerId": 219,
+    "rating": 3
+  },
+  {
+    "id": 10689,
+    "bookId": 106,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10690,
+    "bookId": 158,
+    "readerId": 219,
+    "rating": 2
+  },
+  {
+    "id": 10691,
+    "bookId": 121,
+    "readerId": 219,
+    "rating": 5
+  },
+  {
+    "id": 10692,
+    "bookId": 109,
+    "readerId": 219,
+    "rating": 2
+  },
+  {
+    "id": 10693,
+    "bookId": 80,
+    "readerId": 219,
+    "rating": 4
+  },
+  {
+    "id": 10694,
+    "bookId": 170,
+    "readerId": 220,
+    "rating": 5
+  },
+  {
+    "id": 10695,
+    "bookId": 1,
+    "readerId": 220,
+    "rating": 2
+  },
+  {
+    "id": 10696,
+    "bookId": 50,
+    "readerId": 220,
+    "rating": 1
+  },
+  {
+    "id": 10697,
+    "bookId": 99,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10698,
+    "bookId": 123,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10699,
+    "bookId": 102,
+    "readerId": 220,
+    "rating": 3
+  },
+  {
+    "id": 10700,
+    "bookId": 142,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10701,
+    "bookId": 106,
+    "readerId": 220,
+    "rating": 2
+  },
+  {
+    "id": 10702,
+    "bookId": 114,
+    "readerId": 220,
+    "rating": 5
+  },
+  {
+    "id": 10703,
+    "bookId": 127,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10704,
+    "bookId": 101,
+    "readerId": 220,
+    "rating": 5
+  },
+  {
+    "id": 10705,
+    "bookId": 115,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10706,
+    "bookId": 125,
+    "readerId": 220,
+    "rating": 1
+  },
+  {
+    "id": 10707,
+    "bookId": 129,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10708,
+    "bookId": 120,
+    "readerId": 220,
+    "rating": 3
+  },
+  {
+    "id": 10709,
+    "bookId": 132,
+    "readerId": 220,
+    "rating": 2
+  },
+  {
+    "id": 10710,
+    "bookId": 108,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10711,
+    "bookId": 98,
+    "readerId": 220,
+    "rating": 5
+  },
+  {
+    "id": 10712,
+    "bookId": 118,
+    "readerId": 220,
+    "rating": 1
+  },
+  {
+    "id": 10713,
+    "bookId": 104,
+    "readerId": 220,
+    "rating": 3
+  },
+  {
+    "id": 10714,
+    "bookId": 116,
+    "readerId": 220,
+    "rating": 4
+  },
+  {
+    "id": 10715,
+    "bookId": 12,
+    "readerId": 220,
+    "rating": 2
+  },
+  {
+    "id": 10716,
+    "bookId": 130,
+    "readerId": 220,
+    "rating": 5
+  },
+  {
+    "id": 10717,
+    "bookId": 136,
+    "readerId": 220,
+    "rating": 5
+  },
+  {
+    "id": 10718,
+    "bookId": 135,
+    "readerId": 220,
+    "rating": 3
+  },
+  {
+    "id": 10719,
+    "bookId": 10,
+    "readerId": 221,
+    "rating": 1
+  },
+  {
+    "id": 10720,
+    "bookId": 34,
+    "readerId": 221,
+    "rating": 5
+  },
+  {
+    "id": 10721,
+    "bookId": 118,
+    "readerId": 221,
+    "rating": 3
+  },
+  {
+    "id": 10722,
+    "bookId": 13,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10723,
+    "bookId": 38,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10724,
+    "bookId": 43,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10725,
+    "bookId": 33,
+    "readerId": 221,
+    "rating": 5
+  },
+  {
+    "id": 10726,
+    "bookId": 115,
+    "readerId": 221,
+    "rating": 2
+  },
+  {
+    "id": 10727,
+    "bookId": 32,
+    "readerId": 221,
+    "rating": 5
+  },
+  {
+    "id": 10728,
+    "bookId": 46,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10729,
+    "bookId": 42,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10730,
+    "bookId": 8,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10731,
+    "bookId": 99,
+    "readerId": 221,
+    "rating": 1
+  },
+  {
+    "id": 10732,
+    "bookId": 27,
+    "readerId": 221,
+    "rating": 1
+  },
+  {
+    "id": 10733,
+    "bookId": 26,
+    "readerId": 221,
+    "rating": 3
+  },
+  {
+    "id": 10734,
+    "bookId": 4,
+    "readerId": 221,
+    "rating": 3
+  },
+  {
+    "id": 10735,
+    "bookId": 193,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10736,
+    "bookId": 114,
+    "readerId": 221,
+    "rating": 1
+  },
+  {
+    "id": 10737,
+    "bookId": 28,
+    "readerId": 221,
+    "rating": 4
+  },
+  {
+    "id": 10738,
+    "bookId": 55,
+    "readerId": 221,
+    "rating": 3
+  },
+  {
+    "id": 10739,
+    "bookId": 87,
+    "readerId": 222,
+    "rating": 2
+  },
+  {
+    "id": 10740,
+    "bookId": 158,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10741,
+    "bookId": 13,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10742,
+    "bookId": 141,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10743,
+    "bookId": 73,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10744,
+    "bookId": 72,
+    "readerId": 222,
+    "rating": 4
+  },
+  {
+    "id": 10745,
+    "bookId": 114,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10746,
+    "bookId": 166,
+    "readerId": 222,
+    "rating": 4
+  },
+  {
+    "id": 10747,
+    "bookId": 169,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10748,
+    "bookId": 54,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10749,
+    "bookId": 146,
+    "readerId": 222,
+    "rating": 1
+  },
+  {
+    "id": 10750,
+    "bookId": 82,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10751,
+    "bookId": 27,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10752,
+    "bookId": 30,
+    "readerId": 222,
+    "rating": 2
+  },
+  {
+    "id": 10753,
+    "bookId": 165,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10754,
+    "bookId": 85,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10755,
+    "bookId": 47,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10756,
+    "bookId": 76,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10757,
+    "bookId": 132,
+    "readerId": 222,
+    "rating": 1
+  },
+  {
+    "id": 10758,
+    "bookId": 75,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10759,
+    "bookId": 55,
+    "readerId": 222,
+    "rating": 4
+  },
+  {
+    "id": 10760,
+    "bookId": 176,
+    "readerId": 222,
+    "rating": 4
+  },
+  {
+    "id": 10761,
+    "bookId": 65,
+    "readerId": 222,
+    "rating": 1
+  },
+  {
+    "id": 10762,
+    "bookId": 153,
+    "readerId": 222,
+    "rating": 5
+  },
+  {
+    "id": 10763,
+    "bookId": 162,
+    "readerId": 222,
+    "rating": 1
+  },
+  {
+    "id": 10764,
+    "bookId": 107,
+    "readerId": 222,
+    "rating": 4
+  },
+  {
+    "id": 10765,
+    "bookId": 148,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10766,
+    "bookId": 90,
+    "readerId": 222,
+    "rating": 1
+  },
+  {
+    "id": 10767,
+    "bookId": 156,
+    "readerId": 222,
+    "rating": 4
+  },
+  {
+    "id": 10768,
+    "bookId": 93,
+    "readerId": 222,
+    "rating": 3
+  },
+  {
+    "id": 10769,
+    "bookId": 57,
+    "readerId": 222,
+    "rating": 2
+  },
+  {
+    "id": 10770,
+    "bookId": 54,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10771,
+    "bookId": 75,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10772,
+    "bookId": 97,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10773,
+    "bookId": 50,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10774,
+    "bookId": 74,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10775,
+    "bookId": 159,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10776,
+    "bookId": 72,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10777,
+    "bookId": 98,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10778,
+    "bookId": 164,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10779,
+    "bookId": 158,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10780,
+    "bookId": 142,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10781,
+    "bookId": 16,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10782,
+    "bookId": 133,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10783,
+    "bookId": 140,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10784,
+    "bookId": 154,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10785,
+    "bookId": 73,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10786,
+    "bookId": 153,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10787,
+    "bookId": 65,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10788,
+    "bookId": 144,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10789,
+    "bookId": 127,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10790,
+    "bookId": 150,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10791,
+    "bookId": 1,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10792,
+    "bookId": 149,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10793,
+    "bookId": 147,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10794,
+    "bookId": 59,
+    "readerId": 223,
+    "rating": 1
+  },
+  {
+    "id": 10795,
+    "bookId": 163,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10796,
+    "bookId": 87,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10797,
+    "bookId": 52,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10798,
+    "bookId": 160,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10799,
+    "bookId": 76,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10800,
+    "bookId": 35,
+    "readerId": 223,
+    "rating": 1
+  },
+  {
+    "id": 10801,
+    "bookId": 134,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10802,
+    "bookId": 92,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10803,
+    "bookId": 199,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10804,
+    "bookId": 167,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10805,
+    "bookId": 93,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10806,
+    "bookId": 146,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10807,
+    "bookId": 182,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10808,
+    "bookId": 84,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10809,
+    "bookId": 95,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10810,
+    "bookId": 136,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10811,
+    "bookId": 207,
+    "readerId": 223,
+    "rating": 1
+  },
+  {
+    "id": 10812,
+    "bookId": 156,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10813,
+    "bookId": 195,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10814,
+    "bookId": 89,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10815,
+    "bookId": 200,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10816,
+    "bookId": 161,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10817,
+    "bookId": 155,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10818,
+    "bookId": 141,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10819,
+    "bookId": 152,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10820,
+    "bookId": 148,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10821,
+    "bookId": 90,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10822,
+    "bookId": 179,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10823,
+    "bookId": 80,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10824,
+    "bookId": 82,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10825,
+    "bookId": 162,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10826,
+    "bookId": 168,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10827,
+    "bookId": 61,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10828,
+    "bookId": 99,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10829,
+    "bookId": 51,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10830,
+    "bookId": 3,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10831,
+    "bookId": 151,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10832,
+    "bookId": 5,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10833,
+    "bookId": 145,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10834,
+    "bookId": 143,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10835,
+    "bookId": 10,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10836,
+    "bookId": 81,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10837,
+    "bookId": 85,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10838,
+    "bookId": 102,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10839,
+    "bookId": 165,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10840,
+    "bookId": 157,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10841,
+    "bookId": 166,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10842,
+    "bookId": 63,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10843,
+    "bookId": 28,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10844,
+    "bookId": 15,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10845,
+    "bookId": 12,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10846,
+    "bookId": 197,
+    "readerId": 223,
+    "rating": 1
+  },
+  {
+    "id": 10847,
+    "bookId": 183,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10848,
+    "bookId": 203,
+    "readerId": 223,
+    "rating": 1
+  },
+  {
+    "id": 10849,
+    "bookId": 9,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10850,
+    "bookId": 68,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10851,
+    "bookId": 170,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10852,
+    "bookId": 173,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10853,
+    "bookId": 7,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10854,
+    "bookId": 169,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10855,
+    "bookId": 106,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10856,
+    "bookId": 22,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10857,
+    "bookId": 56,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10858,
+    "bookId": 116,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10859,
+    "bookId": 196,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10860,
+    "bookId": 138,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10861,
+    "bookId": 57,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10862,
+    "bookId": 188,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10863,
+    "bookId": 71,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10864,
+    "bookId": 14,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10865,
+    "bookId": 44,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10866,
+    "bookId": 115,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10867,
+    "bookId": 21,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10868,
+    "bookId": 79,
+    "readerId": 223,
+    "rating": 5
+  },
+  {
+    "id": 10869,
+    "bookId": 125,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10870,
+    "bookId": 175,
+    "readerId": 223,
+    "rating": 2
+  },
+  {
+    "id": 10871,
+    "bookId": 123,
+    "readerId": 223,
+    "rating": 4
+  },
+  {
+    "id": 10872,
+    "bookId": 202,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10873,
+    "bookId": 94,
+    "readerId": 223,
+    "rating": 3
+  },
+  {
+    "id": 10874,
+    "bookId": 52,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10875,
+    "bookId": 93,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10876,
+    "bookId": 88,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10877,
+    "bookId": 51,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10878,
+    "bookId": 77,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10879,
+    "bookId": 76,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10880,
+    "bookId": 134,
+    "readerId": 224,
+    "rating": 2
+  },
+  {
+    "id": 10881,
+    "bookId": 89,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10882,
+    "bookId": 163,
+    "readerId": 224,
+    "rating": 2
+  },
+  {
+    "id": 10883,
+    "bookId": 81,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10884,
+    "bookId": 95,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10885,
+    "bookId": 66,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10886,
+    "bookId": 3,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10887,
+    "bookId": 101,
+    "readerId": 224,
+    "rating": 2
+  },
+  {
+    "id": 10888,
+    "bookId": 55,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10889,
+    "bookId": 169,
+    "readerId": 224,
+    "rating": 2
+  },
+  {
+    "id": 10890,
+    "bookId": 56,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10891,
+    "bookId": 40,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10892,
+    "bookId": 59,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10893,
+    "bookId": 199,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10894,
+    "bookId": 92,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10895,
+    "bookId": 85,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10896,
+    "bookId": 193,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10897,
+    "bookId": 153,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10898,
+    "bookId": 86,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10899,
+    "bookId": 65,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10900,
+    "bookId": 157,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10901,
+    "bookId": 75,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10902,
+    "bookId": 83,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10903,
+    "bookId": 62,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10904,
+    "bookId": 140,
+    "readerId": 224,
+    "rating": 1
+  },
+  {
+    "id": 10905,
+    "bookId": 64,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10906,
+    "bookId": 47,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10907,
+    "bookId": 90,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10908,
+    "bookId": 138,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10909,
+    "bookId": 9,
+    "readerId": 224,
+    "rating": 2
+  },
+  {
+    "id": 10910,
+    "bookId": 6,
+    "readerId": 224,
+    "rating": 3
+  },
+  {
+    "id": 10911,
+    "bookId": 72,
+    "readerId": 224,
+    "rating": 4
+  },
+  {
+    "id": 10912,
+    "bookId": 78,
+    "readerId": 224,
+    "rating": 5
+  },
+  {
+    "id": 10913,
+    "bookId": 81,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10914,
+    "bookId": 139,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10915,
+    "bookId": 71,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10916,
+    "bookId": 77,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10917,
+    "bookId": 74,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10918,
+    "bookId": 67,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10919,
+    "bookId": 34,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10920,
+    "bookId": 83,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10921,
+    "bookId": 76,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10922,
+    "bookId": 86,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10923,
+    "bookId": 46,
+    "readerId": 225,
+    "rating": 2
+  },
+  {
+    "id": 10924,
+    "bookId": 60,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10925,
+    "bookId": 156,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10926,
+    "bookId": 147,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10927,
+    "bookId": 196,
+    "readerId": 225,
+    "rating": 2
+  },
+  {
+    "id": 10928,
+    "bookId": 33,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10929,
+    "bookId": 7,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10930,
+    "bookId": 82,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10931,
+    "bookId": 84,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10932,
+    "bookId": 92,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10933,
+    "bookId": 48,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10934,
+    "bookId": 72,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10935,
+    "bookId": 68,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10936,
+    "bookId": 98,
+    "readerId": 225,
+    "rating": 1
+  },
+  {
+    "id": 10937,
+    "bookId": 51,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10938,
+    "bookId": 57,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10939,
+    "bookId": 85,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10940,
+    "bookId": 152,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10941,
+    "bookId": 122,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10942,
+    "bookId": 165,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10943,
+    "bookId": 125,
+    "readerId": 225,
+    "rating": 2
+  },
+  {
+    "id": 10944,
+    "bookId": 62,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10945,
+    "bookId": 70,
+    "readerId": 225,
+    "rating": 2
+  },
+  {
+    "id": 10946,
+    "bookId": 94,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10947,
+    "bookId": 63,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10948,
+    "bookId": 78,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10949,
+    "bookId": 119,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10950,
+    "bookId": 91,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10951,
+    "bookId": 45,
+    "readerId": 225,
+    "rating": 2
+  },
+  {
+    "id": 10952,
+    "bookId": 54,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10953,
+    "bookId": 52,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10954,
+    "bookId": 87,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10955,
+    "bookId": 79,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10956,
+    "bookId": 65,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10957,
+    "bookId": 64,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10958,
+    "bookId": 26,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10959,
+    "bookId": 100,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10960,
+    "bookId": 173,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10961,
+    "bookId": 93,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10962,
+    "bookId": 89,
+    "readerId": 225,
+    "rating": 5
+  },
+  {
+    "id": 10963,
+    "bookId": 193,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10964,
+    "bookId": 111,
+    "readerId": 225,
+    "rating": 1
+  },
+  {
+    "id": 10965,
+    "bookId": 132,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10966,
+    "bookId": 53,
+    "readerId": 225,
+    "rating": 3
+  },
+  {
+    "id": 10967,
+    "bookId": 80,
+    "readerId": 225,
+    "rating": 4
+  },
+  {
+    "id": 10968,
+    "bookId": 185,
+    "readerId": 226,
+    "rating": 2
+  },
+  {
+    "id": 10969,
+    "bookId": 190,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10970,
+    "bookId": 157,
+    "readerId": 226,
+    "rating": 3
+  },
+  {
+    "id": 10971,
+    "bookId": 108,
+    "readerId": 226,
+    "rating": 3
+  },
+  {
+    "id": 10972,
+    "bookId": 76,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10973,
+    "bookId": 121,
+    "readerId": 226,
+    "rating": 2
+  },
+  {
+    "id": 10974,
+    "bookId": 142,
+    "readerId": 226,
+    "rating": 3
+  },
+  {
+    "id": 10975,
+    "bookId": 145,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10976,
+    "bookId": 166,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10977,
+    "bookId": 164,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10978,
+    "bookId": 73,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10979,
+    "bookId": 52,
+    "readerId": 226,
+    "rating": 3
+  },
+  {
+    "id": 10980,
+    "bookId": 82,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10981,
+    "bookId": 143,
+    "readerId": 226,
+    "rating": 3
+  },
+  {
+    "id": 10982,
+    "bookId": 80,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10983,
+    "bookId": 176,
+    "readerId": 226,
+    "rating": 5
+  },
+  {
+    "id": 10984,
+    "bookId": 138,
+    "readerId": 226,
+    "rating": 2
+  },
+  {
+    "id": 10985,
+    "bookId": 160,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10986,
+    "bookId": 193,
+    "readerId": 226,
+    "rating": 3
+  },
+  {
+    "id": 10987,
+    "bookId": 92,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10988,
+    "bookId": 75,
+    "readerId": 226,
+    "rating": 5
+  },
+  {
+    "id": 10989,
+    "bookId": 188,
+    "readerId": 226,
+    "rating": 3
+  },
+  {
+    "id": 10990,
+    "bookId": 151,
+    "readerId": 226,
+    "rating": 2
+  },
+  {
+    "id": 10991,
+    "bookId": 154,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10992,
+    "bookId": 59,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10993,
+    "bookId": 163,
+    "readerId": 226,
+    "rating": 5
+  },
+  {
+    "id": 10994,
+    "bookId": 150,
+    "readerId": 226,
+    "rating": 4
+  },
+  {
+    "id": 10995,
+    "bookId": 67,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 10996,
+    "bookId": 104,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 10997,
+    "bookId": 195,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 10998,
+    "bookId": 203,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 10999,
+    "bookId": 63,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11000,
+    "bookId": 69,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11001,
+    "bookId": 58,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11002,
+    "bookId": 57,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11003,
+    "bookId": 79,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11004,
+    "bookId": 81,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11005,
+    "bookId": 105,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11006,
+    "bookId": 176,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11007,
+    "bookId": 73,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11008,
+    "bookId": 1,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11009,
+    "bookId": 98,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11010,
+    "bookId": 51,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11011,
+    "bookId": 134,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11012,
+    "bookId": 71,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11013,
+    "bookId": 89,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11014,
+    "bookId": 44,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11015,
+    "bookId": 78,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11016,
+    "bookId": 205,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11017,
+    "bookId": 140,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11018,
+    "bookId": 49,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11019,
+    "bookId": 189,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11020,
+    "bookId": 164,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11021,
+    "bookId": 56,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11022,
+    "bookId": 92,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11023,
+    "bookId": 20,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11024,
+    "bookId": 103,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11025,
+    "bookId": 64,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11026,
+    "bookId": 8,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11027,
+    "bookId": 86,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11028,
+    "bookId": 142,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11029,
+    "bookId": 90,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11030,
+    "bookId": 91,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11031,
+    "bookId": 191,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11032,
+    "bookId": 186,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11033,
+    "bookId": 202,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11034,
+    "bookId": 77,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11035,
+    "bookId": 66,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11036,
+    "bookId": 62,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11037,
+    "bookId": 29,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11038,
+    "bookId": 93,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11039,
+    "bookId": 123,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11040,
+    "bookId": 84,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11041,
+    "bookId": 72,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11042,
+    "bookId": 133,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11043,
+    "bookId": 183,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11044,
+    "bookId": 83,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11045,
+    "bookId": 193,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11046,
+    "bookId": 76,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11047,
+    "bookId": 87,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11048,
+    "bookId": 95,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11049,
+    "bookId": 148,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11050,
+    "bookId": 50,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11051,
+    "bookId": 19,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11052,
+    "bookId": 47,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11053,
+    "bookId": 94,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11054,
+    "bookId": 108,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11055,
+    "bookId": 53,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11056,
+    "bookId": 160,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11057,
+    "bookId": 61,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11058,
+    "bookId": 60,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11059,
+    "bookId": 75,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11060,
+    "bookId": 65,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11061,
+    "bookId": 48,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11062,
+    "bookId": 23,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11063,
+    "bookId": 162,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11064,
+    "bookId": 70,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11065,
+    "bookId": 74,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11066,
+    "bookId": 159,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11067,
+    "bookId": 52,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11068,
+    "bookId": 54,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11069,
+    "bookId": 82,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11070,
+    "bookId": 55,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11071,
+    "bookId": 68,
+    "readerId": 227,
+    "rating": 1
+  },
+  {
+    "id": 11072,
+    "bookId": 59,
+    "readerId": 227,
+    "rating": 5
+  },
+  {
+    "id": 11073,
+    "bookId": 167,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11074,
+    "bookId": 80,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11075,
+    "bookId": 201,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11076,
+    "bookId": 141,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11077,
+    "bookId": 85,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11078,
+    "bookId": 88,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11079,
+    "bookId": 185,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11080,
+    "bookId": 30,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11081,
+    "bookId": 32,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11082,
+    "bookId": 197,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11083,
+    "bookId": 174,
+    "readerId": 227,
+    "rating": 2
+  },
+  {
+    "id": 11084,
+    "bookId": 21,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11085,
+    "bookId": 14,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11086,
+    "bookId": 152,
+    "readerId": 227,
+    "rating": 3
+  },
+  {
+    "id": 11087,
+    "bookId": 10,
+    "readerId": 227,
+    "rating": 4
+  },
+  {
+    "id": 11088,
+    "bookId": 77,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11089,
+    "bookId": 99,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11090,
+    "bookId": 86,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11091,
+    "bookId": 113,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11092,
+    "bookId": 60,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11093,
+    "bookId": 70,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11094,
+    "bookId": 52,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11095,
+    "bookId": 82,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11096,
+    "bookId": 83,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11097,
+    "bookId": 57,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11098,
+    "bookId": 194,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11099,
+    "bookId": 89,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11100,
+    "bookId": 94,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11101,
+    "bookId": 55,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11102,
+    "bookId": 53,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11103,
+    "bookId": 161,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11104,
+    "bookId": 92,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11105,
+    "bookId": 47,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11106,
+    "bookId": 81,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11107,
+    "bookId": 118,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11108,
+    "bookId": 176,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11109,
+    "bookId": 125,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11110,
+    "bookId": 48,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11111,
+    "bookId": 170,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11112,
+    "bookId": 58,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11113,
+    "bookId": 50,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11114,
+    "bookId": 63,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11115,
+    "bookId": 61,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11116,
+    "bookId": 88,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11117,
+    "bookId": 78,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11118,
+    "bookId": 91,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11119,
+    "bookId": 80,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11120,
+    "bookId": 64,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11121,
+    "bookId": 73,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11122,
+    "bookId": 51,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11123,
+    "bookId": 116,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11124,
+    "bookId": 74,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11125,
+    "bookId": 59,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11126,
+    "bookId": 69,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11127,
+    "bookId": 62,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11128,
+    "bookId": 71,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11129,
+    "bookId": 159,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11130,
+    "bookId": 188,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11131,
+    "bookId": 49,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11132,
+    "bookId": 75,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11133,
+    "bookId": 90,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11134,
+    "bookId": 127,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11135,
+    "bookId": 25,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11136,
+    "bookId": 72,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11137,
+    "bookId": 1,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11138,
+    "bookId": 19,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11139,
+    "bookId": 56,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11140,
+    "bookId": 95,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11141,
+    "bookId": 124,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11142,
+    "bookId": 54,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11143,
+    "bookId": 84,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11144,
+    "bookId": 87,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11145,
+    "bookId": 79,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11146,
+    "bookId": 130,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11147,
+    "bookId": 46,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11148,
+    "bookId": 37,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11149,
+    "bookId": 85,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11150,
+    "bookId": 67,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11151,
+    "bookId": 24,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11152,
+    "bookId": 173,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11153,
+    "bookId": 66,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11154,
+    "bookId": 76,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11155,
+    "bookId": 93,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11156,
+    "bookId": 65,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11157,
+    "bookId": 68,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11158,
+    "bookId": 123,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11159,
+    "bookId": 30,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11160,
+    "bookId": 29,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11161,
+    "bookId": 178,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11162,
+    "bookId": 174,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11163,
+    "bookId": 165,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11164,
+    "bookId": 36,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11165,
+    "bookId": 142,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11166,
+    "bookId": 43,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11167,
+    "bookId": 14,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11168,
+    "bookId": 197,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11169,
+    "bookId": 20,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11170,
+    "bookId": 166,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11171,
+    "bookId": 23,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11172,
+    "bookId": 152,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11173,
+    "bookId": 128,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11174,
+    "bookId": 144,
+    "readerId": 228,
+    "rating": 5
+  },
+  {
+    "id": 11175,
+    "bookId": 26,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11176,
+    "bookId": 153,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11177,
+    "bookId": 141,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11178,
+    "bookId": 206,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11179,
+    "bookId": 143,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11180,
+    "bookId": 115,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11181,
+    "bookId": 126,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11182,
+    "bookId": 150,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11183,
+    "bookId": 133,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11184,
+    "bookId": 202,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11185,
+    "bookId": 13,
+    "readerId": 228,
+    "rating": 4
+  },
+  {
+    "id": 11186,
+    "bookId": 18,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11187,
+    "bookId": 175,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11188,
+    "bookId": 104,
+    "readerId": 228,
+    "rating": 1
+  },
+  {
+    "id": 11189,
+    "bookId": 154,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11190,
+    "bookId": 39,
+    "readerId": 228,
+    "rating": 3
+  },
+  {
+    "id": 11191,
+    "bookId": 163,
+    "readerId": 228,
+    "rating": 2
+  },
+  {
+    "id": 11192,
+    "bookId": 131,
+    "readerId": 229,
+    "rating": 4
+  },
+  {
+    "id": 11193,
+    "bookId": 37,
+    "readerId": 229,
+    "rating": 3
+  },
+  {
+    "id": 11194,
+    "bookId": 26,
+    "readerId": 229,
+    "rating": 5
+  },
+  {
+    "id": 11195,
+    "bookId": 44,
+    "readerId": 229,
+    "rating": 5
+  },
+  {
+    "id": 11196,
+    "bookId": 38,
+    "readerId": 229,
+    "rating": 4
+  },
+  {
+    "id": 11197,
+    "bookId": 71,
+    "readerId": 229,
+    "rating": 4
+  },
+  {
+    "id": 11198,
+    "bookId": 136,
+    "readerId": 229,
+    "rating": 4
+  },
+  {
+    "id": 11199,
+    "bookId": 39,
+    "readerId": 229,
+    "rating": 3
+  },
+  {
+    "id": 11200,
+    "bookId": 75,
+    "readerId": 229,
+    "rating": 3
+  },
+  {
+    "id": 11201,
+    "bookId": 31,
+    "readerId": 229,
+    "rating": 5
+  },
+  {
+    "id": 11202,
+    "bookId": 71,
+    "readerId": 230,
+    "rating": 5
+  },
+  {
+    "id": 11203,
+    "bookId": 59,
+    "readerId": 230,
+    "rating": 3
+  },
+  {
+    "id": 11204,
+    "bookId": 57,
+    "readerId": 230,
+    "rating": 4
+  },
+  {
+    "id": 11205,
+    "bookId": 22,
+    "readerId": 231,
+    "rating": 3
+  },
+  {
+    "id": 11206,
+    "bookId": 25,
+    "readerId": 231,
+    "rating": 3
+  },
+  {
+    "id": 11207,
+    "bookId": 21,
+    "readerId": 231,
+    "rating": 4
+  },
+  {
+    "id": 11208,
+    "bookId": 1,
+    "readerId": 231,
+    "rating": 3
+  },
+  {
+    "id": 11209,
+    "bookId": 26,
+    "readerId": 231,
+    "rating": 1
+  },
+  {
+    "id": 11210,
+    "bookId": 35,
+    "readerId": 231,
+    "rating": 5
+  },
+  {
+    "id": 11211,
+    "bookId": 11,
+    "readerId": 231,
+    "rating": 4
+  },
+  {
+    "id": 11212,
+    "bookId": 147,
+    "readerId": 231,
+    "rating": 3
+  },
+  {
+    "id": 11213,
+    "bookId": 77,
+    "readerId": 231,
+    "rating": 3
+  },
+  {
+    "id": 11214,
+    "bookId": 20,
+    "readerId": 231,
+    "rating": 2
+  },
+  {
+    "id": 11215,
+    "bookId": 199,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11216,
+    "bookId": 153,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11217,
+    "bookId": 192,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11218,
+    "bookId": 197,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11219,
+    "bookId": 140,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11220,
+    "bookId": 76,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11221,
+    "bookId": 156,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11222,
+    "bookId": 196,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11223,
+    "bookId": 193,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11224,
+    "bookId": 107,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11225,
+    "bookId": 207,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11226,
+    "bookId": 191,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11227,
+    "bookId": 175,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11228,
+    "bookId": 202,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11229,
+    "bookId": 200,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11230,
+    "bookId": 134,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11231,
+    "bookId": 194,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11232,
+    "bookId": 179,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11233,
+    "bookId": 69,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11234,
+    "bookId": 206,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11235,
+    "bookId": 114,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11236,
+    "bookId": 109,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11237,
+    "bookId": 198,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11238,
+    "bookId": 18,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11239,
+    "bookId": 170,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11240,
+    "bookId": 116,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11241,
+    "bookId": 162,
+    "readerId": 232,
+    "rating": 1
+  },
+  {
+    "id": 11242,
+    "bookId": 171,
+    "readerId": 232,
+    "rating": 1
+  },
+  {
+    "id": 11243,
+    "bookId": 201,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11244,
+    "bookId": 94,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11245,
+    "bookId": 205,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11246,
+    "bookId": 118,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11247,
+    "bookId": 177,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11248,
+    "bookId": 13,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11249,
+    "bookId": 184,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11250,
+    "bookId": 74,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11251,
+    "bookId": 121,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11252,
+    "bookId": 113,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11253,
+    "bookId": 180,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11254,
+    "bookId": 174,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11255,
+    "bookId": 183,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11256,
+    "bookId": 182,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11257,
+    "bookId": 204,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11258,
+    "bookId": 48,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11259,
+    "bookId": 148,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11260,
+    "bookId": 173,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11261,
+    "bookId": 67,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11262,
+    "bookId": 169,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11263,
+    "bookId": 185,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11264,
+    "bookId": 176,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11265,
+    "bookId": 72,
+    "readerId": 232,
+    "rating": 2
+  },
+  {
+    "id": 11266,
+    "bookId": 129,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11267,
+    "bookId": 203,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11268,
+    "bookId": 178,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11269,
+    "bookId": 111,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11270,
+    "bookId": 14,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11271,
+    "bookId": 190,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11272,
+    "bookId": 78,
+    "readerId": 232,
+    "rating": 3
+  },
+  {
+    "id": 11273,
+    "bookId": 189,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11274,
+    "bookId": 61,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11275,
+    "bookId": 186,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11276,
+    "bookId": 187,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11277,
+    "bookId": 181,
+    "readerId": 232,
+    "rating": 5
+  },
+  {
+    "id": 11278,
+    "bookId": 172,
+    "readerId": 232,
+    "rating": 4
+  },
+  {
+    "id": 11279,
+    "bookId": 107,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11280,
+    "bookId": 126,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11281,
+    "bookId": 129,
+    "readerId": 233,
+    "rating": 5
+  },
+  {
+    "id": 11282,
+    "bookId": 96,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11283,
+    "bookId": 132,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11284,
+    "bookId": 144,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11285,
+    "bookId": 105,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11286,
+    "bookId": 80,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11287,
+    "bookId": 177,
+    "readerId": 233,
+    "rating": 5
+  },
+  {
+    "id": 11288,
+    "bookId": 30,
+    "readerId": 233,
+    "rating": 1
+  },
+  {
+    "id": 11289,
+    "bookId": 98,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11290,
+    "bookId": 124,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11291,
+    "bookId": 109,
+    "readerId": 233,
+    "rating": 5
+  },
+  {
+    "id": 11292,
+    "bookId": 133,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11293,
+    "bookId": 82,
+    "readerId": 233,
+    "rating": 5
+  },
+  {
+    "id": 11294,
+    "bookId": 130,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11295,
+    "bookId": 22,
+    "readerId": 233,
+    "rating": 2
+  },
+  {
+    "id": 11296,
+    "bookId": 123,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11297,
+    "bookId": 99,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11298,
+    "bookId": 112,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11299,
+    "bookId": 117,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11300,
+    "bookId": 115,
+    "readerId": 233,
+    "rating": 5
+  },
+  {
+    "id": 11301,
+    "bookId": 128,
+    "readerId": 233,
+    "rating": 5
+  },
+  {
+    "id": 11302,
+    "bookId": 51,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11303,
+    "bookId": 106,
+    "readerId": 233,
+    "rating": 3
+  },
+  {
+    "id": 11304,
+    "bookId": 160,
+    "readerId": 233,
+    "rating": 2
+  },
+  {
+    "id": 11305,
+    "bookId": 73,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11306,
+    "bookId": 135,
+    "readerId": 233,
+    "rating": 4
+  },
+  {
+    "id": 11307,
+    "bookId": 134,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11308,
+    "bookId": 75,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11309,
+    "bookId": 31,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11310,
+    "bookId": 80,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11311,
+    "bookId": 52,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11312,
+    "bookId": 145,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11313,
+    "bookId": 54,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11314,
+    "bookId": 151,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11315,
+    "bookId": 155,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11316,
+    "bookId": 144,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11317,
+    "bookId": 50,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11318,
+    "bookId": 65,
+    "readerId": 234,
+    "rating": 2
+  },
+  {
+    "id": 11319,
+    "bookId": 167,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11320,
+    "bookId": 141,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11321,
+    "bookId": 4,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11322,
+    "bookId": 158,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11323,
+    "bookId": 92,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11324,
+    "bookId": 162,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11325,
+    "bookId": 81,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11326,
+    "bookId": 93,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11327,
+    "bookId": 190,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11328,
+    "bookId": 153,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11329,
+    "bookId": 159,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11330,
+    "bookId": 142,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11331,
+    "bookId": 78,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11332,
+    "bookId": 168,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11333,
+    "bookId": 164,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11334,
+    "bookId": 160,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11335,
+    "bookId": 85,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11336,
+    "bookId": 148,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11337,
+    "bookId": 76,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11338,
+    "bookId": 51,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11339,
+    "bookId": 180,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11340,
+    "bookId": 166,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11341,
+    "bookId": 146,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11342,
+    "bookId": 163,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11343,
+    "bookId": 90,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11344,
+    "bookId": 73,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11345,
+    "bookId": 82,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11346,
+    "bookId": 154,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11347,
+    "bookId": 74,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11348,
+    "bookId": 16,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11349,
+    "bookId": 143,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11350,
+    "bookId": 5,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11351,
+    "bookId": 157,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11352,
+    "bookId": 156,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11353,
+    "bookId": 165,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11354,
+    "bookId": 150,
+    "readerId": 234,
+    "rating": 1
+  },
+  {
+    "id": 11355,
+    "bookId": 34,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11356,
+    "bookId": 87,
+    "readerId": 234,
+    "rating": 2
+  },
+  {
+    "id": 11357,
+    "bookId": 72,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11358,
+    "bookId": 152,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11359,
+    "bookId": 95,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11360,
+    "bookId": 126,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11361,
+    "bookId": 37,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11362,
+    "bookId": 147,
+    "readerId": 234,
+    "rating": 1
+  },
+  {
+    "id": 11363,
+    "bookId": 63,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11364,
+    "bookId": 109,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11365,
+    "bookId": 89,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11366,
+    "bookId": 140,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11367,
+    "bookId": 59,
+    "readerId": 234,
+    "rating": 5
+  },
+  {
+    "id": 11368,
+    "bookId": 161,
+    "readerId": 234,
+    "rating": 2
+  },
+  {
+    "id": 11369,
+    "bookId": 79,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11370,
+    "bookId": 149,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11371,
+    "bookId": 44,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11372,
+    "bookId": 123,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11373,
+    "bookId": 179,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11374,
+    "bookId": 38,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11375,
+    "bookId": 83,
+    "readerId": 234,
+    "rating": 1
+  },
+  {
+    "id": 11376,
+    "bookId": 91,
+    "readerId": 234,
+    "rating": 2
+  },
+  {
+    "id": 11377,
+    "bookId": 202,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11378,
+    "bookId": 12,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11379,
+    "bookId": 136,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11380,
+    "bookId": 176,
+    "readerId": 234,
+    "rating": 4
+  },
+  {
+    "id": 11381,
+    "bookId": 199,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11382,
+    "bookId": 206,
+    "readerId": 234,
+    "rating": 2
+  },
+  {
+    "id": 11383,
+    "bookId": 11,
+    "readerId": 234,
+    "rating": 2
+  },
+  {
+    "id": 11384,
+    "bookId": 62,
+    "readerId": 234,
+    "rating": 3
+  },
+  {
+    "id": 11385,
+    "bookId": 114,
+    "readerId": 234,
+    "rating": 2
+  },
+  {
+    "id": 11386,
+    "bookId": 104,
+    "readerId": 235,
+    "rating": 4
+  },
+  {
+    "id": 11387,
+    "bookId": 124,
+    "readerId": 235,
+    "rating": 3
+  },
+  {
+    "id": 11388,
+    "bookId": 96,
+    "readerId": 235,
+    "rating": 4
+  },
+  {
+    "id": 11389,
+    "bookId": 132,
+    "readerId": 235,
+    "rating": 1
+  },
+  {
+    "id": 11390,
+    "bookId": 101,
+    "readerId": 235,
+    "rating": 5
+  },
+  {
+    "id": 11391,
+    "bookId": 121,
+    "readerId": 235,
+    "rating": 4
+  },
+  {
+    "id": 11392,
+    "bookId": 49,
+    "readerId": 235,
+    "rating": 3
+  },
+  {
+    "id": 11393,
+    "bookId": 107,
+    "readerId": 235,
+    "rating": 4
+  },
+  {
+    "id": 11394,
+    "bookId": 17,
+    "readerId": 236,
+    "rating": 5
+  },
+  {
+    "id": 11395,
+    "bookId": 167,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11396,
+    "bookId": 12,
+    "readerId": 236,
+    "rating": 5
+  },
+  {
+    "id": 11397,
+    "bookId": 18,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11398,
+    "bookId": 137,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11399,
+    "bookId": 43,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11400,
+    "bookId": 68,
+    "readerId": 236,
+    "rating": 1
+  },
+  {
+    "id": 11401,
+    "bookId": 89,
+    "readerId": 236,
+    "rating": 1
+  },
+  {
+    "id": 11402,
+    "bookId": 11,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11403,
+    "bookId": 1,
+    "readerId": 236,
+    "rating": 5
+  },
+  {
+    "id": 11404,
+    "bookId": 8,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11405,
+    "bookId": 139,
+    "readerId": 236,
+    "rating": 5
+  },
+  {
+    "id": 11406,
+    "bookId": 19,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11407,
+    "bookId": 31,
+    "readerId": 236,
+    "rating": 5
+  },
+  {
+    "id": 11408,
+    "bookId": 10,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11409,
+    "bookId": 23,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11410,
+    "bookId": 45,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11411,
+    "bookId": 127,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11412,
+    "bookId": 142,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11413,
+    "bookId": 129,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11414,
+    "bookId": 37,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11415,
+    "bookId": 9,
+    "readerId": 236,
+    "rating": 3
+  },
+  {
+    "id": 11416,
+    "bookId": 147,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11417,
+    "bookId": 110,
+    "readerId": 236,
+    "rating": 4
+  },
+  {
+    "id": 11418,
+    "bookId": 145,
+    "readerId": 237,
+    "rating": 5
+  },
+  {
+    "id": 11419,
+    "bookId": 185,
+    "readerId": 238,
+    "rating": 1
+  },
+  {
+    "id": 11420,
+    "bookId": 129,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11421,
+    "bookId": 8,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11422,
+    "bookId": 36,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11423,
+    "bookId": 123,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11424,
+    "bookId": 37,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11425,
+    "bookId": 78,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11426,
+    "bookId": 171,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11427,
+    "bookId": 10,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11428,
+    "bookId": 131,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11429,
+    "bookId": 33,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11430,
+    "bookId": 31,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11431,
+    "bookId": 3,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11432,
+    "bookId": 29,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11433,
+    "bookId": 147,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11434,
+    "bookId": 7,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11435,
+    "bookId": 44,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11436,
+    "bookId": 16,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11437,
+    "bookId": 62,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11438,
+    "bookId": 184,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11439,
+    "bookId": 69,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11440,
+    "bookId": 14,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11441,
+    "bookId": 35,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11442,
+    "bookId": 19,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11443,
+    "bookId": 46,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11444,
+    "bookId": 45,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11445,
+    "bookId": 109,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11446,
+    "bookId": 25,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11447,
+    "bookId": 40,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11448,
+    "bookId": 22,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11449,
+    "bookId": 18,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11450,
+    "bookId": 34,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11451,
+    "bookId": 2,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11452,
+    "bookId": 32,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11453,
+    "bookId": 43,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11454,
+    "bookId": 105,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11455,
+    "bookId": 1,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11456,
+    "bookId": 183,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11457,
+    "bookId": 173,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11458,
+    "bookId": 120,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11459,
+    "bookId": 160,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11460,
+    "bookId": 26,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11461,
+    "bookId": 119,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11462,
+    "bookId": 39,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11463,
+    "bookId": 12,
+    "readerId": 238,
+    "rating": 1
+  },
+  {
+    "id": 11464,
+    "bookId": 15,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11465,
+    "bookId": 28,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11466,
+    "bookId": 42,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11467,
+    "bookId": 17,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11468,
+    "bookId": 21,
+    "readerId": 238,
+    "rating": 1
+  },
+  {
+    "id": 11469,
+    "bookId": 5,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11470,
+    "bookId": 4,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11471,
+    "bookId": 27,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11472,
+    "bookId": 6,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11473,
+    "bookId": 24,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11474,
+    "bookId": 23,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11475,
+    "bookId": 9,
+    "readerId": 238,
+    "rating": 1
+  },
+  {
+    "id": 11476,
+    "bookId": 95,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11477,
+    "bookId": 13,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11478,
+    "bookId": 30,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11479,
+    "bookId": 38,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11480,
+    "bookId": 20,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11481,
+    "bookId": 176,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11482,
+    "bookId": 41,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11483,
+    "bookId": 11,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11484,
+    "bookId": 67,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11485,
+    "bookId": 64,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11486,
+    "bookId": 47,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11487,
+    "bookId": 195,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11488,
+    "bookId": 52,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11489,
+    "bookId": 63,
+    "readerId": 238,
+    "rating": 5
+  },
+  {
+    "id": 11490,
+    "bookId": 118,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11491,
+    "bookId": 180,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11492,
+    "bookId": 187,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11493,
+    "bookId": 60,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11494,
+    "bookId": 181,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11495,
+    "bookId": 143,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11496,
+    "bookId": 76,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11497,
+    "bookId": 110,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11498,
+    "bookId": 154,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11499,
+    "bookId": 48,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11500,
+    "bookId": 178,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11501,
+    "bookId": 111,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11502,
+    "bookId": 202,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11503,
+    "bookId": 125,
+    "readerId": 238,
+    "rating": 1
+  },
+  {
+    "id": 11504,
+    "bookId": 68,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11505,
+    "bookId": 100,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11506,
+    "bookId": 153,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11507,
+    "bookId": 75,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11508,
+    "bookId": 128,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11509,
+    "bookId": 165,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11510,
+    "bookId": 189,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11511,
+    "bookId": 163,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11512,
+    "bookId": 51,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11513,
+    "bookId": 136,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11514,
+    "bookId": 114,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11515,
+    "bookId": 188,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11516,
+    "bookId": 138,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11517,
+    "bookId": 192,
+    "readerId": 238,
+    "rating": 2
+  },
+  {
+    "id": 11518,
+    "bookId": 139,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11519,
+    "bookId": 85,
+    "readerId": 238,
+    "rating": 1
+  },
+  {
+    "id": 11520,
+    "bookId": 115,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11521,
+    "bookId": 126,
+    "readerId": 238,
+    "rating": 3
+  },
+  {
+    "id": 11522,
+    "bookId": 194,
+    "readerId": 238,
+    "rating": 4
+  },
+  {
+    "id": 11523,
+    "bookId": 108,
+    "readerId": 239,
+    "rating": 3
+  },
+  {
+    "id": 11524,
+    "bookId": 120,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11525,
+    "bookId": 3,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11526,
+    "bookId": 95,
+    "readerId": 239,
+    "rating": 2
+  },
+  {
+    "id": 11527,
+    "bookId": 134,
+    "readerId": 239,
+    "rating": 5
+  },
+  {
+    "id": 11528,
+    "bookId": 128,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11529,
+    "bookId": 109,
+    "readerId": 239,
+    "rating": 5
+  },
+  {
+    "id": 11530,
+    "bookId": 129,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11531,
+    "bookId": 176,
+    "readerId": 239,
+    "rating": 2
+  },
+  {
+    "id": 11532,
+    "bookId": 131,
+    "readerId": 239,
+    "rating": 3
+  },
+  {
+    "id": 11533,
+    "bookId": 82,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11534,
+    "bookId": 117,
+    "readerId": 239,
+    "rating": 3
+  },
+  {
+    "id": 11535,
+    "bookId": 112,
+    "readerId": 239,
+    "rating": 3
+  },
+  {
+    "id": 11536,
+    "bookId": 76,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11537,
+    "bookId": 103,
+    "readerId": 239,
+    "rating": 1
+  },
+  {
+    "id": 11538,
+    "bookId": 114,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11539,
+    "bookId": 139,
+    "readerId": 239,
+    "rating": 3
+  },
+  {
+    "id": 11540,
+    "bookId": 104,
+    "readerId": 239,
+    "rating": 5
+  },
+  {
+    "id": 11541,
+    "bookId": 105,
+    "readerId": 239,
+    "rating": 3
+  },
+  {
+    "id": 11542,
+    "bookId": 113,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11543,
+    "bookId": 137,
+    "readerId": 239,
+    "rating": 4
+  },
+  {
+    "id": 11544,
+    "bookId": 24,
+    "readerId": 239,
+    "rating": 2
+  },
+  {
+    "id": 11545,
+    "bookId": 138,
+    "readerId": 239,
+    "rating": 5
+  },
+  {
+    "id": 11546,
+    "bookId": 122,
+    "readerId": 239,
+    "rating": 5
+  },
+  {
+    "id": 11547,
+    "bookId": 173,
+    "readerId": 240,
+    "rating": 2
+  },
+  {
+    "id": 11548,
+    "bookId": 191,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11549,
+    "bookId": 21,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11550,
+    "bookId": 24,
+    "readerId": 240,
+    "rating": 5
+  },
+  {
+    "id": 11551,
+    "bookId": 160,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11552,
+    "bookId": 9,
+    "readerId": 240,
+    "rating": 5
+  },
+  {
+    "id": 11553,
+    "bookId": 41,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11554,
+    "bookId": 30,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11555,
+    "bookId": 6,
+    "readerId": 240,
+    "rating": 3
+  },
+  {
+    "id": 11556,
+    "bookId": 11,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11557,
+    "bookId": 46,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11558,
+    "bookId": 31,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11559,
+    "bookId": 190,
+    "readerId": 240,
+    "rating": 3
+  },
+  {
+    "id": 11560,
+    "bookId": 4,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11561,
+    "bookId": 1,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11562,
+    "bookId": 14,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11563,
+    "bookId": 18,
+    "readerId": 240,
+    "rating": 3
+  },
+  {
+    "id": 11564,
+    "bookId": 32,
+    "readerId": 240,
+    "rating": 3
+  },
+  {
+    "id": 11565,
+    "bookId": 28,
+    "readerId": 240,
+    "rating": 3
+  },
+  {
+    "id": 11566,
+    "bookId": 45,
+    "readerId": 240,
+    "rating": 1
+  },
+  {
+    "id": 11567,
+    "bookId": 165,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11568,
+    "bookId": 12,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11569,
+    "bookId": 22,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11570,
+    "bookId": 37,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11571,
+    "bookId": 129,
+    "readerId": 240,
+    "rating": 4
+  },
+  {
+    "id": 11572,
+    "bookId": 199,
+    "readerId": 240,
+    "rating": 3
+  },
+  {
+    "id": 11573,
+    "bookId": 44,
+    "readerId": 240,
+    "rating": 3
+  },
+  {
+    "id": 11574,
+    "bookId": 14,
+    "readerId": 241,
+    "rating": 4
+  },
+  {
+    "id": 11575,
+    "bookId": 202,
+    "readerId": 241,
+    "rating": 4
+  },
+  {
+    "id": 11576,
+    "bookId": 205,
+    "readerId": 241,
+    "rating": 5
+  },
+  {
+    "id": 11577,
+    "bookId": 187,
+    "readerId": 241,
+    "rating": 4
+  },
+  {
+    "id": 11578,
+    "bookId": 19,
+    "readerId": 241,
+    "rating": 2
+  },
+  {
+    "id": 11579,
+    "bookId": 186,
+    "readerId": 241,
+    "rating": 5
+  },
+  {
+    "id": 11580,
+    "bookId": 142,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11581,
+    "bookId": 182,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11582,
+    "bookId": 159,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11583,
+    "bookId": 154,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11584,
+    "bookId": 89,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11585,
+    "bookId": 81,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11586,
+    "bookId": 59,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11587,
+    "bookId": 54,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11588,
+    "bookId": 134,
+    "readerId": 242,
+    "rating": 2
+  },
+  {
+    "id": 11589,
+    "bookId": 185,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11590,
+    "bookId": 50,
+    "readerId": 242,
+    "rating": 2
+  },
+  {
+    "id": 11591,
+    "bookId": 145,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11592,
+    "bookId": 140,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11593,
+    "bookId": 144,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11594,
+    "bookId": 198,
+    "readerId": 242,
+    "rating": 2
+  },
+  {
+    "id": 11595,
+    "bookId": 63,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11596,
+    "bookId": 161,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11597,
+    "bookId": 61,
+    "readerId": 242,
+    "rating": 1
+  },
+  {
+    "id": 11598,
+    "bookId": 74,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11599,
+    "bookId": 132,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11600,
+    "bookId": 18,
+    "readerId": 242,
+    "rating": 2
+  },
+  {
+    "id": 11601,
+    "bookId": 51,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11602,
+    "bookId": 99,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11603,
+    "bookId": 148,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11604,
+    "bookId": 168,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11605,
+    "bookId": 146,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11606,
+    "bookId": 165,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11607,
+    "bookId": 92,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11608,
+    "bookId": 65,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11609,
+    "bookId": 120,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11610,
+    "bookId": 149,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11611,
+    "bookId": 143,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11612,
+    "bookId": 52,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11613,
+    "bookId": 160,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11614,
+    "bookId": 75,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11615,
+    "bookId": 95,
+    "readerId": 242,
+    "rating": 2
+  },
+  {
+    "id": 11616,
+    "bookId": 150,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11617,
+    "bookId": 87,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11618,
+    "bookId": 13,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11619,
+    "bookId": 167,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11620,
+    "bookId": 90,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11621,
+    "bookId": 147,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11622,
+    "bookId": 153,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11623,
+    "bookId": 114,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11624,
+    "bookId": 173,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11625,
+    "bookId": 105,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11626,
+    "bookId": 70,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11627,
+    "bookId": 83,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11628,
+    "bookId": 85,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11629,
+    "bookId": 19,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11630,
+    "bookId": 162,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11631,
+    "bookId": 31,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11632,
+    "bookId": 72,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11633,
+    "bookId": 76,
+    "readerId": 242,
+    "rating": 1
+  },
+  {
+    "id": 11634,
+    "bookId": 101,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11635,
+    "bookId": 152,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11636,
+    "bookId": 137,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11637,
+    "bookId": 113,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11638,
+    "bookId": 163,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11639,
+    "bookId": 73,
+    "readerId": 242,
+    "rating": 3
+  },
+  {
+    "id": 11640,
+    "bookId": 158,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11641,
+    "bookId": 60,
+    "readerId": 242,
+    "rating": 2
+  },
+  {
+    "id": 11642,
+    "bookId": 46,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11643,
+    "bookId": 141,
+    "readerId": 242,
+    "rating": 5
+  },
+  {
+    "id": 11644,
+    "bookId": 91,
+    "readerId": 242,
+    "rating": 1
+  },
+  {
+    "id": 11645,
+    "bookId": 166,
+    "readerId": 242,
+    "rating": 4
+  },
+  {
+    "id": 11646,
+    "bookId": 89,
+    "readerId": 243,
+    "rating": 3
+  },
+  {
+    "id": 11647,
+    "bookId": 86,
+    "readerId": 243,
+    "rating": 3
+  },
+  {
+    "id": 11648,
+    "bookId": 150,
+    "readerId": 243,
+    "rating": 3
+  },
+  {
+    "id": 11649,
+    "bookId": 83,
+    "readerId": 243,
+    "rating": 5
+  },
+  {
+    "id": 11650,
+    "bookId": 49,
+    "readerId": 243,
+    "rating": 4
+  },
+  {
+    "id": 11651,
+    "bookId": 63,
+    "readerId": 243,
+    "rating": 5
+  },
+  {
+    "id": 11652,
+    "bookId": 19,
+    "readerId": 243,
+    "rating": 3
+  },
+  {
+    "id": 11653,
+    "bookId": 13,
+    "readerId": 243,
+    "rating": 4
+  },
+  {
+    "id": 11654,
+    "bookId": 93,
+    "readerId": 243,
+    "rating": 5
+  },
+  {
+    "id": 11655,
+    "bookId": 91,
+    "readerId": 243,
+    "rating": 3
+  },
+  {
+    "id": 11656,
+    "bookId": 32,
+    "readerId": 244,
+    "rating": 5
+  },
+  {
+    "id": 11657,
+    "bookId": 42,
+    "readerId": 244,
+    "rating": 4
+  },
+  {
+    "id": 11658,
+    "bookId": 43,
+    "readerId": 244,
+    "rating": 4
+  },
+  {
+    "id": 11659,
+    "bookId": 144,
+    "readerId": 244,
+    "rating": 2
+  },
+  {
+    "id": 11660,
+    "bookId": 15,
+    "readerId": 244,
+    "rating": 4
+  },
+  {
+    "id": 11661,
+    "bookId": 69,
+    "readerId": 244,
+    "rating": 1
+  },
+  {
+    "id": 11662,
+    "bookId": 113,
+    "readerId": 244,
+    "rating": 3
+  },
+  {
+    "id": 11663,
+    "bookId": 20,
+    "readerId": 244,
+    "rating": 5
+  },
+  {
+    "id": 11664,
+    "bookId": 121,
+    "readerId": 244,
+    "rating": 4
+  },
+  {
+    "id": 11665,
+    "bookId": 117,
+    "readerId": 244,
+    "rating": 4
+  },
+  {
+    "id": 11666,
+    "bookId": 87,
+    "readerId": 245,
+    "rating": 5
+  },
+  {
+    "id": 11667,
+    "bookId": 66,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11668,
+    "bookId": 81,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11669,
+    "bookId": 83,
+    "readerId": 245,
+    "rating": 5
+  },
+  {
+    "id": 11670,
+    "bookId": 93,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11671,
+    "bookId": 71,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11672,
+    "bookId": 84,
+    "readerId": 245,
+    "rating": 5
+  },
+  {
+    "id": 11673,
+    "bookId": 76,
+    "readerId": 245,
+    "rating": 1
+  },
+  {
+    "id": 11674,
+    "bookId": 60,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11675,
+    "bookId": 56,
+    "readerId": 245,
+    "rating": 1
+  },
+  {
+    "id": 11676,
+    "bookId": 92,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11677,
+    "bookId": 67,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11678,
+    "bookId": 127,
+    "readerId": 245,
+    "rating": 5
+  },
+  {
+    "id": 11679,
+    "bookId": 49,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11680,
+    "bookId": 57,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11681,
+    "bookId": 86,
+    "readerId": 245,
+    "rating": 2
+  },
+  {
+    "id": 11682,
+    "bookId": 124,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11683,
+    "bookId": 19,
+    "readerId": 245,
+    "rating": 5
+  },
+  {
+    "id": 11684,
+    "bookId": 74,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11685,
+    "bookId": 110,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11686,
+    "bookId": 20,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11687,
+    "bookId": 52,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11688,
+    "bookId": 30,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11689,
+    "bookId": 89,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11690,
+    "bookId": 173,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11691,
+    "bookId": 54,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11692,
+    "bookId": 75,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11693,
+    "bookId": 88,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11694,
+    "bookId": 79,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11695,
+    "bookId": 77,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11696,
+    "bookId": 78,
+    "readerId": 245,
+    "rating": 3
+  },
+  {
+    "id": 11697,
+    "bookId": 53,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11698,
+    "bookId": 63,
+    "readerId": 245,
+    "rating": 4
+  },
+  {
+    "id": 11699,
+    "bookId": 106,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11700,
+    "bookId": 101,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11701,
+    "bookId": 182,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11702,
+    "bookId": 136,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11703,
+    "bookId": 19,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11704,
+    "bookId": 52,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11705,
+    "bookId": 134,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11706,
+    "bookId": 132,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11707,
+    "bookId": 123,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11708,
+    "bookId": 89,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11709,
+    "bookId": 127,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11710,
+    "bookId": 38,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11711,
+    "bookId": 103,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11712,
+    "bookId": 97,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11713,
+    "bookId": 57,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11714,
+    "bookId": 102,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11715,
+    "bookId": 100,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11716,
+    "bookId": 112,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11717,
+    "bookId": 129,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11718,
+    "bookId": 110,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11719,
+    "bookId": 88,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11720,
+    "bookId": 114,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11721,
+    "bookId": 188,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11722,
+    "bookId": 111,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11723,
+    "bookId": 113,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11724,
+    "bookId": 108,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11725,
+    "bookId": 137,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11726,
+    "bookId": 133,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11727,
+    "bookId": 162,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11728,
+    "bookId": 167,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11729,
+    "bookId": 118,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11730,
+    "bookId": 124,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11731,
+    "bookId": 99,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11732,
+    "bookId": 59,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11733,
+    "bookId": 115,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11734,
+    "bookId": 119,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11735,
+    "bookId": 138,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11736,
+    "bookId": 98,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11737,
+    "bookId": 135,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11738,
+    "bookId": 120,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11739,
+    "bookId": 109,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11740,
+    "bookId": 131,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11741,
+    "bookId": 56,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11742,
+    "bookId": 107,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11743,
+    "bookId": 128,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11744,
+    "bookId": 189,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11745,
+    "bookId": 62,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11746,
+    "bookId": 139,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11747,
+    "bookId": 67,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11748,
+    "bookId": 126,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11749,
+    "bookId": 143,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11750,
+    "bookId": 39,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11751,
+    "bookId": 104,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11752,
+    "bookId": 23,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11753,
+    "bookId": 125,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11754,
+    "bookId": 117,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11755,
+    "bookId": 193,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11756,
+    "bookId": 105,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11757,
+    "bookId": 116,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11758,
+    "bookId": 96,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11759,
+    "bookId": 10,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11760,
+    "bookId": 206,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11761,
+    "bookId": 122,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11762,
+    "bookId": 130,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11763,
+    "bookId": 121,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11764,
+    "bookId": 172,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11765,
+    "bookId": 2,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11766,
+    "bookId": 177,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11767,
+    "bookId": 161,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11768,
+    "bookId": 174,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11769,
+    "bookId": 158,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11770,
+    "bookId": 90,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11771,
+    "bookId": 41,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11772,
+    "bookId": 159,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11773,
+    "bookId": 95,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11774,
+    "bookId": 154,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11775,
+    "bookId": 25,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11776,
+    "bookId": 28,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11777,
+    "bookId": 75,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11778,
+    "bookId": 60,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11779,
+    "bookId": 147,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11780,
+    "bookId": 190,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11781,
+    "bookId": 151,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11782,
+    "bookId": 48,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11783,
+    "bookId": 45,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11784,
+    "bookId": 69,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11785,
+    "bookId": 84,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11786,
+    "bookId": 5,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11787,
+    "bookId": 197,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11788,
+    "bookId": 146,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11789,
+    "bookId": 70,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11790,
+    "bookId": 85,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11791,
+    "bookId": 200,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11792,
+    "bookId": 176,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11793,
+    "bookId": 93,
+    "readerId": 246,
+    "rating": 5
+  },
+  {
+    "id": 11794,
+    "bookId": 175,
+    "readerId": 246,
+    "rating": 3
+  },
+  {
+    "id": 11795,
+    "bookId": 80,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11796,
+    "bookId": 61,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11797,
+    "bookId": 83,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11798,
+    "bookId": 191,
+    "readerId": 246,
+    "rating": 4
+  },
+  {
+    "id": 11799,
+    "bookId": 44,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11800,
+    "bookId": 77,
+    "readerId": 246,
+    "rating": 2
+  },
+  {
+    "id": 11801,
+    "bookId": 32,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11802,
+    "bookId": 153,
+    "readerId": 246,
+    "rating": 1
+  },
+  {
+    "id": 11803,
+    "bookId": 15,
+    "readerId": 247,
+    "rating": 1
+  },
+  {
+    "id": 11804,
+    "bookId": 22,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11805,
+    "bookId": 11,
+    "readerId": 247,
+    "rating": 3
+  },
+  {
+    "id": 11806,
+    "bookId": 32,
+    "readerId": 247,
+    "rating": 3
+  },
+  {
+    "id": 11807,
+    "bookId": 42,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11808,
+    "bookId": 16,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11809,
+    "bookId": 139,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11810,
+    "bookId": 30,
+    "readerId": 247,
+    "rating": 3
+  },
+  {
+    "id": 11811,
+    "bookId": 8,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11812,
+    "bookId": 103,
+    "readerId": 247,
+    "rating": 2
+  },
+  {
+    "id": 11813,
+    "bookId": 53,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11814,
+    "bookId": 72,
+    "readerId": 247,
+    "rating": 5
+  },
+  {
+    "id": 11815,
+    "bookId": 18,
+    "readerId": 247,
+    "rating": 5
+  },
+  {
+    "id": 11816,
+    "bookId": 23,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11817,
+    "bookId": 136,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11818,
+    "bookId": 41,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11819,
+    "bookId": 6,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11820,
+    "bookId": 163,
+    "readerId": 247,
+    "rating": 2
+  },
+  {
+    "id": 11821,
+    "bookId": 14,
+    "readerId": 247,
+    "rating": 2
+  },
+  {
+    "id": 11822,
+    "bookId": 27,
+    "readerId": 247,
+    "rating": 4
+  },
+  {
+    "id": 11823,
+    "bookId": 46,
+    "readerId": 247,
+    "rating": 5
+  },
+  {
+    "id": 11824,
+    "bookId": 44,
+    "readerId": 247,
+    "rating": 3
+  },
+  {
+    "id": 11825,
+    "bookId": 194,
+    "readerId": 247,
+    "rating": 3
+  },
+  {
+    "id": 11826,
+    "bookId": 71,
+    "readerId": 248,
+    "rating": 5
+  },
+  {
+    "id": 11827,
+    "bookId": 202,
+    "readerId": 248,
+    "rating": 2
+  },
+  {
+    "id": 11828,
+    "bookId": 96,
+    "readerId": 248,
+    "rating": 2
+  },
+  {
+    "id": 11829,
+    "bookId": 64,
+    "readerId": 248,
+    "rating": 4
+  },
+  {
+    "id": 11830,
+    "bookId": 90,
+    "readerId": 248,
+    "rating": 5
+  },
+  {
+    "id": 11831,
+    "bookId": 76,
+    "readerId": 248,
+    "rating": 4
+  },
+  {
+    "id": 11832,
+    "bookId": 80,
+    "readerId": 248,
+    "rating": 3
+  },
+  {
+    "id": 11833,
+    "bookId": 61,
+    "readerId": 248,
+    "rating": 4
+  },
+  {
+    "id": 11834,
+    "bookId": 56,
+    "readerId": 248,
+    "rating": 1
+  },
+  {
+    "id": 11835,
+    "bookId": 85,
+    "readerId": 248,
+    "rating": 5
+  },
+  {
+    "id": 11836,
+    "bookId": 79,
+    "readerId": 248,
+    "rating": 5
+  },
+  {
+    "id": 11837,
+    "bookId": 72,
+    "readerId": 248,
+    "rating": 4
+  },
+  {
+    "id": 11838,
+    "bookId": 94,
+    "readerId": 248,
+    "rating": 3
+  },
+  {
+    "id": 11839,
+    "bookId": 36,
+    "readerId": 248,
+    "rating": 2
+  },
+  {
+    "id": 11840,
+    "bookId": 87,
+    "readerId": 248,
+    "rating": 5
+  },
+  {
+    "id": 11841,
+    "bookId": 141,
+    "readerId": 248,
+    "rating": 3
+  },
+  {
+    "id": 11842,
+    "bookId": 101,
+    "readerId": 248,
+    "rating": 1
+  },
+  {
+    "id": 11843,
+    "bookId": 65,
+    "readerId": 248,
+    "rating": 2
+  },
+  {
+    "id": 11844,
+    "bookId": 93,
+    "readerId": 248,
+    "rating": 3
+  },
+  {
+    "id": 11845,
+    "bookId": 199,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11846,
+    "bookId": 145,
+    "readerId": 249,
+    "rating": 3
+  },
+  {
+    "id": 11847,
+    "bookId": 193,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11848,
+    "bookId": 14,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11849,
+    "bookId": 171,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11850,
+    "bookId": 169,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11851,
+    "bookId": 190,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11852,
+    "bookId": 172,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11853,
+    "bookId": 180,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11854,
+    "bookId": 201,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11855,
+    "bookId": 31,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11856,
+    "bookId": 126,
+    "readerId": 249,
+    "rating": 3
+  },
+  {
+    "id": 11857,
+    "bookId": 207,
+    "readerId": 249,
+    "rating": 1
+  },
+  {
+    "id": 11858,
+    "bookId": 196,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11859,
+    "bookId": 128,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11860,
+    "bookId": 187,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11861,
+    "bookId": 3,
+    "readerId": 249,
+    "rating": 2
+  },
+  {
+    "id": 11862,
+    "bookId": 109,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11863,
+    "bookId": 118,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11864,
+    "bookId": 70,
+    "readerId": 249,
+    "rating": 5
+  },
+  {
+    "id": 11865,
+    "bookId": 129,
+    "readerId": 249,
+    "rating": 4
+  },
+  {
+    "id": 11866,
+    "bookId": 151,
+    "readerId": 249,
+    "rating": 2
+  },
+  {
+    "id": 11867,
+    "bookId": 44,
+    "readerId": 249,
+    "rating": 2
+  },
+  {
+    "id": 11868,
+    "bookId": 70,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11869,
+    "bookId": 14,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11870,
+    "bookId": 31,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11871,
+    "bookId": 25,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11872,
+    "bookId": 114,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11873,
+    "bookId": 63,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11874,
+    "bookId": 122,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11875,
+    "bookId": 41,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11876,
+    "bookId": 15,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11877,
+    "bookId": 90,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11878,
+    "bookId": 45,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11879,
+    "bookId": 29,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11880,
+    "bookId": 95,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11881,
+    "bookId": 3,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11882,
+    "bookId": 19,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11883,
+    "bookId": 185,
+    "readerId": 250,
+    "rating": 1
+  },
+  {
+    "id": 11884,
+    "bookId": 22,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11885,
+    "bookId": 43,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11886,
+    "bookId": 12,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11887,
+    "bookId": 26,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11888,
+    "bookId": 138,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11889,
+    "bookId": 202,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11890,
+    "bookId": 30,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11891,
+    "bookId": 28,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11892,
+    "bookId": 7,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11893,
+    "bookId": 1,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11894,
+    "bookId": 20,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11895,
+    "bookId": 11,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11896,
+    "bookId": 54,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11897,
+    "bookId": 18,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11898,
+    "bookId": 32,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11899,
+    "bookId": 5,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11900,
+    "bookId": 37,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11901,
+    "bookId": 21,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11902,
+    "bookId": 23,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11903,
+    "bookId": 189,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11904,
+    "bookId": 6,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11905,
+    "bookId": 27,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11906,
+    "bookId": 66,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11907,
+    "bookId": 4,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11908,
+    "bookId": 125,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11909,
+    "bookId": 40,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11910,
+    "bookId": 137,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11911,
+    "bookId": 39,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11912,
+    "bookId": 10,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11913,
+    "bookId": 44,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11914,
+    "bookId": 38,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11915,
+    "bookId": 36,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11916,
+    "bookId": 128,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11917,
+    "bookId": 35,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11918,
+    "bookId": 34,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11919,
+    "bookId": 24,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11920,
+    "bookId": 2,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11921,
+    "bookId": 17,
+    "readerId": 250,
+    "rating": 1
+  },
+  {
+    "id": 11922,
+    "bookId": 33,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11923,
+    "bookId": 55,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11924,
+    "bookId": 13,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11925,
+    "bookId": 46,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11926,
+    "bookId": 47,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11927,
+    "bookId": 16,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11928,
+    "bookId": 147,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11929,
+    "bookId": 8,
+    "readerId": 250,
+    "rating": 1
+  },
+  {
+    "id": 11930,
+    "bookId": 160,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11931,
+    "bookId": 9,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11932,
+    "bookId": 83,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11933,
+    "bookId": 42,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11934,
+    "bookId": 64,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11935,
+    "bookId": 73,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11936,
+    "bookId": 119,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11937,
+    "bookId": 131,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11938,
+    "bookId": 111,
+    "readerId": 250,
+    "rating": 1
+  },
+  {
+    "id": 11939,
+    "bookId": 176,
+    "readerId": 250,
+    "rating": 4
+  },
+  {
+    "id": 11940,
+    "bookId": 174,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11941,
+    "bookId": 98,
+    "readerId": 250,
+    "rating": 1
+  },
+  {
+    "id": 11942,
+    "bookId": 89,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11943,
+    "bookId": 94,
+    "readerId": 250,
+    "rating": 2
+  },
+  {
+    "id": 11944,
+    "bookId": 80,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11945,
+    "bookId": 72,
+    "readerId": 250,
+    "rating": 3
+  },
+  {
+    "id": 11946,
+    "bookId": 103,
+    "readerId": 250,
+    "rating": 5
+  },
+  {
+    "id": 11947,
+    "bookId": 120,
+    "readerId": 250,
+    "rating": 1
   }
 ];

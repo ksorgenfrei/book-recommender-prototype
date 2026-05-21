@@ -4,7 +4,7 @@ import type { ExperienceThresholds, Genre, ReaderProfile } from "../src/types/ty
 import { defaultExperienceThresholds } from "../src/data/experienceThresholds";
 
 // num of readers to generate for first test (small for easy inspection)
-const READER_COUNT = 30;
+const READER_COUNT = 250;
 const READERS_FILE = "src/data/generatedReaderProfiles.ts";
 // fixed seed to make generated data reproducible
 const SEED = 12345;

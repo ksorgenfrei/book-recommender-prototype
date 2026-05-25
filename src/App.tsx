@@ -1,4 +1,4 @@
-import { use, useState } from "react";
+import { useState } from "react";
 
 import { generatedBooks as books } from "./data/generatedBooks";
 import { generatedReaderProfiles as readerProfiles } from "./data/generatedReaderProfiles";
@@ -7,7 +7,7 @@ import { generatedRatings as ratings } from "./data/generatedRatings";
 import { genres } from "./data/genres";
 import { defaultExperienceThresholds } from "./data/experienceThresholds";
 
-import type { ExperienceFilter, Genre } from "./types/types";
+import type { ExperienceFilter, GenreFilter } from "./types/types";
 
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
 import { getExperienceLevel } from "./utils/getExperienceLevel";
@@ -19,10 +19,10 @@ function App() {
   const [currentPage, setCurrentPage] = useState<Page>("home");
 
   // useState stores the selected filter values
-  const [targetGenre, setTargetGenre] = useState<Genre>("Romance");
-  const [cohortGenre, setCohortGenre] = useState<Genre>("Fantasy");
+  const [targetGenre, setTargetGenre] = useState<GenreFilter>("Any");
+  const [cohortGenre, setCohortGenre] = useState<GenreFilter>("Any");
   const [experienceFilter, setExperienceFilter] = useState<ExperienceFilter>("Any");
-
+  const [hasSubmittedQuery, setHasSubmittedQuery] = useState(false); // prevents recs from appearing immediately when user first opens recs page
 
   // Recommendation list
   const recommendations = getRecommendations({
@@ -46,11 +46,12 @@ function App() {
     const reader = readerProfiles.find((r) => r.id === readerId);
     return reader ? reader.displayName : "Unknown reader";
   };
+  const selectedTargetGenreDescription =
+  targetGenre === "Any" ? "books of any genre" : `${targetGenre} books`;
 
   const selectedCohortDescription =
-    experienceFilter === "Any"
-      ? `${cohortGenre} readers of any experience level`
-      : `${experienceFilter.toLowerCase()} ${cohortGenre} readers`;
+    cohortGenre === "Any" && experienceFilter === "Any" ? "readers of any genre and any experience level" 
+    : `${experienceFilter.toLowerCase()} ${cohortGenre} readers`;
 
   return (
     <main>
@@ -112,8 +113,9 @@ function App() {
               Books in genre:{" "}
               <select // creates dropdown menu
                 value={targetGenre}
-                onChange={(event) => setTargetGenre(event.target.value as Genre)} // "as Genre" tells TypeScript to treat the selected option as one of the valid genre values instead of a plain string
+                onChange={(event) => setTargetGenre(event.target.value as GenreFilter)} // "as Genre" tells TypeScript to treat the selected option as one of the valid genre values instead of a plain string
               >
+                <option value="Any">Any genre</option>
                 {genres.map((genre) => ( // for each item in the genres array, create one <option>
                   <option key={genre} value={genre}>
                     {genre}
@@ -127,8 +129,9 @@ function App() {
               Rated by readers who usually read:{" "}
               <select
                 value={cohortGenre}
-                onChange={(event) => setCohortGenre(event.target.value as Genre)}
+                onChange={(event) => setCohortGenre(event.target.value as GenreFilter)}
               >
+                <option value="Any">Any genre</option>
                 {genres.map((genre) => (
                   <option key={genre} value={genre}>
                     {genre}
@@ -160,14 +163,29 @@ function App() {
 
           </div>
 
-          <p>
-            Current query: Show <strong>{targetGenre}</strong> books rated by {" "} <strong>{selectedCohortDescription}</strong>.
-          </p>
+          <button
+            type="button"
+            onClick={() => setHasSubmittedQuery(true)}>
+            Show recommendations
+          </button>
+
+          {hasSubmittedQuery && (
+            <p>
+              Current query: Show <strong>{selectedTargetGenreDescription}</strong> rated by {" "} <strong>{selectedCohortDescription}</strong>.
+            </p>
+          )}
 
           <h2>Recommendations</h2>
-
-          <ul>
-            {/* Render rec results after filtering and ranking */}
+          
+          {!hasSubmittedQuery ? (
+            // shows before user submits a query
+            <p>Choose your recommendation filters, then select <strong>Show Recommendations</strong>.</p>
+          ) : recommendations.length === 0 ? (
+            // shows if there are no matching recs
+            <p>No recommendations found for this selection. Try changing the book genre, reader genre, or experience level.</p>
+          ) : (
+            // shows when recs are available
+            <ul>
             {recommendations.map((recommendation) => (
               <li key={recommendation.book.id}>
                 <strong>{recommendation.book.title}</strong> by {recommendation.book.author} - Average rating:{" "}
@@ -175,6 +193,8 @@ function App() {
               </li>
             ))}
           </ul>
+          )}
+          
 
           <br></br>
           <br></br>

@@ -4,6 +4,7 @@
 import { genres } from "../data/genres"
 
 export type Genre = (typeof genres)[number];
+export type GenreFilter = "Any" | Genre; // add Any to make genre selection optional
 
 // not stored permanently, as this can change based on experience tresholds set by users. reader stores booksReadCount instead
 export type ExperienceLevel = "Beginner" | "Intermediate" | "Experienced";

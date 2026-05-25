@@ -5,7 +5,7 @@ import type {
     Book,
     ExperienceFilter,
     ExperienceThresholds,
-    Genre,
+    GenreFilter,
     Rating,
     ReaderProfile,
     Recommendation,
@@ -27,10 +27,10 @@ type GetRecommendationsParams = {
     ratings: Rating[];
 
     // selected book genre (controls which books are eligible to appear in recs list)
-    targetGenre: Genre;
+    targetGenre: GenreFilter;
 
     // cohort genre (controls which simulated readers are used to calculate recs)
-    cohortGenre: Genre;
+    cohortGenre: GenreFilter;
 
     // the selected reader experience filter
     experienceFilter: ExperienceFilter;
@@ -53,8 +53,8 @@ export function getRecommendations({
     experienceThresholds,
 }: GetRecommendationsParams): Recommendation[] {
     const matchingReaders = readerProfiles.filter((reader) => {
-        // find readers of selected cohort (their dominant genre)
-        const matchesCohortGenre = reader.dominantGenre === cohortGenre;
+        // find readers of selected cohort (their dominant genre), if "Any" all reader dominant genres are allowed
+        const matchesCohortGenre = cohortGenre === "Any" || reader.dominantGenre === cohortGenre;
 
         // calculate this reader's exp lvl from booksReadCount & current threshold settings
         const calculatedReaderExperience = getExperienceLevel(
@@ -81,7 +81,10 @@ export function getRecommendations({
     //  build recs list from books array
     return books
         // filter books by selected target genre
-        .filter((book) => book.genres.includes(targetGenre))
+        .filter((book) => {
+            // if targetGenre is "Any", keep books from all genres, otherwise, keep only books in selected target genre
+            return targetGenre === "Any" || book.genres.includes(targetGenre);
+        })
 
         // for each remaining book, calculate recommendation statistics
         .map((book) => {

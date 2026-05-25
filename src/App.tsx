@@ -10,7 +10,7 @@ import { defaultExperienceThresholds } from "./data/experienceThresholds";
 import type { ExperienceFilter, GenreFilter } from "./types/types";
 
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
-import { getExperienceLevel } from "./utils/getExperienceLevel";
+
 
 type Page = "home" | "recommendations" | "howItWorks"; // tell TypeScript that only one of those three page values can be shown
 
@@ -24,6 +24,7 @@ function App() {
   const [experienceFilter, setExperienceFilter] = useState<ExperienceFilter>("Any");
   const [hasSubmittedQuery, setHasSubmittedQuery] = useState(false); // prevents recs from appearing immediately when user first opens recs page
 
+
   // Recommendation list
   const recommendations = getRecommendations({
     books,
@@ -35,57 +36,51 @@ function App() {
     experienceThresholds: defaultExperienceThresholds,
   });
 
-  // Helper function: given bookId, find matching book title
-  const getBookTitle = (bookId: number) => {
-    const book = books.find((b) => b.id === bookId);
-    return book ? book.title : "Unknown book";
-  };
 
-  // Helper function: given readerId, find matching simulated reader name
-  const getReaderName = (readerId: number) => {
-    const reader = readerProfiles.find((r) => r.id === readerId);
-    return reader ? reader.displayName : "Unknown reader";
-  };
   const selectedTargetGenreDescription =
-  targetGenre === "Any" ? "books of any genre" : `${targetGenre} books`;
+    targetGenre === "Any" ? "books of any genre" : `${targetGenre} books`;
 
   const selectedCohortDescription =
-    cohortGenre === "Any" && experienceFilter === "Any" ? "readers of any genre and any experience level" 
-    : `${experienceFilter.toLowerCase()} ${cohortGenre} readers`;
+    cohortGenre === "Any" && experienceFilter === "Any" ? "readers of any genre and any experience level"
+      : `${experienceFilter.toLowerCase()} ${cohortGenre} readers`;
 
   return (
-    <main>
-      <h1>User-Controlled Cohort-Based Book Recommendation Prototype</h1>
+    <main className="app-shell">
+      <header className="app-header">
+        <h1>User-Controlled Cohort-Based Book Recommendation Prototype</h1>
 
-      <nav aria-label="Main navigation">
-        <button
-          type="button"
-          onClick={() => setCurrentPage("home")}
-          // tell assitive technologies which section is currently active
-          aria-current={currentPage === "home" ? "page" : undefined}>
-          Home
-        </button>
+        <nav className="main-nav" aria-label="Main navigation">
+          <button
+            type="button"
+            className="primary-button"
+            onClick={() => setCurrentPage("home")}
+            // tell assitive technologies which section is currently active
+            aria-current={currentPage === "home" ? "page" : undefined}>
+            Home
+          </button>
 
-        <button
-          type="button"
-          onClick={() => setCurrentPage("recommendations")}
-          // tell assitive technologies which section is currently active
-          aria-current={currentPage === "recommendations" ? "page" : undefined}>
-          Recommendations
-        </button>
+          <button
+            type="button"
+            className="primary-button"
+            onClick={() => setCurrentPage("recommendations")}
+            // tell assitive technologies which section is currently active
+            aria-current={currentPage === "recommendations" ? "page" : undefined}>
+            Recommendations
+          </button>
 
-        <button
-          type="button"
-          onClick={() => setCurrentPage("howItWorks")}
-          // tell assitive technologies which section is currently active
-          aria-current={currentPage === "howItWorks" ? "page" : undefined}>
-          How It Works
-        </button>
-      </nav>
-
+          <button
+            type="button"
+            className="primary-button"
+            onClick={() => setCurrentPage("howItWorks")}
+            // tell assitive technologies which section is currently active
+            aria-current={currentPage === "howItWorks" ? "page" : undefined}>
+            How It Works
+          </button>
+        </nav>
+      </header>
 
       {currentPage === "home" && (
-        <section>
+        <section className="content-card">
           <h2>About this prototype</h2>
 
           <p>This prototype aims to explore transparent, user-controlled book recommendations
@@ -100,16 +95,17 @@ function App() {
 
           <button
             type="button"
+            className="primary-button"
             onClick={() => setCurrentPage("recommendations")}>
             Explore recommendations
           </button>
         </section>
       )}
       {currentPage === "recommendations" && (
-        <section>
+        <section className="content-card">
           <h2>Recommendation Query</h2>
-          <div>
-            <label>
+          <div className="filter-panel">
+            <label className="filter-control">
               Books in genre:{" "}
               <select // creates dropdown menu
                 value={targetGenre}
@@ -124,8 +120,8 @@ function App() {
               </select>
             </label>
 
-            {/*add left margin so second dropdown doest touch the first, moved to CSS later*/}
-            <label style={{ marginLeft: "1rem" }}>
+
+            <label className="filter-control">
               Rated by readers who usually read:{" "}
               <select
                 value={cohortGenre}
@@ -140,7 +136,7 @@ function App() {
               </select>
             </label>
 
-            <label style={{ marginLeft: "1rem" }}>
+            <label className="filter-control">
               Reader experience:{" "}
               <select
                 value={experienceFilter}
@@ -165,6 +161,7 @@ function App() {
 
           <button
             type="button"
+            className="primary-button"
             onClick={() => setHasSubmittedQuery(true)}>
             Show recommendations
           </button>
@@ -176,7 +173,7 @@ function App() {
           )}
 
           <h2>Recommendations</h2>
-          
+
           {!hasSubmittedQuery ? (
             // shows before user submits a query
             <p>Choose your recommendation filters, then select <strong>Show Recommendations</strong>.</p>
@@ -185,58 +182,22 @@ function App() {
             <p>No recommendations found for this selection. Try changing the book genre, reader genre, or experience level.</p>
           ) : (
             // shows when recs are available
-            <ul>
-            {recommendations.map((recommendation) => (
-              <li key={recommendation.book.id}>
-                <strong>{recommendation.book.title}</strong> by {recommendation.book.author} - Average rating:{" "}
-                {recommendation.averageRating.toFixed(2)}  ({recommendation.ratingCount} ratings)
-              </li>
-            ))}
-          </ul>
+            <ul className="recommendations-list">
+              {recommendations.map((recommendation) => (
+                <li key={recommendation.book.id}>
+                  <strong>{recommendation.book.title}</strong> by {recommendation.book.author} - Average rating:{" "}
+                  {recommendation.averageRating.toFixed(2)}  ({recommendation.ratingCount} ratings)
+                </li>
+              ))}
+            </ul>
           )}
-          
 
-          <br></br>
-          <br></br>
-          <h2>Available Books</h2>
 
-          <ul>
-            {books.map((book) => (// for each book in the books array, create one list item, key={book.id} is used since react needs a unique key for each rendered item in a list for tracking
-              <li key={book.id}>
-                <strong>{book.title}</strong> by {book.author} - <em>{book.genres.join(", ")}</em>
-              </li>
-            ))}
-          </ul>
-
-          <h2>Simulated Reader Profiles</h2>
-          <ul>
-            {readerProfiles.map((reader) => (
-              <li key={reader.id}>
-                <strong>{reader.displayName}</strong> usually reads {" "}
-                <em>{reader.dominantGenre}</em> - {reader.booksReadCount} books read - {" "}
-                <strong>
-                  {getExperienceLevel(
-                    reader.booksReadCount,
-                    defaultExperienceThresholds
-                  )}
-                </strong>
-              </li>
-            ))}
-          </ul>
-
-          <h2>Ratings</h2>
-          <ul>
-            {ratings.map((rating) => (
-              <li key={rating.id}>
-                <strong>{getReaderName(rating.readerId)}</strong> rated{" "}
-                <strong>{getBookTitle(rating.bookId)}</strong> {rating.rating}/5.
-              </li>
-            ))}
-          </ul>
+         
         </section>
       )}
       {currentPage === "howItWorks" && (
-        <section>
+        <section className="content-card">
           <h2>How it works</h2>
 
           <ol>

@@ -1,0 +1,53 @@
+   import { getExperienceLevel } from "./utils/getExperienceLevel";
+   
+   // Helper function: given bookId, find matching book title
+  const getBookTitle = (bookId: number) => {
+    const book = books.find((b) => b.id === bookId);
+    return book ? book.title : "Unknown book";
+  };
+
+  // Helper function: given readerId, find matching simulated reader name
+  const getReaderName = (readerId: number) => {
+    const reader = readerProfiles.find((r) => r.id === readerId);
+    return reader ? reader.displayName : "Unknown reader";
+  };
+
+ 
+ 
+ <br></br>
+          <br></br>
+          <h2>Available Books</h2>
+
+          <ul>
+            {books.map((book) => (// for each book in the books array, create one list item, key={book.id} is used since react needs a unique key for each rendered item in a list for tracking
+              <li key={book.id}>
+                <strong>{book.title}</strong> by {book.author} - <em>{book.genres.join(", ")}</em>
+              </li>
+            ))}
+          </ul>
+
+          <h2>Simulated Reader Profiles</h2>
+          <ul>
+            {readerProfiles.map((reader) => (
+              <li key={reader.id}>
+                <strong>{reader.displayName}</strong> usually reads {" "}
+                <em>{reader.dominantGenre}</em> - {reader.booksReadCount} books read - {" "}
+                <strong>
+                  {getExperienceLevel(
+                    reader.booksReadCount,
+                    defaultExperienceThresholds
+                  )}
+                </strong>
+              </li>
+            ))}
+          </ul>
+
+          <h2>Ratings</h2>
+          <ul>
+            {ratings.map((rating) => (
+              <li key={rating.id}>
+                <strong>{getReaderName(rating.readerId)}</strong> rated{" "}
+                <strong>{getBookTitle(rating.bookId)}</strong> {rating.rating}/5.
+              </li>
+            ))}
+          </ul>

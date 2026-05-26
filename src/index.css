@@ -1,241 +1,109 @@
 /* 
-  Apply border-box sizing so padding and borders are included in element width.
-  This makes layout sizing more predictable.
-*/
-* {
-  box-sizing: border-box;
-}
-
-/* 
-  Base page styling.
-  The background is kept light and neutral so the content cards stand out.
+  basic page styling for the prototype
 */
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background: #f5f7fb;
-  color: #1f2937;
+  color: #222;
+  background: #f7f7f7;
   line-height: 1.5;
 }
 
 /* 
-  Main page wrapper.
-  max-width prevents long lines from stretching across the full screen,
-  which improves readability.
+  keep the main content from stretching across the full screen.
 */
-.app-shell {
-  max-width: 1100px;
+main {
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 2rem 1rem;
+  padding: 1rem;
 }
 
 /* 
-  Header card for the title and navigation.
-  This gives the app a clearer visual starting point.
-*/
-.app-header {
-  background: #ffffff;
-  border: 1px solid #d9e2ec;
-  border-radius: 1rem;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-/* 
-  Reduce the default spacing above the first heading.
-*/
-.app-header h1 {
-  margin-top: 0;
-  margin-bottom: 0.5rem;
-}
-
-/* 
-  Make the project subtitle less visually dominant than the main heading.
-*/
-.app-header h2 {
-  margin-top: 0;
-  color: #52606d;
-  font-size: 1rem;
-  font-weight: 600;
-}
-
-/* 
-  Main navigation layout.
-  flex-wrap allows buttons to move onto a new line on smaller screens.
+  add spacing between navigation buttons
 */
 .main-nav {
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  margin-top: 1rem;
+  gap: 0.5rem;
+  margin: 1rem 0;
 }
 
 /* 
-  Shared form control styling.
-  Larger controls are easier to select with mouse, touch, or keyboard.
-*/
-button,
-select {
-  font: inherit;
-  min-height: 2.75rem;
-}
-
-/* 
-  Default button styling.
-  The padding increases the clickable area and improves usability.
-*/
-button {
-  border: 1px solid #9fb3c8;
-  border-radius: 0.75rem;
-  background: #ffffff;
-  color: #102a43;
-  padding: 0.6rem 1rem;
-  cursor: pointer;
-}
-
-/* 
-  Hover styling gives mouse users feedback that the button is interactive.
-*/
-button:hover {
-  background: #eef2f7;
-}
-
-/* 
-  aria-current="page" is already set in App.tsx.
-  This style makes the active navigation item visually obvious.
+  highlight active navigation item
+  App.tsx sets aria-current="page" on the active button
 */
 .main-nav button[aria-current="page"] {
-  background: #102a43;
-  color: #ffffff;
-  border-color: #102a43;
+  background: #80bcfb;
 }
 
 /* 
-  Primary action button for the main call-to-action buttons.
-*/
-.primary-button {
-  margin-top: 1rem;
-  background: #2563eb;
-  color: #ffffff;
-  border-color: #2563eb;
-}
-
-/* 
-  Hover state for primary buttons.
-*/
-.primary-button:hover {
-  background: #1d4ed8;
-}
-
-/* 
-  Visible keyboard focus indicator.
-  This helps keyboard users see which control is currently focused.
-*/
-button:focus-visible,
-select:focus-visible {
-  outline: 3px solid #f59e0b;
-  outline-offset: 3px;
-}
-
-/* 
-  Main content card.
-  This makes each page section feel deliberately structured.
+  visual grouping for each main section.
 */
 .content-card {
-  background: #ffffff;
-  border: 1px solid #d9e2ec;
-  border-radius: 1rem;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-top: 1rem;
 }
 
 /* 
-  Remove extra top spacing from headings inside cards.
-*/
-.content-card h2:first-child {
-  margin-top: 0;
-}
-
-/* 
-  Recommendation filter layout.
-  This keeps the dropdowns aligned and spaced without inline styles.
+  basic spacing between recommendation filters
 */
 .filter-panel {
   display: flex;
-  flex-wrap: wrap;
   gap: 1rem;
-  align-items: flex-end;
   margin-bottom: 1rem;
 }
 
 /* 
-  Each filter label becomes a small vertical group:
-  label text above, dropdown below.
+  keep each filter label and dropdown visually grouped.
 */
 .filter-control {
   display: flex;
   flex-direction: column;
-  gap: 0.35rem;
-  min-width: 14rem;
-  font-weight: 600;
+  gap: 0.25rem;
 }
 
 /* 
-  Dropdowns fill their filter-control container.
+  make buttons and dropdowns slightly easier to select
+  This is a small usability improvement, not a full UI redesign.
 */
-.filter-control select {
-  width: 100%;
-  border: 1px solid #9fb3c8;
-  border-radius: 0.5rem;
-  padding: 0.4rem 0.6rem;
-  background: #ffffff;
+button,
+select {
+  font: inherit;
+  padding: 0.35rem 0.5rem;
+  border: 1px solid #2d74b2;
 }
 
 /* 
-  Recommendation results are shown as simple cards instead of a dense bullet list.
+  Give the main action button a slightly stronger visual weight.
 */
-.recommendation-list {
-  list-style: none;
+.primary-button {
+  background: #d0e7ff;
+
+}
+
+/* 
+  Keep keyboard focus visible for buttons and dropdowns.
+  This supports keyboard navigation without adding complex styling.
+*/
+button:focus-visible,
+select:focus-visible {
+  outline: 2px solid #005fcc;
+  outline-offset: 2px;
+}
+
+/* 
+  Make recommendation results easier to scan than a dense bullet list.
+*/
+.recommendations-list {
   padding-left: 0;
-  display: grid;
-  gap: 0.75rem;
+  list-style: none;
 }
 
 /* 
-  Each recommendation gets spacing and a subtle border,
-  making individual results easier to scan.
+  light separation between recommendation results.
 */
-.recommendation-list li {
-  background: #f8fafc;
-  border: 1px solid #d9e2ec;
-  border-radius: 0.75rem;
-  padding: 0.9rem;
-}
-
-/* 
-  Responsive adjustment for narrower screens.
-  Controls stack vertically so they remain readable and easy to select.
-*/
-@media (max-width: 700px) {
-  .app-shell {
-    padding: 1rem;
-  }
-
-  .main-nav {
-    flex-direction: column;
-  }
-
-  .main-nav button,
-  .primary-button {
-    width: 100%;
-  }
-
-  .filter-panel {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .filter-control {
-    min-width: 100%;
-  }
+.recommendations-list li {
+  border-bottom: 1px solid #ddd;
+  padding: 0.4rem 0;
 }

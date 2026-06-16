@@ -5,12 +5,18 @@ import { genres } from "../data/genres"
 
 export type Genre = (typeof genres)[number];
 export type GenreFilter = "Any" | Genre; // add Any to make genre selection optional
-
-// not stored permanently, as this can change based on experience tresholds set by users. reader stores booksReadCount instead
-export type ExperienceLevel = "Beginner" | "Intermediate" | "Experienced";
-
 // possible values in reader experience filter
 export type ExperienceFilter = "Any" | ExperienceLevel;
+
+// ranking methods users can select for recs
+export type RecommendationSortOption =
+    | "averageRating"
+    | "ratingCount"
+    | "averageRatingThenCount"
+    | "ratingCountThenAverage";
+
+// not stored permanently, as this can change based on experience thresholds set by users. reader stores booksReadCount instead
+export type ExperienceLevel = "Beginner" | "Intermediate" | "Experienced";
 
 export type ExperienceThresholds = {
     intermediateMinBooksRead: number;

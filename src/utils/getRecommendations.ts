@@ -9,11 +9,12 @@ import type {
     Rating,
     ReaderProfile,
     Recommendation,
+    RecommendationSortOption,
 } from "../types/types";
 
 import { getExperienceLevel } from "./getExperienceLevel";
 
-// type to define the shope of the object that must be passed to getRecommendations().
+// type to define the shape of the object that must be passed to getRecommendations().
 // instead of passing five separate arguments like books, readerProfiles etc.,
 // one object is passed to make the function call clearer because values are named
 type GetRecommendationsParams = {
@@ -37,6 +38,9 @@ type GetRecommendationsParams = {
 
     // current experience threshold settings
     experienceThresholds: ExperienceThresholds;
+
+    // determines ranking of recs results
+    sortOption: RecommendationSortOption;
 };
 
 // calculate the ranked recommendation list
@@ -51,9 +55,10 @@ export function getRecommendations({
     cohortGenre,
     experienceFilter,
     experienceThresholds,
+    sortOption,
 }: GetRecommendationsParams): Recommendation[] {
     const matchingReaders = readerProfiles.filter((reader) => {
-        // find readers of selected cohort (their dominant genre), if "Any" all reader dominant genres are allowed
+        // find readers of selected cohort (their dominant genre), if "Any", all reader dominant genres are allowed
         const matchesCohortGenre = cohortGenre === "Any" || reader.dominantGenre === cohortGenre;
 
         // calculate this reader's exp lvl from booksReadCount & current threshold settings
@@ -113,5 +118,37 @@ export function getRecommendations({
         // remove books that have no ratings
         .filter((recommendation) => recommendation.ratingCount > 0)
         // sort by descending avg rating
-        .sort((a, b) => b.averageRating - a.averageRating);
+        .sort((a, b) => {
+            // compare averages at two decimal places
+            const averageDifference = Math.round(b.averageRating * 100) - Math.round(a.averageRating * 100);
+            const ratingCountDifference = b.ratingCount - a.ratingCount;
+            const titleDifference =  a.book.title.localeCompare(b.book.title);
+
+            // apply selected ranking option
+            switch (sortOption) {
+                case "averageRating":
+                    return (
+                        averageDifference || titleDifference
+                    );
+                
+                case "ratingCount":
+                    return (
+                        ratingCountDifference || titleDifference
+                    );
+                
+                case "averageRatingThenCount":
+                    return (
+                        averageDifference || ratingCountDifference || titleDifference
+                    );
+                
+                case "ratingCountThenAverage":
+                    return (
+                        ratingCountDifference || averageDifference || titleDifference
+                    );
+                
+                default:
+                    // safe fallback in case of unexpected value
+                    return averageDifference || titleDifference;
+            }
+        })
 }

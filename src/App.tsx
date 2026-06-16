@@ -7,18 +7,19 @@ import { generatedRatings as ratings } from "./data/generatedRatings";
 import { genres } from "./data/genres";
 import { defaultExperienceThresholds } from "./data/experienceThresholds";
 
-import type { ExperienceFilter, GenreFilter } from "./types/types";
+import type { ExperienceFilter, GenreFilter, RecommendationSortOption } from "./types/types";
 
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
 
 
 type Page = "home" | "recommendations" | "howItWorks"; // tell TypeScript that only one of those three page values can be shown
 
-// store the filter values that wre submitted with the Show Recommendations button (separate from dropdown values so that recommendations dont update automatically)
+// store the sorting+filter values that were submitted with the Show Recommendations button (separate from dropdown values so that recommendations dont update automatically)
 type SubmittedRecommendationQuery = {
   targetGenre: GenreFilter;
   cohortGenre: GenreFilter;
   experienceFilter: ExperienceFilter;
+  sortOption: RecommendationSortOption;
 }
 
 function App() {
@@ -32,41 +33,62 @@ function App() {
   // store the last filter combination submitted with the Show Recs button
   // null = user has not submitted a recs query yet
   const [submittedQuery, setSubmittedQuery] = useState<SubmittedRecommendationQuery | null>(null);
+  // store ranking method selected by user
+  const [sortOption, setSortOption] = useState<RecommendationSortOption>("averageRatingThenCount");
 
 
   // Recommendation list
   // recs are only calculated after the user submits a query,
   // preventing the list from changing automatically when dropdown values change
   const recommendations = submittedQuery === null ? []
-  : getRecommendations({
-    books,
-    readerProfiles,
-    ratings,
-    targetGenre: submittedQuery.targetGenre,
-    cohortGenre: submittedQuery.cohortGenre,
-    experienceFilter: submittedQuery.experienceFilter,
-    experienceThresholds: defaultExperienceThresholds,
-  });
+    : getRecommendations({
+      books,
+      readerProfiles,
+      ratings,
+      targetGenre: submittedQuery.targetGenre,
+      cohortGenre: submittedQuery.cohortGenre,
+      experienceFilter: submittedQuery.experienceFilter,
+      experienceThresholds: defaultExperienceThresholds,
+      sortOption: submittedQuery.sortOption,
+    });
 
   // build a readable description of the selected book genre
-  function getTargetGenreDescription(selectedTargetGenre: GenreFilter){
+  function getTargetGenreDescription(selectedTargetGenre: GenreFilter) {
     return selectedTargetGenre === "Any" ? "books of any genre" : `${selectedTargetGenre} books`;
   }
 
   // build a readable description of the selected reader cohort
-  function getCohortDescription(selectedCohortGenre: GenreFilter, selectedExperienceFilter: ExperienceFilter){
-    if (selectedCohortGenre === "Any" && selectedExperienceFilter === "Any"){
+  function getCohortDescription(selectedCohortGenre: GenreFilter, selectedExperienceFilter: ExperienceFilter) {
+    if (selectedCohortGenre === "Any" && selectedExperienceFilter === "Any") {
       return "readers of any genre and any experience level";
     }
-    if (selectedCohortGenre === "Any"){
+    if (selectedCohortGenre === "Any") {
       return `${selectedExperienceFilter.toLowerCase()} readers of any genre`;
     }
 
-    if (selectedExperienceFilter === "Any"){
+    if (selectedExperienceFilter === "Any") {
       return `readers who usually read ${selectedCohortGenre}`;
     }
 
     return `${selectedExperienceFilter.toLowerCase()} readers who usually read ${selectedCohortGenre}`;
+  }
+
+  // convert the internal sorting value into wording that can be shown to the user
+  function getSortDescription(
+    selectedSortOption: RecommendationSortOption
+  ) {
+    if (selectedSortOption === "averageRating") {
+      return "highest average rating";
+    }
+    if (selectedSortOption === "ratingCount") {
+      return "most ratings";
+    }
+    if (selectedSortOption === "averageRatingThenCount") {
+      return "highest average rating, then most ratings";
+    }
+    if (selectedSortOption === "ratingCountThenAverage") {
+      return "most ratings, then highest average rating";
+    }
   }
 
   // these descs are now bosed on the submitted query,
@@ -76,6 +98,10 @@ function App() {
 
   const selectedCohortDescription = submittedQuery === null ? ""
     : getCohortDescription(submittedQuery.cohortGenre, submittedQuery.experienceFilter);
+
+  // describe the selected sorting method from the submitted query
+  const selectedSortDescription = submittedQuery === null ? ""
+    : getSortDescription(submittedQuery.sortOption);
 
   return (
     <main className="app-shell">
@@ -190,6 +216,31 @@ function App() {
               </select>
             </label>
 
+            <label className="filter-control">
+              Sort by:{" "}
+              <select
+                value={sortOption}
+                onChange={(event) =>
+                  setSortOption(event.target.value as RecommendationSortOption)
+                }>
+                <option value="averageRating">
+                  Highest average rating
+                </option>
+
+                <option value="ratingCount">
+                  Most ratings
+                </option>
+
+                <option value="averageRatingThenCount">
+                  Highest average rating, then most ratings
+                </option>
+
+                <option value="ratingCountThenAverage">
+                  Most ratings, then highest average rating
+                </option>
+              </select>
+            </label>
+
           </div>
 
           <button
@@ -199,6 +250,7 @@ function App() {
               targetGenre,
               cohortGenre,
               experienceFilter,
+              sortOption,
             })
             }>
             Show recommendations
@@ -206,7 +258,9 @@ function App() {
 
           {submittedQuery !== null && (
             <p>
-              Current query: Show <strong>{selectedTargetGenreDescription}</strong> rated by {" "} <strong>{selectedCohortDescription}</strong>.
+              Current query: Show <strong>{selectedTargetGenreDescription}</strong>{" "}
+              rated by {" "} <strong>{selectedCohortDescription}</strong>,
+              sorted by{" "}<strong>{selectedSortDescription}</strong>.
             </p>
           )}
 
@@ -231,7 +285,7 @@ function App() {
           )}
 
 
-         
+
         </section>
       )}
       {currentPage === "howItWorks" && (
@@ -242,7 +296,10 @@ function App() {
             <li>Select the genre of books you would like to see recommendations for.</li>
             <li>Select the dominant genre and reading experience level of the reader cohort whose ratings should be used.</li>
             <li>The prototype will calculate average book ratings using only ratings from the selected cohort.</li>
-            <li>Rating counts are indicated to show why each recommendation was included.</li>
+            <li>Select how recommendations should be ranked. Combined sorting options
+              use the second criterion when results are tied on the first criterion.</li>
+            <li>Rating counts show how many ratings from the selected cohort contributed
+              to each recommendation.</li>
           </ol>
 
           <p>The recommendations are suitable for testing the prototype logic but

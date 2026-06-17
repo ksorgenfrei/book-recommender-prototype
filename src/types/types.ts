@@ -53,4 +53,6 @@ export type Recommendation = {
     book: Book;
     averageRating: number;
     ratingCount: number;
+    // store exact ratings used to calculate this rec (to later display them to users)
+    ratingsUsed: Rating[];
 };

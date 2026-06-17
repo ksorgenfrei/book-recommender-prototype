@@ -7,9 +7,10 @@ import { generatedRatings as ratings } from "./data/generatedRatings";
 import { genres } from "./data/genres";
 import { defaultExperienceThresholds } from "./data/experienceThresholds";
 
-import type { ExperienceFilter, GenreFilter, RecommendationSortOption } from "./types/types";
+import type { ExperienceFilter, GenreFilter, RecommendationSortOption, Recommendation } from "./types/types";
 
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
+import { getExperienceLevel } from "./utils/getExperienceLevel";
 
 
 type Page = "home" | "recommendations" | "howItWorks"; // tell TypeScript that only one of those three page values can be shown
@@ -21,6 +22,11 @@ type SubmittedRecommendationQuery = {
   experienceFilter: ExperienceFilter;
   sortOption: RecommendationSortOption;
 }
+
+// lookup from reader ID to reader profile to avoid searching the full readerProfiles array for every displayed rating
+const readerProfilesById = new Map(
+  readerProfiles.map((reader) => [reader.id, reader])
+);
 
 function App() {
   // store which main section is currently displayed
@@ -35,6 +41,8 @@ function App() {
   const [submittedQuery, setSubmittedQuery] = useState<SubmittedRecommendationQuery | null>(null);
   // store ranking method selected by user
   const [sortOption, setSortOption] = useState<RecommendationSortOption>("averageRatingThenCount");
+  // store the book ID for the rec whose contributing ratings the user wants to inspect. null = no rec selected
+  const [selectedRecommendationBookId, setSelectedRecommendationBookId] = useState<Recommendation["book"]["id"] | null>(null);
 
 
   // Recommendation list
@@ -246,13 +254,17 @@ function App() {
           <button
             type="button"
             className="primary-button"
-            onClick={() => setSubmittedQuery({
-              targetGenre,
-              cohortGenre,
-              experienceFilter,
-              sortOption,
-            })
-            }>
+            onClick={() => {
+              setSubmittedQuery({
+                targetGenre,
+                cohortGenre,
+                experienceFilter,
+                sortOption,
+              });
+
+              // close any ratings view opened for the previous query
+              setSelectedRecommendationBookId(null);
+            }}>
             Show recommendations
           </button>
 
@@ -279,12 +291,73 @@ function App() {
                 <li key={recommendation.book.id}>
                   <strong>{recommendation.book.title}</strong> by {recommendation.book.author} - Average rating:{" "}
                   {recommendation.averageRating.toFixed(2)}  ({recommendation.ratingCount} ratings)
+
+                  <button
+                    type="button"
+                    className="primary-button"
+                    aria-expanded={
+                      selectedRecommendationBookId === recommendation.book.id
+                    }
+                    onClick={() =>
+                      setSelectedRecommendationBookId((currentBookId) =>
+                        currentBookId === recommendation.book.id
+                          ? null
+                          : recommendation.book.id
+                      )
+                    }
+                  >
+                    {selectedRecommendationBookId === recommendation.book.id
+                      ? "Hide ratings used"
+                      : "View ratings used"}
+                  </button>
+
+                  {selectedRecommendationBookId === recommendation.book.id && (
+                    <div className="content-card">
+                      <h3>
+                        Ratings used for {recommendation.book.title}
+                      </h3>
+
+                      <p>
+                        These {recommendation.ratingCount} ratings produced an average rating of{" "}
+                        {recommendation.averageRating.toFixed(2)}.
+                      </p>
+
+                      <ul>
+                        {recommendation.ratingsUsed.map((rating) => {
+                          // Retrieve reader profile linked to this rating
+                          const reader = readerProfilesById.get(rating.readerId);
+
+                          // fallback if no matching reader profile is found
+                          if (reader === undefined) {
+                            return (
+                              <li key={`${rating.readerId}-${rating.bookId}`}>
+                                Reader profile unavailable for reader ID: {rating.readerId}.
+                              </li>
+                            )
+                          }
+
+                          // calculate this reader's exp lvl using thresholds
+                          const experienceLevel = getExperienceLevel(
+                            reader.booksReadCount,
+                            defaultExperienceThresholds
+                          );
+
+                          return (
+                            <li key={`${rating.readerId}-${rating.bookId}`}>
+                              <strong>{reader.displayName}</strong>: {rating.rating}/5
+                              {" - "}
+                              {experienceLevel} ({reader.booksReadCount} books read, usually {reader.dominantGenre})
+                            </li>
+                          );
+                        })}
+
+                      </ul>
+                    </div>
+                  )}
                 </li>
               ))}
             </ul>
           )}
-
-
 
         </section>
       )}
@@ -300,6 +373,10 @@ function App() {
               use the second criterion when results are tied on the first criterion.</li>
             <li>Rating counts show how many ratings from the selected cohort contributed
               to each recommendation.</li>
+            <li>
+              Select "View ratings used" to inspect the individual simulated ratings and
+              reader characteristics that contributed to a recommendation.
+            </li>
           </ol>
 
           <p>The recommendations are suitable for testing the prototype logic but

@@ -107,11 +107,12 @@ export function getRecommendations({
                     ? relevantRatings.reduce((sum, rating) => sum + rating.rating, 0) / ratingCount
                     : 0;
 
-            // return a Recommendation object, the book is a nested objects (e.g. recommendation.book.title)
+            // return a Recommendation object, the book is a nested object (e.g. recommendation.book.title)
             return {
                 book,
                 ratingCount,
                 averageRating,
+                ratingsUsed: relevantRatings,
             };
         })
 

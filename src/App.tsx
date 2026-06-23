@@ -7,13 +7,13 @@ import { generatedRatings as ratings } from "./data/generatedRatings";
 import { genres } from "./data/genres";
 import { defaultExperienceThresholds } from "./data/experienceThresholds";
 
-import type { ExperienceFilter, GenreFilter, RecommendationSortOption, Recommendation } from "./types/types";
+import type { ExperienceFilter, GenreFilter, RecommendationSortOption, Recommendation, ReaderProfile } from "./types/types";
 
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
 import { getExperienceLevel } from "./utils/getExperienceLevel";
 
 
-type Page = "home" | "recommendations" | "howItWorks"; // tell TypeScript that only one of those three page values can be shown
+type Page = "home" | "recommendations" | "howItWorks" | "readerProfile"; // tell TypeScript that only one of those four page values can be shown
 
 // store the sorting+filter values that were submitted with the Show Recommendations button (separate from dropdown values so that recommendations dont update automatically)
 type SubmittedRecommendationQuery = {
@@ -28,6 +28,11 @@ const readerProfilesById = new Map(
   readerProfiles.map((reader) => [reader.id, reader])
 );
 
+// lookup from book ID to book information
+const booksById = new Map(
+  books.map((book) => [book.id, book])
+);
+
 function App() {
   // store which main section is currently displayed
   const [currentPage, setCurrentPage] = useState<Page>("home");
@@ -36,13 +41,15 @@ function App() {
   const [targetGenre, setTargetGenre] = useState<GenreFilter>("Any");
   const [cohortGenre, setCohortGenre] = useState<GenreFilter>("Any");
   const [experienceFilter, setExperienceFilter] = useState<ExperienceFilter>("Any");
-  // store the last filter combination submitted with the Show Recs button
+  // store the last filter combination submitted with the Show Recs 
   // null = user has not submitted a recs query yet
   const [submittedQuery, setSubmittedQuery] = useState<SubmittedRecommendationQuery | null>(null);
   // store ranking method selected by user
   const [sortOption, setSortOption] = useState<RecommendationSortOption>("averageRatingThenCount");
   // store the book ID for the rec whose contributing ratings the user wants to inspect. null = no rec selected
   const [selectedRecommendationBookId, setSelectedRecommendationBookId] = useState<Recommendation["book"]["id"] | null>(null);
+  // store the reader ID for the reader profile the user wants to inspect. null = no reader selected
+  const [selectedReaderId, setSelectedReaderId] = useState<ReaderProfile["id"] | null>(null);
 
 
   // Recommendation list
@@ -59,6 +66,21 @@ function App() {
       experienceThresholds: defaultExperienceThresholds,
       sortOption: submittedQuery.sortOption,
     });
+
+  const selectedReader = selectedReaderId === null ? null
+    : readerProfilesById.get(selectedReaderId) ?? null;   // if the map lookup returns undefined, use null instead
+
+  const selectedExperienceLevel = selectedReader === null ? null
+    : getExperienceLevel(
+      selectedReader.booksReadCount,
+      defaultExperienceThresholds
+    );
+
+  //selected reader's full rating history
+  const selectedReaderRatings = selectedReaderId === null ? []
+    : ratings.filter(rating =>
+      rating.readerId === selectedReaderId
+    );
 
   // build a readable description of the selected book genre
   function getTargetGenreDescription(selectedTargetGenre: GenreFilter) {
@@ -264,6 +286,7 @@ function App() {
 
               // close any ratings view opened for the previous query
               setSelectedRecommendationBookId(null);
+              setSelectedReaderId(null);
             }}>
             Show recommendations
           </button>
@@ -344,7 +367,14 @@ function App() {
 
                           return (
                             <li key={`${rating.readerId}-${rating.bookId}`}>
-                              <strong>{reader.displayName}</strong>: {rating.rating}/5
+                              <button
+                                type="button"
+                                onClick={() => {
+                                  setSelectedReaderId(reader.id);
+                                  setCurrentPage("readerProfile");
+                                }}>
+                                {reader.displayName}
+                              </button>: {rating.rating}/5
                               {" - "}
                               {experienceLevel} ({reader.booksReadCount} books read, usually {reader.dominantGenre})
                             </li>
@@ -358,9 +388,67 @@ function App() {
               ))}
             </ul>
           )}
-
         </section>
       )}
+
+      {currentPage === "readerProfile" && (
+        <section className="content-card">
+          <h2>Reader Profile</h2>
+          <button
+            type="button"
+            className="primary-button"
+            onClick={() =>
+              setCurrentPage("recommendations")
+            }>
+            Back to recommendations
+          </button>
+          {selectedReader === null ? (
+            <p>No reader profile selected.</p>
+          )
+            : <>
+              <dl>
+                <dt>Reader name:</dt>
+                <dd>{selectedReader.displayName}</dd>
+                <dt>Dominant genre:</dt>
+                <dd>{selectedReader.dominantGenre}</dd>
+                <dt>Books read count:</dt>
+                <dd>{selectedReader.booksReadCount}</dd>
+                <dt>Experience level:</dt>
+                <dd>{selectedExperienceLevel}</dd>
+              </dl>
+
+              <h2>Rating history</h2>
+
+              {selectedReaderRatings.length === 0 ? (
+                <p>No ratings available.</p>
+              ) : (
+                <ul>
+                  {selectedReaderRatings.map((rating) => {
+                    const matchingBook = booksById.get(rating.bookId);
+
+                    if (matchingBook === undefined) {
+                      return (
+                        <li key={`${rating.bookId}-${rating.readerId}`}>
+                          Book information unavailable for book ID: {rating.bookId}.
+                        </li>
+                      );
+                    }
+
+                    return (
+                      <li key={`${rating.bookId}-${rating.readerId}`}>
+                        <strong>{matchingBook.title}</strong> by {matchingBook.author} {" "}
+                        ({matchingBook.genres.join(", ")}) -{" "}
+                        {rating.rating}/5
+                      </li>
+                    );
+                  })}
+                </ul>
+              )}
+            </>
+          }
+        </section>
+      )}
+
       {currentPage === "howItWorks" && (
         <section className="content-card">
           <h2>How it works</h2>
@@ -376,6 +464,10 @@ function App() {
             <li>
               Select "View ratings used" to inspect the individual simulated ratings and
               reader characteristics that contributed to a recommendation.
+            </li>
+            <li>
+              Select a reader name to open that simulated reader's profile, showing their
+              dominant genre, experience level, books read count, and rating history.
             </li>
           </ol>
 

@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { RecommendationFilters } from "./components/RecommendationFilters";
 
 import { generatedBooks as books } from "./data/generatedBooks";
 import { generatedReaderProfiles as readerProfiles } from "./data/generatedReaderProfiles";
@@ -11,6 +12,7 @@ import type { ExperienceFilter, GenreFilter, RecommendationSortOption, Recommend
 
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
 import { getExperienceLevel } from "./utils/getExperienceLevel";
+import { MainNavigation } from "./components/MainNavigation";
 
 
 type Page = "home" | "recommendations" | "howItWorks" | "readerProfile"; // tell TypeScript that only one of those four page values can be shown
@@ -138,34 +140,11 @@ function App() {
       <header className="app-header">
         <h1>User-Controlled Cohort-Based Book Recommendation Prototype</h1>
 
-        <nav className="main-nav" aria-label="Main navigation">
-          <button
-            type="button"
-            className="primary-button"
-            onClick={() => setCurrentPage("home")}
-            // tell assitive technologies which section is currently active
-            aria-current={currentPage === "home" ? "page" : undefined}>
-            Home
-          </button>
-
-          <button
-            type="button"
-            className="primary-button"
-            onClick={() => setCurrentPage("recommendations")}
-            // tell assitive technologies which section is currently active
-            aria-current={currentPage === "recommendations" ? "page" : undefined}>
-            Recommendations
-          </button>
-
-          <button
-            type="button"
-            className="primary-button"
-            onClick={() => setCurrentPage("howItWorks")}
-            // tell assitive technologies which section is currently active
-            aria-current={currentPage === "howItWorks" ? "page" : undefined}>
-            How It Works
-          </button>
-        </nav>
+        <MainNavigation
+          // if currentPage is readerProfile, highlight recommendations (since it's part of that main page)
+          currentPage={currentPage === "readerProfile" ? "recommendations" : currentPage}
+          onCurrentPageChange={setCurrentPage}
+        />
       </header>
 
       {currentPage === "home" && (
@@ -193,85 +172,18 @@ function App() {
       {currentPage === "recommendations" && (
         <section className="content-card">
           <h2>Recommendation Query</h2>
-          <div className="filter-panel">
-            <label className="filter-control">
-              Books in genre:{" "}
-              <select // creates dropdown menu
-                value={targetGenre}
-                onChange={(event) => setTargetGenre(event.target.value as GenreFilter)} // "as Genre" tells TypeScript to treat the selected option as one of the valid genre values instead of a plain string
-              >
-                <option value="Any">Any genre</option>
-                {genres.map((genre) => ( // for each item in the genres array, create one <option>
-                  <option key={genre} value={genre}>
-                    {genre}
-                  </option>
-                ))}
-              </select>
-            </label>
-
-
-            <label className="filter-control">
-              Rated by readers who usually read:{" "}
-              <select
-                value={cohortGenre}
-                onChange={(event) => setCohortGenre(event.target.value as GenreFilter)}
-              >
-                <option value="Any">Any genre</option>
-                {genres.map((genre) => (
-                  <option key={genre} value={genre}>
-                    {genre}
-                  </option>
-                ))}
-              </select>
-            </label>
-
-            <label className="filter-control">
-              Reader experience:{" "}
-              <select
-                value={experienceFilter}
-                onChange={(event) =>
-                  setExperienceFilter(event.target.value as ExperienceFilter)
-                }
-              >
-                <option value="Any">Any experience</option>
-                <option value="Beginner">
-                  Beginner (0-{defaultExperienceThresholds.intermediateMinBooksRead - 1} books)
-                </option>
-                <option value="Intermediate">
-                  Intermediate ({defaultExperienceThresholds.intermediateMinBooksRead}-{defaultExperienceThresholds.experiencedMinBooksRead - 1} books)
-                </option>
-                <option value="Experienced">
-                  Experienced ({defaultExperienceThresholds.experiencedMinBooksRead}+ books)
-                </option>
-              </select>
-            </label>
-
-            <label className="filter-control">
-              Sort by:{" "}
-              <select
-                value={sortOption}
-                onChange={(event) =>
-                  setSortOption(event.target.value as RecommendationSortOption)
-                }>
-                <option value="averageRating">
-                  Highest average rating
-                </option>
-
-                <option value="ratingCount">
-                  Most ratings
-                </option>
-
-                <option value="averageRatingThenCount">
-                  Highest average rating, then most ratings
-                </option>
-
-                <option value="ratingCountThenAverage">
-                  Most ratings, then highest average rating
-                </option>
-              </select>
-            </label>
-
-          </div>
+          <RecommendationFilters
+            genres={genres}
+            targetGenre={targetGenre}
+            cohortGenre={cohortGenre}
+            experienceFilter={experienceFilter}
+            experienceThresholds={defaultExperienceThresholds}
+            sortOption={sortOption}
+            onTargetGenreChange={setTargetGenre}
+            onCohortGenreChange={setCohortGenre}
+            onExperienceFilterChange={setExperienceFilter}
+            onSortOptionChange={setSortOption}
+          />
 
           <button
             type="button"

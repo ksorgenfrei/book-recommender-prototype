@@ -1,3 +1,10 @@
+import Container from "react-bootstrap/Container";
+import Badge from "react-bootstrap/Badge";
+import Button from "react-bootstrap/Button";
+import Card from "react-bootstrap/Card";
+import Image from "react-bootstrap/Image";
+import ListGroup from "react-bootstrap/ListGroup";
+
 import { useState } from "react";
 import { RecommendationFilters } from "./components/RecommendationFilters";
 
@@ -34,6 +41,35 @@ const readerProfilesById = new Map(
 const booksById = new Map(
   books.map((book) => [book.id, book])
 );
+
+type StarRatingProps = {
+  rating: number;
+  maxRating?: number;
+};
+
+function StarRating({ rating, maxRating = 5 }: StarRatingProps) {
+  const ratingPercentage = Math.max(
+    0,
+    Math.min(100, (rating / maxRating) * 100)
+  );
+
+  return (
+    <span className="star-rating" aria-hidden="true">
+      <span className="star-rating-empty">★★★★★</span>
+      <span
+        className="star-rating-filled"
+        style={{ width: `${ratingPercentage}%` }}
+      >
+        ★★★★★
+      </span>
+    </span>
+  );
+}
+
+// get the books covers from Open Library
+function getOpenLibraryCoverUrl(coverId: number) {
+  return `https://covers.openlibrary.org/b/id/${coverId}-M.jpg`;
+}
 
 function App() {
   // store which main section is currently displayed
@@ -136,7 +172,7 @@ function App() {
     : getSortDescription(submittedQuery.sortOption);
 
   return (
-    <main className="app-shell">
+    <Container className="py-4">
       <header className="app-header">
         <h1>User-Controlled Cohort-Based Book Recommendation Prototype</h1>
 
@@ -161,12 +197,12 @@ function App() {
             to demonstrate functionality and simulate user behavior.
             No real reader profiles or personal data are used for this prototype.</p>
 
-          <button
+          <Button
             type="button"
-            className="primary-button"
+            variant="primary"
             onClick={() => setCurrentPage("recommendations")}>
             Explore recommendations
-          </button>
+          </Button>
         </section>
       )}
       {currentPage === "recommendations" && (
@@ -185,9 +221,10 @@ function App() {
             onSortOptionChange={setSortOption}
           />
 
-          <button
+          <Button
             type="button"
-            className="primary-button"
+            variant="primary"
+            className="mb-3"
             onClick={() => {
               setSubmittedQuery({
                 targetGenre,
@@ -201,14 +238,26 @@ function App() {
               setSelectedReaderId(null);
             }}>
             Show recommendations
-          </button>
+          </Button>
 
           {submittedQuery !== null && (
-            <p>
-              Current query: Show <strong>{selectedTargetGenreDescription}</strong>{" "}
-              rated by {" "} <strong>{selectedCohortDescription}</strong>,
-              sorted by{" "}<strong>{selectedSortDescription}</strong>.
-            </p>
+            <Card
+              as="section"
+              className="query-summary mb-4 mt-4"
+              aria-label="Current recommendation query"
+            >
+              <Card.Body>
+                <Card.Subtitle as="h3" className="h5 mb-2">
+                  Current query
+                </Card.Subtitle>
+
+                <p className="mb-0">
+                  Showing <strong>{selectedTargetGenreDescription}</strong>{" "}
+                  rated by <strong>{selectedCohortDescription}</strong>{" "}
+                  and sorted by <strong>{selectedSortDescription}</strong>.
+                </p>
+              </Card.Body>
+            </Card>
           )}
 
           <h2>Recommendations</h2>
@@ -224,78 +273,132 @@ function App() {
             <ul className="recommendations-list">
               {recommendations.map((recommendation) => (
                 <li key={recommendation.book.id}>
-                  <strong>{recommendation.book.title}</strong> by {recommendation.book.author} - Average rating:{" "}
-                  {recommendation.averageRating.toFixed(2)}  ({recommendation.ratingCount} ratings)
+                  <Card className="mb-3">
+                    <Card.Body>
+                      <div className="recommendation-card-layout">
+                        {recommendation.book.coverId !== undefined && (
+                          <Image
+                            src={getOpenLibraryCoverUrl(recommendation.book.coverId)}
+                            alt={`Cover image of ${recommendation.book.title}`}
+                            className="recommendation-cover"
+                            rounded
+                          />
+                        )}
 
-                  <button
-                    type="button"
-                    className="primary-button"
-                    aria-expanded={
-                      selectedRecommendationBookId === recommendation.book.id
-                    }
-                    onClick={() =>
-                      setSelectedRecommendationBookId((currentBookId) =>
-                        currentBookId === recommendation.book.id
-                          ? null
-                          : recommendation.book.id
-                      )
-                    }
-                  >
-                    {selectedRecommendationBookId === recommendation.book.id
-                      ? "Hide ratings used"
-                      : "View ratings used"}
-                  </button>
+                        <div className="recommendation-card-content">
+                          <Card.Title>{recommendation.book.title}</Card.Title>
 
-                  {selectedRecommendationBookId === recommendation.book.id && (
-                    <div className="content-card">
-                      <h3>
-                        Ratings used for {recommendation.book.title}
-                      </h3>
+                          <Card.Subtitle className="mb-2 text-muted">by {recommendation.book.author}</Card.Subtitle>
 
-                      <p>
-                        These {recommendation.ratingCount} ratings produced an average rating of{" "}
-                        {recommendation.averageRating.toFixed(2)}.
-                      </p>
+                          <p className="mb-2">
+                            <StarRating rating={recommendation.averageRating} />{" "}
 
-                      <ul>
-                        {recommendation.ratingsUsed.map((rating) => {
-                          // Retrieve reader profile linked to this rating
-                          const reader = readerProfilesById.get(rating.readerId);
+                            {recommendation.averageRating.toFixed(2)} {" "}
 
-                          // fallback if no matching reader profile is found
-                          if (reader === undefined) {
-                            return (
-                              <li key={`${rating.readerId}-${rating.bookId}`}>
-                                Reader profile unavailable for reader ID: {rating.readerId}.
-                              </li>
-                            )
-                          }
+                            ({recommendation.ratingCount} rating
+                            {recommendation.ratingCount === 1 ? "" : "s"})
+                          </p>
 
-                          // calculate this reader's exp lvl using thresholds
-                          const experienceLevel = getExperienceLevel(
-                            reader.booksReadCount,
-                            defaultExperienceThresholds
-                          );
+                          <p className="mb-2 text-muted">
+                            First published: {recommendation.book.firstPublished}
+                          </p>
+                          <div className="mb-2">
+                            {recommendation.book.genres.map((genre) => (
+                              <Badge key={genre} bg="secondary" className="me-1">
+                                {genre}
+                              </Badge>
+                            ))}
+                          </div>
 
-                          return (
-                            <li key={`${rating.readerId}-${rating.bookId}`}>
-                              <button
-                                type="button"
-                                onClick={() => {
-                                  setSelectedReaderId(reader.id);
-                                  setCurrentPage("readerProfile");
-                                }}>
-                                {reader.displayName}
-                              </button>: {rating.rating}/5
-                              {" - "}
-                              {experienceLevel} ({reader.booksReadCount} books read, usually {reader.dominantGenre})
-                            </li>
-                          );
-                        })}
+                          <Button
+                            type="button"
+                            variant="primary"
+                            size="sm"
+                            aria-expanded={selectedRecommendationBookId === recommendation.book.id}
+                            onClick={() =>
+                              setSelectedRecommendationBookId(
+                                selectedRecommendationBookId === recommendation.book.id
+                                  ? null
+                                  : recommendation.book.id
+                              )
+                            }
+                          >
+                            {selectedRecommendationBookId === recommendation.book.id
+                              ? "Hide ratings used"
+                              : "View ratings used"}
+                          </Button>
+                        </div>
+                      </div>
 
-                      </ul>
-                    </div>
-                  )}
+                      {selectedRecommendationBookId === recommendation.book.id && (
+                        <div className="content-card mt-4">
+                          <h3>
+                            Ratings used for <em>{recommendation.book.title}</em>
+                          </h3>
+
+                          <p>
+                            These {recommendation.ratingCount} ratings produced an average rating of{" "}
+                            {recommendation.averageRating.toFixed(2)} out of 5.
+                          </p>
+
+                          <ListGroup className="ratings-used-list">
+                            {recommendation.ratingsUsed.map((rating) => {
+                              // Retrieve reader profile linked to this rating
+                              const reader = readerProfilesById.get(rating.readerId);
+
+                              // Fallback if no matching reader profile is found
+                              if (reader === undefined) {
+                                return (
+                                  <ListGroup.Item key={`${rating.readerId}-${rating.bookId}`}>
+                                    Reader profile unavailable for reader ID: {rating.readerId}.
+                                  </ListGroup.Item>
+                                );
+                              }
+
+                              // Calculate this reader's experience level using thresholds
+                              const experienceLevel = getExperienceLevel(
+                                reader.booksReadCount,
+                                defaultExperienceThresholds
+                              );
+
+                              return (
+                                <ListGroup.Item
+                                  key={`${rating.readerId}-${rating.bookId}`}
+                                  className="rating-evidence-item"
+                                >
+                                  <div className="rating-evidence-header">
+                                    <Button
+                                      type="button"
+                                      variant="outline-primary"
+                                      size="sm"
+                                      onClick={() => {
+                                        setSelectedReaderId(reader.id);
+                                        setCurrentPage("readerProfile");
+                                      }}
+                                    >
+                                      {reader.displayName}
+                                    </Button>
+
+                                    <div className="rating-evidence-rating">
+                                      <StarRating rating={rating.rating} />{" "}
+                                      <span>({rating.rating}/5)</span>
+                                    </div>
+                                  </div>
+
+                                  <div className="rating-evidence-meta">
+                                    <Badge bg="secondary">{experienceLevel}</Badge>
+                                    <span>{reader.booksReadCount} books read</span>
+                                    <span aria-hidden="true">•</span>
+                                    <span>Usually reads {reader.dominantGenre}</span>
+                                  </div>
+                                </ListGroup.Item>
+                              );
+                            })}
+                          </ListGroup>
+                        </div>
+                      )}
+                    </Card.Body>
+                  </Card>
                 </li>
               ))}
             </ul>
@@ -306,51 +409,111 @@ function App() {
       {currentPage === "readerProfile" && (
         <section className="content-card">
           <h2>Reader Profile</h2>
-          <button
+
+          <Button
             type="button"
-            className="primary-button"
+            variant="primary"
+            className="mb-3"
+            size="sm"
             onClick={() =>
               setCurrentPage("recommendations")
             }>
             Back to recommendations
-          </button>
+          </Button>
+
           {selectedReader === null ? (
             <p>No reader profile selected.</p>
           )
             : <>
-              <dl>
-                <dt>Reader name:</dt>
-                <dd>{selectedReader.displayName}</dd>
-                <dt>Dominant genre:</dt>
-                <dd>{selectedReader.dominantGenre}</dd>
-                <dt>Books read count:</dt>
-                <dd>{selectedReader.booksReadCount}</dd>
-                <dt>Experience level:</dt>
-                <dd>{selectedExperienceLevel}</dd>
-              </dl>
+              <Card className="mb-4 reader-profile-summary">
+                <Card.Body>
+                  <Card.Title>{selectedReader.displayName}</Card.Title>
+
+                  <dl className="reader-profile-details">
+                    <div>
+                      <dt>Dominant genre</dt>
+                      <dd>
+                        <Badge bg="secondary">{selectedReader.dominantGenre}</Badge>
+                      </dd>
+                    </div>
+
+                    <div>
+                      <dt>Books read</dt>
+                      <dd>{selectedReader.booksReadCount}</dd>
+                    </div>
+
+                    <div>
+                      <dt>Experience level</dt>
+                      <dd>
+                        <Badge bg="primary">{selectedExperienceLevel}</Badge>
+                      </dd>
+                    </div>
+                  </dl>
+                </Card.Body>
+              </Card>
 
               <h2>Rating history</h2>
 
               {selectedReaderRatings.length === 0 ? (
                 <p>No ratings available.</p>
               ) : (
-                <ul>
+                <ul className="recommendations-list rating-history-list">
                   {selectedReaderRatings.map((rating) => {
                     const matchingBook = booksById.get(rating.bookId);
 
                     if (matchingBook === undefined) {
                       return (
                         <li key={`${rating.bookId}-${rating.readerId}`}>
-                          Book information unavailable for book ID: {rating.bookId}.
+                          <Card className="mb-3">
+                            <Card.Body>
+                              Book information unavailable for book ID: {rating.bookId}.
+                            </Card.Body>
+                          </Card>
                         </li>
                       );
                     }
 
                     return (
                       <li key={`${rating.bookId}-${rating.readerId}`}>
-                        <strong>{matchingBook.title}</strong> by {matchingBook.author} {" "}
-                        ({matchingBook.genres.join(", ")}) -{" "}
-                        {rating.rating}/5
+                        <Card className="mb-3">
+                          <Card.Body>
+                            <div className="recommendation-card-layout">
+                              {matchingBook.coverId !== undefined && (
+                                <Image
+                                  src={getOpenLibraryCoverUrl(matchingBook.coverId)}
+                                  alt={`Cover image of ${matchingBook.title}`}
+                                  className="recommendation-cover"
+                                  rounded
+                                />
+                              )}
+
+                              <div className="recommendation-card-content">
+                                <Card.Title>{matchingBook.title}</Card.Title>
+
+                                <Card.Subtitle className="mb-2 text-muted">
+                                  by {matchingBook.author}
+                                </Card.Subtitle>
+
+                                <p className="mb-2 text-muted">
+                                  First published: {matchingBook.firstPublished}
+                                </p>
+
+                                <div className="mb-2">
+                                  {matchingBook.genres.map((genre) => (
+                                    <Badge key={genre} bg="secondary" className="me-1">
+                                      {genre}
+                                    </Badge>
+                                  ))}
+                                </div>
+
+                                <p className="mb-0">
+                                  <StarRating rating={rating.rating} />{" "}
+                                  <span>({rating.rating}/5)</span>
+                                </p>
+                              </div>
+                            </div>
+                          </Card.Body>
+                        </Card>
                       </li>
                     );
                   })}
@@ -389,7 +552,7 @@ function App() {
             Some assumptions were made and constraints put on the data generator script to ensure realistic reflection of possible reader behavior.</p>
         </section>
       )}
-    </main>
+    </Container>
   );
 }
 

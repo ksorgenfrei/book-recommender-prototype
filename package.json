@@ -13,7 +13,9 @@
     "generate:ratings": "tsx scripts/generateRatings.ts"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "react": "^19.2.4",
+    "react-bootstrap": "^2.10.10",
     "react-dom": "^19.2.4"
   },
   "devDependencies": {

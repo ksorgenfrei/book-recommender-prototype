@@ -1,5 +1,6 @@
 /* 
-  basic page styling for the prototype
+  Basic page styling for the prototype.
+  Bootstrap provides most component styling; this file keeps project-specific layout tweaks.
 */
 body {
   margin: 0;
@@ -10,52 +11,41 @@ body {
 }
 
 /* 
-  keep the main content from stretching across the full screen.
+  Header and navigation spacing.
 */
-main {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 1rem;
+.app-header {
+  margin-bottom: 1.5rem;
 }
 
-/* 
-  add spacing between navigation buttons
-*/
 .main-nav {
-  display: flex;
-  gap: 0.5rem;
   margin: 1rem 0;
 }
 
 /* 
-  highlight active navigation item
-  App.tsx sets aria-current="page" on the active button
-*/
-.main-nav button[aria-current="page"] {
-  background: #80bcfb;
-}
-
-/* 
-  visual grouping for each main section.
+  Visual grouping for main content sections that have not yet been converted
+  into React-Bootstrap Card components.
 */
 .content-card {
   background: #fff;
   border: 1px solid #ddd;
+  border-radius: 0.375rem;
   padding: 1rem;
   margin-top: 1rem;
 }
 
 /* 
-  basic spacing between recommendation filters
+  Basic spacing between recommendation filters.
+  flex-wrap keeps the controls usable on narrower screens.
 */
 .filter-panel {
   display: flex;
+  flex-wrap: wrap;
   gap: 1rem;
   margin-bottom: 1rem;
 }
 
 /* 
-  keep each filter label and dropdown visually grouped.
+  Keep each filter label and dropdown visually grouped.
 */
 .filter-control {
   display: flex;
@@ -64,36 +54,27 @@ main {
 }
 
 /* 
-  make buttons and dropdowns slightly easier to select
-  This is a small usability improvement, not a full UI redesign.
+  Style only the filter dropdowns instead of all buttons/select elements,
+  to avoid conflicting with React-Bootstrap buttons.
 */
-button,
-select {
+.filter-control select {
   font: inherit;
   padding: 0.35rem 0.5rem;
   border: 1px solid #2d74b2;
+  border-radius: 0.375rem;
 }
 
 /* 
-  Give the main action button a slightly stronger visual weight.
+  Keep keyboard focus visible for custom-styled dropdowns.
 */
-.primary-button {
-  background: #d0e7ff;
-
-}
-
-/* 
-  Keep keyboard focus visible for buttons and dropdowns.
-  This supports keyboard navigation without adding complex styling.
-*/
-button:focus-visible,
-select:focus-visible {
+.filter-control select:focus-visible {
   outline: 2px solid #005fcc;
   outline-offset: 2px;
 }
 
 /* 
-  Make recommendation results easier to scan than a dense bullet list.
+  Recommendation cards are still rendered as a semantic list,
+  but the default bullet styling is removed.
 */
 .recommendations-list {
   padding-left: 0;
@@ -101,9 +82,109 @@ select:focus-visible {
 }
 
 /* 
-  light separation between recommendation results.
+  CSS-based star display for decimal average ratings.
 */
-.recommendations-list li {
-  border-bottom: 1px solid #ddd;
-  padding: 0.4rem 0;
+.star-rating {
+  position: relative;
+  display: inline-block;
+  font-size: 1.5rem;
+  letter-spacing: 0.05rem;
+  line-height: 1;
+}
+
+.star-rating-empty {
+  color: #d0d0d0;
+}
+
+.star-rating-filled {
+  color: #b7791f;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.recommendation-card-layout {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.recommendation-cover {
+  width: 90px;
+  min-width: 90px;
+  height: 135px;
+  object-fit: cover;
+  background: #f1f1f1;
+}
+
+.recommendation-card-content {
+  flex: 1;
+}
+
+.ratings-used-list {
+  margin-top: 1rem;
+}
+
+.rating-evidence-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+}
+
+.rating-evidence-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.rating-evidence-rating {
+  white-space: nowrap;
+  font-weight: 500;
+}
+
+.rating-evidence-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.reader-profile-summary {
+  max-width: 650px;
+}
+
+.reader-profile-details {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-bottom: 0;
+}
+
+.reader-profile-details div {
+  background: #f8f9fa;
+  border-radius: 0.375rem;
+  padding: 0.75rem;
+}
+
+.reader-profile-details dt {
+  font-size: 0.85rem;
+  color: #666;
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.reader-profile-details dd {
+  margin-bottom: 0;
+  font-size: 1rem;
+}
+
+.query-summary {
+  border-left: 0.35rem solid #0d6efd;
+  background: #f8fbff;
 }

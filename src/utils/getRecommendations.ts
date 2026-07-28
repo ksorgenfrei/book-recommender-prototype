@@ -101,7 +101,10 @@ export function getRecommendations({
             // count the ratings
             const ratingCount = relevantRatings.length;
 
-            // calculate avg rating. 1. .reduce() to add up all rating values, 2. divide by ratingCount to get mean avg, if no ratings use 0
+            // calculate avg rating
+            // 1. .reduce() to add up all rating values
+            // 2. divide by ratingCount to get mean avg
+            // if no ratings use 0
             const averageRating =
                 ratingCount > 0
                     ? relevantRatings.reduce((sum, rating) => sum + rating.rating, 0) / ratingCount

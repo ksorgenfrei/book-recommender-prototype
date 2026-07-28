@@ -159,7 +159,7 @@ function App() {
     }
   }
 
-  // these descs are now bosed on the submitted query,
+  // these descs are now based on the submitted query,
   // not the live dropdown values
   const selectedTargetGenreDescription = submittedQuery === null ? ""
     : getTargetGenreDescription(submittedQuery.targetGenre);

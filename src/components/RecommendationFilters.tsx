@@ -1,4 +1,6 @@
 import type { GenreFilter, ExperienceFilter, RecommendationSortOption, ExperienceThresholds } from "../types/types";
+import Button from "react-bootstrap/Button";
+import Modal from "react-bootstrap/Modal";
 
 type RecommendationFiltersProps = {
     genres: readonly string[];
@@ -9,10 +11,25 @@ type RecommendationFiltersProps = {
     experienceThresholds: ExperienceThresholds;
     sortOption: RecommendationSortOption;
 
+    appliedIntermediateMinBooksRead: string;
+    appliedExperiencedMinBooksRead: string;
+    showExperienceThresholdModal: boolean;
+    experienceThresholdError: string | null;
+    draftExperienceThresholds: ExperienceThresholds | null;
+
+
     onTargetGenreChange: (newTargetGenre: GenreFilter) => void;
     onCohortGenreChange: (newCohortGenre: GenreFilter) => void;
     onExperienceFilterChange: (newExperienceFilter: ExperienceFilter) => void;
     onSortOptionChange: (newSortOption: RecommendationSortOption) => void;
+
+    onAppliedIntermediateMinBooksReadChange: (newValue: string) => void;
+    onAppliedExperiencedMinBooksReadChange: (newValue: string) => void;
+    onOpenExperienceThresholdModal: () => void;
+    onCloseExperienceThresholdModal: () => void;
+    onResetExperienceThresholds: () => void;
+
+    onApplyExperienceThresholds: () => void;
 };
 
 export function RecommendationFilters({
@@ -22,10 +39,21 @@ export function RecommendationFilters({
     experienceFilter,
     experienceThresholds,
     sortOption,
+    appliedIntermediateMinBooksRead,
+    appliedExperiencedMinBooksRead,
+    showExperienceThresholdModal,
+    experienceThresholdError,
+    draftExperienceThresholds,
     onTargetGenreChange,
     onCohortGenreChange,
     onExperienceFilterChange,
     onSortOptionChange,
+    onAppliedIntermediateMinBooksReadChange,
+    onAppliedExperiencedMinBooksReadChange,
+    onOpenExperienceThresholdModal,
+    onCloseExperienceThresholdModal,
+    onResetExperienceThresholds,
+    onApplyExperienceThresholds,
 }: RecommendationFiltersProps) {
     return (
         <div className="filter-panel">
@@ -60,6 +88,7 @@ export function RecommendationFilters({
                 </select>
             </label>
 
+
             <label className="filter-control">
                 Reader experience:{" "}
                 <select
@@ -79,7 +108,17 @@ export function RecommendationFilters({
                         Experienced ({experienceThresholds.experiencedMinBooksRead}+ books)
                     </option>
                 </select>
+                <Button
+                    type="button"
+                    variant="outline-secondary"
+                    size="sm"
+                    onClick={onOpenExperienceThresholdModal}
+                >
+                    Customize thresholds
+                </Button>
             </label>
+
+
 
             <label className="filter-control">
                 Sort by:{" "}
@@ -105,6 +144,80 @@ export function RecommendationFilters({
                     </option>
                 </select>
             </label>
+
+            <Modal show={showExperienceThresholdModal} onHide={onCloseExperienceThresholdModal}>
+                <Modal.Header closeButton>
+                    <Modal.Title>Customize experience thresholds</Modal.Title>
+                </Modal.Header>
+
+                <Modal.Body>
+                    <label>
+                        Intermediate starts at
+                    </label>
+                    <input
+                        id="intermediate-threshold"
+                        type="number"
+                        min="0"
+                        step="1"
+                        value={appliedIntermediateMinBooksRead}
+                        onChange={(event) => onAppliedIntermediateMinBooksReadChange(event.target.value)}
+                        aria-invalid={experienceThresholdError !== null}
+                        aria-describedby="experience-threshold-feedback"
+                    />
+
+                    <label>
+                        Experienced starts at
+                    </label>
+                    <input
+                        id="experienced-threshold"
+                        type="number"
+                        min="0"
+                        step="1"
+                        value={appliedExperiencedMinBooksRead}
+                        onChange={(event) => onAppliedExperiencedMinBooksReadChange(event.target.value)}
+                        aria-invalid={experienceThresholdError !== null}
+                        aria-describedby="experience-threshold-feedback"
+                    />
+
+                    <div id="experience-threshold-feedback" className="mt-3">
+                        {experienceThresholdError !== null ? (
+                            <p role="alert" className="text-danger mb-0">
+                                {experienceThresholdError}
+                            </p>
+                        ) : draftExperienceThresholds !== null ? (
+                            <>
+                                <p className="mb-1"><strong>Resulting ranges:</strong></p>
+                                <ul className="mb-0">
+                                    <li>
+                                        Beginner: 0-
+                                        {draftExperienceThresholds.intermediateMinBooksRead - 1} books
+                                    </li>
+                                    <li>
+                                        Intermediate:{" "}
+                                        {draftExperienceThresholds.intermediateMinBooksRead}-
+                                        {draftExperienceThresholds.experiencedMinBooksRead - 1} books
+                                    </li>
+                                    <li>
+                                        Experienced:{" "}
+                                        {draftExperienceThresholds.experiencedMinBooksRead}+ books
+                                    </li>
+                                </ul>
+                            </>
+                        ) : null}
+                    </div>
+
+                </Modal.Body>
+
+                <Modal.Footer>
+                    <Button type="button" variant="secondary" onClick={onResetExperienceThresholds}>
+                        Reset to defaults
+                    </Button>
+                    <Button type="button" variant="primary" disabled={experienceThresholdError !== null} onClick={onApplyExperienceThresholds}>
+                        Done
+                    </Button>
+
+                </Modal.Footer>
+            </Modal>
 
         </div>
     );

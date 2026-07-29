@@ -15,7 +15,7 @@ import { generatedRatings as ratings } from "./data/generatedRatings";
 import { genres } from "./data/genres";
 import { defaultExperienceThresholds } from "./data/experienceThresholds";
 
-import type { ExperienceFilter, GenreFilter, RecommendationSortOption, Recommendation, ReaderProfile } from "./types/types";
+import type { ExperienceFilter, GenreFilter, RecommendationSortOption, Recommendation, ReaderProfile, ExperienceThresholds } from "./types/types";
 
 import { getRecommendations } from "./utils/getRecommendations"; // recommendation utility function
 import { getExperienceLevel } from "./utils/getExperienceLevel";
@@ -30,6 +30,7 @@ type SubmittedRecommendationQuery = {
   cohortGenre: GenreFilter;
   experienceFilter: ExperienceFilter;
   sortOption: RecommendationSortOption;
+  experienceThresholds: ExperienceThresholds;
 }
 
 // lookup from reader ID to reader profile to avoid searching the full readerProfiles array for every displayed rating
@@ -79,6 +80,15 @@ function App() {
   const [targetGenre, setTargetGenre] = useState<GenreFilter>("Any");
   const [cohortGenre, setCohortGenre] = useState<GenreFilter>("Any");
   const [experienceFilter, setExperienceFilter] = useState<ExperienceFilter>("Any");
+  // these hold what the user has typed into the two number inputs and accepted through the "done" button
+  // (stored as strings to be able to represent a temporary empty value while typing)
+  const [appliedIntermediateMinBooksRead, setAppliedIntermediateMinBooksRead] = useState(String(defaultExperienceThresholds.intermediateMinBooksRead));
+  const [appliedExperiencedMinBooksRead, setAppliedExperiencedMinBooksRead] = useState(String(defaultExperienceThresholds.experiencedMinBooksRead));
+  // these hold temporary text inside the open modal, editing them will not immediately change the applied threshold config
+  const [intermediateMinBooksReadDraft, setIntermediateMinBooksReadDraft] = useState(appliedIntermediateMinBooksRead);
+  const [experiencedMinBooksReadDraft, setExperiencedMinBooksReadDraft] = useState(appliedExperiencedMinBooksRead);
+  // controls whether the customization modal is visible
+  const [showExperienceThresholdModal, setShowExperienceThresholdModal] = useState(false);
   // store the last filter combination submitted with the Show Recs 
   // null = user has not submitted a recs query yet
   const [submittedQuery, setSubmittedQuery] = useState<SubmittedRecommendationQuery | null>(null);
@@ -101,9 +111,51 @@ function App() {
       targetGenre: submittedQuery.targetGenre,
       cohortGenre: submittedQuery.cohortGenre,
       experienceFilter: submittedQuery.experienceFilter,
-      experienceThresholds: defaultExperienceThresholds,
+      experienceThresholds: submittedQuery.experienceThresholds,
       sortOption: submittedQuery.sortOption,
     });
+
+  // create one variable containing the thresholds that app should currently use for displayed info
+  // read experienceThresholds only when submittedQuery exists (if undefined, use default thresholds)
+  const activeExperienceThresholds = submittedQuery?.experienceThresholds ?? defaultExperienceThresholds;
+
+
+  // convert input strings into nums for validation and submission
+  const intermediateMinBooksReadDraftValue = Number(intermediateMinBooksReadDraft);
+  const experiencedMinBooksReadDraftValue = Number(experiencedMinBooksReadDraft);
+
+  // validity checks and error messages/user feedback
+  const experienceThresholdError =
+    intermediateMinBooksReadDraft.trim() === "" ||
+      experiencedMinBooksReadDraft.trim() === ""
+      ? "Enter values for both experience thresholds."
+      : !Number.isInteger(intermediateMinBooksReadDraftValue) ||
+        !Number.isInteger(experiencedMinBooksReadDraftValue)
+        ? "Experience thresholds must be whole numbers."
+        : intermediateMinBooksReadDraftValue < 1 ||
+          experiencedMinBooksReadDraftValue < 1
+          ? "Experience thresholds must be at least 1."
+          : experiencedMinBooksReadDraftValue <= intermediateMinBooksReadDraftValue
+            ? "The value for experienced readers must be larger than the value for intermediate readers."
+            : null;
+
+  // if all checks pass/there are no errors, the inputs are valid
+  const experienceThresholdInputsAreValid =
+    experienceThresholdError === null;
+
+  // convert the two valid numeric inputs into the ExperienceThresholds structure used in the app
+  const draftExperienceThresholds: ExperienceThresholds | null =
+    experienceThresholdInputsAreValid
+      ? {
+        intermediateMinBooksRead: intermediateMinBooksReadDraftValue,
+        experiencedMinBooksRead: experiencedMinBooksReadDraftValue,
+      }
+      : null;
+
+  const appliedExperienceThresholds: ExperienceThresholds = {
+    intermediateMinBooksRead: Number(appliedIntermediateMinBooksRead),
+    experiencedMinBooksRead: Number(appliedExperiencedMinBooksRead),
+  };
 
   const selectedReader = selectedReaderId === null ? null
     : readerProfilesById.get(selectedReaderId) ?? null;   // if the map lookup returns undefined, use null instead
@@ -111,7 +163,7 @@ function App() {
   const selectedExperienceLevel = selectedReader === null ? null
     : getExperienceLevel(
       selectedReader.booksReadCount,
-      defaultExperienceThresholds
+      activeExperienceThresholds
     );
 
   //selected reader's full rating history
@@ -120,25 +172,91 @@ function App() {
       rating.readerId === selectedReaderId
     );
 
+  // copy the currently applied thresholds into the draft fields when modal opens
+  function openExperienceThresholdModal() {
+    setIntermediateMinBooksReadDraft(appliedIntermediateMinBooksRead);
+    setExperiencedMinBooksReadDraft(appliedExperiencedMinBooksRead);
+    setShowExperienceThresholdModal(true);
+  }
+
+  // discard unsaved changes by restoring drafts from applied values before closing
+  function closeExperienceThresholdModal() {
+    setIntermediateMinBooksReadDraft(appliedIntermediateMinBooksRead);
+    setExperiencedMinBooksReadDraft(appliedExperiencedMinBooksRead);
+    setShowExperienceThresholdModal(false);
+  }
+
+  // copy valid draft values into the applied ...Input state, so "Done" actually accepts the config
+  function applyExperienceThresholds() {
+    if (draftExperienceThresholds === null) { // if draft values passed validation, return/stop function
+      return;
+    }
+    // convert validated numerical values from draftExperienceThresholds back to strings, since applied state is stored as string
+    const intermediateValue = String(draftExperienceThresholds.intermediateMinBooksRead);
+    const experiencedValue = String(draftExperienceThresholds.experiencedMinBooksRead);
+
+    // update the applied values
+    setAppliedIntermediateMinBooksRead(intermediateValue);
+    setAppliedExperiencedMinBooksRead(experiencedValue);
+    // keep draft and newly applied values synced, so all related state is consistent immediately after clicking "Done"
+    setIntermediateMinBooksReadDraft(intermediateValue);
+    setExperiencedMinBooksReadDraft(experiencedValue);
+
+    setShowExperienceThresholdModal(false);
+  }
+
+  // reset the modal drafts. defaults only applied if user subsequently selects "Done"
+  function resetExperienceThresholds() {
+    // read default boundary (50), convert it to a string, and put it into modal draft
+    setIntermediateMinBooksReadDraft(
+      String(defaultExperienceThresholds.intermediateMinBooksRead)
+    );
+
+    setExperiencedMinBooksReadDraft(
+      String(defaultExperienceThresholds.experiencedMinBooksRead)
+    );
+  }
+
   // build a readable description of the selected book genre
   function getTargetGenreDescription(selectedTargetGenre: GenreFilter) {
     return selectedTargetGenre === "Any" ? "books of any genre" : `${selectedTargetGenre} books`;
   }
 
+  function getExperienceDescription(
+    selectedExperienceFilter: ExperienceFilter,
+    thresholds: ExperienceThresholds
+  ) {
+    if (selectedExperienceFilter === "Beginner") {
+      return `beginner readers (0–${thresholds.intermediateMinBooksRead - 1} books)`;
+    }
+
+    if (selectedExperienceFilter === "Intermediate") {
+      return `intermediate readers (${thresholds.intermediateMinBooksRead}–${thresholds.experiencedMinBooksRead - 1} books)`;
+    }
+
+    if (selectedExperienceFilter === "Experienced") {
+      return `experienced readers (${thresholds.experiencedMinBooksRead}+ books)`;
+    }
+
+    return "readers of any experience level";
+  }
+
   // build a readable description of the selected reader cohort
-  function getCohortDescription(selectedCohortGenre: GenreFilter, selectedExperienceFilter: ExperienceFilter) {
-    if (selectedCohortGenre === "Any" && selectedExperienceFilter === "Any") {
-      return "readers of any genre and any experience level";
-    }
+  function getCohortDescription(
+    selectedCohortGenre: GenreFilter,
+    selectedExperienceFilter: ExperienceFilter,
+    thresholds: ExperienceThresholds
+  ) {
+    const experienceDescription = getExperienceDescription(selectedExperienceFilter, thresholds);
+
     if (selectedCohortGenre === "Any") {
-      return `${selectedExperienceFilter.toLowerCase()} readers of any genre`;
+      return experienceDescription;
     }
-
     if (selectedExperienceFilter === "Any") {
-      return `readers who usually read ${selectedCohortGenre}`;
+      return `readers who usually read ${selectedCohortGenre}, of any experience level`;
     }
 
-    return `${selectedExperienceFilter.toLowerCase()} readers who usually read ${selectedCohortGenre}`;
+    return `${experienceDescription} who usually read ${selectedCohortGenre}`;
   }
 
   // convert the internal sorting value into wording that can be shown to the user
@@ -165,7 +283,7 @@ function App() {
     : getTargetGenreDescription(submittedQuery.targetGenre);
 
   const selectedCohortDescription = submittedQuery === null ? ""
-    : getCohortDescription(submittedQuery.cohortGenre, submittedQuery.experienceFilter);
+    : getCohortDescription(submittedQuery.cohortGenre, submittedQuery.experienceFilter, submittedQuery.experienceThresholds);
 
   // describe the selected sorting method from the submitted query
   const selectedSortDescription = submittedQuery === null ? ""
@@ -213,12 +331,23 @@ function App() {
             targetGenre={targetGenre}
             cohortGenre={cohortGenre}
             experienceFilter={experienceFilter}
-            experienceThresholds={defaultExperienceThresholds}
+            experienceThresholds={appliedExperienceThresholds}
             sortOption={sortOption}
+            appliedIntermediateMinBooksRead={intermediateMinBooksReadDraft}
+            appliedExperiencedMinBooksRead={experiencedMinBooksReadDraft}
+            showExperienceThresholdModal={showExperienceThresholdModal}
+            experienceThresholdError={experienceThresholdError}
+            draftExperienceThresholds={draftExperienceThresholds}
             onTargetGenreChange={setTargetGenre}
             onCohortGenreChange={setCohortGenre}
             onExperienceFilterChange={setExperienceFilter}
             onSortOptionChange={setSortOption}
+            onAppliedIntermediateMinBooksReadChange={setIntermediateMinBooksReadDraft}
+            onAppliedExperiencedMinBooksReadChange={setExperiencedMinBooksReadDraft}
+            onOpenExperienceThresholdModal={openExperienceThresholdModal}
+            onCloseExperienceThresholdModal={closeExperienceThresholdModal}
+            onApplyExperienceThresholds={applyExperienceThresholds}
+            onResetExperienceThresholds={resetExperienceThresholds}
           />
 
           <Button
@@ -231,6 +360,7 @@ function App() {
                 cohortGenre,
                 experienceFilter,
                 sortOption,
+                experienceThresholds: { ...appliedExperienceThresholds },
               });
 
               // close any ratings view opened for the previous query
@@ -358,7 +488,7 @@ function App() {
                               // Calculate this reader's experience level using thresholds
                               const experienceLevel = getExperienceLevel(
                                 reader.booksReadCount,
-                                defaultExperienceThresholds
+                                activeExperienceThresholds
                               );
 
                               return (
@@ -531,6 +661,11 @@ function App() {
           <ol>
             <li>Select the genre of books you would like to see recommendations for.</li>
             <li>Select the dominant genre and reading experience level of the reader cohort whose ratings should be used.</li>
+            <li>
+              Customize where the Intermediate and Experienced reader categories begin.
+              The prototype displays the resulting experience ranges before the thresholds
+              are applied.
+            </li>
             <li>The prototype will calculate average book ratings using only ratings from the selected cohort.</li>
             <li>Select how recommendations should be ranked. Combined sorting options
               use the second criterion when results are tied on the first criterion.</li>

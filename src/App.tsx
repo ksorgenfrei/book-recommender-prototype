@@ -395,6 +395,8 @@ function App() {
             Show recommendations
           </Button>
 
+          {submittedQuery === null && <hr className="my-4" />}
+
           {submittedQuery !== null && (
             <Card
               as="section"
@@ -415,7 +417,7 @@ function App() {
             </Card>
           )}
 
-          <h2>Recommendations</h2>
+          <h2 className="mt-3">Recommendations</h2>
 
           {submittedQuery === null ? (
             // shows before user submits a query
@@ -547,7 +549,7 @@ function App() {
                                     </div>
 
                                     <div className="rating-evidence-meta">
-                                      <Badge bg="secondary">{experienceLevel}</Badge>
+                                      <Badge bg="primary">{experienceLevel}</Badge>
                                       <span>{reader.booksReadCount} books read</span>
                                       <span aria-hidden="true">•</span>
                                       <span>Usually reads {reader.dominantGenre}</span>

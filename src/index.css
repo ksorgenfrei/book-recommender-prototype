@@ -1,18 +1,22 @@
-/* 
-  Basic page styling for the prototype.
-  Bootstrap provides most component styling; this file keeps project-specific layout tweaks.
-*/
+:root {
+  --page-background: #eae4d7  ;
+  --surface-background: #f8f6f2;
+  --primary-text: #2b2520;
+  --secondary-text: #76636e;
+  --purple-primary: #6b587e;
+  --purple-dark: #3f3248;
+  --purple-light: #eeeaf0;
+  --neutral-border: #d8cdbf;
+}
+
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  color: #222;
-  background: #f7f7f7;
+  color: var(--primary-text);
+  background: var(--page-background);
   line-height: 1.5;
 }
 
-/* 
-  Header and navigation spacing.
-*/
 .app-header {
   margin-bottom: 1.5rem;
 }
@@ -20,47 +24,81 @@ body {
 .main-nav {
   margin: 1rem 0;
 }
-/*Clearer high-contrast focus for the navigation links and primary buttons*/
-.primary-button:focus-visible {
-  position: relative;
-  z-index: 2;
-  outline: 2px solid #005fcc;
-  outline-offset: 3px;
-  box-shadow: 0 0 0 5px #fff;
+
+/* Primary actions */
+.primary-button.btn {
+  color: #fff;
+  background-color: var(--purple-primary);
+  border-color: var(--purple-primary);
 }
 
-.secondary-button:focus-visible {
-  position: relative;
-  z-index: 2;
-  outline: 2px solid #005fcc;
-  outline-offset: 3px;
-  
+.primary-button.btn:hover,
+.primary-button.btn:active,
+.primary-button.btn.active {
+  color: #fff;
+  background-color: var(--purple-dark);
+  border-color: var(--purple-dark);
 }
 
-.threshold-button:focus-visible {
-  position: relative;
-  z-index: 2;
-  outline: 2px solid #313436;
-  outline-offset: 3px;
-  
+/* Current navigation page */
+.main-nav .primary-button.btn.active {
+  color: #fff;
+  background-color: var(--purple-dark);
+  border-color: var(--purple-dark);
 }
 
-/* 
-  Visual grouping for main content sections that have not yet been converted
-  into React-Bootstrap Card components.
-*/
+/* Secondary actions */
+.secondary-button.btn {
+  color: var(--purple-dark);
+  background-color: var(--surface-background);
+  border-color: var(--purple-primary);
+}
+
+.secondary-button.btn:hover,
+.secondary-button.btn:active {
+  color: #fff;
+  background-color: var(--purple-dark);
+  border-color: var(--purple-dark);
+}
+
+/* Customize-thresholds button */
+.threshold-button.btn {
+  color: var(--purple-dark);
+  background-color: var(--surface-background);
+  border-color: var(--purple-primary);
+  align-self: flex-start;
+  margin-top: 0.25rem;
+}
+
+.threshold-button.btn:hover,
+.threshold-button.btn:active {
+  color: #fff;
+  background-color: var(--purple-dark);
+  border-color: var(--purple-dark);
+}
+
+/* Keyboard focus */
+.primary-button.btn:focus,
+.primary-button.btn:focus-visible,
+.secondary-button.btn:focus,
+.secondary-button.btn:focus-visible,
+.threshold-button.btn:focus,
+.threshold-button.btn:focus-visible {
+  position: relative;
+  z-index: 2;
+  outline: 2px solid var(--primary-text);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 5px var(--surface-background) !important;
+}
+
 .content-card {
-  background: #fff;
-  border: 1px solid #ddd;
+  background: var(--surface-background);
+  border: 1px solid var(--neutral-border);
   border-radius: 0.375rem;
   padding: 1rem;
   margin-top: 1rem;
 }
 
-/* 
-  Basic spacing between recommendation filters.
-  flex-wrap keeps the controls usable on narrower screens.
-*/
 .filter-panel {
   display: flex;
   flex-wrap: wrap;
@@ -68,46 +106,31 @@ body {
   margin-bottom: 1rem;
 }
 
-/* 
-  Keep each filter label and dropdown visually grouped.
-*/
 .filter-control {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
 }
 
-/* 
-  Style only the filter dropdowns instead of all buttons/select elements,
-  to avoid conflicting with React-Bootstrap buttons.
-*/
 .filter-control select {
   font: inherit;
+  color: var(--primary-text);
+  background: var(--surface-background);
   padding: 0.35rem 0.5rem;
-  border: 1px solid #2d74b2;
+  border: 1px solid var(--purple-primary);
   border-radius: 0.375rem;
 }
 
-/* 
-  Keep keyboard focus visible for custom-styled dropdowns.
-*/
 .filter-control select:focus-visible {
-  outline: 2px solid #005fcc;
-  outline-offset: 2px;
+  outline: 2px solid var(--purple-dark);
+  outline-offset: 3px;
 }
 
-/* 
-  Recommendation cards are still rendered as a semantic list,
-  but the default bullet styling is removed.
-*/
 .recommendations-list {
   padding-left: 0;
   list-style: none;
 }
 
-/* 
-  CSS-based star display for decimal average ratings.
-*/
 .star-rating {
   position: relative;
   display: inline-block;
@@ -121,10 +144,10 @@ body {
 }
 
 .star-rating-filled {
-  color: #b7791f;
   position: absolute;
   top: 0;
   left: 0;
+  color: #b7791f;
   overflow: hidden;
   white-space: nowrap;
 }
@@ -140,7 +163,7 @@ body {
   min-width: 90px;
   height: 135px;
   object-fit: cover;
-  background: #f1f1f1;
+  background: var(--purple-light);
 }
 
 .recommendation-card-content {
@@ -175,7 +198,7 @@ body {
   flex-wrap: wrap;
   gap: 0.75rem;
   align-items: center;
-  color: #555;
+  color: var(--secondary-text);
   font-size: 0.95rem;
 }
 
@@ -191,16 +214,16 @@ body {
 }
 
 .reader-profile-details div {
-  background: #f8f9fa;
+  background: var(--purple-light);
   border-radius: 0.375rem;
   padding: 0.75rem;
 }
 
 .reader-profile-details dt {
-  font-size: 0.85rem;
-  color: #666;
-  font-weight: 600;
   margin-bottom: 0.25rem;
+  color: var(--secondary-text);
+  font-size: 0.85rem;
+  font-weight: 600;
 }
 
 .reader-profile-details dd {
@@ -209,6 +232,39 @@ body {
 }
 
 .query-summary {
-  border-left: 0.35rem solid #0d6efd;
-  background: #f8fbff;
+  border-left: 0.35rem solid var(--purple-primary);
+  background: var(--purple-light);
+}
+
+/* Bootstrap pagination */
+.pagination .page-link {
+  color: var(--purple-dark);
+  background: var(--surface-background);
+  border-color: var(--neutral-border);
+}
+
+.pagination .page-link:hover {
+  color: #fff;
+  background: var(--purple-dark);
+  border-color: var(--purple-dark);
+}
+
+.pagination .page-item.active .page-link {
+  color: #fff;
+  background: var(--purple-primary);
+  border-color: var(--purple-primary);
+}
+
+.pagination .page-link:focus,
+.pagination .page-link:focus-visible {
+  position: relative;
+  z-index: 2;
+  outline: 2px solid var(--primary-text);
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px var(--surface-background) !important;
+}
+
+.badge.bg-primary {
+  color: #fff;
+  background-color: var(--purple-dark) !important;
 }

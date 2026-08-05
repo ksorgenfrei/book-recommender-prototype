@@ -340,6 +340,7 @@ function App() {
 
           <Button
             type="button"
+            className="primary-button"
             variant="primary"
             onClick={() => setCurrentPage("recommendations")}>
             Explore recommendations
@@ -348,7 +349,7 @@ function App() {
       )}
       {currentPage === "recommendations" && (
         <section className="content-card">
-          <h2>Recommendation Query</h2>
+          <h2>Find Recommendations</h2>
           <RecommendationFilters
             genres={genres}
             targetGenre={targetGenre}
@@ -376,7 +377,7 @@ function App() {
           <Button
             type="button"
             variant="primary"
-            className="mb-3"
+            className="primary-button"
             onClick={() => {
               setSubmittedQuery({
                 targetGenre,
@@ -470,6 +471,7 @@ function App() {
 
                             <Button
                               type="button"
+                              className="primary-button"
                               variant="primary"
                               size="sm"
                               aria-expanded={selectedRecommendationBookId === recommendation.book.id}
@@ -528,6 +530,7 @@ function App() {
                                       <Button
                                         type="button"
                                         variant="outline-primary"
+                                        className="secondary-button"
                                         size="sm"
                                         onClick={() => {
                                           setSelectedReaderId(reader.id);
@@ -601,7 +604,7 @@ function App() {
           <Button
             type="button"
             variant="primary"
-            className="mb-3"
+            className="primary-button"
             size="sm"
             onClick={() =>
               setCurrentPage("recommendations")

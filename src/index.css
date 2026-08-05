@@ -20,6 +20,30 @@ body {
 .main-nav {
   margin: 1rem 0;
 }
+/*Clearer high-contrast focus for the navigation links and primary buttons*/
+.primary-button:focus-visible {
+  position: relative;
+  z-index: 2;
+  outline: 2px solid #005fcc;
+  outline-offset: 3px;
+  box-shadow: 0 0 0 5px #fff;
+}
+
+.secondary-button:focus-visible {
+  position: relative;
+  z-index: 2;
+  outline: 2px solid #005fcc;
+  outline-offset: 3px;
+  
+}
+
+.threshold-button:focus-visible {
+  position: relative;
+  z-index: 2;
+  outline: 2px solid #313436;
+  outline-offset: 3px;
+  
+}
 
 /* 
   Visual grouping for main content sections that have not yet been converted
@@ -93,7 +117,7 @@ body {
 }
 
 .star-rating-empty {
-  color: #d0d0d0;
+  color: #767676;
 }
 
 .star-rating-filled {

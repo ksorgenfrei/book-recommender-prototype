@@ -57,58 +57,85 @@ export function RecommendationFilters({
 }: RecommendationFiltersProps) {
     return (
         <div className="filter-panel">
-            <label className="filter-control">
-                Books in genre:{" "}
-                <select // creates dropdown menu
-                    value={targetGenre}
-                    onChange={(event) => onTargetGenreChange(event.target.value as GenreFilter)} // "as GenreFilter" tells TypeScript to treat the selected option as one of the valid genre values instead of a plain string
-                >
-                    <option value="Any">Any genre</option>
-                    {genres.map((genre) => ( // for each item in the genres array, create one <option>
-                        <option key={genre} value={genre}>
-                            {genre}
-                        </option>
-                    ))}
-                </select>
-            </label>
+            <div className="filter-control">
+                <label htmlFor="target-genre">
+                    Books in genre:
+                </label>
 
-
-            <label className="filter-control">
-                Rated by readers who usually read:{" "}
                 <select
-                    value={cohortGenre}
-                    onChange={(event) => onCohortGenreChange(event.target.value as GenreFilter)}
+                    id="target-genre"
+                    value={targetGenre}
+                    onChange={(event) =>
+                        onTargetGenreChange(event.target.value as GenreFilter)
+                    }
                 >
                     <option value="Any">Any genre</option>
+
                     {genres.map((genre) => (
                         <option key={genre} value={genre}>
                             {genre}
                         </option>
                     ))}
                 </select>
-            </label>
+            </div>
 
+            <div className="filter-control">
+                <label htmlFor="cohort-genre">
+                    Rated by readers of:
+                </label>
 
-            <label className="filter-control">
-                Reader experience:{" "}
                 <select
+                    id="cohort-genre"
+                    value={cohortGenre}
+                    onChange={(event) =>
+                        onCohortGenreChange(event.target.value as GenreFilter)
+                    }
+                >
+                    <option value="Any">Any genre</option>
+
+                    {genres.map((genre) => (
+                        <option key={genre} value={genre}>
+                            {genre}
+                        </option>
+                    ))}
+                </select>
+            </div>
+
+            <div className="filter-control">
+                <label htmlFor="experience-level">
+                    Reader experience:
+                </label>
+
+                <select
+                    id="experience-level"
                     value={experienceFilter}
                     onChange={(event) =>
-                        onExperienceFilterChange(event.target.value as ExperienceFilter)
+                        onExperienceFilterChange(
+                            event.target.value as ExperienceFilter
+                        )
                     }
                 >
                     <option value="Any">Any experience</option>
+
                     <option value="Beginner">
-                        Beginner (0-{experienceThresholds.intermediateMinBooksRead - 1} books)
+                        Beginner (0-
+                        {experienceThresholds.intermediateMinBooksRead - 1} books)
                     </option>
+
                     <option value="Intermediate">
-                        Intermediate ({experienceThresholds.intermediateMinBooksRead}-{experienceThresholds.experiencedMinBooksRead - 1} books)
+                        Intermediate (
+                        {experienceThresholds.intermediateMinBooksRead}-
+                        {experienceThresholds.experiencedMinBooksRead - 1} books)
                     </option>
+
                     <option value="Experienced">
-                        Experienced ({experienceThresholds.experiencedMinBooksRead}+ books)
+                        Experienced (
+                        {experienceThresholds.experiencedMinBooksRead}+ books)
                     </option>
                 </select>
+
                 <Button
+                    className="threshold-button"
                     type="button"
                     variant="outline-secondary"
                     size="sm"
@@ -116,19 +143,25 @@ export function RecommendationFilters({
                 >
                     Customize thresholds
                 </Button>
-            </label>
+            </div>
 
 
+            <div className="filter-control">
+                <label htmlFor="sort-option">
+                    Sort by:
+                </label>
 
-            <label className="filter-control">
-                Sort by:{" "}
                 <select
+                    id="sort-option"
                     value={sortOption}
                     onChange={(event) =>
-                        onSortOptionChange(event.target.value as RecommendationSortOption)
-                    }>
+                        onSortOptionChange(
+                            event.target.value as RecommendationSortOption
+                        )
+                    }
+                >
                     <option value="averageRating">
-                        Highest average rating
+                        Highest rated
                     </option>
 
                     <option value="ratingCount">
@@ -136,14 +169,14 @@ export function RecommendationFilters({
                     </option>
 
                     <option value="averageRatingThenCount">
-                        Highest average rating, then most ratings
+                        Rating, then count
                     </option>
 
                     <option value="ratingCountThenAverage">
-                        Most ratings, then highest average rating
+                        Count, then rating
                     </option>
                 </select>
-            </label>
+            </div>
 
             <Modal show={showExperienceThresholdModal} onHide={onCloseExperienceThresholdModal}>
                 <Modal.Header closeButton>
@@ -151,7 +184,7 @@ export function RecommendationFilters({
                 </Modal.Header>
 
                 <Modal.Body>
-                    <label>
+                    <label htmlFor="intermediate-threshold">
                         Intermediate starts at
                     </label>
                     <input
@@ -165,7 +198,7 @@ export function RecommendationFilters({
                         aria-describedby="experience-threshold-feedback"
                     />
 
-                    <label>
+                    <label htmlFor="experienced-threshold">
                         Experienced starts at
                     </label>
                     <input
@@ -209,10 +242,10 @@ export function RecommendationFilters({
                 </Modal.Body>
 
                 <Modal.Footer>
-                    <Button type="button" variant="secondary" onClick={onResetExperienceThresholds}>
+                    <Button type="button" className="secondary-button" variant="secondary" onClick={onResetExperienceThresholds}>
                         Reset to defaults
                     </Button>
-                    <Button type="button" variant="primary" disabled={experienceThresholdError !== null} onClick={onApplyExperienceThresholds}>
+                    <Button type="button" className="primary-button" variant="primary" disabled={experienceThresholdError !== null} onClick={onApplyExperienceThresholds}>
                         Done
                     </Button>
 

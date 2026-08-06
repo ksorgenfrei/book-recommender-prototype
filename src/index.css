@@ -91,6 +91,15 @@ body {
   box-shadow: 0 0 0 5px var(--surface-background) !important;
 }
 
+/* disabled pagination buttons */
+.pagination .page-item.disabled .page-link {
+  color: #565454;
+  background-color: #e5ded4;
+  border-color: #b8aea4;
+  opacity: 1;
+  cursor: not-allowed;
+}
+
 .content-card {
   background: var(--surface-background);
   border: 1px solid var(--neutral-border);

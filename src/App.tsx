@@ -22,6 +22,8 @@ import { getRecommendations } from "./utils/getRecommendations"; // recommendati
 import { getExperienceLevel } from "./utils/getExperienceLevel";
 import { MainNavigation } from "./components/MainNavigation";
 
+import { paginateItems } from "./utils/paginateItems";
+
 
 type Page = "home" | "recommendations" | "howItWorks" | "readerProfile"; // tell TypeScript that only one of those four page values can be shown
 
@@ -49,7 +51,7 @@ const booksById = new Map(
   books.map((book) => [book.id, book])
 );
 
-const recommendationsPerPage = 10;
+const itemsPerPage = 10;
 
 function StarRating({ rating, maxRating = 5 }: StarRatingProps) {
   const ratingPercentage = Math.max(
@@ -103,6 +105,8 @@ function App() {
   const [selectedReaderId, setSelectedReaderId] = useState<ReaderProfile["id"] | null>(null);
   // store which recommendation results page is currently displayed, starting with page 1
   const [currentRecommendationPage, setCurrentRecommendationPage] = useState(1);
+  const [currentRatingsPage, setCurrentRatingsPage] = useState(1);
+  const [currentReaderRatingsPage, setCurrentReaderRatingsPage] = useState(1);
 
   // Recommendation list
   // recs are only calculated after the user submits a query,
@@ -119,22 +123,34 @@ function App() {
       sortOption: submittedQuery.sortOption,
     });
 
-  // calculate how many pages are needed for the recs list
-  const totalRecommendationPages = Math.ceil(recommendations.length / recommendationsPerPage);
-  // convert the user-facing page number into the array index where that page begins
-  const firstRecommendationIndex = (currentRecommendationPage - 1) * recommendationsPerPage;
-  // extract only the recs for that page, slice() returns a new array, excluding the last item
-  const recommendationsForCurrentPage = recommendations.slice(
-    firstRecommendationIndex,
-    firstRecommendationIndex + recommendationsPerPage
+  const {
+    itemsForCurrentPage: recommendationsForCurrentPage,
+    totalPages: totalRecommendationPages,
+    firstDisplayedItemNumber: firstDisplayedRecommendationNumber,
+    lastDisplayedItemNumber: lastDisplayedRecommendationNumber,
+  } = paginateItems(
+    recommendations,
+    currentRecommendationPage,
+    itemsPerPage
   );
 
-  // these next two constants represent the number of the first and last displayed book on each recs page, to show a range of number of recs displayed
-  const firstDisplayedRecommendationNumber = firstRecommendationIndex + 1;
-  // Math.min() prevents the final number from exceeding the actual recs result count
-  const lastDisplayedRecommendationNumber = Math.min(
-    firstRecommendationIndex + recommendationsPerPage,
-    recommendations.length
+  const selectedRecommendation =
+    selectedRecommendationBookId === null
+      ? null
+      : recommendations.find(
+        (recommendation) =>
+          recommendation.book.id === selectedRecommendationBookId
+      ) ?? null;
+
+  const {
+    itemsForCurrentPage: ratingsForCurrentPage,
+    totalPages: totalRatingsPages,
+    firstDisplayedItemNumber: firstDisplayedRatingNumber,
+    lastDisplayedItemNumber: lastDisplayedRatingNumber,
+  } = paginateItems(
+    selectedRecommendation?.ratingsUsed ?? [],
+    currentRatingsPage,
+    itemsPerPage
   );
 
 
@@ -194,6 +210,17 @@ function App() {
     : ratings.filter(rating =>
       rating.readerId === selectedReaderId
     );
+
+  const {
+    itemsForCurrentPage: readerRatingsForCurrentPage,
+    totalPages: totalReaderRatingsPages,
+    firstDisplayedItemNumber: firstDisplayedReaderRatingNumber,
+    lastDisplayedItemNumber: lastDisplayedReaderRatingNumber,
+  } = paginateItems(
+    selectedReaderRatings,
+    currentReaderRatingsPage,
+    itemsPerPage
+  );
 
   // copy the currently applied thresholds into the draft fields when modal opens
   function openExperienceThresholdModal() {
@@ -391,6 +418,8 @@ function App() {
               setSelectedRecommendationBookId(null);
               setSelectedReaderId(null);
               setCurrentRecommendationPage(1); // to reset the pagination when new query submitted
+              setCurrentRatingsPage(1);
+              setCurrentReaderRatingsPage(1);
             }}>
             Show recommendations
           </Button>
@@ -477,13 +506,14 @@ function App() {
                               variant="primary"
                               size="sm"
                               aria-expanded={selectedRecommendationBookId === recommendation.book.id}
-                              onClick={() =>
+                              onClick={() => {
                                 setSelectedRecommendationBookId(
                                   selectedRecommendationBookId === recommendation.book.id
                                     ? null
                                     : recommendation.book.id
-                                )
-                              }
+                                );
+                                setCurrentRatingsPage(1);
+                              }}
                             >
                               {selectedRecommendationBookId === recommendation.book.id
                                 ? "Hide ratings used"
@@ -503,8 +533,15 @@ function App() {
                               {recommendation.averageRating.toFixed(2)} out of 5.
                             </p>
 
+                            {totalRatingsPages > 1 && (
+                              <p>
+                                Showing {firstDisplayedRatingNumber}-
+                                {lastDisplayedRatingNumber} of {recommendation.ratingCount} ratings.
+                              </p>
+                            )}
+
                             <ListGroup className="ratings-used-list">
-                              {recommendation.ratingsUsed.map((rating) => {
+                              {ratingsForCurrentPage.map((rating) => {
                                 // Retrieve reader profile linked to this rating
                                 const reader = readerProfilesById.get(rating.readerId);
 
@@ -536,7 +573,12 @@ function App() {
                                         size="sm"
                                         onClick={() => {
                                           setSelectedReaderId(reader.id);
+                                          setCurrentReaderRatingsPage(1);
                                           setCurrentPage("readerProfile");
+                                          window.scrollTo({
+                                            top: 0,
+                                            behavior: "auto",
+                                          });
                                         }}
                                       >
                                         {reader.displayName}
@@ -558,6 +600,35 @@ function App() {
                                 );
                               })}
                             </ListGroup>
+
+                            {totalRatingsPages > 1 && (
+                              <Pagination
+                                className="justify-content-center mt-3 mb-0"
+                                aria-label={`Rating evidence pages for ${recommendation.book.title}`}
+                              >
+                                <Pagination.Prev
+                                  disabled={currentRatingsPage === 1}
+                                  onClick={() =>
+                                    setCurrentRatingsPage((currentPage) => currentPage - 1)
+                                  }
+                                >
+                                  Previous
+                                </Pagination.Prev>
+
+                                <Pagination.Item active aria-current="page">
+                                  Page {currentRatingsPage} of {totalRatingsPages}
+                                </Pagination.Item>
+
+                                <Pagination.Next
+                                  disabled={currentRatingsPage === totalRatingsPages}
+                                  onClick={() =>
+                                    setCurrentRatingsPage((currentPage) => currentPage + 1)
+                                  }
+                                >
+                                  Next
+                                </Pagination.Next>
+                              </Pagination>
+                            )}
                           </div>
                         )}
                       </Card.Body>
@@ -575,6 +646,7 @@ function App() {
                   onClick={() => {
                     setCurrentRecommendationPage((currentPage) => currentPage - 1);
                     setSelectedRecommendationBookId(null);
+                    setCurrentRatingsPage(1);
                   }}
                 >
                   Previous
@@ -589,6 +661,7 @@ function App() {
                   onClick={() => {
                     setCurrentRecommendationPage((currentPage) => currentPage + 1)
                     setSelectedRecommendationBookId(null);
+                    setCurrentRatingsPage(1);
                   }}
                 >
                   Next
@@ -606,11 +679,12 @@ function App() {
           <Button
             type="button"
             variant="primary"
-            className="primary-button"
+            className="primary-button mb-3 mt-2"
             size="sm"
-            onClick={() =>
-              setCurrentPage("recommendations")
-            }>
+            onClick={() => {
+              setCurrentPage("recommendations");
+              setCurrentReaderRatingsPage(1);
+            }}>
             Back to recommendations
           </Button>
 
@@ -650,67 +724,105 @@ function App() {
               {selectedReaderRatings.length === 0 ? (
                 <p>No ratings available.</p>
               ) : (
-                <ul className="recommendations-list rating-history-list">
-                  {selectedReaderRatings.map((rating) => {
-                    const matchingBook = booksById.get(rating.bookId);
+                <>
 
-                    if (matchingBook === undefined) {
+                  <p>
+                    Showing {firstDisplayedReaderRatingNumber}-
+                    {lastDisplayedReaderRatingNumber} of{" "}
+                    {selectedReaderRatings.length} ratings
+                  </p>
+
+                  <ul className="recommendations-list rating-history-list">
+                    {readerRatingsForCurrentPage.map((rating) => {
+                      const matchingBook = booksById.get(rating.bookId);
+
+                      if (matchingBook === undefined) {
+                        return (
+                          <li key={`${rating.bookId}-${rating.readerId}`}>
+                            <Card className="mb-3">
+                              <Card.Body>
+                                Book information unavailable for book ID: {rating.bookId}.
+                              </Card.Body>
+                            </Card>
+                          </li>
+                        );
+                      }
+
                       return (
                         <li key={`${rating.bookId}-${rating.readerId}`}>
                           <Card className="mb-3">
                             <Card.Body>
-                              Book information unavailable for book ID: {rating.bookId}.
+                              <div className="recommendation-card-layout">
+                                {matchingBook.coverId !== undefined && (
+                                  <Image
+                                    src={getOpenLibraryCoverUrl(matchingBook.coverId)}
+                                    alt={`Cover image of ${matchingBook.title}`}
+                                    className="recommendation-cover"
+                                    rounded
+                                  />
+                                )}
+
+                                <div className="recommendation-card-content">
+                                  <Card.Title>{matchingBook.title}</Card.Title>
+
+                                  <Card.Subtitle className="mb-2 text-muted">
+                                    by {matchingBook.author}
+                                  </Card.Subtitle>
+
+                                  <p className="mb-2 text-muted">
+                                    First published: {matchingBook.firstPublished}
+                                  </p>
+
+                                  <div className="mb-2">
+                                    {matchingBook.genres.map((genre) => (
+                                      <Badge key={genre} bg="secondary" className="me-1">
+                                        {genre}
+                                      </Badge>
+                                    ))}
+                                  </div>
+
+                                  <p className="mb-0">
+                                    <StarRating rating={rating.rating} />{" "}
+                                    <span>({rating.rating}/5)</span>
+                                  </p>
+                                </div>
+                              </div>
                             </Card.Body>
                           </Card>
                         </li>
                       );
-                    }
+                    })}
+                  </ul>
 
-                    return (
-                      <li key={`${rating.bookId}-${rating.readerId}`}>
-                        <Card className="mb-3">
-                          <Card.Body>
-                            <div className="recommendation-card-layout">
-                              {matchingBook.coverId !== undefined && (
-                                <Image
-                                  src={getOpenLibraryCoverUrl(matchingBook.coverId)}
-                                  alt={`Cover image of ${matchingBook.title}`}
-                                  className="recommendation-cover"
-                                  rounded
-                                />
-                              )}
+                  {totalReaderRatingsPages > 1 && (
+                    <Pagination
+                      className="justify-content-center mt-4"
+                      aria-label={`Rating history pages for ${selectedReader.displayName}`}
+                    >
+                      <Pagination.Prev
+                        disabled={currentReaderRatingsPage === 1}
+                        onClick={() =>
+                          setCurrentReaderRatingsPage((currentPage) => currentPage - 1)
+                        }
+                      >
+                        Previous
+                      </Pagination.Prev>
 
-                              <div className="recommendation-card-content">
-                                <Card.Title>{matchingBook.title}</Card.Title>
+                      <Pagination.Item active aria-current="page">
+                        Page {currentReaderRatingsPage} of {totalReaderRatingsPages}
+                      </Pagination.Item>
 
-                                <Card.Subtitle className="mb-2 text-muted">
-                                  by {matchingBook.author}
-                                </Card.Subtitle>
-
-                                <p className="mb-2 text-muted">
-                                  First published: {matchingBook.firstPublished}
-                                </p>
-
-                                <div className="mb-2">
-                                  {matchingBook.genres.map((genre) => (
-                                    <Badge key={genre} bg="secondary" className="me-1">
-                                      {genre}
-                                    </Badge>
-                                  ))}
-                                </div>
-
-                                <p className="mb-0">
-                                  <StarRating rating={rating.rating} />{" "}
-                                  <span>({rating.rating}/5)</span>
-                                </p>
-                              </div>
-                            </div>
-                          </Card.Body>
-                        </Card>
-                      </li>
-                    );
-                  })}
-                </ul>
+                      <Pagination.Next
+                        disabled={currentReaderRatingsPage === totalReaderRatingsPages}
+                        onClick={() =>
+                          setCurrentReaderRatingsPage((currentPage) => currentPage + 1)
+                        }
+                      >
+                        Next
+                      </Pagination.Next>
+                    </Pagination>
+                  )}
+                </>
               )}
             </>
           }

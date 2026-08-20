@@ -18,28 +18,13 @@ import { getExperienceLevel } from "./getExperienceLevel";
 // instead of passing five separate arguments like books, readerProfiles etc.,
 // one object is passed to make the function call clearer because values are named
 type GetRecommendationsParams = {
-    // array of all available books
     books: Book[];
-
-    // array of all simulated reader profiles
     readerProfiles: ReaderProfile[];
-
-    // array of all ratings, connecting one reader, one book, one rating value
     ratings: Rating[];
-
-    // selected book genre (controls which books are eligible to appear in recs list)
     targetGenre: GenreFilter;
-
-    // cohort genre (controls which simulated readers are used to calculate recs)
     cohortGenre: GenreFilter;
-
-    // the selected reader experience filter
     experienceFilter: ExperienceFilter;
-
-    // current experience threshold settings
     experienceThresholds: ExperienceThresholds;
-
-    // determines ranking of recs results
     sortOption: RecommendationSortOption;
 };
 

@@ -11,7 +11,7 @@ describe("getExperienceLevel", () => {
     [249, "Intermediate"],
     [250, "Experienced"],
   ])(
-    "classifies %i books as %s using default thresholds",
+    "classifies a reader with %i books read as %s using default thresholds",
     (booksReadCount, expectedLevel) => {
       const result = getExperienceLevel(
         booksReadCount,
@@ -34,7 +34,7 @@ test.each([
   [199, "Intermediate"],
   [200, "Experienced"],
 ])(
-  "classifies %i books as %s using custom thresholds",
+  "classifies a reader with %i books read as %s using custom thresholds",
   (booksReadCount, expectedLevel) => {
     const result = getExperienceLevel(
       booksReadCount,

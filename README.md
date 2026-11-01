@@ -1,73 +1,102 @@
-# React + TypeScript + Vite
+# Transparent Book Recommendation Prototype
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A client-side book recommendation prototype that lets users control which simulated reader cohort influences their recommendations and inspect the evidence behind each result.
 
-Currently, two official plugins are available:
+I developed this project to explore how a recommender interface can make its filtering and ranking decisions more visible. Instead of presenting an unexplained list, the application shows the selected criteria, average rating, rating count, contributing ratings, and the simulated reader profiles behind those ratings. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> This is an exploratory prototype, not a production recommendation service. Reader profiles and ratings are synthetic and do not represent real people or real reading behaviour.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Filter books by target genre.
+- Define a reader cohort by its preferred genre and reading experience.
+- Customize the thresholds used to classify beginner, intermediate, and experienced readers.
+- Rank results by average rating, rating count, or a combination of both.
+- Inspect every simulated rating used to calculate a recommendation.
+- Open contributing reader profiles and view their rating histories.
+- Paginate recommendation, evidence, and reader-history lists.
+- Use responsive, keyboard-accessible controls with validation and visible focus states.
 
-## Expanding the ESLint configuration
+## How recommendations are produced
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+1. The user selects the type of book they want and the characteristics of the reader cohort whose ratings should be considered.
+2. The application finds simulated readers who match the submitted cohort criteria.
+3. It keeps only ratings from those readers and books matching the requested genre.
+4. It calculates each book's average rating and rating count.
+5. It ranks the results using the selected sorting method and retains the contributing ratings as inspectable evidence.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+The calculation is deterministic and rule-based. It runs entirely in the browser and does not use machine learning or an external recommendation API.
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+## Data
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+The included demonstration dataset contains:
+
+- 207 books created from public Open Library metadata
+- 250 reproducibly generated reader profiles
+- 11,947 reproducibly generated ratings
+
+The book metadata is stored locally in the project. Cover images are requested from Open Library when the application runs. Reader profiles and ratings are synthetic, generated with fixed seeds, and are intended only to demonstrate and test the interface and recommendation logic.
+
+## Technology
+
+- React 19 and TypeScript
+- Vite
+- React-Bootstrap and Bootstrap
+- Vitest
+- ESLint
+
+## Run locally
+
+You will need a recent version of Node.js and npm.
+
+```bash
+git clone https://github.com/ksorgenfrei/book-recommender-prototype.git
+cd book-recommender-prototype
+npm install
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Open the local URL printed by Vite in your browser.
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Quality checks
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+npm test
+npm run lint
+npm run build
 ```
+
+The test suite covers the recommendation filters and ranking rules, experience-level boundaries, pagination, evidence consistency, empty-data behavior, and source-data immutability. The current suite contains 30 unit tests across three test files.
+
+I reviewed the prototype through structured usability and accessibility checks, including keyboard navigation, form labelling, focus visibility, colour contrast, responsive layouts, alternative text, and appropriate ARIA attributes, guided by WCAG 2.2.
+
+## Regenerate the demonstration data
+
+The generated data is already committed, so regeneration is not required to run the application. To rebuild it:
+
+```bash
+npm run generate:readers
+npm run generate:books
+npm run generate:ratings
+```
+
+Run the commands in that order because ratings depend on the generated books and reader profiles. Book generation retrieves metadata from the Open Library Search API and requires an internet connection. Regenerating the books may produce different results if the API data has changed.
+
+## Project structure
+
+```text
+scripts/                 Reproducible data-generation scripts
+src/components/          Navigation and recommendation controls
+src/data/                Book metadata and synthetic demonstration data
+src/types/               Shared TypeScript data models
+src/utils/               Recommendation, experience, and pagination logic
+src/utils/*.test.ts      Unit tests for the core logic
+```
+
+## Current scope
+
+This prototype is intentionally client-side and uses a static dataset. It does not include accounts, authentication, persistent storage, personal-data collection, a backend, or model-based recommendations. A production version would require secure server-side services, a database, privacy controls, broader accessibility and device testing, and evaluation with real users before making claims about recommendation quality or user satisfaction.
+
+## Metadata source
+
+Book metadata and cover images are provided by [Open Library](https://openlibrary.org/).

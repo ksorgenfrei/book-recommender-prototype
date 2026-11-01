@@ -6,6 +6,10 @@ I developed this project to explore how a recommender interface can make its fil
 
 > This is an exploratory prototype, not a production recommendation service. Reader profiles and ratings are synthetic and do not represent real people or real reading behaviour.
 
+Example query:
+<img width="878" height="534" alt="image" src="https://github.com/user-attachments/assets/b9e27bfd-0269-4b3b-b18e-8459ef83f4c7" />
+
+
 ## Features
 
 - Filter books by target genre.
